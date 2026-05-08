@@ -7,13 +7,22 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
 import time
 
-# Inizializziamo il geolocalizzatore (usando un user_agent unico per evitare blocchi)
+# Inizializzazione del geolocalizzatore con User Agent specifico
 geolocator = Nominatim(user_agent="hantawatch_global_tracker")
 
+# Lista di termini che spesso ingannano il geocoder
+STOP_LOCATIONS = [
+    "a cruise ship", "the center", "sea", "suspected", "deaths", 
+    "contact", "victims", "people", "ocean", "atlantic", "ny?", "cases"
+]
+
 def get_coordinates(location_name):
+    """Converte il nome di un luogo in coordinate [lat, lon]."""
+    if not location_name or location_name.lower() in STOP_LOCATIONS:
+        return None
     try:
-        # Nominatim richiede pause tra le richieste per i termini di servizio
-        time.sleep(1) 
+        # Pausa per rispettare i ToS di Nominatim
+        time.sleep(1.1) 
         location = geolocator.geocode(location_name)
         if location:
             return [location.latitude, location.longitude]
@@ -22,38 +31,41 @@ def get_coordinates(location_name):
     return None
 
 def fetch_hantavirus_alerts():
-    query = 'hantavirus OR "hantavirus outbreak" OR "orthohantavirus" when:7d'
+    """Recupera e processa i dati sui focolai."""
+    # Query mirata per massimizzare i risultati sui focolai recenti
+    query = 'hantavirus OR "hantavirus outbreak" OR "orthohantavirus" OR "hps virus" when:7d'
     encoded_query = urllib.parse.quote(query)
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
     
+    print(f"📡 Connecting to: {rss_url}")
     feed = feedparser.parse(rss_url)
     outbreaks = []
     
-    print(f"Analyzing {len(feed.entries)} entries for locations...")
+    print(f"🔍 Analyzing {len(feed.entries)} entries for outbreaks and locations...")
 
     for entry in feed.entries:
         title = entry.title
-        # Logica semplificata: cerchiamo nomi propri (maiuscole) nel titolo per il geocoding
-        # In una fase avanzata useremo una libreria NER (Named Entity Recognition)
-        
-        # Per ora, proviamo a estrarre potenziali luoghi dopo parole come "in", "near", "at"
         potential_location = None
-        for trigger in [" in ", " near ", " at ", " around "]:
+        
+        # Estrazione semplificata della località dal titolo
+        for trigger in [" in ", " near ", " at ", " across "]:
             if trigger in title:
-                potential_location = title.split(trigger)[-1].split(" - ")[0].split(",")[0].strip()
+                # Estrae la parte dopo il trigger e pulisce la stringa
+                potential_location = title.split(trigger)[-1].split(" - ")[0].split(",")[0].split("?")[0].strip()
                 break
 
         coords = None
         if potential_location:
-            print(f"   Found location hint: '{potential_location}'. Geocoding...")
             coords = get_coordinates(potential_location)
+            if coords:
+                print(f"   📍 Geocoded: '{potential_location}' -> {coords}")
 
         outbreak = {
             "id": entry.get('id', entry.link),
             "title": title,
             "link": entry.link,
             "location_name": potential_location,
-            "coordinates": coords, # [lat, lon]
+            "coordinates": coords,
             "published": entry.published,
             "source": entry.source.get('title', 'Unknown') if hasattr(entry, 'source') else 'Google News',
             "fetch_timestamp": datetime.now().isoformat()
@@ -63,16 +75,28 @@ def fetch_hantavirus_alerts():
     return outbreaks
 
 def save_data(data):
+    """Salva i dati in formato JSON creando la cartella se necessario."""
     if not os.path.exists('data'):
         os.makedirs('data')
+        print("📁 Created 'data' directory.")
     
-    with open('data/outbreaks.json', 'w', encoding='utf-8') as f:
+    file_path = 'data/outbreaks.json'
+    with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+    return file_path
 
 if __name__ == "__main__":
-    print("🚀 Starting HantaWatch Engine with Geocoding...")
-    alerts = fetch_hantavirus_alerts()
-    save_data(alerts)
-    # Contiamo quanti hanno coordinate valide
-    geocoded_count = sum(1 for a in alerts if a['coordinates'] is not None)
-    print(f"✅ Done! Found {len(alerts)} alerts, {geocoded_count} successfully geocoded.")
+    print("🚀 HantaWatch Global Engine: Starting fetch and geocode...")
+    try:
+        alerts = fetch_hantavirus_alerts()
+        path = save_data(alerts)
+        
+        # Statistiche finali
+        total = len(alerts)
+        geocoded = sum(1 for a in alerts if a['coordinates'] is not None)
+        
+        print(f"\n✅ Success! Saved {total} alerts to {path}")
+        print(f"🌍 Geocoding coverage: {geocoded}/{total} ({(geocoded/total)*100:.1f}%)")
+        
+    except Exception as e:
+        print(f"❌ Error during execution: {e}")
