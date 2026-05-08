@@ -33,6 +33,7 @@ LOCATION_TRIGGERS = [
     " outside ",
     " back in ",
     " back to ",
+    " heads for ",
     " heads to ",
     " monitoring ",
 ]
@@ -128,6 +129,20 @@ def extract_location_candidates(text):
     )
     for match in list_pattern.findall(working_text):
         candidates.extend(split_location_group(match))
+
+    prefix_pattern = re.compile(
+        r"^([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)\s+(?:among\b|health agencies\b|residents\b|resident\b|traveler\b|travellers\b|national\b|officials\b)"
+    )
+    prefix_match = prefix_pattern.search(working_text)
+    if prefix_match:
+        candidates.append(prefix_match.group(1))
+
+    route_pattern = re.compile(
+        r"\bfrom\s+([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)\s+to\s+([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)"
+    )
+    route_match = route_pattern.search(working_text)
+    if route_match:
+        candidates.extend([route_match.group(1), route_match.group(2)])
 
     seen = set()
     unique_candidates = []
