@@ -63,19 +63,33 @@ INVALID_LOCATION_FRAGMENTS = {
     "residents",
 }
 
+VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
+
 
 def clean_location_candidate(value):
     """Normalizza una stringa candidata a localita'."""
     candidate = re.sub(r"\s+", " ", value or "").strip(" -,:;.?()[]{}\"'")
     candidate = re.split(r"\s+-\s+", candidate, maxsplit=1)[0].strip()
+    candidate = re.sub(r"^(?:heads?|heading)\s+(?:to|for)\s+", "", candidate, flags=re.IGNORECASE)
+    candidate = re.sub(r"\b(?:after|before|as|while|because|that|which|who)\b.*$", "", candidate, flags=re.IGNORECASE).strip()
     if not candidate:
         return None
 
     lower_candidate = candidate.lower()
-    if lower_candidate in STOP_LOCATIONS:
+    if any(stop in lower_candidate for stop in STOP_LOCATIONS):
         return None
 
     if any(fragment in lower_candidate for fragment in INVALID_LOCATION_FRAGMENTS):
+        return None
+
+    if lower_candidate.startswith("who ") or lower_candidate.endswith(" says"):
+        return None
+
+    if len(candidate) < 3 and candidate.upper() not in VALID_SHORT_LOCATION_CODES:
+        return None
+
+    tokens = [token for token in re.split(r"\s+", candidate) if token]
+    if any(len(token) == 1 for token in tokens) and candidate.upper() not in VALID_SHORT_LOCATION_CODES:
         return None
 
     if not re.search(r"[A-Z]", candidate):
