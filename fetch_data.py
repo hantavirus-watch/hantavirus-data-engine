@@ -140,6 +140,7 @@ INVALID_LOCATION_FIRST_WORDS = {
     "could",
     "deadly",
     "dozens",
+    "figure",
     "get",
     "head",
     "here",
@@ -177,6 +178,8 @@ INVALID_LOCATION_FIRST_WORDS = {
     "you",
 }
 VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
+LOCATION_CONNECTOR_WORDS = {"and", "della", "de", "del", "di", "du", "la", "las", "los", "of", "the", "y"}
+BROAD_LOCATION_NAMES = {"africa", "americas", "asia", "europe", "north america", "south america", "the eu"}
 
 LEADING_LOCATION_PATTERNS = [
     re.compile(
@@ -248,6 +251,12 @@ def clean_location_candidate(value):
     if lower_candidate.startswith("who ") or lower_candidate.endswith(" says"):
         return None
 
+    if lower_candidate in BROAD_LOCATION_NAMES:
+        return None
+
+    if any(fragment in lower_candidate for fragment in {"alliance", "airlines", "vaccine"}):
+        return None
+
     if len(candidate) < 3 and candidate.upper() not in VALID_SHORT_LOCATION_CODES:
         return None
 
@@ -256,8 +265,23 @@ def clean_location_candidate(value):
         return None
 
     tokens = [token for token in re.split(r"\s+", candidate) if token]
+    if len(tokens) > 4:
+        return None
+
     if any(len(token) == 1 for token in tokens) and candidate.upper() not in VALID_SHORT_LOCATION_CODES:
         return None
+
+    if not re.match(r"^[A-Z]", candidate):
+        return None
+
+    for token in tokens:
+        cleaned_token = token.strip(".,;:()[]{}\"'")
+        alpha_token = re.sub(r"[^A-Za-z]", "", cleaned_token)
+        lower_token = cleaned_token.lower()
+        if cleaned_token.upper() == cleaned_token and len(alpha_token) > 1 and alpha_token not in VALID_SHORT_LOCATION_CODES:
+            return None
+        if not re.match(r"^[A-Z]", cleaned_token) and lower_token not in LOCATION_CONNECTOR_WORDS:
+            return None
 
     if not re.search(r"[A-Z]", candidate):
         return None
