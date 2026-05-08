@@ -80,6 +80,11 @@ LOCATION_TRIGGERS = [
     " monitoring ",
     " linked to ",
     " associated with ",
+    " registered in ",
+    " land in ",
+    " lands in ",
+    " arrive in ",
+    " arrives in ",
     " landed in ",
     " evacuated to ",
 ]
@@ -125,7 +130,65 @@ INVALID_LOCATION_FRAGMENTS = {
 }
 
 INVALID_LOCATION_PREFIXES = {"first", "second", "third", "fourth"}
+INVALID_LOCATION_FIRST_WORDS = {
+    "a",
+    "an",
+    "another",
+    "are",
+    "as",
+    "can",
+    "could",
+    "deadly",
+    "dozens",
+    "get",
+    "head",
+    "here",
+    "here's",
+    "how",
+    "i've",
+    "inside",
+    "is",
+    "it",
+    "it's",
+    "key",
+    "live",
+    "may",
+    "medical",
+    "more",
+    "next",
+    "opinion",
+    "out",
+    "rare",
+    "should",
+    "suspected",
+    "that",
+    "the",
+    "these",
+    "this",
+    "those",
+    "watch",
+    "what",
+    "when",
+    "where",
+    "which",
+    "who",
+    "why",
+    "would",
+    "you",
+}
 VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
+
+LEADING_LOCATION_PATTERNS = [
+    re.compile(
+        r"^([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+){0,2})\s+(?:health agencies|health officials|authorities|officials|department)\b"
+    ),
+    re.compile(
+        r"^([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+){0,2})\s+(?:among|investigates?|readies?|confirms?|supports?|monitors?|tracking|tracks?|reports?|warns?|detects?|records?)\b"
+    ),
+    re.compile(
+        r"\b(?:are|were|was|is)\s+([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+){0,2})\s+(?:resident|residents|traveler|travellers)\b"
+    ),
+]
 
 LOCATION_ALIASES = {
     "central california": "Central California, California, USA",
@@ -179,10 +242,17 @@ def clean_location_candidate(value):
     if first_token in INVALID_LOCATION_PREFIXES:
         return None
 
+    if first_token in INVALID_LOCATION_FIRST_WORDS:
+        return None
+
     if lower_candidate.startswith("who ") or lower_candidate.endswith(" says"):
         return None
 
     if len(candidate) < 3 and candidate.upper() not in VALID_SHORT_LOCATION_CODES:
+        return None
+
+    normalized_code = re.sub(r"[^A-Za-z]", "", candidate).upper()
+    if candidate.upper() == candidate and normalized_code not in VALID_SHORT_LOCATION_CODES:
         return None
 
     tokens = [token for token in re.split(r"\s+", candidate) if token]
@@ -242,11 +312,11 @@ def extract_location_candidates(text):
         if cleaned:
             candidates.append(cleaned)
 
-    title_case_pattern = re.compile(r"\b([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+){0,2})\b")
-    for match in title_case_pattern.findall(working_text):
-        cleaned = clean_location_candidate(match)
-        if cleaned:
-            candidates.append(cleaned)
+    for pattern in LEADING_LOCATION_PATTERNS:
+        for match in pattern.findall(headline):
+            cleaned = clean_location_candidate(match)
+            if cleaned:
+                candidates.append(cleaned)
 
     seen = set()
     unique_candidates = []
