@@ -9,7 +9,7 @@ Sorgenti attualmente usate:
 - ECDC News feed
 - ECDC Threat Report feed
 
-Per i feed non Google, lo script mantiene solo le voci che contengono keyword rilevanti come `hantavirus`, `orthohantavirus` o `hps`. Le voci duplicate vengono rimosse usando titolo e link. Quando viene trovata piu' di una localita', il JSON conserva sia il campo principale retrocompatibile sia l'elenco completo delle localita' geocodificate; se non viene trovata una localita' affidabile nel testo, il motore assegna un fallback coerente con il contesto dell'articolo.
+Per i feed non Google, lo script mantiene solo le voci che contengono keyword rilevanti come `hantavirus`, `orthohantavirus` o `hps`. Per Google News applica inoltre un filtro sul titolo per scartare explainers, opinioni e pezzi solo speculativi che contengono la keyword ma non descrivono un evento concreto. Le voci duplicate vengono rimosse usando titolo e link. Quando viene trovata piu' di una localita', il JSON conserva sia il campo principale retrocompatibile sia l'elenco completo delle localita' geocodificate; se non viene trovata una localita' affidabile nel testo, il motore assegna un fallback coerente con il contesto dell'articolo.
 
 ## Requisiti
 

@@ -307,6 +307,45 @@ EXPLAINER_KEYWORDS = (
     "why",
     "worried",
 )
+GOOGLE_NEWS_EVENT_KEYWORDS = (
+    "aboard",
+    "case",
+    "cases",
+    "cluster",
+    "confirmed",
+    "diagnosed",
+    "evacuation",
+    "evacuations",
+    "infection",
+    "infections",
+    "outbreak",
+    "passenger",
+    "passengers",
+    "patient",
+    "patients",
+    "resident",
+    "residents",
+    "ship",
+    "suspected",
+)
+GOOGLE_NEWS_EXCLUDED_TITLE_PATTERNS = (
+    re.compile(r"^opinion\b", re.IGNORECASE),
+    re.compile(r"^what\b", re.IGNORECASE),
+    re.compile(r"^how\b", re.IGNORECASE),
+    re.compile(r"^could\b", re.IGNORECASE),
+    re.compile(r"^why\b", re.IGNORECASE),
+)
+GOOGLE_NEWS_EXCLUDED_TITLE_PHRASES = (
+    "experts explain",
+    "freaked out",
+    "is there a risk",
+    "pandemic fears",
+    "risk level",
+    "risk to the public",
+    "tell us about",
+    "what the numbers tell us",
+    "what to know",
+)
 SOURCE_LOCATION_FALLBACKS = {
     "ap news": "United States",
     "axios": "United States",
@@ -388,6 +427,28 @@ def normalize_text(value):
 def contains_keyword(text):
     lower_text = normalize_text(text).lower()
     return any(keyword in lower_text for keyword in KEYWORDS)
+
+
+def contains_any_keyword(text, keywords):
+    lower_text = normalize_text(text).lower()
+    return any(keyword in lower_text for keyword in keywords)
+
+
+def is_google_news_relevant(entry):
+    combined_text = " ".join(build_text_blocks(entry))
+    if not contains_keyword(combined_text):
+        return False
+
+    title = normalize_text(entry.get("title", ""))
+    lower_title = title.lower()
+    event_score = sum(1 for keyword in GOOGLE_NEWS_EVENT_KEYWORDS if keyword in lower_title)
+    exclusion_score = sum(1 for pattern in GOOGLE_NEWS_EXCLUDED_TITLE_PATTERNS if pattern.search(title))
+    exclusion_score += sum(1 for phrase in GOOGLE_NEWS_EXCLUDED_TITLE_PHRASES if phrase in lower_title)
+
+    if exclusion_score and exclusion_score >= event_score:
+        return False
+
+    return event_score > 0 or not contains_any_keyword(lower_title, EXPLAINER_KEYWORDS)
 
 
 def normalize_location_label(location_name):
@@ -875,7 +936,7 @@ def fetch_source_entries(source_config):
     print(f"📡 Connecting to: {source_config['url']}")
     feed = feedparser.parse(source_config["url"])
     if source_config["kind"] == "google-news":
-        entries = feed.entries
+        entries = [entry for entry in feed.entries if is_google_news_relevant(entry)]
     else:
         entries = keyword_filtered_entries(feed)
 
