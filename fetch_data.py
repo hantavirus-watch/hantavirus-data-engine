@@ -177,7 +177,7 @@ INVALID_LOCATION_FIRST_WORDS = {
     "would",
     "you",
 }
-VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
+VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "DC", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
 LOCATION_CONNECTOR_WORDS = {"and", "della", "de", "del", "di", "du", "la", "las", "los", "of", "the", "y"}
 BROAD_LOCATION_NAMES = {
     "africa",
@@ -185,9 +185,13 @@ BROAD_LOCATION_NAMES = {
     "asia",
     "europe",
     "north america",
+    "region of the americas",
     "south america",
     "southern cone",
     "the eu",
+    "u.s",
+    "u.s.",
+    "united states",
 }
 
 LEADING_LOCATION_PATTERNS = [
@@ -249,7 +253,7 @@ LOCATION_NAME_PATTERN = r"(?:the\s+)?[A-Z][A-Za-z.'’-]+(?:\s+(?:[A-Z][A-Za-z.'
 LOCATION_GROUP_PATTERN = rf"({LOCATION_NAME_PATTERN}(?:\s*,\s*{LOCATION_NAME_PATTERN})*(?:\s*(?:and|or)\s*{LOCATION_NAME_PATTERN})?)"
 LEADING_LOCATION_GROUP_PATTERN = re.compile(rf"^{LOCATION_GROUP_PATTERN}")
 DATELINE_LOCATION_PATTERN = re.compile(
-    r"^([A-Z][A-Za-z.'’-]+(?:,\s+(?:D\.C\.|[A-Z][A-Za-z.'’-]+))?)\s*,\s+[A-Z][a-z]+\s+\d{{1,2}},\s+\d{{4}}\b"
+    r"^([A-Z][A-Za-z.'’-]+(?:,\s+(?:D\.C\.|[A-Z][A-Za-z.'’-]+))?)\s*,\s+[A-Z][a-z]+\s+\d{1,2},\s+\d{4}\b"
 )
 
 geolocator = Nominatim(user_agent="hantawatch_global_tracker")
@@ -275,6 +279,7 @@ def normalize_location_label(location_name):
 def clean_location_candidate(value):
     candidate = normalize_text(value).strip(" -,:;.?()[]{}\"'")
     candidate = re.split(r"\s+-\s+", candidate, maxsplit=1)[0].strip()
+    candidate = re.split(r"\.(?=\s+[A-Z])|[;:!?]", candidate, maxsplit=1)[0].strip()
     candidate = re.sub(r"^(?:heads?|heading)\s+(?:to|for)\s+", "", candidate, flags=re.IGNORECASE)
     candidate = re.sub(r"\b(?:after|before|as|while|because|that|which|who|with|where)\b.*$", "", candidate, flags=re.IGNORECASE).strip()
     candidate = re.sub(r"^[Tt]he\s+", "", candidate).strip()
