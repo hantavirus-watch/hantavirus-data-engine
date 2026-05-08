@@ -1,11 +1,13 @@
+import argparse
 import feedparser
 import json
 import os
-from datetime import datetime
-import urllib.parse
-from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut
 import time
+import urllib.parse
+from datetime import datetime
+
+from geopy.exc import GeocoderTimedOut
+from geopy.geocoders import Nominatim
 
 # Inizializzazione del geolocalizzatore con User Agent specifico
 geolocator = Nominatim(user_agent="hantawatch_global_tracker")
@@ -85,18 +87,57 @@ def save_data(data):
         json.dump(data, f, indent=4, ensure_ascii=False)
     return file_path
 
-if __name__ == "__main__":
+
+def run_fetch_cycle():
+    """Esegue un ciclo completo di fetch e salvataggio."""
     print("🚀 HantaWatch Global Engine: Starting fetch and geocode...")
-    try:
-        alerts = fetch_hantavirus_alerts()
-        path = save_data(alerts)
-        
-        # Statistiche finali
-        total = len(alerts)
-        geocoded = sum(1 for a in alerts if a['coordinates'] is not None)
-        
-        print(f"\n✅ Success! Saved {total} alerts to {path}")
-        print(f"🌍 Geocoding coverage: {geocoded}/{total} ({(geocoded/total)*100:.1f}%)")
-        
-    except Exception as e:
-        print(f"❌ Error during execution: {e}")
+    alerts = fetch_hantavirus_alerts()
+    path = save_data(alerts)
+
+    total = len(alerts)
+    geocoded = sum(1 for alert in alerts if alert['coordinates'] is not None)
+    coverage = (geocoded / total) * 100 if total else 0
+
+    print(f"\n✅ Success! Saved {total} alerts to {path}")
+    print(f"🌍 Geocoding coverage: {geocoded}/{total} ({coverage:.1f}%)")
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Fetch and save hantavirus outbreak data."
+    )
+    parser.add_argument(
+        "--watch",
+        action="store_true",
+        help="keep the process running and refresh data on a fixed interval",
+    )
+    parser.add_argument(
+        "--interval",
+        type=int,
+        default=1800,
+        help="refresh interval in seconds when --watch is enabled (default: 1800)",
+    )
+    return parser.parse_args()
+
+
+def main():
+    args = parse_args()
+
+    if args.watch and args.interval <= 0:
+        raise ValueError("--interval must be greater than 0 when --watch is enabled")
+
+    while True:
+        try:
+            run_fetch_cycle()
+        except Exception as error:
+            print(f"❌ Error during execution: {error}")
+
+        if not args.watch:
+            break
+
+        next_run = datetime.now().isoformat(timespec="seconds")
+        print(f"⏳ Waiting {args.interval} seconds before next refresh. Current time: {next_run}")
+        time.sleep(args.interval)
+
+if __name__ == "__main__":
+    main()
