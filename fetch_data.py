@@ -152,6 +152,7 @@ INVALID_LOCATION_FIRST_WORDS = {
     "it",
     "it's",
     "key",
+    "know",
     "live",
     "may",
     "medical",
@@ -207,35 +208,72 @@ LEADING_LOCATION_PATTERNS = [
 ]
 
 LOCATION_ALIASES = {
+    "arizona": "Arizona, USA",
+    "california": "California, USA",
     "central california": "Central California, California, USA",
     "canary islands": "Canary Islands, Spain",
     "spain's canary islands": "Canary Islands, Spain",
     "spain’s canary islands": "Canary Islands, Spain",
     "johannesburg": "Johannesburg, South Africa",
     "georgia": "Georgia, USA",
+    "texas": "Texas, USA",
+    "virginia": "Virginia, USA",
     "ny": "New York, USA",
     "new york": "New York, USA",
+    "united states": "United States",
+    "u.s": "United States",
+    "u.s.": "United States",
+    "united kingdom": "United Kingdom",
+    "uk": "United Kingdom",
+    "europe": "Europe",
     "washington, d.c": "Washington, DC, USA",
     "washington, d.c.": "Washington, DC, USA",
     "washington dc": "Washington, DC, USA",
 }
 
 MANUAL_COORDINATES = {
+    "arizona": [34.395342, -111.763275],
+    "california": [36.7014631, -118.755997],
     "central california": [36.587, -120.072],
     "canary islands": [28.2935785, -16.6214471],
     "spain's canary islands": [28.2935785, -16.6214471],
     "spain’s canary islands": [28.2935785, -16.6214471],
+    "spain": [39.3260685, -4.8379791],
+    "singapore": [1.357107, 103.8194992],
+    "georgia": [32.3293809, -83.1137366],
+    "argentina": [-34.9964963, -64.9672817],
+    "netherlands": [52.2434979, 5.6343227],
+    "johannesburg": [-26.205, 28.049722],
+    "washington, d.c": [38.8950982, -77.0363849],
+    "washington, d.c.": [38.8950982, -77.0363849],
+    "washington dc": [38.8950982, -77.0363849],
+    "texas": [31.2638905, -98.5456116],
+    "virginia": [37.1232245, -78.4927721],
+    "united states": [39.7837304, -100.445882],
+    "europe": [51.0, 10.0],
+    "united kingdom": [54.7023545, -3.2765753],
 }
 
 DISPLAY_LOCATION_ALIASES = {
+    "arizona": "Arizona",
+    "california": "California",
     "central california": "Central California",
     "canary islands": "Canary Islands",
     "spain's canary islands": "Canary Islands",
     "spain’s canary islands": "Canary Islands",
+    "spain": "Spain",
+    "singapore": "Singapore",
     "georgia": "Georgia",
+    "argentina": "Argentina",
+    "netherlands": "Netherlands",
     "johannesburg": "Johannesburg",
+    "texas": "Texas",
+    "virginia": "Virginia",
     "ny": "New York",
     "new york": "New York",
+    "united states": "United States",
+    "europe": "Europe",
+    "united kingdom": "United Kingdom",
     "washington, d.c": "Washington, D.C.",
     "washington, d.c.": "Washington, D.C.",
     "washington dc": "Washington, D.C.",
@@ -251,12 +289,38 @@ PAGE_TEXT_STOP_HEADINGS = {
     "ecdc.europa.eu": {"about hantavirus", "read the threat assessment brief", "view all updates on the outbreak", "additional links"},
 }
 
+GENERIC_LOCATION_LABELS = {"Europe", "Netherlands", "Spain", "United Kingdom", "United States"}
+DEFAULT_CLUSTER_LOCATION = "Canary Islands"
+DEFAULT_CLUSTER_KEYWORDS = ("cruise ship", "ship outbreak", "atlantic ship", "atlantic cruise ship", "aboard")
+
 LOCATION_NAME_PATTERN = r"(?:the\s+)?[A-Z][A-Za-z.'’-]+(?:\s+(?:[A-Z][A-Za-z.'’-]+|of|de|del|la|las|los|the|y)){0,3}"
 LOCATION_GROUP_PATTERN = rf"({LOCATION_NAME_PATTERN}(?:\s*,\s*{LOCATION_NAME_PATTERN})*(?:\s*(?:and|or)\s*{LOCATION_NAME_PATTERN})?)"
 LEADING_LOCATION_GROUP_PATTERN = re.compile(rf"^{LOCATION_GROUP_PATTERN}")
 DATELINE_LOCATION_PATTERN = re.compile(
     r"^([A-Z][A-Za-z.'’-]+(?:,\s+(?:D\.C\.|[A-Z][A-Za-z.'’-]+))?)\s*,\s+[A-Z][a-z]+\s+\d{1,2},\s+\d{4}\b"
 )
+CONTEXTUAL_LOCATION_LIST_PATTERNS = [
+    re.compile(rf"\b(?:authorities in|countries in|coordination with|working with|reported in|arriving in|arrival in)\s+{LOCATION_GROUP_PATTERN}", re.IGNORECASE),
+    re.compile(rf"\b(?:relevant national authorities in|member states in)\s+{LOCATION_GROUP_PATTERN}", re.IGNORECASE),
+]
+INFERRED_LOCATION_RULES = [
+    (re.compile(r"\bcanary islands\b", re.IGNORECASE), "Canary Islands"),
+    (re.compile(r"\bwashington,?\s*d\.?c\.?\b|\bpaho\b", re.IGNORECASE), "Washington, D.C."),
+    (re.compile(r"\bjohannesburg\b", re.IGNORECASE), "Johannesburg"),
+    (re.compile(r"\bamsterdam\b", re.IGNORECASE), "Amsterdam"),
+    (re.compile(r"\bnetherlands\b|\bdutch\b", re.IGNORECASE), "Netherlands"),
+    (re.compile(r"\bspain\b|\bspanish\b", re.IGNORECASE), "Spain"),
+    (re.compile(r"\bargentina\b", re.IGNORECASE), "Argentina"),
+    (re.compile(r"\bgeorgia\b", re.IGNORECASE), "Georgia"),
+    (re.compile(r"\barizona\b", re.IGNORECASE), "Arizona"),
+    (re.compile(r"\bcaliforni(?:a|ans)\b|\bcentral california\b|\blos angeles\b|\briverside\b", re.IGNORECASE), "California"),
+    (re.compile(r"\btexas\b", re.IGNORECASE), "Texas"),
+    (re.compile(r"\bvirginia\b", re.IGNORECASE), "Virginia"),
+    (re.compile(r"\bsingapore\b", re.IGNORECASE), "Singapore"),
+    (re.compile(r"\bbritish\b|\buk\b|\bunited kingdom\b", re.IGNORECASE), "United Kingdom"),
+    (re.compile(r"\bu\.s\.?\b|\bunited states\b", re.IGNORECASE), "United States"),
+    (re.compile(r"\beurope(?:ans)?\b|\beu/eea\b|\becdc\b", re.IGNORECASE), "Europe"),
+]
 
 geolocator = Nominatim(user_agent="hantawatch_global_tracker")
 fallback_geolocator = Photon(user_agent="hantawatch_global_tracker")
@@ -276,6 +340,16 @@ def contains_keyword(text):
 def normalize_location_label(location_name):
     normalized = normalize_text(location_name)
     return DISPLAY_LOCATION_ALIASES.get(normalized.lower(), normalized)
+
+
+def location_specificity_score(location_name):
+    normalized = normalize_location_label(location_name)
+    canonical = canonicalize_location_query(normalized)
+    components = [part.strip() for part in canonical.split(",") if part.strip()]
+    score = len(components)
+    if normalized not in GENERIC_LOCATION_LABELS:
+        score += 1
+    return score
 
 
 def clean_location_candidate(value):
@@ -385,6 +459,10 @@ def extract_location_candidates(text):
     )
     for match in list_pattern.findall(headline):
         candidates.extend(split_location_group(match))
+
+    for pattern in CONTEXTUAL_LOCATION_LIST_PATTERNS:
+        for match in pattern.findall(working_text):
+            candidates.extend(split_location_group(match))
 
     route_pattern = re.compile(
         r"\bfrom\s+([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+)*)\s+to\s+([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+)*)"
@@ -600,6 +678,32 @@ def get_entry_location_candidates(entry):
     return candidates[:MAX_LOCATION_CANDIDATES]
 
 
+def infer_location_name(entry, default_source):
+    text_blocks = build_text_blocks(entry)
+    page_blocks = fetch_page_text_blocks(entry.get("link")) if entry.get("link") else []
+    source_title = default_source
+    if hasattr(entry, "source") and entry.source:
+        source_title = entry.source.get("title", source_title)
+
+    combined_text = normalize_text(
+        " ".join([
+            entry.get("title", ""),
+            source_title,
+            *text_blocks,
+            *page_blocks,
+        ])
+    )
+
+    for pattern, location_name in INFERRED_LOCATION_RULES:
+        if pattern.search(combined_text):
+            return location_name
+
+    if any(keyword in combined_text.lower() for keyword in DEFAULT_CLUSTER_KEYWORDS):
+        return DEFAULT_CLUSTER_LOCATION
+
+    return DEFAULT_CLUSTER_LOCATION
+
+
 def keyword_filtered_entries(feed):
     matched_entries = []
     for entry in feed.entries:
@@ -643,11 +747,27 @@ def geocode_entry_locations(entry):
         if len(geocoded_locations) >= MAX_GEOCODED_LOCATIONS:
             break
 
+    geocoded_locations.sort(
+        key=lambda item: (location_specificity_score(item["name"]), item["name"]),
+        reverse=True,
+    )
+
     return geocoded_locations
 
 
 def build_outbreak(entry, default_source):
     geocoded_locations = geocode_entry_locations(entry)
+    if not geocoded_locations:
+        inferred_location_name = infer_location_name(entry, default_source)
+        inferred_coordinates = get_coordinates(inferred_location_name)
+        if inferred_coordinates:
+            inferred_label = normalize_location_label(inferred_location_name)
+            geocoded_locations = [{
+                "name": inferred_label,
+                "coordinates": inferred_coordinates,
+            }]
+            print(f"   📍 Inferred: '{inferred_label}' -> {inferred_coordinates}")
+
     primary_location = geocoded_locations[0] if geocoded_locations else None
     source_title = default_source
     if hasattr(entry, "source") and entry.source:

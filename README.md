@@ -1,6 +1,6 @@
 # Hantavirus Data Engine
 
-Script Python per raccogliere notizie recenti sul tema hantavirus da piu' sorgenti RSS, deduplicarle, estrarre localita' dal titolo, dalla descrizione HTML del feed e, quando utile, dalla pagina originale dell'articolo, geocodificarle con Nominatim e fallback Photon e salvare il risultato in [data/outbreaks.json](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/data/outbreaks.json).
+Script Python per raccogliere notizie recenti sul tema hantavirus da piu' sorgenti RSS, deduplicarle, estrarre localita' dal titolo, dalla descrizione HTML del feed e, quando utile, dalla pagina originale dell'articolo, geocodificarle con Nominatim e fallback Photon e salvare il risultato in [data/outbreaks.json](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/data/outbreaks.json). Quando una voce non contiene una localita' abbastanza esplicita, il motore applica una inferenza finale basata su contesto, sorgente e cluster dell'evento in modo da assegnare comunque coordinate a ogni record.
 
 Sorgenti attualmente usate:
 
@@ -9,7 +9,7 @@ Sorgenti attualmente usate:
 - ECDC News feed
 - ECDC Threat Report feed
 
-Per i feed non Google, lo script mantiene solo le voci che contengono keyword rilevanti come `hantavirus`, `orthohantavirus` o `hps`. Le voci duplicate vengono rimosse usando titolo e link. Quando viene trovata piu' di una localita', il JSON conserva sia il campo principale retrocompatibile sia l'elenco completo delle localita' geocodificate.
+Per i feed non Google, lo script mantiene solo le voci che contengono keyword rilevanti come `hantavirus`, `orthohantavirus` o `hps`. Le voci duplicate vengono rimosse usando titolo e link. Quando viene trovata piu' di una localita', il JSON conserva sia il campo principale retrocompatibile sia l'elenco completo delle localita' geocodificate; se non viene trovata una localita' affidabile nel testo, il motore assegna un fallback coerente con il contesto dell'articolo.
 
 ## Requisiti
 
@@ -51,4 +51,4 @@ Note operative:
 
 - `location_name` e `coordinates` restano presenti per retrocompatibilita'
 - `locations` contiene fino a piu' localita' geocodificate per la stessa notizia
-- se non viene trovata una localita' affidabile, i campi geografici restano `null`
+- ogni record riceve coordinate anche quando la localita' viene inferita da contesto e fallback
