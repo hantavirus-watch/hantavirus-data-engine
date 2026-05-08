@@ -62,7 +62,10 @@ INVALID_LOCATION_FRAGMENTS = {
     "pandemic",
     "doctor",
     "residents",
+    "british",
 }
+
+INVALID_LOCATION_PREFIXES = {"first", "second", "third", "fourth"}
 
 VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
 
@@ -81,6 +84,10 @@ def clean_location_candidate(value):
         return None
 
     if any(fragment in lower_candidate for fragment in INVALID_LOCATION_FRAGMENTS):
+        return None
+
+    first_token = lower_candidate.split()[0]
+    if first_token in INVALID_LOCATION_PREFIXES:
         return None
 
     if lower_candidate.startswith("who ") or lower_candidate.endswith(" says"):
