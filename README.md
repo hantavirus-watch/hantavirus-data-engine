@@ -1,6 +1,15 @@
 # Hantavirus Data Engine
 
-Script Python per raccogliere notizie recenti sul tema hantavirus da Google News RSS, estrarre localita' sia dal titolo sia dalla descrizione HTML del feed, tentare la geolocalizzazione con Nominatim e fallback Photon e salvare il risultato in [data/outbreaks.json](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/data/outbreaks.json).
+Script Python per raccogliere notizie recenti sul tema hantavirus da piu' sorgenti RSS, deduplicarle, estrarre localita' dal titolo, dalla descrizione HTML del feed e, quando utile, dalla pagina originale dell'articolo, geocodificarle con Nominatim e fallback Photon e salvare il risultato in [data/outbreaks.json](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/data/outbreaks.json).
+
+Sorgenti attualmente usate:
+
+- Google News RSS
+- PAHO RSS
+- ECDC News feed
+- ECDC Threat Report feed
+
+Per i feed non Google, lo script mantiene solo le voci che contengono keyword rilevanti come `hantavirus`, `orthohantavirus` o `hps`. Le voci duplicate vengono rimosse usando titolo e link. Quando viene trovata piu' di una localita', il JSON conserva sia il campo principale retrocompatibile sia l'elenco completo delle localita' geocodificate.
 
 ## Requisiti
 
@@ -37,3 +46,9 @@ Il file JSON contiene, per ogni voce:
 - `published`
 - `source`
 - `fetch_timestamp`
+
+Note operative:
+
+- `location_name` e `coordinates` restano presenti per retrocompatibilita'
+- `locations` contiene fino a piu' localita' geocodificate per la stessa notizia
+- se non viene trovata una localita' affidabile, i campi geografici restano `null`
