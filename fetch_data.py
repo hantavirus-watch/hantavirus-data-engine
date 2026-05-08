@@ -215,6 +215,7 @@ LOCATION_ALIASES = {
     "georgia": "Georgia, USA",
     "ny": "New York, USA",
     "new york": "New York, USA",
+    "washington, d.c": "Washington, DC, USA",
     "washington, d.c.": "Washington, DC, USA",
     "washington dc": "Washington, DC, USA",
 }
@@ -235,6 +236,7 @@ DISPLAY_LOCATION_ALIASES = {
     "johannesburg": "Johannesburg",
     "ny": "New York",
     "new york": "New York",
+    "washington, d.c": "Washington, D.C.",
     "washington, d.c.": "Washington, D.C.",
     "washington dc": "Washington, D.C.",
 }
