@@ -44,10 +44,10 @@ SOURCE_CONFIGS = [
 
 KEYWORDS = ("hantavirus", "orthohantavirus", "hps")
 REQUEST_HEADERS = {"User-Agent": "hantawatch_global_tracker/1.0"}
+REQUEST_TIMEOUT = 20
 MAX_PAGE_TEXT_BLOCKS = 12
 MAX_LOCATION_CANDIDATES = 8
 MAX_GEOCODED_LOCATIONS = 3
-REQUEST_TIMEOUT = 20
 
 STOP_LOCATIONS = [
     "a cruise ship",
@@ -80,8 +80,8 @@ LOCATION_TRIGGERS = [
     " monitoring ",
     " linked to ",
     " associated with ",
-    " evacuated to ",
     " landed in ",
+    " evacuated to ",
 ]
 
 INVALID_LOCATION_FRAGMENTS = {
@@ -126,6 +126,7 @@ INVALID_LOCATION_FRAGMENTS = {
 
 INVALID_LOCATION_PREFIXES = {"first", "second", "third", "fourth"}
 VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
+
 LOCATION_ALIASES = {
     "central california": "Central California, California, USA",
     "canary islands": "Canary Islands, Spain",
@@ -135,6 +136,7 @@ LOCATION_ALIASES = {
     "georgia": "Georgia, USA",
     "ny": "New York, USA",
 }
+
 MANUAL_COORDINATES = {
     "central california": [36.587, -120.072],
     "canary islands": [28.2935785, -16.6214471],
@@ -161,7 +163,7 @@ def clean_location_candidate(value):
     candidate = normalize_text(value).strip(" -,:;.?()[]{}\"'")
     candidate = re.split(r"\s+-\s+", candidate, maxsplit=1)[0].strip()
     candidate = re.sub(r"^(?:heads?|heading)\s+(?:to|for)\s+", "", candidate, flags=re.IGNORECASE)
-    candidate = re.sub(r"\b(?:after|before|as|while|because|that|which|who)\b.*$", "", candidate, flags=re.IGNORECASE).strip()
+    candidate = re.sub(r"\b(?:after|before|as|while|because|that|which|who|with|where)\b.*$", "", candidate, flags=re.IGNORECASE).strip()
     candidate = re.sub(r"^[Tt]he\s+", "", candidate).strip()
     if not candidate:
         return None
@@ -228,9 +230,9 @@ def extract_location_candidates(text):
     route_match = route_pattern.search(headline)
     if route_match:
         for part in route_match.groups():
-            cleaned_part = clean_location_candidate(part)
-            if cleaned_part:
-                candidates.append(cleaned_part)
+            cleaned = clean_location_candidate(part)
+            if cleaned:
+                candidates.append(cleaned)
 
     resident_pattern = re.compile(
         r"\b([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+)*)\s+(?:resident|residents|traveler|travellers|health agencies)\b"
@@ -240,9 +242,7 @@ def extract_location_candidates(text):
         if cleaned:
             candidates.append(cleaned)
 
-    title_case_pattern = re.compile(
-        r"\b([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+){0,2})\b"
-    )
+    title_case_pattern = re.compile(r"\b([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+){0,2})\b")
     for match in title_case_pattern.findall(working_text):
         cleaned = clean_location_candidate(match)
         if cleaned:
@@ -251,17 +251,17 @@ def extract_location_candidates(text):
     seen = set()
     unique_candidates = []
     for candidate in candidates:
-        normalized = candidate.lower()
-        if normalized in seen:
+        lowered = candidate.lower()
+        if lowered in seen:
             continue
-        seen.add(normalized)
+        seen.add(lowered)
         unique_candidates.append(candidate)
+
     return unique_candidates
 
 
 def build_text_blocks(entry):
     text_blocks = [entry.get("title", "")]
-
     description = entry.get("description") or entry.get("summary") or ""
     if description:
         soup = BeautifulSoup(description, "html.parser")
@@ -289,7 +289,6 @@ def fetch_page_text_blocks(url):
             tag.decompose()
 
         text_blocks = []
-
         title = soup.find("title")
         if title:
             text_blocks.append(title.get_text(" ", strip=True))
@@ -299,8 +298,7 @@ def fetch_page_text_blocks(url):
             if meta and meta.get("content"):
                 text_blocks.append(meta["content"])
 
-        selectors = ["h1", "h2", "p", "li"]
-        for selector in selectors:
+        for selector in ("h1", "h2", "p", "li"):
             for node in soup.select(selector):
                 text = normalize_text(node.get_text(" ", strip=True))
                 if len(text) >= 40:
@@ -368,11 +366,9 @@ def get_coordinates(location_name):
 
 def get_entry_location_candidates(entry):
     text_blocks = build_text_blocks(entry)
-    if not text_blocks:
-        return []
-
     candidates = []
     seen = set()
+
     for block in text_blocks:
         for candidate in extract_location_candidates(block):
             lowered = candidate.lower()
@@ -400,8 +396,8 @@ def get_entry_location_candidates(entry):
 def keyword_filtered_entries(feed):
     matched_entries = []
     for entry in feed.entries:
-        text = " ".join(build_text_blocks(entry))
-        if contains_keyword(text):
+        combined_text = " ".join(build_text_blocks(entry))
+        if contains_keyword(combined_text):
             matched_entries.append(entry)
     return matched_entries
 
@@ -411,9 +407,8 @@ def published_value(entry):
 
 
 def entry_datetime(entry):
-    published = published_value(entry)
     try:
-        return parsedate_to_datetime(published)
+        return parsedate_to_datetime(published_value(entry))
     except (TypeError, ValueError, IndexError):
         return datetime.now()
 
@@ -460,7 +455,6 @@ def build_outbreak(entry, default_source):
 def fetch_source_entries(source_config):
     print(f"📡 Connecting to: {source_config['url']}")
     feed = feedparser.parse(source_config["url"])
-
     if source_config["kind"] == "google-news":
         entries = feed.entries
     else:
@@ -473,9 +467,11 @@ def fetch_source_entries(source_config):
 def dedupe_entries(entries):
     unique_entries = []
     seen = set()
-
     for entry, source_name in entries:
-        fingerprint = (normalize_text(entry.get("title", "")).lower(), normalize_text(entry.get("link", "")).lower())
+        fingerprint = (
+            normalize_text(entry.get("title", "")).lower(),
+            normalize_text(entry.get("link", "")).lower(),
+        )
         if fingerprint in seen:
             continue
         seen.add(fingerprint)
@@ -560,282 +556,6 @@ def main():
         print(f"⏳ Waiting {args.interval} seconds before next refresh. Current time: {next_run}")
         time.sleep(args.interval)
 
-
-if __name__ == "__main__":
-    main()
-    "travel",
-    "cases",
-    "monitoring",
-    "people",
-    "public",
-    "pandemic",
-    "doctor",
-    "residents",
-    "british",
-}
-
-INVALID_LOCATION_PREFIXES = {"first", "second", "third", "fourth"}
-
-VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
-
-
-def clean_location_candidate(value):
-    """Normalizza una stringa candidata a localita'."""
-    candidate = re.sub(r"\s+", " ", value or "").strip(" -,:;.?()[]{}\"'")
-    candidate = re.split(r"\s+-\s+", candidate, maxsplit=1)[0].strip()
-    candidate = re.sub(r"^(?:heads?|heading)\s+(?:to|for)\s+", "", candidate, flags=re.IGNORECASE)
-    candidate = re.sub(r"\b(?:after|before|as|while|because|that|which|who)\b.*$", "", candidate, flags=re.IGNORECASE).strip()
-    if not candidate:
-        return None
-
-    lower_candidate = candidate.lower()
-    if any(stop in lower_candidate for stop in STOP_LOCATIONS):
-        return None
-
-    if any(fragment in lower_candidate for fragment in INVALID_LOCATION_FRAGMENTS):
-        return None
-
-    first_token = lower_candidate.split()[0]
-    if first_token in INVALID_LOCATION_PREFIXES:
-        return None
-
-    if lower_candidate.startswith("who ") or lower_candidate.endswith(" says"):
-        return None
-
-    if len(candidate) < 3 and candidate.upper() not in VALID_SHORT_LOCATION_CODES:
-        return None
-
-    tokens = [token for token in re.split(r"\s+", candidate) if token]
-    if any(len(token) == 1 for token in tokens) and candidate.upper() not in VALID_SHORT_LOCATION_CODES:
-        return None
-
-    if not re.search(r"[A-Z]", candidate):
-        return None
-
-    return candidate
-
-
-def split_location_group(group):
-    """Divide gruppi tipo 'Georgia, California and Arizona' in localita' singole."""
-    normalized = re.sub(r"\s+(and|or)\s+", ",", group)
-    parts = [clean_location_candidate(part) for part in normalized.split(",")]
-    return [part for part in parts if part]
-
-
-def extract_location_candidates(text):
-    """Estrae candidati localita' da una stringa libera."""
-    candidates = []
-    sanitized = re.sub(r"\s+", " ", text or "").strip()
-    if not sanitized:
-        return candidates
-
-    working_text = sanitized.split(" - ")[0]
-
-    for trigger in LOCATION_TRIGGERS:
-        if trigger not in working_text:
-            continue
-
-        tail = working_text.split(trigger, 1)[1]
-        tail = re.split(r"[?.!:]", tail, maxsplit=1)[0]
-        tail = re.split(r"\b(?:after|before|as|while|because|that|which|who)\b", tail, maxsplit=1)[0]
-        candidates.extend(split_location_group(tail))
-
-    list_pattern = re.compile(
-        r"\b(?:in|from|to|monitoring|across)\s+([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*(?:\s*,\s*[A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)+(?:\s*(?:and|or)\s*[A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)?)"
-    )
-    for match in list_pattern.findall(working_text):
-        candidates.extend(split_location_group(match))
-
-    prefix_pattern = re.compile(
-        r"^([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)\s+(?:among\b|health agencies\b|residents\b|resident\b|traveler\b|travellers\b|national\b|officials\b)"
-    )
-    prefix_match = prefix_pattern.search(working_text)
-    if prefix_match:
-        cleaned_prefix = clean_location_candidate(prefix_match.group(1))
-        if cleaned_prefix:
-            candidates.append(cleaned_prefix)
-
-    route_pattern = re.compile(
-        r"\bfrom\s+([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)\s+to\s+([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)"
-    )
-    route_match = route_pattern.search(working_text)
-    if route_match:
-        for part in route_match.groups():
-            cleaned_part = clean_location_candidate(part)
-            if cleaned_part:
-                candidates.append(cleaned_part)
-
-    seen = set()
-    unique_candidates = []
-    for candidate in candidates:
-        if candidate.lower() in seen:
-            continue
-        seen.add(candidate.lower())
-        unique_candidates.append(candidate)
-
-    return unique_candidates
-
-
-def get_entry_location_candidates(entry):
-    """Combina titolo e descrizione HTML del feed per trovare piu' localita'."""
-    text_blocks = [entry.get("title", "")]
-    description = entry.get("description", "")
-    if description:
-        soup = BeautifulSoup(description, "html.parser")
-        text_blocks.extend(anchor.get_text(" ", strip=True) for anchor in soup.find_all("a"))
-
-    candidates = []
-    seen = set()
-    for block in text_blocks:
-        for candidate in extract_location_candidates(block):
-            normalized = candidate.lower()
-            if normalized in seen:
-                continue
-            seen.add(normalized)
-            candidates.append(candidate)
-    return candidates
-
-def get_coordinates(location_name):
-    """Converte il nome di un luogo in coordinate [lat, lon]."""
-    normalized_name = (location_name or "").strip()
-    if not normalized_name:
-        return None
-
-    cache_key = normalized_name.lower()
-    if cache_key in GEOCODE_CACHE:
-        return GEOCODE_CACHE[cache_key]
-
-    try:
-        # Pausa per rispettare i ToS di Nominatim
-        time.sleep(1.1)
-        location = geolocator.geocode(normalized_name)
-        if location:
-            coordinates = [location.latitude, location.longitude]
-            GEOCODE_CACHE[cache_key] = coordinates
-            return coordinates
-        location = fallback_geolocator.geocode(normalized_name)
-        if location:
-            coordinates = [location.latitude, location.longitude]
-            GEOCODE_CACHE[cache_key] = coordinates
-            return coordinates
-    except (GeocoderTimedOut, Exception):
-        GEOCODE_CACHE[cache_key] = None
-        return None
-    GEOCODE_CACHE[cache_key] = None
-    return None
-
-def fetch_hantavirus_alerts():
-    """Recupera e processa i dati sui focolai."""
-    # Query mirata per massimizzare i risultati sui focolai recenti
-    query = 'hantavirus OR "hantavirus outbreak" OR "orthohantavirus" OR "hps virus" when:7d'
-    encoded_query = urllib.parse.quote(query)
-    rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
-    
-    print(f"📡 Connecting to: {rss_url}")
-    feed = feedparser.parse(rss_url)
-    outbreaks = []
-    
-    print(f"🔍 Analyzing {len(feed.entries)} entries for outbreaks and locations...")
-
-    for entry in feed.entries:
-        title = entry.title
-        location_candidates = get_entry_location_candidates(entry)
-        geocoded_locations = []
-
-        for candidate in location_candidates[:5]:
-            coords = get_coordinates(candidate)
-            if not coords:
-                continue
-
-            geocoded_locations.append({
-                "name": candidate,
-                "coordinates": coords,
-            })
-
-            print(f"   📍 Geocoded: '{candidate}' -> {coords}")
-
-            if len(geocoded_locations) >= 3:
-                break
-
-        primary_location = geocoded_locations[0] if geocoded_locations else None
-
-        outbreak = {
-            "id": entry.get('id', entry.link),
-            "title": title,
-            "link": entry.link,
-            "location_name": primary_location["name"] if primary_location else None,
-            "coordinates": primary_location["coordinates"] if primary_location else None,
-            "locations": geocoded_locations,
-            "published": entry.published,
-            "source": entry.source.get('title', 'Unknown') if hasattr(entry, 'source') else 'Google News',
-            "fetch_timestamp": datetime.now().isoformat()
-        }
-        outbreaks.append(outbreak)
-            
-    return outbreaks
-
-def save_data(data):
-    """Salva i dati in formato JSON creando la cartella se necessario."""
-    if not os.path.exists('data'):
-        os.makedirs('data')
-        print("📁 Created 'data' directory.")
-    
-    file_path = 'data/outbreaks.json'
-    with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-    return file_path
-
-
-def run_fetch_cycle():
-    """Esegue un ciclo completo di fetch e salvataggio."""
-    print("🚀 HantaWatch Global Engine: Starting fetch and geocode...")
-    alerts = fetch_hantavirus_alerts()
-    path = save_data(alerts)
-
-    total = len(alerts)
-    geocoded = sum(1 for alert in alerts if alert['coordinates'] is not None)
-    coverage = (geocoded / total) * 100 if total else 0
-
-    print(f"\n✅ Success! Saved {total} alerts to {path}")
-    print(f"🌍 Geocoding coverage: {geocoded}/{total} ({coverage:.1f}%)")
-
-
-def parse_args():
-    parser = argparse.ArgumentParser(
-        description="Fetch and save hantavirus outbreak data."
-    )
-    parser.add_argument(
-        "--watch",
-        action="store_true",
-        help="keep the process running and refresh data on a fixed interval",
-    )
-    parser.add_argument(
-        "--interval",
-        type=int,
-        default=1800,
-        help="refresh interval in seconds when --watch is enabled (default: 1800)",
-    )
-    return parser.parse_args()
-
-
-def main():
-    args = parse_args()
-
-    if args.watch and args.interval <= 0:
-        raise ValueError("--interval must be greater than 0 when --watch is enabled")
-
-    while True:
-        try:
-            run_fetch_cycle()
-        except Exception as error:
-            print(f"❌ Error during execution: {error}")
-
-        if not args.watch:
-            break
-
-        next_run = datetime.now().isoformat(timespec="seconds")
-        print(f"⏳ Waiting {args.interval} seconds before next refresh. Current time: {next_run}")
-        time.sleep(args.interval)
 
 if __name__ == "__main__":
     main()
