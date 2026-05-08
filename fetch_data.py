@@ -179,7 +179,16 @@ INVALID_LOCATION_FIRST_WORDS = {
 }
 VALID_SHORT_LOCATION_CODES = {"AZ", "CA", "GA", "NJ", "NY", "TX", "UK", "US", "VA"}
 LOCATION_CONNECTOR_WORDS = {"and", "della", "de", "del", "di", "du", "la", "las", "los", "of", "the", "y"}
-BROAD_LOCATION_NAMES = {"africa", "americas", "asia", "europe", "north america", "south america", "the eu"}
+BROAD_LOCATION_NAMES = {
+    "africa",
+    "americas",
+    "asia",
+    "europe",
+    "north america",
+    "south america",
+    "southern cone",
+    "the eu",
+}
 
 LEADING_LOCATION_PATTERNS = [
     re.compile(
@@ -201,6 +210,9 @@ LOCATION_ALIASES = {
     "johannesburg": "Johannesburg, South Africa",
     "georgia": "Georgia, USA",
     "ny": "New York, USA",
+    "new york": "New York, USA",
+    "washington, d.c.": "Washington, DC, USA",
+    "washington dc": "Washington, DC, USA",
 }
 
 MANUAL_COORDINATES = {
@@ -209,6 +221,36 @@ MANUAL_COORDINATES = {
     "spain's canary islands": [28.2935785, -16.6214471],
     "spain’s canary islands": [28.2935785, -16.6214471],
 }
+
+DISPLAY_LOCATION_ALIASES = {
+    "central california": "Central California",
+    "canary islands": "Canary Islands",
+    "spain's canary islands": "Canary Islands",
+    "spain’s canary islands": "Canary Islands",
+    "georgia": "Georgia",
+    "johannesburg": "Johannesburg",
+    "ny": "New York",
+    "new york": "New York",
+    "washington, d.c.": "Washington, D.C.",
+    "washington dc": "Washington, D.C.",
+}
+
+PAGE_TEXT_ROOT_SELECTORS = {
+    "paho.org": ["section.col-sm-8"],
+    "ecdc.europa.eu": ["article.ct-news", "#block-zika-content article.ct-news"],
+}
+
+PAGE_TEXT_STOP_HEADINGS = {
+    "paho.org": {"more information", "other news", "latest news", "additional links"},
+    "ecdc.europa.eu": {"about hantavirus", "read the threat assessment brief", "view all updates on the outbreak", "additional links"},
+}
+
+LOCATION_NAME_PATTERN = r"(?:the\s+)?[A-Z][A-Za-z.'’-]+(?:\s+(?:[A-Z][A-Za-z.'’-]+|of|de|del|la|las|los|the|y)){0,3}"
+LOCATION_GROUP_PATTERN = rf"({LOCATION_NAME_PATTERN}(?:\s*,\s*{LOCATION_NAME_PATTERN})*(?:\s*(?:and|or)\s*{LOCATION_NAME_PATTERN})?)"
+LEADING_LOCATION_GROUP_PATTERN = re.compile(rf"^{LOCATION_GROUP_PATTERN}")
+DATELINE_LOCATION_PATTERN = re.compile(
+    r"^([A-Z][A-Za-z.'’-]+(?:,\s+(?:D\.C\.|[A-Z][A-Za-z.'’-]+))?)\s*,\s+[A-Z][a-z]+\s+\d{{1,2}},\s+\d{{4}}\b"
+)
 
 geolocator = Nominatim(user_agent="hantawatch_global_tracker")
 fallback_geolocator = Photon(user_agent="hantawatch_global_tracker")
@@ -223,6 +265,11 @@ def normalize_text(value):
 def contains_keyword(text):
     lower_text = normalize_text(text).lower()
     return any(keyword in lower_text for keyword in KEYWORDS)
+
+
+def normalize_location_label(location_name):
+    normalized = normalize_text(location_name)
+    return DISPLAY_LOCATION_ALIASES.get(normalized.lower(), normalized)
 
 
 def clean_location_candidate(value):
@@ -295,6 +342,13 @@ def split_location_group(group):
     return [part for part in parts if part]
 
 
+def extract_leading_location_group(text):
+    match = LEADING_LOCATION_GROUP_PATTERN.match(normalize_text(text))
+    if not match:
+        return None
+    return match.group(1)
+
+
 def extract_location_candidates(text):
     candidates = []
     working_text = normalize_text(text)
@@ -303,6 +357,12 @@ def extract_location_candidates(text):
 
     headline = working_text.split(" - ")[0]
 
+    dateline_match = DATELINE_LOCATION_PATTERN.search(working_text)
+    if dateline_match:
+        cleaned = clean_location_candidate(dateline_match.group(1))
+        if cleaned:
+            candidates.append(cleaned)
+
     for trigger in LOCATION_TRIGGERS:
         if trigger not in headline:
             continue
@@ -310,10 +370,11 @@ def extract_location_candidates(text):
         tail = headline.split(trigger, 1)[1]
         tail = re.split(r"[?.!:;]", tail, maxsplit=1)[0]
         tail = re.split(r"\b(?:after|before|as|while|because|that|which|who|with|where)\b", tail, maxsplit=1)[0]
-        candidates.extend(split_location_group(tail))
+        location_group = extract_leading_location_group(tail)
+        candidates.extend(split_location_group(location_group or tail))
 
     list_pattern = re.compile(
-        r"\b(?:in|from|to|monitoring|across|between)\s+([A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+)*(?:\s*,\s*[A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+)*)+(?:\s*(?:and|or)\s*[A-Z][A-Za-z.'’-]+(?:\s+[A-Z][A-Za-z.'’-]+)*)?)"
+        rf"\b(?:in|from|to|monitoring|across|between)\s+{LOCATION_GROUP_PATTERN}"
     )
     for match in list_pattern.findall(headline):
         candidates.extend(split_location_group(match))
@@ -367,6 +428,54 @@ def build_text_blocks(entry):
     return [normalize_text(block) for block in text_blocks if normalize_text(block)]
 
 
+def dedupe_text_blocks(text_blocks):
+    deduped_blocks = []
+    seen = set()
+    for block in text_blocks:
+        lowered = block.lower()
+        if lowered in seen:
+            continue
+        seen.add(lowered)
+        deduped_blocks.append(block)
+    return deduped_blocks
+
+
+def url_domain(url):
+    return urllib.parse.urlparse(url).netloc.lower().removeprefix("www.")
+
+
+def fetch_source_page_text_blocks(soup, url):
+    domain = url_domain(url)
+    selectors = PAGE_TEXT_ROOT_SELECTORS.get(domain, [])
+    stop_headings = PAGE_TEXT_STOP_HEADINGS.get(domain, set())
+
+    for selector in selectors:
+        root = soup.select_one(selector)
+        if not root:
+            continue
+
+        text_blocks = []
+        for node in root.find_all(["h1", "h2", "h3", "p"]):
+            text = normalize_text(node.get_text(" ", strip=True))
+            if not text:
+                continue
+
+            if node.name in {"h2", "h3"} and text.lower() in stop_headings:
+                break
+
+            if node.name == "p" and len(text) < 40:
+                continue
+
+            text_blocks.append(text)
+            if len(text_blocks) >= MAX_PAGE_TEXT_BLOCKS:
+                break
+
+        if text_blocks:
+            return dedupe_text_blocks(text_blocks)
+
+    return []
+
+
 def fetch_page_text_blocks(url):
     if not url or "news.google.com/rss/articles/" in url:
         return []
@@ -392,24 +501,21 @@ def fetch_page_text_blocks(url):
             if meta and meta.get("content"):
                 text_blocks.append(meta["content"])
 
-        for selector in ("h1", "h2", "p", "li"):
-            for node in soup.select(selector):
-                text = normalize_text(node.get_text(" ", strip=True))
-                if len(text) >= 40:
-                    text_blocks.append(text)
+        source_blocks = fetch_source_page_text_blocks(soup, url)
+        if source_blocks:
+            text_blocks.extend(source_blocks)
+        else:
+            for selector in ("h1", "h2", "p", "li"):
+                for node in soup.select(selector):
+                    text = normalize_text(node.get_text(" ", strip=True))
+                    if len(text) >= 40:
+                        text_blocks.append(text)
+                    if len(text_blocks) >= MAX_PAGE_TEXT_BLOCKS:
+                        break
                 if len(text_blocks) >= MAX_PAGE_TEXT_BLOCKS:
                     break
-            if len(text_blocks) >= MAX_PAGE_TEXT_BLOCKS:
-                break
 
-        deduped_blocks = []
-        seen = set()
-        for block in text_blocks:
-            lowered = block.lower()
-            if lowered in seen:
-                continue
-            seen.add(lowered)
-            deduped_blocks.append(block)
+        deduped_blocks = dedupe_text_blocks(text_blocks)
 
         PAGE_TEXT_CACHE[url] = deduped_blocks
         return deduped_blocks
@@ -419,12 +525,12 @@ def fetch_page_text_blocks(url):
 
 
 def canonicalize_location_query(location_name):
-    normalized = normalize_text(location_name)
+    normalized = normalize_location_label(location_name)
     return LOCATION_ALIASES.get(normalized.lower(), normalized)
 
 
 def get_coordinates(location_name):
-    normalized_name = normalize_text(location_name)
+    normalized_name = normalize_location_label(location_name)
     if not normalized_name:
         return None
 
@@ -509,16 +615,23 @@ def entry_datetime(entry):
 
 def geocode_entry_locations(entry):
     geocoded_locations = []
+    seen_names = set()
     for candidate in get_entry_location_candidates(entry):
-        coords = get_coordinates(candidate)
+        display_name = normalize_location_label(candidate)
+        display_key = display_name.lower()
+        if display_key in seen_names:
+            continue
+
+        coords = get_coordinates(display_name)
         if not coords:
             continue
 
         geocoded_locations.append({
-            "name": candidate,
+            "name": display_name,
             "coordinates": coords,
         })
-        print(f"   📍 Geocoded: '{candidate}' -> {coords}")
+        seen_names.add(display_key)
+        print(f"   📍 Geocoded: '{display_name}' -> {coords}")
 
         if len(geocoded_locations) >= MAX_GEOCODED_LOCATIONS:
             break
