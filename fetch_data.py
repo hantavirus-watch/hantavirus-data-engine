@@ -562,62 +562,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()import argparse
-import feedparser
-import json
-import os
-import re
-import time
-import urllib.parse
-from datetime import datetime
-
-from bs4 import BeautifulSoup
-from geopy.exc import GeocoderTimedOut
-from geopy.geocoders import Nominatim, Photon
-
-# Inizializzazione del geolocalizzatore con User Agent specifico
-geolocator = Nominatim(user_agent="hantawatch_global_tracker")
-fallback_geolocator = Photon(user_agent="hantawatch_global_tracker")
-GEOCODE_CACHE = {}
-
-# Lista di termini che spesso ingannano il geocoder
-STOP_LOCATIONS = [
-    "a cruise ship", "the center", "sea", "suspected", "deaths", 
-    "contact", "victims", "people", "ocean", "atlantic", "ny?", "cases"
-]
-
-LOCATION_TRIGGERS = [
-    " in ",
-    " near ",
-    " at ",
-    " across ",
-    " from ",
-    " to ",
-    " aboard ",
-    " outside ",
-    " back in ",
-    " back to ",
-    " heads for ",
-    " heads to ",
-    " monitoring ",
-]
-
-INVALID_LOCATION_FRAGMENTS = {
-    "outbreak",
-    "cruise",
-    "passenger",
-    "passengers",
-    "ship",
-    "virus",
-    "health",
-    "authorities",
-    "officials",
-    "cluster",
-    "response",
-    "guidance",
-    "symptoms",
-    "treatment",
-    "spread",
+    main()
     "travel",
     "cases",
     "monitoring",
