@@ -292,6 +292,59 @@ PAGE_TEXT_STOP_HEADINGS = {
 GENERIC_LOCATION_LABELS = {"Europe", "Netherlands", "Spain", "United Kingdom", "United States"}
 DEFAULT_CLUSTER_LOCATION = "Canary Islands"
 DEFAULT_CLUSTER_KEYWORDS = ("cruise ship", "ship outbreak", "atlantic ship", "atlantic cruise ship", "aboard")
+EXPLAINER_KEYWORDS = (
+    "explained",
+    "explainer",
+    "how",
+    "know",
+    "questions",
+    "response",
+    "should",
+    "symptoms",
+    "takeaways",
+    "treatment",
+    "what",
+    "why",
+    "worried",
+)
+SOURCE_LOCATION_FALLBACKS = {
+    "ap news": "United States",
+    "axios": "United States",
+    "bbc": "United Kingdom",
+    "cbs news": "United States",
+    "cidrap": "United States",
+    "cnn": "United States",
+    "dw.com": "Europe",
+    "ecdc news": "Europe",
+    "forbes": "United States",
+    "harvard health": "United States",
+    "livenow from fox": "United States",
+    "los angeles times": "California",
+    "nbc news": "United States",
+    "news-medical": "Europe",
+    "npr": "United States",
+    "nytimes.com": "United States",
+    "paho rss": "Washington, D.C.",
+    "pbs": "United States",
+    "politico": "United States",
+    "reuters": "Europe",
+    "science news": "United States",
+    "statnews.com": "United States",
+    "the american journal of managed care® (ajmc®)": "United States",
+    "the conversation": "United States",
+    "the economist": "United Kingdom",
+    "the guardian": "United Kingdom",
+    "the washington post": "United States",
+    "time magazine": "United States",
+    "today.com": "United States",
+    "tufts now": "United States",
+    "un news": "Europe",
+    "university of california, riverside": "California",
+    "university of florida": "United States",
+    "virginia department of health (.gov)": "Virginia",
+    "world health organization (who)": "Europe",
+    "wsj": "United States",
+}
 
 LOCATION_NAME_PATTERN = r"(?:the\s+)?[A-Z][A-Za-z.'’-]+(?:\s+(?:[A-Z][A-Za-z.'’-]+|of|de|del|la|las|los|the|y)){0,3}"
 LOCATION_GROUP_PATTERN = rf"({LOCATION_NAME_PATTERN}(?:\s*,\s*{LOCATION_NAME_PATTERN})*(?:\s*(?:and|or)\s*{LOCATION_NAME_PATTERN})?)"
@@ -350,6 +403,28 @@ def location_specificity_score(location_name):
     if normalized not in GENERIC_LOCATION_LABELS:
         score += 1
     return score
+
+
+def confidence_for_location(location_name, method):
+    if method == "extracted":
+        return "high" if location_specificity_score(location_name) >= 3 else "medium"
+    if method == "inferred":
+        return "medium" if normalize_location_label(location_name) not in GENERIC_LOCATION_LABELS else "low"
+    return "low"
+
+
+def build_location_record(location_name, coordinates, method):
+    label = normalize_location_label(location_name)
+    return {
+        "name": label,
+        "coordinates": coordinates,
+        "method": method,
+        "confidence": confidence_for_location(label, method),
+    }
+
+
+def source_fallback_location(source_title):
+    return SOURCE_LOCATION_FALLBACKS.get(normalize_text(source_title).lower())
 
 
 def clean_location_candidate(value):
@@ -696,12 +771,21 @@ def infer_location_name(entry, default_source):
 
     for pattern, location_name in INFERRED_LOCATION_RULES:
         if pattern.search(combined_text):
-            return location_name
+            return location_name, "inferred"
+
+    if any(keyword in combined_text.lower() for keyword in EXPLAINER_KEYWORDS):
+        source_location = source_fallback_location(source_title)
+        if source_location:
+            return source_location, "inferred"
 
     if any(keyword in combined_text.lower() for keyword in DEFAULT_CLUSTER_KEYWORDS):
-        return DEFAULT_CLUSTER_LOCATION
+        return DEFAULT_CLUSTER_LOCATION, "fallback"
 
-    return DEFAULT_CLUSTER_LOCATION
+    source_location = source_fallback_location(source_title)
+    if source_location:
+        return source_location, "fallback"
+
+    return DEFAULT_CLUSTER_LOCATION, "fallback"
 
 
 def keyword_filtered_entries(feed):
@@ -737,10 +821,7 @@ def geocode_entry_locations(entry):
         if not coords:
             continue
 
-        geocoded_locations.append({
-            "name": display_name,
-            "coordinates": coords,
-        })
+        geocoded_locations.append(build_location_record(display_name, coords, "extracted"))
         seen_names.add(display_key)
         print(f"   📍 Geocoded: '{display_name}' -> {coords}")
 
@@ -757,18 +838,20 @@ def geocode_entry_locations(entry):
 
 def build_outbreak(entry, default_source):
     geocoded_locations = geocode_entry_locations(entry)
+    location_method = None
+    location_confidence = None
     if not geocoded_locations:
-        inferred_location_name = infer_location_name(entry, default_source)
+        inferred_location_name, inferred_method = infer_location_name(entry, default_source)
         inferred_coordinates = get_coordinates(inferred_location_name)
         if inferred_coordinates:
             inferred_label = normalize_location_label(inferred_location_name)
-            geocoded_locations = [{
-                "name": inferred_label,
-                "coordinates": inferred_coordinates,
-            }]
+            geocoded_locations = [build_location_record(inferred_label, inferred_coordinates, inferred_method)]
             print(f"   📍 Inferred: '{inferred_label}' -> {inferred_coordinates}")
 
     primary_location = geocoded_locations[0] if geocoded_locations else None
+    if primary_location:
+        location_method = primary_location.get("method")
+        location_confidence = primary_location.get("confidence")
     source_title = default_source
     if hasattr(entry, "source") and entry.source:
         source_title = entry.source.get("title", source_title)
@@ -779,6 +862,8 @@ def build_outbreak(entry, default_source):
         "link": entry.get("link"),
         "location_name": primary_location["name"] if primary_location else None,
         "coordinates": primary_location["coordinates"] if primary_location else None,
+        "location_method": location_method,
+        "location_confidence": location_confidence,
         "locations": geocoded_locations,
         "published": published_value(entry),
         "source": source_title,

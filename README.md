@@ -42,6 +42,8 @@ Il file JSON contiene, per ogni voce:
 - `link`
 - `location_name`: localita' primaria selezionata per retrocompatibilita'
 - `coordinates`: coordinate della localita' primaria
+- `location_method`: come e' stata scelta la localita' primaria (`extracted`, `inferred`, `fallback`)
+- `location_confidence`: livello qualitativo associato alla localita' primaria (`high`, `medium`, `low`)
 - `locations`: elenco delle localita' geocodificate trovate per la stessa voce
 - `published`
 - `source`
@@ -50,5 +52,5 @@ Il file JSON contiene, per ogni voce:
 Note operative:
 
 - `location_name` e `coordinates` restano presenti per retrocompatibilita'
-- `locations` contiene fino a piu' localita' geocodificate per la stessa notizia
+- `locations` contiene fino a piu' localita' geocodificate per la stessa notizia, ciascuna con `method` e `confidence`
 - ogni record riceve coordinate anche quando la localita' viene inferita da contesto e fallback
