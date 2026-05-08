@@ -135,14 +135,19 @@ def extract_location_candidates(text):
     )
     prefix_match = prefix_pattern.search(working_text)
     if prefix_match:
-        candidates.append(prefix_match.group(1))
+        cleaned_prefix = clean_location_candidate(prefix_match.group(1))
+        if cleaned_prefix:
+            candidates.append(cleaned_prefix)
 
     route_pattern = re.compile(
         r"\bfrom\s+([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)\s+to\s+([A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)*)"
     )
     route_match = route_pattern.search(working_text)
     if route_match:
-        candidates.extend([route_match.group(1), route_match.group(2)])
+        for part in route_match.groups():
+            cleaned_part = clean_location_candidate(part)
+            if cleaned_part:
+                candidates.append(cleaned_part)
 
     seen = set()
     unique_candidates = []
