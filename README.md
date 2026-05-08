@@ -33,6 +33,13 @@ Con `--watch` il processo resta attivo e riscrive [data/outbreaks.json](/Users/v
 
 Se vuoi l'aggiornamento automatico nel repository anche quando il tuo Mac e' spento, e' disponibile il workflow GitHub Actions in [.github/workflows/update_data.yml](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/.github/workflows/update_data.yml). Dopo il push su GitHub, il job verra' eseguito ogni 30 minuti, evitera' esecuzioni sovrapposte, fara' fino a 3 tentativi in caso di errore transitorio e fara' commit del file JSON solo quando ci sono modifiche.
 
+## CI/CD
+
+Il repository usa due workflow GitHub Actions distinti:
+
+- CI: [.github/workflows/ci.yml](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/.github/workflows/ci.yml) viene eseguito su push, pull request e avvio manuale; installa le dipendenze, verifica la sintassi di `fetch_data.py`, controlla che [data/outbreaks.json](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/data/outbreaks.json) sia JSON valido e lancia i test offline in `tests/`
+- CD: [.github/workflows/update_data.yml](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/.github/workflows/update_data.yml) esegue gli stessi controlli offline e poi aggiorna automaticamente [data/outbreaks.json](/Users/valentinaschiavon/hantavirus/hantavirus-data-engine/data/outbreaks.json) ogni 30 minuti o su esecuzione manuale, con commit automatico solo se il dataset cambia
+
 ## Output
 
 Il file JSON contiene, per ogni voce:
