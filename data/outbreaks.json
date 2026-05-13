@@ -21,14 +21,14 @@
                 "confidence": "low"
             }
         ],
-        "published": "Tue, 12 May 2026 23:56:19 GMT",
+        "published": "Wed, 13 May 2026 03:58:34 GMT",
         "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "fetch_timestamp": "2026-05-13T00:00:11.578473"
+        "fetch_timestamp": "2026-05-13T04:06:03.559247"
     },
     {
-        "id": "CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k",
-        "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
+        "id": "CBMirgFBVV95cUxQVmRvcnpvZVpCNkczNEVoY1JSVExBS1ZiRWxTLXEzU0VEZTMzN2habE5WOTZQOWptYTdZZlNlbDM0YTk4WWpxRXI2bGFRam1NYlFsUjFhZWx2blJrQ2NmQjZBcFpYam1CR3Rwc1czX3AyWnVsVXhyZjUwUDAwMWxwVTl3Z0w3RGROb2NZd0t1VWZmM0RDaU1JQ3NKWEVDUkRybWxMM3AxdFl0eUxwUnc",
+        "title": "Hantavirus treatments are coming but not fast enough for this outbreak, experts say - Scientific American",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVmRvcnpvZVpCNkczNEVoY1JSVExBS1ZiRWxTLXEzU0VEZTMzN2habE5WOTZQOWptYTdZZlNlbDM0YTk4WWpxRXI2bGFRam1NYlFsUjFhZWx2blJrQ2NmQjZBcFpYam1CR3Rwc1czX3AyWnVsVXhyZjUwUDAwMWxwVTl3Z0w3RGROb2NZd0t1VWZmM0RDaU1JQ3NKWEVDUkRybWxMM3AxdFl0eUxwUnc?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -47,35 +47,9 @@
                 "confidence": "low"
             }
         ],
-        "published": "Tue, 12 May 2026 22:03:54 GMT",
-        "source": "WTTW",
-        "fetch_timestamp": "2026-05-13T00:00:11.579852"
-    },
-    {
-        "id": "CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT",
-        "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Tue, 12 May 2026 21:15:33 GMT",
-        "source": "Harvard Gazette",
-        "fetch_timestamp": "2026-05-13T00:00:11.580756"
+        "published": "Tue, 12 May 2026 21:46:27 GMT",
+        "source": "Scientific American",
+        "fetch_timestamp": "2026-05-13T04:06:03.559895"
     },
     {
         "id": "CBMiiAFBVV95cUxQWDNsOUF5ZlFtUXpHLUhManVEUndyMUF5R1hQemFLbzVSdGZXcEtfOFpCYnUxczZqOUdodC1VZHQzN19DNU8tQldVWHoxWEZGYTJ2emc2R3BLcGYxZXEyT1dUU056a0R4M2plQ0FmTlNocFBwME9DQlZ5N3gwOVg5clJONnpkYTJP",
@@ -101,7 +75,7 @@
         ],
         "published": "Tue, 12 May 2026 20:45:00 GMT",
         "source": "vox.com",
-        "fetch_timestamp": "2026-05-13T00:00:13.016991"
+        "fetch_timestamp": "2026-05-13T04:06:05.234680"
     },
     {
         "id": "CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R",
@@ -127,7 +101,7 @@
         ],
         "published": "Tue, 12 May 2026 20:31:00 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-05-13T00:00:13.017804"
+        "fetch_timestamp": "2026-05-13T04:06:05.235477"
     },
     {
         "id": "CBMisgFBVV95cUxNVEdYdVFBV1RXWlc3X0NwWWNLcm5FT01FZDRyVDBUaGJ5X0hzQlAyWFJlY3dwdVFGelhOdzEzcV9vUmxrckJiR1Itd1FEaVlnWHRrLWhfb3RZbFc4bFRuUjdFcm5Jc0xITDFveXEwSzR0MzQ2dHl3UmJKTGlQdHVlVU14eXNJTHlpbTYxSUxHSXlMQnJicUVDU1JQQ2FOemhVZXJQMTFWdFptZE42Uk9Jb2J3",
@@ -153,7 +127,7 @@
         ],
         "published": "Tue, 12 May 2026 19:19:05 GMT",
         "source": "NBC News",
-        "fetch_timestamp": "2026-05-13T00:00:13.018447"
+        "fetch_timestamp": "2026-05-13T04:06:05.236083"
     },
     {
         "id": "CBMipwFBVV95cUxOLWNTbmYwNEYzWm5jUVB0eDdFeWVMWUlqTV9SRW1iOTVYNEV2WTRBU3JyY29SaF93QkVJSTNUWlhYbmtCLURuZEZwRVNlMXFNNHJXbWlETzFmOUhzVy0wLUJvLS1rbU9XX1Q3YkZSbmNnWjZFNkxBSnVQdGNUb1FGdnZiZ3VQS2J0NGluOFZ6cnB4bDU1bkNqWXUzTVZLMGFkaGdDM1RUNA",
@@ -179,7 +153,7 @@
         ],
         "published": "Tue, 12 May 2026 18:27:19 GMT",
         "source": "TODAY.com",
-        "fetch_timestamp": "2026-05-13T00:00:14.277166"
+        "fetch_timestamp": "2026-05-13T04:06:06.354819"
     },
     {
         "id": "CBMiWkFVX3lxTE1FdDhmUjR3MHN3bGx1TFRfdXpGLTlXMEQxc095amY5Wl9wZFo1RmRyVG5CR1FnVnh1aThUbHdkRU9HU0FoU3lkY3Y2andCNFBQVTlSb01jZnRtQQ",
@@ -205,33 +179,33 @@
         ],
         "published": "Tue, 12 May 2026 17:55:12 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-13T00:00:14.277825"
+        "fetch_timestamp": "2026-05-13T04:06:06.355481"
     },
     {
-        "id": "CBMikwFBVV95cUxQMkhvVVEzY0QtZEJyN2RXTzFwS3ozRUZuUFlWb0w5Rm1sMVdJcjEydnN5LVNxVjdsYW1fMm1RaGN1VlVFQ2FrZGRhZnlKanRWTmZ6NnM0dklwTGUxQjFVcFJVVWxEMmJCRDRVNEFva3k3R2pJeUtWb191Q1VONzMwRVo2c0J1QnpZc0FiUWoySkdiR0E",
-        "title": "CDC says one Oregon resident possibly exposed to hantavirus - KPTV",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkhvVVEzY0QtZEJyN2RXTzFwS3ozRUZuUFlWb0w5Rm1sMVdJcjEydnN5LVNxVjdsYW1fMm1RaGN1VlVFQ2FrZGRhZnlKanRWTmZ6NnM0dklwTGUxQjFVcFJVVWxEMmJCRDRVNEFva3k3R2pJeUtWb191Q1VONzMwRVo2c0J1QnpZc0FiUWoySkdiR0E?oc=5",
-        "location_name": "Oregon",
+        "id": "CBMiqAFBVV95cUxPTjJFMW4tYlM4cnNHdnBLdWJ6NjVMYmV4Sm41ZmR2N2VUY2lOdVBHbGszSmwwWi02SkFhM2tINVRYdkFJcVd0QWgwSWt1MzRvQWE2amxYVEVjVVhSUUR2LUd4NVFvOW1xT0x1S3VBSU53OW43UDFIOFFldUtfRW5JTXdVMDJuV2JJREEteV9PZTEzajdhLWFkdFBXbGo3V3BaLUl4aUhnQng",
+        "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjJFMW4tYlM4cnNHdnBLdWJ6NjVMYmV4Sm41ZmR2N2VUY2lOdVBHbGszSmwwWi02SkFhM2tINVRYdkFJcVd0QWgwSWt1MzRvQWE2amxYVEVjVVhSUUR2LUd4NVFvOW1xT0x1S3VBSU53OW43UDFIOFFldUtfRW5JTXdVMDJuV2JJREEteV9PZTEzajdhLWFkdFBXbGo3V3BaLUl4aUhnQng?oc=5",
+        "location_name": "United States",
         "coordinates": [
-            43.9792797,
-            -120.737257
+            39.7837304,
+            -100.445882
         ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
+        "location_method": "inferred",
+        "location_confidence": "low",
         "locations": [
             {
-                "name": "Oregon",
+                "name": "United States",
                 "coordinates": [
-                    43.9792797,
-                    -120.737257
+                    39.7837304,
+                    -100.445882
                 ],
-                "method": "extracted",
-                "confidence": "medium"
+                "method": "inferred",
+                "confidence": "low"
             }
         ],
-        "published": "Tue, 12 May 2026 16:37:00 GMT",
-        "source": "KPTV",
-        "fetch_timestamp": "2026-05-13T00:00:15.596460"
+        "published": "Tue, 12 May 2026 15:53:40 GMT",
+        "source": "KFF",
+        "fetch_timestamp": "2026-05-13T04:06:06.356072"
     },
     {
         "id": "CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk",
@@ -257,33 +231,7 @@
         ],
         "published": "Tue, 12 May 2026 12:19:00 GMT",
         "source": "European Medicines Agency (EMA)",
-        "fetch_timestamp": "2026-05-13T00:00:15.597413"
-    },
-    {
-        "id": "CBMikwFBVV95cUxQOTdzSWFESzRaR05SeW1pcGwtQ1g5SUh3aGZVWUNOUnZsd3JlNDZfdzBGYkI2UURfN294TDFoWDJMTU81N003Rk1tbk9TVmhwQlp2UmRUUk9ScWo1b0RZQm1tVjVINFEwRlNIY2tWaDJYVFdkSmNSNHlyYmFlUFdTdU1IakhiOXNIU1VnR2pxN0RiekU",
-        "title": "Don’t freak out about hantavirus - vox.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTdzSWFESzRaR05SeW1pcGwtQ1g5SUh3aGZVWUNOUnZsd3JlNDZfdzBGYkI2UURfN294TDFoWDJMTU81N003Rk1tbk9TVmhwQlp2UmRUUk9ScWo1b0RZQm1tVjVINFEwRlNIY2tWaDJYVFdkSmNSNHlyYmFlUFdTdU1IakhiOXNIU1VnR2pxN0RiekU?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Tue, 12 May 2026 11:00:00 GMT",
-        "source": "vox.com",
-        "fetch_timestamp": "2026-05-13T00:00:15.597908"
+        "fetch_timestamp": "2026-05-13T04:06:06.356731"
     },
     {
         "id": "CBMiggFBVV95cUxOdGRGYnhOdFhCcVlCZjJQVHBOeDFCUWpXb2F2RW1IdEkxcS1fNzRYNWR1NXZqZkw5bFQzazY0RjVMWjFVMHF6cXJ1WGkyOURVaDFtVjdVT2JZeDJSbXFHLUtpRFU0NkVkTEg3M1FOQ3QxRmtJY01WX0ktUUZyb0dSQUh3",
@@ -309,7 +257,7 @@
         ],
         "published": "Tue, 12 May 2026 10:09:00 GMT",
         "source": "The Colorado Sun",
-        "fetch_timestamp": "2026-05-13T00:00:17.433835"
+        "fetch_timestamp": "2026-05-13T04:06:08.719799"
     },
     {
         "id": "CBMiWkFVX3lxTFBiY2dNRlpxUXIyUENfS0JWX2hpbVpTSV9KQkg1bFRrQXVtQ1Q2TUpYckxINjFMVkFfR2xYYjhLbEJpMHB3MXduWEQ3cFJEdEl4c0ZRTWZnSE5kdw",
@@ -335,33 +283,7 @@
         ],
         "published": "Tue, 12 May 2026 09:50:05 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-13T00:00:19.167098"
-    },
-    {
-        "id": "CBMiWkFVX3lxTE5lWDIzcjV5WHlZZzFES0ZWSkY1ajVlUlFwaUxJZHdGb1RGcnhmcG5UWF9WbTJ1amYxTks3aHk1eDZBd2E2ZEpIQW8zbWl4aS1PM1Rvb2xSbFh1dw",
-        "title": "What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWDIzcjV5WHlZZzFES0ZWSkY1ajVlUlFwaUxJZHdGb1RGcnhmcG5UWF9WbTJ1amYxTks3aHk1eDZBd2E2ZEpIQW8zbWl4aS1PM1Rvb2xSbFh1dw?oc=5",
-        "location_name": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ],
-        "location_method": "inferred",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "United Kingdom",
-                "coordinates": [
-                    54.7023545,
-                    -3.2765753
-                ],
-                "method": "inferred",
-                "confidence": "low"
-            }
-        ],
-        "published": "Tue, 12 May 2026 01:39:11 GMT",
-        "source": "BBC",
-        "fetch_timestamp": "2026-05-13T00:00:19.167917"
+        "fetch_timestamp": "2026-05-13T04:06:09.995663"
     },
     {
         "id": "CBMitwFBVV95cUxObGhCa3IzUHMzeEp3cmVDNm5Tc09XN1hZRnR1ckJtckktQVZwanJPaS16c0VmanB4OFVuN0pHbDd3QmV5bGV5aHJiaHBVVEY0czdMazJSVURndHFFWWx1cHRRTGdMdTJvRWg2cnpZcDEwdEpsaFN6eFBLRmFnYWxqYWtncmRiZkZSUU1FSnZSNTJoT25ZOE13ODEyWnpQR25aR3hsZDYwLVp0V3VhOXMyNmtneGZHdEU",
@@ -387,33 +309,7 @@
         ],
         "published": "Mon, 11 May 2026 23:48:00 GMT",
         "source": "Los Angeles Times",
-        "fetch_timestamp": "2026-05-13T00:00:19.168591"
-    },
-    {
-        "id": "CBMitAFBVV95cUxNTnJRMlFCeFJXb1hjMjlMWWViTjMxSGp4SkdkREVwUlA0Z0VGMWo4QzE2X2Q4UUpaRXJBaGthSDhlNlktbjJzMTRmZk1rRlN6WnJ2QS1aOWNzdmdVbk9rS29Qa2xWZlk4RjJ4YURMYlZ3amhoVkpja1VuV3J3UG9GMFBscXVyNGdaMXZscnB1R3ZIUVhESThJeEZWbVVVSVQ0T0pzS214NE5VZE9sT0lwdXhZNzbSAbwBQVVfeXFMUDJ0aTNKZGtjd2Jzanp6QksyajNRcFpoR1J1ek4xUnFBcm9tdGhTaTlNZXVhcUw0ZmFaSHRTbVcxWll1R1dwMlFaYy1veTJiNFVYdmVNOUNrZmZXd3lHanlob3Zqb2VtSXRjcjNJaUJacnZ0UHU1dlBZODEwTlJUdUZPU1JQNVV5RTlGWGJiYWpzYzZpNmlXajVqSEZmZHpjY0l3cV9pZE11T2hGNkt2bldfZjhwWlRMdS1Rb2M",
-        "title": "California monitoring 4 residents possibly exposed to hantavirus - NBC Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJRMlFCeFJXb1hjMjlMWWViTjMxSGp4SkdkREVwUlA0Z0VGMWo4QzE2X2Q4UUpaRXJBaGthSDhlNlktbjJzMTRmZk1rRlN6WnJ2QS1aOWNzdmdVbk9rS29Qa2xWZlk4RjJ4YURMYlZ3amhoVkpja1VuV3J3UG9GMFBscXVyNGdaMXZscnB1R3ZIUVhESThJeEZWbVVVSVQ0T0pzS214NE5VZE9sT0lwdXhZNzbSAbwBQVVfeXFMUDJ0aTNKZGtjd2Jzanp6QksyajNRcFpoR1J1ek4xUnFBcm9tdGhTaTlNZXVhcUw0ZmFaSHRTbVcxWll1R1dwMlFaYy1veTJiNFVYdmVNOUNrZmZXd3lHanlob3Zqb2VtSXRjcjNJaUJacnZ0UHU1dlBZODEwTlJUdUZPU1JQNVV5RTlGWGJiYWpzYzZpNmlXajVqSEZmZHpjY0l3cV9pZE11T2hGNkt2bldfZjhwWlRMdS1Rb2M?oc=5",
-        "location_name": "California",
-        "coordinates": [
-            36.7014631,
-            -118.755997
-        ],
-        "location_method": "inferred",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "California",
-                "coordinates": [
-                    36.7014631,
-                    -118.755997
-                ],
-                "method": "inferred",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Mon, 11 May 2026 22:45:29 GMT",
-        "source": "NBC Los Angeles",
-        "fetch_timestamp": "2026-05-13T00:00:19.169229"
+        "fetch_timestamp": "2026-05-13T04:06:09.996549"
     },
     {
         "id": "CBMihAFBVV95cUxNVHU3VVFVTzNVTzl2eC1RTm5aclp5bW00azdVSEpQVWQ5YUc1czBDYzFvRlNRUFluT0lsU201WkRWN1d2MHE1RmE1VjZ5U1NuY0dCRkVxWmFNU19menRLVHU5bEZpTUtrNlZ5dHRic2xLemRFSUZ3Y2F1WkpoT3VjSl82UDY",
@@ -439,7 +335,7 @@
         ],
         "published": "Mon, 11 May 2026 22:19:18 GMT",
         "source": "NPR",
-        "fetch_timestamp": "2026-05-13T00:00:19.169638"
+        "fetch_timestamp": "2026-05-13T04:06:09.997014"
     },
     {
         "id": "CBMitgFBVV95cUxPY0VSUXJjSktwNHVRNWJGbTQxMnl5YkJRb0FXRUpnRy1pcTdTY1VkbG1UU0h3M2lCOTl3c2wwSXBXVGNnbUlZWGdxTk9lOTlKbUZpdk0tSGhfYTVKUnZ5cmd4YnFmdW9CNWFPcllPc0d3cktPd3dNNlVXeWs2MnRjMHZCZFgyZWI5QWw2M3BxbnJlQnRlWWc0c1A0Qnh6XzlLcnpwRVdUNkVBSUdQRFFrMnpBOEFRQdIBuwFBVV95cUxOT0pZbGUxWnNXZFJqSGxzdEVydDBYNVhlbkIzbHZvaW9DYUdFbkFJa0ZUVEYtVXd0a3ZOT29XNG9XUmJ0d21OTk9iOFMwWEdNOWUtVHpRQkpmS3UxU0lQVW9DckRCR3I4aUdPTlJJNEFjcUNMV0lqYThuaEFuUVVQZEN3YjZsWGlNN0dFaHhMZVBJTVMwTEFkbW5wdThuYWVlX3JCZl9LZDVuS24xLWRBN01DTDZwZlMzbGZj",
@@ -465,7 +361,7 @@
         ],
         "published": "Mon, 11 May 2026 22:01:00 GMT",
         "source": "The Hill",
-        "fetch_timestamp": "2026-05-13T00:00:19.170311"
+        "fetch_timestamp": "2026-05-13T04:06:09.997722"
     },
     {
         "id": "CBMiqgFBVV95cUxPX01TaW9aVXJIc3RCY1k1ZEdwVGFTZ1h6LXBVZTU0R29kQkdQb1dFanFHaktWby1INXR5UnBibTRxRkh0YUJoaFZqX2ZOdkdmRFU1UnhEQ3BMS3Vpa3F0VHVsOWRFTzhFMklTT3pZSUJmU29ra29kV3dwWnZPbFpseVZRNWpxOHBDMnE5VEE2X3VGTldwRWJGVlVybEh6NFRiZXk1TjNwQVBkdw",
@@ -491,7 +387,7 @@
         ],
         "published": "Mon, 11 May 2026 20:31:46 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-05-13T00:00:19.170814"
+        "fetch_timestamp": "2026-05-13T04:06:09.998313"
     },
     {
         "id": "CBMiakFVX3lxTFA0LXp2ekh2QlJoNFV4MVRndmZiQkZMd2ExV3hVTnlqMENCSV9vWmNDcmJJMkd3cF9LSU9LdHdkOUcxYmo3V2ZPRVctREREMFBwOWhzdlRRWFBTdkxDbkJhQ3FVNnFqclBWR3c",
@@ -517,7 +413,7 @@
         ],
         "published": "Mon, 11 May 2026 20:05:38 GMT",
         "source": "CNN",
-        "fetch_timestamp": "2026-05-13T00:00:19.171466"
+        "fetch_timestamp": "2026-05-13T04:06:09.999048"
     },
     {
         "id": "CBMixgFBVV95cUxNOTZsa04xajZaNnlXTFBJMl9QUkktWUE0Q1Q0ZkJHMkxSUmV4U0pqQXVZV2k3Z2d0dEE4UEJYMUFPYWhHeG1zcXM0aHJ1N3FTaFNkbnF3Q2RIVGZSU1QxQVBSOFEwTG9pb3JsMmw4LUk3d1RCQmxSYzJVdEw1Q1VDVms4MVdYR2pqYlRtZTB0QmJxWkx2a0R4WU1ubXNGNlN4bW81SzdtclFmOWtDM2VfZmpoRzQwSjV5YkQzRF92TVd3WjBZZkE",
@@ -543,7 +439,7 @@
         ],
         "published": "Mon, 11 May 2026 19:56:00 GMT",
         "source": "Forbes",
-        "fetch_timestamp": "2026-05-13T00:00:19.172065"
+        "fetch_timestamp": "2026-05-13T04:06:09.999775"
     },
     {
         "id": "CBMiqAFBVV95cUxPT0Nhb2U5bWtYcDRxaEVLRG83clNxUlRUY0RNYXg0b1gwYVV0SHVOclpZeXQxZWhlLVh1a3dra2tOZERCRzQtRzR0NkJVVkRBNXFyeGVGT2RrbEZLMUtsdnVDOTlLVGNlYU9lZi1PeUhBZ3FFWmV2d1RDVTV3dnB3ZkxKR2I4ZGE1c0VQMXhtS1dQV2oyZXIzSHJHNlBldGhyVmJRck1hS0g",
@@ -569,7 +465,7 @@
         ],
         "published": "Mon, 11 May 2026 19:47:12 GMT",
         "source": "PBS",
-        "fetch_timestamp": "2026-05-13T00:00:19.172628"
+        "fetch_timestamp": "2026-05-13T04:06:10.000426"
     },
     {
         "id": "103450 at https://www.paho.org",
@@ -595,33 +491,7 @@
         ],
         "published": "Mon, 11 May 2026 17:50:48 +0000",
         "source": "PAHO RSS",
-        "fetch_timestamp": "2026-05-13T00:00:19.427035"
-    },
-    {
-        "id": "CBMixgFBVV95cUxQMkw5MXAwaWduRnVDUGVUc2g4RV9UbGlyUmlSakQ1a3VSTEdiTXpKM0d6c0s3bl9hZGdGMnZRZzFwMm13OC1oOTB5SDF5Um1hbEdacGVsQUlYT1dybUlHRjgybnlVeER4b2JvRldiLUl1eERzRVA5ZGVRRG03cXFaaG9DN003aVd4WjNHV2hkbXY1TjFYWHhMS3pOVURvY0pIZ1o3SXo3a2pHQmpqUklQaEx3Ui16YXJONW1EYU1CSXZ4Z1EwTEE",
-        "title": "Three New Yorkers were on hantavirus-stricken cruise ship, Hochul says - Spectrum News",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMkw5MXAwaWduRnVDUGVUc2g4RV9UbGlyUmlSakQ1a3VSTEdiTXpKM0d6c0s3bl9hZGdGMnZRZzFwMm13OC1oOTB5SDF5Um1hbEdacGVsQUlYT1dybUlHRjgybnlVeER4b2JvRldiLUl1eERzRVA5ZGVRRG03cXFaaG9DN003aVd4WjNHV2hkbXY1TjFYWHhMS3pOVURvY0pIZ1o3SXo3a2pHQmpqUklQaEx3Ui16YXJONW1EYU1CSXZ4Z1EwTEE?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Mon, 11 May 2026 16:16:00 GMT",
-        "source": "Spectrum News",
-        "fetch_timestamp": "2026-05-13T00:00:19.427649"
+        "fetch_timestamp": "2026-05-13T04:06:10.252947"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states",
@@ -656,7 +526,7 @@
         ],
         "published": "Mon, 11 May 2026 16:39:45 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-05-13T00:00:20.644397"
+        "fetch_timestamp": "2026-05-13T04:06:11.536022"
     },
     {
         "id": "CBMiswFBVV95cUxNRzlnN2lpZ2RyTVRjNXp4UGRyZmdCbVNwaHdsUlBUM3VOT2oybzZtNmI2REF4U0YzeGVVb1BPNTRmdG1WazhLZVV1WlJrakxIYjRnX2hOVmpIZkRIekVhWm9sN3RXVVdqZTVsRHllU3loOUdfSkNyRVBKZmkwZ1o0WDYzRWhkcm51bzRXRW9SbWFrOU1HcXptOXNYNGdpVFRCcHUyWFFBSHFqQW95Z2hhNmhydw",
@@ -682,7 +552,7 @@
         ],
         "published": "Mon, 11 May 2026 13:46:22 GMT",
         "source": "PBS",
-        "fetch_timestamp": "2026-05-13T00:00:20.645107"
+        "fetch_timestamp": "2026-05-13T04:06:11.536777"
     },
     {
         "id": "CBMipwFBVV95cUxOcmI4d0lyVkVqLU5NR0VZd0pRMzlMTDR6U2hMVUp6LXdlY2dZM3BUbnBIU0dzV3UtWl8wM2tXRFR0aGdNajRPaUczUGhZSlk3SXFEZFRtT3Z5UnRNeFdFZzVvaHJubjR0UDRicGFzVENSOTVsTnd3VkNxZXkxRE05TUhKdldIS0pvd3k2Skhzc3kzV0JQUlhZa1VBc2Qyd3Ffdkc4NWJCRdIBrAFBVV95cUxOdjk1enFUNVd3VUc1R01NeHQtXzBaX05STG5UTW80VUYtc2piMTB4WUF6Z3Uwb0tWdFppbHU4RlFKZ0NVRWFfYVBBbjZZbFYtV0xEWHVyVDcyOXlGdEUtOHpfTXIxSVI3dEI0OWVZOTZXTjlDaVJ0YW8tOUFUenJuT2NNaWw1dG8wakhzSUpHcFp3X1hwY1FtRGxyYkpXaDNmUHlnM0RHanM1UTh1",
@@ -708,7 +578,7 @@
         ],
         "published": "Mon, 11 May 2026 13:33:49 GMT",
         "source": "Al Jazeera",
-        "fetch_timestamp": "2026-05-13T00:00:20.645675"
+        "fetch_timestamp": "2026-05-13T04:06:11.537374"
     },
     {
         "id": "CBMiowFBVV95cUxNM2lpclJWTnpqQlpPVGRmNmJSQVB0d2hvOXRheWZKYnJKbmVOZEx1NUdJWUNJY1dZVUxxSDM5SE1ySGs0NHpOaDI5cFNucVdQY0JuSUZTOG45bVI4UkVlRW96ZGFSWFhXZ29JNmFjLW1xT1JPZXJ2czItWmpKaFR6Umt0dExKNUJHcjhrTWFlLWg4dFpmaEx6R0NtRjU4OGRyaENn0gGoAUFVX3lxTE1EaWNMTm9VbENGekpmWWZ0ckVOVjhqQ0pvbUlZM2ItWU4wRlhMdWpEamZiNkVjUFpNX3Jaakdkand1NDlMVV9RTDJTTlJraFF6M252dUhyYy1QZFhpd0prX1ZxVEJfVThxSGhHa3ZkelpDNmZzUlNTcmo1cUhYOHhWOE5sT2VZTWEwTHlwNDluZ0xPU210ME9wbFU2WTh4QVF3ekVZaGZ3WQ",
@@ -734,7 +604,7 @@
         ],
         "published": "Mon, 11 May 2026 12:36:11 GMT",
         "source": "Al Jazeera",
-        "fetch_timestamp": "2026-05-13T00:00:20.646214"
+        "fetch_timestamp": "2026-05-13T04:06:11.537956"
     },
     {
         "id": "CBMiwwFBVV95cUxQSEt6V1pkVVhfTFh2aUdqYkdDMHhTZ2tDUnlta05feGs3SDB3b2FuUl9oU3hnRFh3aEpkZVdCNnYzRVJSTEdUMW1WdENHX09oZWZtQVc5VWRfTDdVOFhHbUtsVGw5VlJsR3BYUldJMGFTT1FXeWVWM3pMVDVZNU1PTFdIem14Yl9pZ3g4QmRBa3V5U2FISjhka1l5cmFKQm1rUzJsLUVCNmJxNkJyVGR4blpIbE44dldDV3FxcEh1eHpSTG8",
@@ -760,7 +630,7 @@
         ],
         "published": "Mon, 11 May 2026 12:25:43 GMT",
         "source": "Reuters",
-        "fetch_timestamp": "2026-05-13T00:00:20.646796"
+        "fetch_timestamp": "2026-05-13T04:06:11.538625"
     },
     {
         "id": "CBMijAFBVV95cUxNWDNTYnRWeHFvOGh3bmtyeDh0MENRaUZMUndQRTk3OVRmV2R1aU1CN09SdzJreV9LRE1DWG5hSFhERFlmeE9SVkU5cWV4R2c4TTJRWVNvR25BVmU3ZWNvUHVuODduakpJZGZWUTc5QWM2UlNBWURxVG1DQ0lQWm5EeWk1UmtEbnpYb1V4Vw",
@@ -786,7 +656,7 @@
         ],
         "published": "Mon, 11 May 2026 10:34:19 GMT",
         "source": "The New York Times",
-        "fetch_timestamp": "2026-05-13T00:00:20.647557"
+        "fetch_timestamp": "2026-05-13T04:06:11.539375"
     },
     {
         "id": "CBMi8wFBVV95cUxNelg5U1ZadVBUcDRFejFkTUxQbWJkQ3h6a2RzcHlyVE13OTFUUVQ0bW9LM1kyTWdvaS12SGlBcThGZ0RmTTAtejJaZ3UxaTR4OGo3OUNHbVJQc1ExWDNQUmZpaGhiV2dTcmhCNG1UbWNiQzdWUHh3UTgzTjk1bWNteHBVak1CRUgxR1k5UVMxR2xNd2VGLUxNaVZLTlhaRjYwY3N6M1BFQWtLSGZrX3RnYklHTkpKZEFfa1dSRG1nOGxqU3JBa1QybnFWdkMtc1JVR3pJN1I1R0FuQjZEdXk0S0JDTnhfOW5Tb0hzUmZLcGFha1E",
@@ -812,7 +682,7 @@
         ],
         "published": "Mon, 11 May 2026 07:39:00 GMT",
         "source": "Forbes",
-        "fetch_timestamp": "2026-05-13T00:00:20.648318"
+        "fetch_timestamp": "2026-05-13T04:06:11.540150"
     },
     {
         "id": "CBMiaEFVX3lxTFBRT2trMVJCeGUtaHhCcGIxRUs5bzVFMnpyeHhJSC1PM3BrLXV0NUpMZjRsTUV3SlR0cGN2bVFMRHdTQTZDRDhIX0tUZmRabXlmTWZNZVVRWV9ZSVRLV3N4ek5RLXMwc1cx",
@@ -838,64 +708,12 @@
         ],
         "published": "Mon, 11 May 2026 07:00:00 GMT",
         "source": "Nebraska Medicine",
-        "fetch_timestamp": "2026-05-13T00:00:20.648867"
+        "fetch_timestamp": "2026-05-13T04:06:11.540696"
     },
     {
-        "id": "CBMiwgFBVV95cUxNSWh5alBZWmxwVEZ0MGVTNzFKNE1MSmNjeVlXejBIZzZ0ZVE5N3hHOEFFN0NEazN0YUFKdGFNUUYxT1RueGtMRlhJdW5laGo5TnpJN2JqMTdNVkNxR0ZvUVZxS1N3bUlNNXlHZnA4RDRSczllVU92M0w3aFRTTkNuaHBnc0RPYm1nVHN3RHRLVllDZFpoMWdZQXRMcjl4UndqUllQTEN5U2RtM0VaZUdKSUVmR0k4Qm5vTGk4c3BRLTgyQQ",
-        "title": "Andes hantavirus outbreak highlights global spillover and transmission risks - News-Medical",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWh5alBZWmxwVEZ0MGVTNzFKNE1MSmNjeVlXejBIZzZ0ZVE5N3hHOEFFN0NEazN0YUFKdGFNUUYxT1RueGtMRlhJdW5laGo5TnpJN2JqMTdNVkNxR0ZvUVZxS1N3bUlNNXlHZnA4RDRSczllVU92M0w3aFRTTkNuaHBnc0RPYm1nVHN3RHRLVllDZFpoMWdZQXRMcjl4UndqUllQTEN5U2RtM0VaZUdKSUVmR0k4Qm5vTGk4c3BRLTgyQQ?oc=5",
-        "location_name": "Europe",
-        "coordinates": [
-            51.0,
-            10.0
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Europe",
-                "coordinates": [
-                    51.0,
-                    10.0
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Mon, 11 May 2026 05:02:00 GMT",
-        "source": "News-Medical",
-        "fetch_timestamp": "2026-05-13T00:00:20.649447"
-    },
-    {
-        "id": "CBMikgFBVV95cUxQcG5qc3BjMExONDhHWXFFazZEMUdJR3V0cW5EZlIzalFnSHlHdy1IcU5VSkVEX2swVkdYVmVLUHFNeWU0SFdtMV9DRmlMajlyOGNRSkt6dnRNazhZelpVLTdaZlM0clozUlVRWVhEWFJlMlpCLUd6VzZ5VDZydzU1dGx3dTNzUDVaT3BMYjFEVWR4Zw",
-        "title": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcG5qc3BjMExONDhHWXFFazZEMUdJR3V0cW5EZlIzalFnSHlHdy1IcU5VSkVEX2swVkdYVmVLUHFNeWU0SFdtMV9DRmlMajlyOGNRSkt6dnRNazhZelpVLTdaZlM0clozUlVRWVhEWFJlMlpCLUd6VzZ5VDZydzU1dGx3dTNzUDVaT3BMYjFEVWR4Zw?oc=5",
-        "location_name": "Including One",
-        "coordinates": [
-            35.2826058,
-            69.445227
-        ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "Including One",
-                "coordinates": [
-                    35.2826058,
-                    69.445227
-                ],
-                "method": "extracted",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Mon, 11 May 2026 03:05:22 GMT",
-        "source": "The New York Times",
-        "fetch_timestamp": "2026-05-13T00:00:21.906809"
-    },
-    {
-        "id": "CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT",
-        "title": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus - NPR",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5",
+        "id": "CBMiywFBVV95cUxPRUh6ek56TkxKWS1POVd6ZlkwZzFjR3lWbGpyUzdmZEZDTEgwelBJOUM3N1hnWi1NdDdJdjNHeFd1b3pIcm91ZG03Mmd1WGhvRHY2aDBQcmF6dTN2a201ZTBqQ1Z1N2pPU0lPQV9RaldDUlNzTmhKbzZHNWY5U0NRNllNMXlMNEZYQVFjU1YtWXlEU3BfYUR1b05BQ2lobmxHM3E3cm9rX2tldHRGeHZQYmVUWEhMVFh6UE1KRHJON3V5RHpaTkNpV0J5WQ",
+        "title": "Nebraska Medicine/UNMC asked to monitor U.S. citizens from cruise ship hantavirus outbreak - University of Nebraska Medical Center",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUh6ek56TkxKWS1POVd6ZlkwZzFjR3lWbGpyUzdmZEZDTEgwelBJOUM3N1hnWi1NdDdJdjNHeFd1b3pIcm91ZG03Mmd1WGhvRHY2aDBQcmF6dTN2a201ZTBqQ1Z1N2pPU0lPQV9RaldDUlNzTmhKbzZHNWY5U0NRNllNMXlMNEZYQVFjU1YtWXlEU3BfYUR1b05BQ2lobmxHM3E3cm9rX2tldHRGeHZQYmVUWEhMVFh6UE1KRHJON3V5RHpaTkNpV0J5WQ?oc=5",
         "location_name": "United States",
         "coordinates": [
             39.7837304,
@@ -914,9 +732,35 @@
                 "confidence": "low"
             }
         ],
-        "published": "Mon, 11 May 2026 01:42:24 GMT",
-        "source": "NPR",
-        "fetch_timestamp": "2026-05-13T00:00:21.907718"
+        "published": "Mon, 11 May 2026 04:27:45 GMT",
+        "source": "University of Nebraska Medical Center",
+        "fetch_timestamp": "2026-05-13T04:06:11.541489"
+    },
+    {
+        "id": "CBMikgFBVV95cUxQcG5qc3BjMExONDhHWXFFazZEMUdJR3V0cW5EZlIzalFnSHlHdy1IcU5VSkVEX2swVkdYVmVLUHFNeWU0SFdtMV9DRmlMajlyOGNRSkt6dnRNazhZelpVLTdaZlM0clozUlVRWVhEWFJlMlpCLUd6VzZ5VDZydzU1dGx3dTNzUDVaT3BMYjFEVWR4Zw",
+        "title": "American Passengers Exposed to Hantavirus Begin Quarantine in U.S. - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcG5qc3BjMExONDhHWXFFazZEMUdJR3V0cW5EZlIzalFnSHlHdy1IcU5VSkVEX2swVkdYVmVLUHFNeWU0SFdtMV9DRmlMajlyOGNRSkt6dnRNazhZelpVLTdaZlM0clozUlVRWVhEWFJlMlpCLUd6VzZ5VDZydzU1dGx3dTNzUDVaT3BMYjFEVWR4Zw?oc=5",
+        "location_name": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ],
+        "location_method": "inferred",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "United States",
+                "coordinates": [
+                    39.7837304,
+                    -100.445882
+                ],
+                "method": "inferred",
+                "confidence": "low"
+            }
+        ],
+        "published": "Mon, 11 May 2026 03:05:22 GMT",
+        "source": "The New York Times",
+        "fetch_timestamp": "2026-05-13T04:06:11.542263"
     },
     {
         "id": "CBMiV0FVX3lxTE4tbWljNWtHYXdEcTVlREZPRUF4eHluQ1NyWENhYzNNZklvNUFaTnBrSUVxa2pYVjNaRVROeUFWSUNyUnIyS1Y5X2l5eU5kTUEyNlFqd3RNcw",
@@ -951,7 +795,7 @@
         ],
         "published": "Sun, 10 May 2026 17:13:52 GMT",
         "source": "Welcome to the United Nations",
-        "fetch_timestamp": "2026-05-13T00:00:23.251279"
+        "fetch_timestamp": "2026-05-13T04:06:12.928088"
     },
     {
         "id": "CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg",
@@ -977,33 +821,7 @@
         ],
         "published": "Sun, 10 May 2026 17:03:05 GMT",
         "source": "PBS",
-        "fetch_timestamp": "2026-05-13T00:00:23.251939"
-    },
-    {
-        "id": "CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi",
-        "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "extracted",
-        "location_confidence": "high",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "extracted",
-                "confidence": "high"
-            }
-        ],
-        "published": "Sun, 10 May 2026 06:50:37 GMT",
-        "source": "The New York Times",
-        "fetch_timestamp": "2026-05-13T00:00:23.252616"
+        "fetch_timestamp": "2026-05-13T04:06:12.928785"
     },
     {
         "id": "CBMiWkFVX3lxTE5DcTZFTFNQLWozM3Bpd0duUFpOYTFrX09wWUR4alFZNVpTWkIwbm5ETm1DMmJrNzdfTldNLUpTSlMzZTc1bFA0Y1RrOWdQQUJ2eU53SlJNbFF3dw",
@@ -1029,7 +847,7 @@
         ],
         "published": "Sun, 10 May 2026 06:43:15 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-13T00:00:23.253134"
+        "fetch_timestamp": "2026-05-13T04:06:12.929339"
     },
     {
         "id": "CBMijgFBVV95cUxQUWlQaHNoaWNyYk5NYjBWRFQyQ3VjdGR5QjJCNnJhSnZOYldPS2pzQnVCa1d0ZzRmRVVYWE9GeGJiUjltNXlULUpKT3RLZ3ZVVEZTMFBUamdEX3lZNVZhUzlBbnRfaHBVQ0pmOWx4LUZMRGE2cGVHcmkxSHdINWZYTEFqeGpxTTg5M1VzRXpB",
@@ -1055,7 +873,7 @@
         ],
         "published": "Sun, 10 May 2026 04:20:23 GMT",
         "source": "CNN",
-        "fetch_timestamp": "2026-05-13T00:00:23.253784"
+        "fetch_timestamp": "2026-05-13T04:06:12.930007"
     },
     {
         "id": "CBMiwgFBVV95cUxQR3JCWmpqNW5ZVXJ0Ukh4MTlaQWRCYW83RTRpajcxQWt6dm5nVjNEUGpRbkdVbGVYelpEU01FbG5DZ3hkZ2RncTdPWEIxNHhtVU5qTGFuMXowTlpHY1NBWGZGcFItclpReG1qUldSTGtLUW4xalNFa05IdC1aY2pCVHVSZ290R21UcVFHZlV4THNLV3ViNlVtM001MGx6UGFSa2NheGhma2lVbmREREFpOERpSHdhbEJVQ21VejJrWUtVZw",
@@ -1081,7 +899,33 @@
         ],
         "published": "Sat, 09 May 2026 22:28:00 GMT",
         "source": "NBC News",
-        "fetch_timestamp": "2026-05-13T00:00:23.254311"
+        "fetch_timestamp": "2026-05-13T04:06:12.930549"
+    },
+    {
+        "id": "CBMiWkFVX3lxTE8xdHlUWDYwTnVob0JOQ1YtX0NxUDRTT2xicGtrMVptNGhKdmJoc0htMlAxdFV6VTNsN1dsdmRFVGpGenVpLTdzR0VBdFNKcDJReEhNdFEybGdfQQ",
+        "title": "US sending charter flight to bring Americans home from hantavirus cruise ship - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdHlUWDYwTnVob0JOQ1YtX0NxUDRTT2xicGtrMVptNGhKdmJoc0htMlAxdFV6VTNsN1dsdmRFVGpGenVpLTdzR0VBdFNKcDJReEhNdFEybGdfQQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Sat, 09 May 2026 20:00:18 GMT",
+        "source": "BBC",
+        "fetch_timestamp": "2026-05-13T04:06:12.931291"
     },
     {
         "id": "CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw",
@@ -1107,7 +951,7 @@
         ],
         "published": "Sat, 09 May 2026 19:21:00 GMT",
         "source": "PBS",
-        "fetch_timestamp": "2026-05-13T00:00:23.254950"
+        "fetch_timestamp": "2026-05-13T04:06:12.931958"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise",
@@ -1151,7 +995,7 @@
         ],
         "published": "Sat, 09 May 2026 15:10:33 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-05-13T00:00:24.885329"
+        "fetch_timestamp": "2026-05-13T04:06:14.885250"
     },
     {
         "id": "CBMiowFBVV95cUxPdUFnYi0wRVJOd2VheUxFWU5QVkJWRHljYUpMV1R2UFh2eHdhSml5empZbTlOUVRpRHBUYlFoa3ZxZGNWZmN6cmh0SUJKdVFuQjRlUzNNSmhyTVJEMEFpclJnLXRqbTduMlgyazJjSU1IQUhvV2NfWFRna1p6NjE1cy10c2hKSjJRVFR4VmNpWmdYQ2V2MHRVZ2dVejg1MEM1VVhr",
@@ -1177,7 +1021,7 @@
         ],
         "published": "Fri, 08 May 2026 22:15:00 GMT",
         "source": "AP News",
-        "fetch_timestamp": "2026-05-13T00:00:24.885969"
+        "fetch_timestamp": "2026-05-13T04:06:14.885966"
     },
     {
         "id": "CBMiWkFVX3lxTE02U3hETUdDbFhmWHRXckc3NTR2VDlvOVJmbmtqT3c4NlJ0aTE5ajFqdzRMZXN2bUxXLS1GeDdOTS1fSGVhOXh2cjd4NThuSjJmblVRSFY3OEEyQQ",
@@ -1203,7 +1047,7 @@
         ],
         "published": "Fri, 08 May 2026 21:02:52 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-13T00:00:24.886636"
+        "fetch_timestamp": "2026-05-13T04:06:14.886667"
     },
     {
         "id": "CBMid0FVX3lxTE9TZE5UcVFZa3N4TUcza3R2ZnFoOFpJaHB5OTlYWkJjWFFOVTAzWnRxT0gyX2Q0MjJJWDJPLW1Zb3l0M0h5ZVBkN1J1bXp3S3ktMURsa2VXbjdSdFg4Wm03YXdOektGUFJTNkwtVk9PdDlOSG82c1ZV",
@@ -1229,7 +1073,7 @@
         ],
         "published": "Fri, 08 May 2026 20:27:52 GMT",
         "source": "New Jersey Monitor",
-        "fetch_timestamp": "2026-05-13T00:00:26.621062"
+        "fetch_timestamp": "2026-05-13T04:06:16.003755"
     },
     {
         "id": "CBMingFBVV95cUxQNklYNEJ1N1ctN1AtaGRiSVVSN2FGVGVtY3REUEZWNU9QUU5vaWlqekpHek5JZ2VzQ3BLMWcyd3VBQWhVTjBwcHdpNnU0ZTFvU1ZjZmUtZWlGcVFtaXBMZnlwdHNURnVEX2E4Qm1vWEN0cDJaWnR3UlJ5ZDdFNDhlSmlVZlVXOF9CcTMyb0ZjUWtWdUd4MnhITndMMm5zdw",
@@ -1255,33 +1099,7 @@
         ],
         "published": "Fri, 08 May 2026 20:27:33 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-05-13T00:00:27.944367"
-    },
-    {
-        "id": "CBMiuwFBVV95cUxQWUxCZEtBOFU5Rmt5S3Z0dEhPN1NONlZKRXhxa2NIX01MUjBQeFZUb3NCUFFOQmZzX29uUXA5T013R3lNQ1dKYzI0Wkp2TUdXSHNmaGV3UXFNOTN3d0tjUmVTWUFQTTFuT1hkV192MFc2aFdBcXVnTG1zTnRfdGx3Q0NERWJ3eWtQUFdER0NURy1yQ2xUWnRnRVZkd3BBRlFXYVdPbVVuVnVEYjBFVmtZMWx0MmdtODFWZ2lB",
-        "title": "Nebraska Medicine/UNMC asked to monitor U.S. citizens from cruise ship hantavirus outbreak - Nebraska Medicine",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUxCZEtBOFU5Rmt5S3Z0dEhPN1NONlZKRXhxa2NIX01MUjBQeFZUb3NCUFFOQmZzX29uUXA5T013R3lNQ1dKYzI0Wkp2TUdXSHNmaGV3UXFNOTN3d0tjUmVTWUFQTTFuT1hkV192MFc2aFdBcXVnTG1zTnRfdGx3Q0NERWJ3eWtQUFdER0NURy1yQ2xUWnRnRVZkd3BBRlFXYVdPbVVuVnVEYjBFVmtZMWx0MmdtODFWZ2lB?oc=5",
-        "location_name": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ],
-        "location_method": "inferred",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "United States",
-                "coordinates": [
-                    39.7837304,
-                    -100.445882
-                ],
-                "method": "inferred",
-                "confidence": "low"
-            }
-        ],
-        "published": "Fri, 08 May 2026 18:04:17 GMT",
-        "source": "Nebraska Medicine",
-        "fetch_timestamp": "2026-05-13T00:00:27.945268"
+        "fetch_timestamp": "2026-05-13T04:06:17.661634"
     },
     {
         "id": "CBMiigFBVV95cUxOWVRqdmw5dEFnVUJvX2VnU05XdUFnSktLa3NvXzFRX3BmVE9lLXY1T19ObnJ0RGY3ckdDZ3RrcWpqMTYya2hENFlBRFhUMjBCbUxkcG5ZWUJocGRIUmZxemF6YkpYZWVEOTBnWlMzcnhicDYzOThrTWVNWUk3WE1MR2h2YWFuY29RYWc",
@@ -1307,7 +1125,7 @@
         ],
         "published": "Fri, 08 May 2026 16:48:48 GMT",
         "source": "The New York Times",
-        "fetch_timestamp": "2026-05-13T00:00:27.945916"
+        "fetch_timestamp": "2026-05-13T04:06:17.662459"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
@@ -1333,33 +1151,7 @@
         ],
         "published": "Fri, 08 May 2026 17:33:41 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-05-13T00:00:28.236172"
-    },
-    {
-        "id": "CBMixAFBVV95cUxPdm5tOENnSHpTdHd2bHZwcFdkMDdXa09VRzk4TnRZdUoxY3puYWdxejI3QWVrNFZmbVVJd1huM3JLMXhFYlFqX2RCZXJsUXJydmt0MGJTZHVjQzhYWWhVTE4yWldWRC1zdTNERHg0TG5yODBuZmQ5VGtIZVloRHp5akp5cHJTMnBYTTkyRmVDZGJiUEdpeGcyaTQwMy12Ynd6YkJmNXV1NnFTM0tSNllfbWlQbmtLMVdvY1BxdFg1b0VPUW4z",
-        "title": "Spain prepares for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands - PBS",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdm5tOENnSHpTdHd2bHZwcFdkMDdXa09VRzk4TnRZdUoxY3puYWdxejI3QWVrNFZmbVVJd1huM3JLMXhFYlFqX2RCZXJsUXJydmt0MGJTZHVjQzhYWWhVTE4yWldWRC1zdTNERHg0TG5yODBuZmQ5VGtIZVloRHp5akp5cHJTMnBYTTkyRmVDZGJiUEdpeGcyaTQwMy12Ynd6YkJmNXV1NnFTM0tSNllfbWlQbmtLMVdvY1BxdFg1b0VPUW4z?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "extracted",
-        "location_confidence": "high",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "extracted",
-                "confidence": "high"
-            }
-        ],
-        "published": "Fri, 08 May 2026 14:41:42 GMT",
-        "source": "PBS",
-        "fetch_timestamp": "2026-05-13T00:00:28.236617"
+        "fetch_timestamp": "2026-05-13T04:06:18.001502"
     },
     {
         "id": "CBMiV0FVX3lxTE1ncGhXUk1kVUJla3AweDc3LWRnV05MRmtqMnBGUlpNWjJJS0t3S05CQWNXNDNaLWtCVDJxQTg5OUJFZXZMd2tZbEI5RjFsdWxNbzRGX0RGMA",
@@ -1385,7 +1177,7 @@
         ],
         "published": "Fri, 08 May 2026 13:21:41 GMT",
         "source": "Welcome to the United Nations",
-        "fetch_timestamp": "2026-05-13T00:00:28.237070"
+        "fetch_timestamp": "2026-05-13T04:06:18.001908"
     },
     {
         "id": "CBMiY0FVX3lxTE4zYUtLUXBzbFJ0aTZ6V3FGQlhjSEo1TExneERWLXlzVUUwNDhiX29qbGpvcXR2cENaYkJNamk3ZVdnbU1NUjI3SW1EZE1LZ3MxUWQxc2VpWmVyQUd3bVkzbllodw",
@@ -1411,7 +1203,7 @@
         ],
         "published": "Fri, 08 May 2026 12:31:17 GMT",
         "source": "WOAH - World Organisation for Animal Health",
-        "fetch_timestamp": "2026-05-13T00:00:28.237699"
+        "fetch_timestamp": "2026-05-13T04:06:18.002558"
     },
     {
         "id": "CBMilwFBVV95cUxQcGFic2ZZUXl0SDlyZi1TZXVSZ0g5UWN4bTM2MlpCeWt2dVk0ZFRNOEpYdU1DdTBoREZVc3N6LVdpZ24xSDhNQmsxUVFPVGFyRnV3dUt4a2F3bDZWc29YaTJQbzdqenhjQk5yLVpwZGJsLVZld1hQa205VXgtbUdIaVN4b1V0T2NnTEVzSnZTOWliejQzRXlv",
@@ -1437,7 +1229,7 @@
         ],
         "published": "Fri, 08 May 2026 12:00:00 GMT",
         "source": "michiganmedicine.org",
-        "fetch_timestamp": "2026-05-13T00:00:28.238340"
+        "fetch_timestamp": "2026-05-13T04:06:18.003203"
     },
     {
         "id": "CBMickFVX3lxTE90YWxVQkJQdDBjcU5RWkxXU0RIZUxuZ0ljYXQ2WlZjMThQNG1rSWU0eTlpUEhSLVowSkcxTXFVeHlycE1wcVBOYmRpcEtyeDlEVUIyMkJxQ29zYUJvaXN4T1J5ZVJqakpEVlFoc0NxUDBmQQ",
@@ -1463,7 +1255,7 @@
         ],
         "published": "Fri, 08 May 2026 10:31:28 GMT",
         "source": "Your Local Epidemiologist",
-        "fetch_timestamp": "2026-05-13T00:00:28.238781"
+        "fetch_timestamp": "2026-05-13T04:06:18.003662"
     },
     {
         "id": "CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c",
@@ -1489,33 +1281,7 @@
         ],
         "published": "Fri, 08 May 2026 07:00:00 GMT",
         "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "fetch_timestamp": "2026-05-13T00:00:28.239566"
-    },
-    {
-        "id": "CBMiogFBVV95cUxPQkZmcmRHMXJvTzAyMDhJa0lDbUg0NEg4NHJXeEJ3SDBSdUhUbThHUDFjZXZldkhsZXI4ZUdsYjlhMmNVZUJrWEROeWlvaVl0dWlUb0wzRlBYNGZiMmZJbnVLNVRVOVNlbVcxREZCMTI4MnBDdG1tbERtbEdPbFBvZWVNcGJGYm04UUtIX0RwaFpVay0wWDhGWmVVOEtkX051Rmc",
-        "title": "Cruise ship hantavirus outbreak worries experts, though they discount pandemic fears - statnews.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkZmcmRHMXJvTzAyMDhJa0lDbUg0NEg4NHJXeEJ3SDBSdUhUbThHUDFjZXZldkhsZXI4ZUdsYjlhMmNVZUJrWEROeWlvaVl0dWlUb0wzRlBYNGZiMmZJbnVLNVRVOVNlbVcxREZCMTI4MnBDdG1tbERtbEdPbFBvZWVNcGJGYm04UUtIX0RwaFpVay0wWDhGWmVVOEtkX051Rmc?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Thu, 07 May 2026 23:43:42 GMT",
-        "source": "statnews.com",
-        "fetch_timestamp": "2026-05-13T00:00:28.240161"
+        "fetch_timestamp": "2026-05-13T04:06:18.004434"
     },
     {
         "id": "CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw",
@@ -1541,7 +1307,7 @@
         ],
         "published": "Thu, 07 May 2026 21:03:13 GMT",
         "source": "World Health Organization (WHO)",
-        "fetch_timestamp": "2026-05-13T00:00:28.240870"
+        "fetch_timestamp": "2026-05-13T04:06:18.005164"
     },
     {
         "id": "CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs",
@@ -1567,7 +1333,33 @@
         ],
         "published": "Thu, 07 May 2026 20:58:16 GMT",
         "source": "Time Magazine",
-        "fetch_timestamp": "2026-05-13T00:00:28.241512"
+        "fetch_timestamp": "2026-05-13T04:06:18.005785"
+    },
+    {
+        "id": "CBMiswFBVV95cUxQcnoxeXhfZy05cl8zMDNBbWQySzd0c05PSThiLWJqTzY5UkJvQUdTdTR0UEtlSVdJRUlLMm50RHQxZ0dmRXlsMW9RbHd3V25Id2tPR1pka0xPWTNJZ0xmT01KNTZVNnBMamlvSkdrZDlhN2FLeElIblN5bVdxWXpaWDAwamwxazJJcWl6d3dWNmgyYWhSOGl1ME13M0tENmpaZk1uWHluQ1RwX0pLREtrUVotaw",
+        "title": "WHO officials on hantavirus cases: ‘This is an outbreak on a ship, not another COVID-19’ - CIDRAP",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnoxeXhfZy05cl8zMDNBbWQySzd0c05PSThiLWJqTzY5UkJvQUdTdTR0UEtlSVdJRUlLMm50RHQxZ0dmRXlsMW9RbHd3V25Id2tPR1pka0xPWTNJZ0xmT01KNTZVNnBMamlvSkdrZDlhN2FLeElIblN5bVdxWXpaWDAwamwxazJJcWl6d3dWNmgyYWhSOGl1ME13M0tENmpaZk1uWHluQ1RwX0pLREtrUVotaw?oc=5",
+        "location_name": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "United States",
+                "coordinates": [
+                    39.7837304,
+                    -100.445882
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 07 May 2026 20:46:22 GMT",
+        "source": "CIDRAP",
+        "fetch_timestamp": "2026-05-13T04:06:18.006525"
     },
     {
         "id": "CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0",
@@ -1593,7 +1385,7 @@
         ],
         "published": "Thu, 07 May 2026 20:43:27 GMT",
         "source": "NPR",
-        "fetch_timestamp": "2026-05-13T00:00:28.242120"
+        "fetch_timestamp": "2026-05-13T04:06:18.007081"
     },
     {
         "id": "CBMiqAFBVV95cUxQRm5SclRKdUpJaXF0aGZ5MWNzTkNYTWJUaWNSV2RoN0I2WTRSQXBCV3ZBejRycTdJQlNkeFpHQzlyRXNoOTFVTGdkVzFNRXNjeWtEb1o1VXJ5cjcyaU93YjlZRnhyOTVVN0pndHB1YzhTbWFELXRvWnlPLUR0RzR6azA2Z1BoYXNlV3Yxc1I3NDVLbUpxVmZ4X1VwdWY1cFRDUUt3QzFoelU",
@@ -1619,7 +1411,33 @@
         ],
         "published": "Thu, 07 May 2026 20:37:57 GMT",
         "source": "Virginia Department of Health (.gov)",
-        "fetch_timestamp": "2026-05-13T00:00:28.242872"
+        "fetch_timestamp": "2026-05-13T04:06:18.007815"
+    },
+    {
+        "id": "CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n",
+        "title": "Hantavirus outbreak on cruise ship raises transmission concerns - University of California, Riverside",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n?oc=5",
+        "location_name": "California",
+        "coordinates": [
+            36.7014631,
+            -118.755997
+        ],
+        "location_method": "inferred",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "California",
+                "coordinates": [
+                    36.7014631,
+                    -118.755997
+                ],
+                "method": "inferred",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 07 May 2026 19:51:37 GMT",
+        "source": "University of California, Riverside",
+        "fetch_timestamp": "2026-05-13T04:06:18.008384"
     },
     {
         "id": "CBMiywFBVV95cUxOMGFmbmJGd3B1WkN5VzJDYTVieHZTOFJUckdibDVPVkdkUmFRMTdpNXFyMjhiVGUxYXJ0TFlLVEs1R0JpaU5OdnNNSUpVLVRYX0tKNnVxaGZRaGZJcEcwNnY1WktfdGdERnIxcDlaSHN6WUpucWhoWlR3azZBZ1ZNbmd6SGNuRDAySk5GMGgwUjJEVUgtakxLU3RtOXdyZmwzWGE1WVlCS1kyc2ZOS2VXSHFCY2RaeFFLbUYxcy1WbGxtcnUxdkZWU0VwZw",
@@ -1645,7 +1463,7 @@
         ],
         "published": "Thu, 07 May 2026 19:45:00 GMT",
         "source": "Scientific American",
-        "fetch_timestamp": "2026-05-13T00:00:28.243673"
+        "fetch_timestamp": "2026-05-13T04:06:18.009142"
     },
     {
         "id": "CBMimwFBVV95cUxNR09VUEdLaXQwZmJXZkdRTHlHTWwxdmdjUEZwTFBYT3BQZVlvaTY5WUVUb2xWdHdnZU43MmpwQTlFWWNGd1dvRmZCbThEVVg1T01Fd3IyZ2lYdGJvdUpDV1hScWo0NVM4QlhEQWJ3LXQ1cHhDZEJWYUhBbjRod18tNVVpYmhzR0s1MVg3Q2hLSjU1VkQ3ZlVSY2Znaw",
@@ -1671,7 +1489,7 @@
         ],
         "published": "Thu, 07 May 2026 19:43:13 GMT",
         "source": "statnews.com",
-        "fetch_timestamp": "2026-05-13T00:00:28.244321"
+        "fetch_timestamp": "2026-05-13T04:06:18.009764"
     },
     {
         "id": "CBMiWkFVX3lxTE5WX3FzX3VwMlh5aWhGWFhKSWxrN3dlUDctSWpiVVNHeFZJM29qbUtJdWJYcGVJbGRVMGlzLVpUOTIyTTNKVUp2aHBLb2xhUENma0tvTUNLZ0llQQ",
@@ -1697,7 +1515,7 @@
         ],
         "published": "Thu, 07 May 2026 17:55:08 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-13T00:00:28.244896"
+        "fetch_timestamp": "2026-05-13T04:06:18.010344"
     },
     {
         "id": "CBMiV0FVX3lxTFBEX1FvU2YzcHFsNU5icmIxT3lqelBjWG5HdVEyMUFtOFNaXzJ5RHZVNUVRWTg0b3d2azlhY2RVcDUxRDNMOFJPcjZpb3YxajB0elF2QmNXdw",
@@ -1723,7 +1541,7 @@
         ],
         "published": "Thu, 07 May 2026 15:37:36 GMT",
         "source": "Welcome to the United Nations",
-        "fetch_timestamp": "2026-05-13T00:00:28.245322"
+        "fetch_timestamp": "2026-05-13T04:06:18.010722"
     },
     {
         "id": "CBMisgFBVV95cUxQRTRMSXM0ZHNGUTU1Z1VIZi0ycVdMVDVUeGNOaFpCT2FlN3VSOVk1bDNhRGN0cW5OWkI1ZjlIajRaaWhNRFJTalhvaG5mREpIemxNQ3c5elRKRlczTDluZ0dSdmgwTnZIMmR6Qml6TVNDQ2VKUUdtMEhfWV92am9kRGN1QWRrMkNkR1NQUXRaUVJ0c2Rtb1lDMl9KUS1uOVduTzFlMm9sOWpRQzJUd1ppTUdn",
@@ -1749,7 +1567,33 @@
         ],
         "published": "Thu, 07 May 2026 15:36:26 GMT",
         "source": "PBS",
-        "fetch_timestamp": "2026-05-13T00:00:28.245868"
+        "fetch_timestamp": "2026-05-13T04:06:18.011291"
+    },
+    {
+        "id": "CBMiuAFBVV95cUxNZHZheEhrMnVrTnFjZkx6XzNQYlllc1BETGJwMTgxNUN5WVh5Qmkxdi1xVFNwZDRmWkdTeS1FQmtJcXBhaUlWNFkwa1hLZlA4OWNkaWEtTEpET0hxQjJKWGprYXI3eGhIZUdzQ2RNQzVhOE51Mmx0M0pxVDdRZUZSc0xBN1JZVkxET2c2VURGUlRZSGdMZXl4QlFnSlN6RU5CMVN6U1VybDI3cHFHMWYyMWpnUEJONUZJ",
+        "title": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic - Pan American Health Organization (PAHO)",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHZheEhrMnVrTnFjZkx6XzNQYlllc1BETGJwMTgxNUN5WVh5Qmkxdi1xVFNwZDRmWkdTeS1FQmtJcXBhaUlWNFkwa1hLZlA4OWNkaWEtTEpET0hxQjJKWGprYXI3eGhIZUdzQ2RNQzVhOE51Mmx0M0pxVDdRZUZSc0xBN1JZVkxET2c2VURGUlRZSGdMZXl4QlFnSlN6RU5CMVN6U1VybDI3cHFHMWYyMWpnUEJONUZJ?oc=5",
+        "location_name": "Washington, D.C.",
+        "coordinates": [
+            38.8950982,
+            -77.0363849
+        ],
+        "location_method": "inferred",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Washington, D.C.",
+                "coordinates": [
+                    38.8950982,
+                    -77.0363849
+                ],
+                "method": "inferred",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 07 May 2026 14:19:58 GMT",
+        "source": "Pan American Health Organization (PAHO)",
+        "fetch_timestamp": "2026-05-13T04:06:18.012092"
     },
     {
         "id": "103411 at https://www.paho.org",
@@ -1775,7 +1619,7 @@
         ],
         "published": "Thu, 07 May 2026 14:19:58 +0000",
         "source": "PAHO RSS",
-        "fetch_timestamp": "2026-05-13T00:00:28.529422"
+        "fetch_timestamp": "2026-05-13T04:06:18.290852"
     },
     {
         "id": "CBMigAFBVV95cUxNWnNDUGRsdW1KUHBpYUJOMkY0UzlfN05SRUwwNEVnbVh3TzVISXZsMXF1NFIxRWF2SnpoMnZnX24tS3BVSW5ocGw4dHRSREV4bnI1RExteTJ3WV9FaUpWTF9ZTTMwMm03dm9IUmYxQ1k0SVhITDZDUEpzX0F4UFR6cA",
@@ -1801,7 +1645,59 @@
         ],
         "published": "Thu, 07 May 2026 12:53:47 GMT",
         "source": "CNN",
-        "fetch_timestamp": "2026-05-13T00:00:28.529918"
+        "fetch_timestamp": "2026-05-13T04:06:18.291323"
+    },
+    {
+        "id": "CBMijAFBVV95cUxPbEpVbXdaN3Z2bXFyVlBOWkFvTm9ESzVBTFBYS1lJWnYzenJUSnJXNmRvaDBTT2RKVGI3X2d6bDduQnZ6QzYxeGtQdjVIdGZELXMzVGktN2Z6bllzaWRfLWpFS01zOHU3Q1RxQy16OEpMTWlTUndCb1BXYmNOU2lTcmJZYVFhVUZMajFUWA",
+        "title": "Global Health Officials Race to Track Hantavirus but Predict ‘Limited’ Outbreak - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEpVbXdaN3Z2bXFyVlBOWkFvTm9ESzVBTFBYS1lJWnYzenJUSnJXNmRvaDBTT2RKVGI3X2d6bDduQnZ6QzYxeGtQdjVIdGZELXMzVGktN2Z6bllzaWRfLWpFS01zOHU3Q1RxQy16OEpMTWlTUndCb1BXYmNOU2lTcmJZYVFhVUZMajFUWA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 07 May 2026 12:03:05 GMT",
+        "source": "The New York Times",
+        "fetch_timestamp": "2026-05-13T04:06:18.292181"
+    },
+    {
+        "id": "CBMipwFBVV95cUxQWml4WVR6VmtEWGh6LTZyTEU4X1VrWk5GZ3BBc2Z3ZHVqekxsMkU2R2YtSXdZRFp5Mmo4OFQ5T0RFWG9xbnVhUlo4NDJ5UjFVMFF3bDZ0VS0xQmJxUThhUllmZ1BycTk0dExZUFhEZzhFQmJvdF9QOUpoaWNwNzRkd05SalpQTzNvODZrZGd0QmtWcXpubU5yNFZzMUMybi04emdzOEFUUQ",
+        "title": "Hantavirus Outbreak Raises Questions—Here’s How We Can Protect Ourselves - Tufts Now",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWml4WVR6VmtEWGh6LTZyTEU4X1VrWk5GZ3BBc2Z3ZHVqekxsMkU2R2YtSXdZRFp5Mmo4OFQ5T0RFWG9xbnVhUlo4NDJ5UjFVMFF3bDZ0VS0xQmJxUThhUllmZ1BycTk0dExZUFhEZzhFQmJvdF9QOUpoaWNwNzRkd05SalpQTzNvODZrZGd0QmtWcXpubU5yNFZzMUMybi04emdzOEFUUQ?oc=5",
+        "location_name": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ],
+        "location_method": "inferred",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "United States",
+                "coordinates": [
+                    39.7837304,
+                    -100.445882
+                ],
+                "method": "inferred",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 07 May 2026 12:00:00 GMT",
+        "source": "Tufts Now",
+        "fetch_timestamp": "2026-05-13T04:06:18.292824"
     },
     {
         "id": "CBMiyAFBVV95cUxQZ1NvWi1FNDJ6WHQ5dVhmdkpjLTYxZjdpWDRNOHVIQ2t5ZTNhWmt0aWo1YUFUVF9tTWVIQV9yV3FIcnBrTk1iemhhbThYc2VsY25tTHd5Ym1BNHNYVWtTaExISUpoMnBUb2R2ZjlkZDlQenlKZXhiNTI4Z0g5ZGdPV1o5MVBuSFViMHhORjRteGR0ems2MzdZVXlqa3RsUE1tUkh3a2x1LTJzcGlhcHNxamlTYUFlTGJFME94UXIzdHB5X0gxejQ4dQ",
@@ -1827,7 +1723,7 @@
         ],
         "published": "Thu, 07 May 2026 05:06:51 GMT",
         "source": "The Conversation",
-        "fetch_timestamp": "2026-05-13T00:00:28.530676"
+        "fetch_timestamp": "2026-05-13T04:06:18.293528"
     },
     {
         "id": "CBMif0FVX3lxTE9NUVFBVEEyQ0hTTnU3UTh4T0VtMlZtV29CcGVYZ1MwUEdxMWpjLUtfWlJHLUJESUViM1ZfTGhoTjY5MU0tMVJmamJwN3lqbjQ4WHZFRm0xUjRyWWduLXV3bS1rTlQzM0VlQUcxc251QmloM3p4c3FQRnZfeW1nSkE",
@@ -1871,7 +1767,7 @@
         ],
         "published": "Thu, 07 May 2026 00:20:10 GMT",
         "source": "The New York Times",
-        "fetch_timestamp": "2026-05-13T00:00:28.531534"
+        "fetch_timestamp": "2026-05-13T04:06:18.294313"
     },
     {
         "id": "CBMisgFBVV95cUxOQTE1WGQwVUhvbnptdkhxejE2MHlRQkw3ZVk5c1FrNzl6Zjl0UHM0LXFfd2htZF92MzRUb3NXRkU4RzBFaVJuN2VoNzJJazRBZTR0am5nS2h6by1JVFB3dWRnVm9LQ3V4NkZrV1lTOWoyQkFWUGg2dmk4TFRPYm9hc0VJUF9UV0gxUUhiVnRkVWJoTVloUTh4UWtnV1F6US1Bd3VFWU9Nb2lzdnl1ZkUwbFpR0gG3AUFVX3lxTE8tQnhvUGdTUUxNTGl3MGkwUlZuUktJRE9EZk9ITl9GajF5YlBsVllHdFoteTZDQVIwM2VUcnF2b0ltSmY0R3JEWEV2Wng5c2ItMjBKeWRoNVhiMDFneUs0U25iT2liOVVFazZoRmJ5X29XU3pGREpuenRJRFcweXNpamt5VE9sNGlXZ2Z1RXhtYjQySkZ2bWRmTWI2dFkzcU9lOVRneWpRRzdBMWNoXzNaYnhLOFUxVQ",
@@ -1897,7 +1793,7 @@
         ],
         "published": "Wed, 06 May 2026 22:22:37 GMT",
         "source": "Al Jazeera",
-        "fetch_timestamp": "2026-05-13T00:00:28.531967"
+        "fetch_timestamp": "2026-05-13T04:06:18.294735"
     },
     {
         "id": "CBMinwFBVV95cUxOWGgzQ1VMVmFydDlLOHg0UzFxRV9lNXZVeU9rb0h5WGFuMVliUUlNZ0U4ZFV6VVVwYWlEb2dFblRkd0xWLWw3TmtOamNvUExRTkhfMUdiWi1WVzlQcjZoUG96S2NObXllSnJxbkNENnJVV0wyYm5TR0hnX0lHNUFEbUE0ODdvM2FfQUVDeDRQU1pMV2tqY1VzZjF0eC1JZjg",
@@ -1923,7 +1819,7 @@
         ],
         "published": "Wed, 06 May 2026 22:02:00 GMT",
         "source": "Nautilus | Science",
-        "fetch_timestamp": "2026-05-13T00:00:28.532639"
+        "fetch_timestamp": "2026-05-13T04:06:18.295379"
     },
     {
         "id": "CBMiuAFBVV95cUxPamd6dTB2Q2QzNUF2SVpfaExYY2k2N21hRWxJOVd0WVNKTzUxUWdkZ25xaVpmYW5rdFBVbEVxMlRTNHY2VUdBanVkRHFQck03dkFDN1cyUXRYNl81YURCdVVtZFdBd3U2MlZ5NlQ4MmVLa2ZuMzE5RTRtUkZRMW40SlliNElXSTlHeTFvUkpLRDRkbEhBWEM3aUpGeWQ0TDUxeWQ1aDU3Q2dnc09rTGhfbXk1cnhDVm1a",
@@ -1949,7 +1845,7 @@
         ],
         "published": "Wed, 06 May 2026 20:47:38 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-05-13T00:00:28.533304"
+        "fetch_timestamp": "2026-05-13T04:06:18.295990"
     },
     {
         "id": "CBMiqAFBVV95cUxQTDQ3cXVNMGdPY1ZFclBMUVZXQzVTRzBwYXV0RGFHR0VGeXAxbGZFRmxLSEgtWUt1WEllUENRTlZDRWtqcldnTzV6M1dOVXhHc252SzN6eXpTLTVWWXVfZmc3OWhudHFnTmlVVE84SDJHcTZ0Ty1EY3VXX0JzQm16cTRCZUJFdEF3dHdEZEVzMmttWWx5dUh6ckhlSlBWdE1Ta0t6WGhmaUk",
@@ -1975,7 +1871,7 @@
         ],
         "published": "Wed, 06 May 2026 20:15:00 GMT",
         "source": "Scientific American",
-        "fetch_timestamp": "2026-05-13T00:00:28.533870"
+        "fetch_timestamp": "2026-05-13T04:06:18.296547"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated",
@@ -2010,7 +1906,7 @@
         ],
         "published": "Wed, 06 May 2026 18:39:13 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-05-13T00:00:28.808141"
+        "fetch_timestamp": "2026-05-13T04:06:18.516148"
     },
     {
         "id": "CBMid0FVX3lxTE5fWm5ya2s4bXFVRWVLWU4zVFl3aHI3VmExeFBlb1d1VFNYZ29SY3h2bWFvcGNaOTZJeFRoUVZyVUFKQVA2Mjh6Q1Ffb0F3WGkyN1o1MFlldkx2UzQtTFVWSURmdC1WakVSeF93YzJ6QndyUUVoLTBZ",
@@ -2036,7 +1932,7 @@
         ],
         "published": "Wed, 06 May 2026 12:47:43 GMT",
         "source": "The New York Times",
-        "fetch_timestamp": "2026-05-13T00:00:30.544389"
+        "fetch_timestamp": "2026-05-13T04:06:19.633971"
     },
     {
         "id": "CBMiV0FVX3lxTE5CQTczbTFwcEZoS3dzTE1sSmZ1b1J3TGtoT0drN2xWaUs0RHE1bm9Kc2FtMGxFSE8yTlk3UHhBYTZlQjdPNURkS1R4NzN2eVJtTTNzX2lRaw",
@@ -2062,7 +1958,7 @@
         ],
         "published": "Wed, 06 May 2026 12:27:19 GMT",
         "source": "Welcome to the United Nations",
-        "fetch_timestamp": "2026-05-13T00:00:30.544900"
+        "fetch_timestamp": "2026-05-13T04:06:19.634558"
     },
     {
         "id": "CBMiWkFVX3lxTE85aXFaZy1TNDBVa0ZhVUpfY2hGMUpWMm0xY2JaejhfWDAwaWRBWC1zWjN2U2cyUE1qVWlHZUMyS3Y1VFo5ekN3Q21hYXJXTlpVc013MzNiM2pyQQ",
@@ -2088,7 +1984,7 @@
         ],
         "published": "Wed, 06 May 2026 10:32:59 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-13T00:00:30.545610"
+        "fetch_timestamp": "2026-05-13T04:06:19.635401"
     },
     {
         "id": "CBMiswFBVV95cUxPQUFEMjZ6QXZtMzZhOUlBdDhmeFlVdWJfSnBqM0NKRzVQNjVReFJmaktScmtxZnZweE9QSmg4OV9TdTVPYl9fUThna0Q3alNnVmRxUDBaRnE5M204ZFdYa0RLdGtOUkNQcGhLZTVfUGs3S2lKX25KZVZEZkgwQmtRVFQ3dFFDellZRmd4NUlLQUJXWjFlQ0NaMEg3RFpZR05PTGU1dnZyNG85aVZQY0NrV0xURQ",
@@ -2112,61 +2008,9 @@
                 "confidence": "low"
             }
         ],
-        "published": "Wed, 06 May 2026 05:51:46 GMT",
+        "published": "Wed, 06 May 2026 05:51:54 GMT",
         "source": "Africa CDC",
-        "fetch_timestamp": "2026-05-13T00:00:30.546235"
-    },
-    {
-        "id": "CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3",
-        "title": "Hantavirus explained: What to know after the cruise ship outbreak - Harvard Health",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
-        "location_name": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ],
-        "location_method": "inferred",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "United States",
-                "coordinates": [
-                    39.7837304,
-                    -100.445882
-                ],
-                "method": "inferred",
-                "confidence": "low"
-            }
-        ],
-        "published": "Wed, 06 May 2026 04:00:00 GMT",
-        "source": "Harvard Health",
-        "fetch_timestamp": "2026-05-13T00:00:30.546861"
-    },
-    {
-        "id": "CBMiywFBVV95cUxOdmhpUXZiSUIxZmFDM1huQi0zZXlwZ1RndUdQZjdVZHNic1BDQnhSNmp5N1FPSVJMLWR2SE9qV2c3Y21KZ0xpUzlJU29mRzhFMVljNnFhRG80akg5SnBRM3liSktZZWpDd2lfTExMc3I2bXp1enBOZzUtbEw1ZWpQWFYwU0ZuZFRtVGg5NTdnWTVWTUJzeVlrY2kxNDA5VGx0el9nU1VpQTZqS2cxczZmbGJlUEJjNTliTjVIRUwycnlDTzJjVWVld0tqcw",
-        "title": "What is the hantavirus that killed three cruise ship passengers? - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmhpUXZiSUIxZmFDM1huQi0zZXlwZ1RndUdQZjdVZHNic1BDQnhSNmp5N1FPSVJMLWR2SE9qV2c3Y21KZ0xpUzlJU29mRzhFMVljNnFhRG80akg5SnBRM3liSktZZWpDd2lfTExMc3I2bXp1enBOZzUtbEw1ZWpQWFYwU0ZuZFRtVGg5NTdnWTVWTUJzeVlrY2kxNDA5VGx0el9nU1VpQTZqS2cxczZmbGJlUEJjNTliTjVIRUwycnlDTzJjVWVld0tqcw?oc=5",
-        "location_name": "Europe",
-        "coordinates": [
-            51.0,
-            10.0
-        ],
-        "location_method": "inferred",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Europe",
-                "coordinates": [
-                    51.0,
-                    10.0
-                ],
-                "method": "inferred",
-                "confidence": "low"
-            }
-        ],
-        "published": "Wed, 06 May 2026 01:35:11 GMT",
-        "source": "Reuters",
-        "fetch_timestamp": "2026-05-13T00:00:30.547420"
+        "fetch_timestamp": "2026-05-13T04:06:19.636006"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low",
@@ -2192,7 +2036,7 @@
         ],
         "published": "Tue, 05 May 2026 15:17:56 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-05-13T00:00:30.856529"
+        "fetch_timestamp": "2026-05-13T04:06:19.855224"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low",
@@ -2218,6 +2062,6 @@
         ],
         "published": "Mon, 04 May 2026 19:33:45 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-05-13T00:00:31.204475"
+        "fetch_timestamp": "2026-05-13T04:06:20.435219"
     }
 ]
