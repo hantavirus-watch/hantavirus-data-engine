@@ -32,7 +32,7 @@
         ],
         "published": "Fri, 22 May 2026 16:40:47 GMT",
         "source": "Al Jazeera",
-        "fetch_timestamp": "2026-05-22T21:41:50.133077"
+        "fetch_timestamp": "2026-05-22T22:54:28.579311"
     },
     {
         "id": "CBMitgFBVV95cUxNZXNLRjg4aGtWX2U2OGs5MHRfbzg2dHU0Qmx4dlBFTS1Tc2R5dnlHY0k2NUl1VXhqYkV4Q194dXhHa0xWMkFVa25OS1BGbE93RlNDZUdzNC1ObWpXQVIzR2x2UFM5TjBsRzJCM2c3cE1SX1ZQaG5KbU5rWkt1R1R2Nlp3NWpyN1FrX1FkZWpIaUhHcE96Ml9PLVZ6MG5nZGJtZVVsRzFOUmU4SU14N215aWRZcGxDUQ",
@@ -58,7 +58,7 @@
         ],
         "published": "Fri, 22 May 2026 15:38:00 GMT",
         "source": "WOWT",
-        "fetch_timestamp": "2026-05-22T21:41:51.776718"
+        "fetch_timestamp": "2026-05-22T22:54:29.854968"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-14-22-may-2026-week-21",
@@ -84,7 +84,7 @@
         ],
         "published": "Fri, 22 May 2026 17:24:45 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-05-22T21:41:52.176281"
+        "fetch_timestamp": "2026-05-22T22:54:30.362639"
     },
     {
         "id": "CBMiwgFBVV95cUxORE40dkRqT3RkOFl3YjVlV1Vpb1RHTzRqYWl4SlE5dFRJVVJSNmRlRkNUQ0FFbkhtNVYtQkh0T1VudlQtOUtHTlZXVjlGZ0I3MnRYdHZrT0Z2N2RXS0ZXcXFGS1pZNS1nSXBNRlRyRi00d0dwbnhOdGdZWDVwNXl2bzM5b194V0VkYno4QWd6aXVESHdxV0FKUEpFbVJVUG1vUDBWcUtDbk5UdjlzalYwV0NwT2lSWUFDdzNlX2dXSS1UQQ",
@@ -110,7 +110,7 @@
         ],
         "published": "Fri, 22 May 2026 14:45:31 GMT",
         "source": "NBC News",
-        "fetch_timestamp": "2026-05-22T21:41:52.177101"
+        "fetch_timestamp": "2026-05-22T22:54:30.363528"
     },
     {
         "id": "CBMingFBVV95cUxPLUNYT2FOcG9oTlBJcUZNUVktZkhOc2hvNG41aVBSaE1KaE9iOFJIVklnUDlPQVdwbTlkRDVNVklSQ090NUZJTHNyRVF4WndPbGlVdXNmRmJKaDZmQmlQZmpMaWtSOUtVLWtFMlZlT3ctdGtLMXBwNHJyZlUzR2dGTlJPbmhuZ01OYjR4NEVTRG9KOUxkVVVtbGtGUmYtUQ",
@@ -136,7 +136,33 @@
         ],
         "published": "Fri, 22 May 2026 14:00:00 GMT",
         "source": "WOWT",
-        "fetch_timestamp": "2026-05-22T21:41:52.177633"
+        "fetch_timestamp": "2026-05-22T22:54:30.364076"
+    },
+    {
+        "id": "CBMipwFBVV95cUxOSXhIQ2dka2c0M2RpaER5OEk5aG9lYy1US2F2c1lHN1F0b1hVWGtvRmtjcGlhY21BdUZwTnJocktfS1hWcjBWdjBoQkFzcS1zUVhGT0I0UjJ0N3ViczFMX0tGeUd3Y2RSTlNaVEFqYnNjZzBFQ0lvT1FTcFpWNmswbTBlblpXLThaWXR3VVRGcUw1dU5LRnFEX2s5cWNKckRWaE80Tm9COA",
+        "title": "WHO chief says hantavirus cases linked to cruise ship rise to 12 - Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXhIQ2dka2c0M2RpaER5OEk5aG9lYy1US2F2c1lHN1F0b1hVWGtvRmtjcGlhY21BdUZwTnJocktfS1hWcjBWdjBoQkFzcS1zUVhGT0I0UjJ0N3ViczFMX0tGeUd3Y2RSTlNaVEFqYnNjZzBFQ0lvT1FTcFpWNmswbTBlblpXLThaWXR3VVRGcUw1dU5LRnFEX2s5cWNKckRWaE80Tm9COA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 22 May 2026 13:49:25 GMT",
+        "source": "Anadolu Ajansı",
+        "fetch_timestamp": "2026-05-22T22:54:30.364854"
     },
     {
         "id": "CBMi-wJBVV95cUxOd1d0bnp3cHl1WVFCbEJMT2QyV18wQnhmTmhXOUtuV0d6LTU1SFpnYmF4dEtrYzJPNE5GSkstb3VmbHh6b2NKdEFodU1BaTJTMW9melNTU2xYOGFWS3dLb3BvUUdiSWVlNVFBVW12Xzg5bU5NS0ljTnJwMlBHLVpfWlZNZnZFMFBqQ3ZxZFF1YXRhVkdlLVY2X3VOb2VGaDVjZXFwRTIwY3VUdGYyTEd6WmJHODJwandQd1duQV9FVmViUFhFdDNyRGVGSlREU2NOLUNOdk5qeC1HODNZRlJKLWxtZEp6UllmQWFFRDc3MXRCMVdCWU1OUFlTNnFXdF9zRjJ1MHczcDI4ZFBxdEN1dzQ3ZEtjbWdWZTJ6eXJfcHp0eTdJZWM3bEdqR1F1d2xxTDlOMnFjcW10QXV4bHNMbHJFTlZkT2NubzE3RG9fRmphT01GYjZVckg4RjJNUWNUTlNuMXNxUk9VTllKcWx4VHUtTFM5TVdCVFo0",
@@ -162,7 +188,7 @@
         ],
         "published": "Fri, 22 May 2026 12:00:00 GMT",
         "source": "World Health Organization (WHO)",
-        "fetch_timestamp": "2026-05-22T21:41:52.178658"
+        "fetch_timestamp": "2026-05-22T22:54:30.365914"
     },
     {
         "id": "CBMiywFBVV95cUxQQ2NOOFBydEVILXdJZzZtMVJVb3psZ3VENktYX1QzYkRiNEtqa09HYzRES3NsS0szcWZBMXl2Q0V2R0gxdVpMdzJ2RGdXOTdFenlEX21OcHFCMFMwUFRsMXlQM256R1I2YTF3YTVVOHo3QnpwTFp4TTRVM1hMT2hTNjRMRENyUmQwZG1SNDkxZHRVbGhOWDhabGdtclliV0ZlbTh0LUdaZExScWEzQjI0dXl4bXdKNTNhaXZ2S2RYWlRmMVhJdGkwYk5JTQ",
@@ -188,7 +214,7 @@
         ],
         "published": "Fri, 22 May 2026 11:24:03 GMT",
         "source": "Reuters",
-        "fetch_timestamp": "2026-05-22T21:41:52.179296"
+        "fetch_timestamp": "2026-05-22T22:54:30.366482"
     },
     {
         "id": "CBMinAFBVV95cUxPSVJEeHE3UFlJWTd2eUtVdnNucG8zN09LNkdHQkM4OWhDbGc1VFIweVdyeWpZaEpHcEE3RXQxR1EwUmR5ajBkN2Nub1JsZTdiUDd6dWxEMWdYbVVDNW5EUEgtbkc3TXlmVWpFMjFVVjRLX0F4RGFMRnN5ZU9RQldFM2xoU2pZdUVZdmFUR2dlX0VFZG8zMVBnY3EtOTg",
@@ -214,7 +240,7 @@
         ],
         "published": "Fri, 22 May 2026 11:02:51 GMT",
         "source": "Time Magazine",
-        "fetch_timestamp": "2026-05-22T21:41:52.179867"
+        "fetch_timestamp": "2026-05-22T22:54:30.367052"
     },
     {
         "id": "CBMinAFBVV95cUxOZ2YzUHg3c1VOTzFlM1R5X1RDNWV2MFIwZmZxLTVvYjFsZWpBNzZ0NFE5RTF2ZG9TYXhPeUVjS2JtLU1hVWZ3OFNsODRVR2FIWGYyMVBaMy1oTURKNGI1YnU3aFJLZUwyaFJLaHhLaTh6NmxEakNpN3NqY0xXY1gtRnVrZE92dFRDVDhPUUZDUHdhX2VDdkdVS2Q3VlLSAaIBQVVfeXFMTVljWkVkSkZKem1KWDdVOGdPVGVhTlZxQW9udDZhUDRuN2RTTTdXQXhNbUYyaVllOTlCdTh5YWRRZ1hPX3hXZ3g1aUk0MndoU21yZXZ5Y3gyVUhuT0VPcjU5QmxodHFwS1ZUbFgwOHF6Tm9SWFZ5TWNFVVFCVXBsNnB1NVhJVVM2OWpOeU5BYWZfbkRKNUhDcF9UWFVYdm5UOExR",
@@ -240,7 +266,7 @@
         ],
         "published": "Fri, 22 May 2026 11:00:02 GMT",
         "source": "Fox News",
-        "fetch_timestamp": "2026-05-22T21:41:52.180609"
+        "fetch_timestamp": "2026-05-22T22:54:30.367801"
     },
     {
         "id": "CBMi9AFBVV95cUxOSGRMYjJhZWc5bkdrM3BObEY5cml3SExUajRyeDNaR0wzNEozb1d0aHhMd3dvVFJiME5UM010YnBfa3hGeHlveGt1SWVnY0RmRGZ4ZDdQQVN3UnQ2MU13ei1fMTQ0RFB3SjZiajRXVTJjRGhBMkZLUkIxamFkLVVNWDBzRU1fUDRydjI5d2dPZVNMQ0p3bGIxbk1kcDl4YkxCX0VKY1p6NUFOd3ZQQkpZdkxXLWxfcVhFV2ZrUUxCWXFFaXJDc1BRN2JONjNrV1ZpNFhPdlZRWl92bVVOdGdiZ0pDVDZyMTZzbVNNNnZjMVR6aDdJ",
@@ -266,7 +292,7 @@
         ],
         "published": "Fri, 22 May 2026 05:27:00 GMT",
         "source": "The Guardian",
-        "fetch_timestamp": "2026-05-22T21:41:52.181385"
+        "fetch_timestamp": "2026-05-22T22:54:30.368583"
     },
     {
         "id": "CBMirgFBVV95cUxNWFlyMXFieFJPSmxuSUFKUlR3NHVFbG9QT0ZoSWlWbEN1X01JR3NWRFBBUHM3QjdlZzZNX1NfakNuNkhhTXpPakdPdE1IUzM1WjM3LXhTa3ZlZjNVbVN0Q3VsbWpua3BSRERGUFB2ZVJweFhwSjk4UEhLa01URWRxSXQxY0tGcHVVR1FzU1BxRURSc0VwUEltVmNWenNNa1duMHFoNXVmcHRuVkhzaUE",
@@ -292,7 +318,7 @@
         ],
         "published": "Fri, 22 May 2026 02:34:00 GMT",
         "source": "Healthbeat",
-        "fetch_timestamp": "2026-05-22T21:41:52.182052"
+        "fetch_timestamp": "2026-05-22T22:54:30.369282"
     },
     {
         "id": "CBMiwAFBVV95cUxQVzd0a2xETmNJbFV3QVlRZUprWXVGa1FUWmRtczB3ZFhycmdIbW4wdEVZMmxtckxWRldhUThLNkphanF1VWNTYXJEcTl5WDREYm1Xcnh4NVdGdFQtVkVUY2JIcFFSeTU2LUFVR0h4Ri1lcHVobDZkc1FXRWtBTVcyemowUVBCcTZQWWRhVTlCT2cyS0hjV3RxbEtjZ05mbjJPalR4cDY3NjhLamhzUEt1Z2tmUTFiM0F5LVlKRTAtelHSAdQBQVVfeXFMTkZZamhaTVdBMzM4SE1FRVpieldIeU5rLVZPWE03VkJxcFlJcnBWeWtWZjE1R0hKeHQycFhCaXZWYkxteVI1OGdJWllQS2ZOTjdiV285VmJmcVpLWFlPVmhnTnhvRjhsdE0zYzhpRkRNNnlPemhGT1lnYUsweTBEMklPaWpfZjFWSERLRGZYVW9Wb1pxS1ZGUVZRNldSQUsxeHdrVTFZZDAyVFBsOTdlSjJIa0FfOFJOUUJxS2hNLWlaMEZkSTRsMW56T0ZOa1p5TjlHU3g",
@@ -318,7 +344,33 @@
         ],
         "published": "Thu, 21 May 2026 23:08:00 GMT",
         "source": "OregonLive.com",
-        "fetch_timestamp": "2026-05-22T21:41:52.182704"
+        "fetch_timestamp": "2026-05-22T22:54:30.369943"
+    },
+    {
+        "id": "CBMizwJBVV95cUxNLVIwbmhRS2NFeWwwYjd3TVpRTXd0Y01YMmc5WC1YVzBPY3lqTERKRFJ0TTd6STZHdU9mM3JBaGFiLWVLUjRZQ0pxc2dwSHY5VU9tSjAtVjVhQW00QnR6NHhCVjhMVUpDWWZYdVJySmMweHc5MDlXRUw0TTNod2ZyZ1JubjhhUGV2QlMwajRRUzJKQWxiYlQydDFJeU91ZFlIWFRUa19HVFZKTjVuTUJ4UVNYenJqdVJoYWl2SWRXMTV2MkpnR25zeks2ZzdxZUFId2FKZF9YLUZrY2dDS1kyNnJYY1ZlNDN0cndGN016ZUt0VkVOYUl0SW9xenBDM2xYU3VBWHlmc2dWMjNlVGVCbkl0Q1JmV1RnQjZOOVBuRXh4aElnWktjOVFuYUJqTkxrUU1UdWFzLWJmbXhBX3RNc3ZGejk3LUJRdGM0SXBtbw",
+        "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected - KOMO",
+        "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNLVIwbmhRS2NFeWwwYjd3TVpRTXd0Y01YMmc5WC1YVzBPY3lqTERKRFJ0TTd6STZHdU9mM3JBaGFiLWVLUjRZQ0pxc2dwSHY5VU9tSjAtVjVhQW00QnR6NHhCVjhMVUpDWWZYdVJySmMweHc5MDlXRUw0TTNod2ZyZ1JubjhhUGV2QlMwajRRUzJKQWxiYlQydDFJeU91ZFlIWFRUa19HVFZKTjVuTUJ4UVNYenJqdVJoYWl2SWRXMTV2MkpnR25zeks2ZzdxZUFId2FKZF9YLUZrY2dDS1kyNnJYY1ZlNDN0cndGN016ZUt0VkVOYUl0SW9xenBDM2xYU3VBWHlmc2dWMjNlVGVCbkl0Q1JmV1RnQjZOOVBuRXh4aElnWktjOVFuYUJqTkxrUU1UdWFzLWJmbXhBX3RNc3ZGejk3LUJRdGM0SXBtbw?oc=5",
+        "location_name": "Pacific Northwest",
+        "coordinates": [
+            32.7975304,
+            -117.2198236
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Pacific Northwest",
+                "coordinates": [
+                    32.7975304,
+                    -117.2198236
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 21 May 2026 22:40:09 GMT",
+        "source": "KOMO",
+        "fetch_timestamp": "2026-05-22T22:54:31.750634"
     },
     {
         "id": "CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE",
@@ -344,7 +396,7 @@
         ],
         "published": "Thu, 21 May 2026 20:19:09 GMT",
         "source": "NPR",
-        "fetch_timestamp": "2026-05-22T21:41:52.183479"
+        "fetch_timestamp": "2026-05-22T22:54:31.751579"
     },
     {
         "id": "CBMirAFBVV95cUxPQkZ1aVVyV19ialdQdnRYZzNsTmFrNUE5eEx0RlZKX3J2SF9TbnFzRmstSkFZMjNQMTJCYklJNUVWNkRoZWxrSEl2QkV3VWFSaFA5dkFZR3QzTjNmZnhkdk9yak1vUWRibGF3dDBPOVJvUGVnQnZKVVN3eXV1Q1dudlJHR3FhUC1VVVZ0SGJnVXlxT18yTUZLVk5sWi1xaVJxNG5TN3dXMERRU0pL",
@@ -370,33 +422,7 @@
         ],
         "published": "Thu, 21 May 2026 19:15:00 GMT",
         "source": "Scientific American",
-        "fetch_timestamp": "2026-05-22T21:41:52.184197"
-    },
-    {
-        "id": "CBMixAFBVV95cUxQLTRvWW9DVzd5MUItRl9yd010ZUNKVlJsQzZZVWhBNmNxVTI1dGxhRFFzUGJ2clhKc0tUVnBUM3BtYWY0b2I0WVpkUXd0VkkxV2RWV1lobGZPRHpnQjdHV0pWRFZnbkNTeHRSTmtCVVdISmpabGd0RUlIQTJGOWlvbnJaeUJQR0RaUFhMWFJsSERmd0pXQmFpcG1wdDUxU19oWFRVT3JlcXNJbVZrRzR4SW8yWVR2YTFVd1FkYS04N3hodFBI",
-        "title": "2 Americans forced into quarantine following deadly cruise ship hantavirus outbreak - NPR",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTRvWW9DVzd5MUItRl9yd010ZUNKVlJsQzZZVWhBNmNxVTI1dGxhRFFzUGJ2clhKc0tUVnBUM3BtYWY0b2I0WVpkUXd0VkkxV2RWV1lobGZPRHpnQjdHV0pWRFZnbkNTeHRSTmtCVVdISmpabGd0RUlIQTJGOWlvbnJaeUJQR0RaUFhMWFJsSERmd0pXQmFpcG1wdDUxU19oWFRVT3JlcXNJbVZrRzR4SW8yWVR2YTFVd1FkYS04N3hodFBI?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Thu, 21 May 2026 18:13:43 GMT",
-        "source": "NPR",
-        "fetch_timestamp": "2026-05-22T21:41:52.184755"
+        "fetch_timestamp": "2026-05-22T22:54:31.752312"
     },
     {
         "id": "CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE",
@@ -422,7 +448,7 @@
         ],
         "published": "Thu, 21 May 2026 17:33:01 GMT",
         "source": "WSU Insider",
-        "fetch_timestamp": "2026-05-22T21:41:52.185471"
+        "fetch_timestamp": "2026-05-22T22:54:31.753051"
     },
     {
         "id": "CBMiugFBVV95cUxOMngxR01GbXROaGt6ODNrVEM2UEduZkp3Zms5SFI4YlByRUlpOUc2YXRiTC1IRTRYUHVpU19oUzA4aE9UMnM1bk8zSVRYaTRyWVNkLWFfLTNqTWdBNi10dzlMOVdSUlE5Q2hHdHZyc2ZIN1I2TXNWdjVBUGFpMVhZMVM0b0dCcFpGdWlGM1l4Y1EwTkZldDRuSEI2bExJVU5MU2wyS1RPcTQ4VkNLWW1ENTRhT1BzcVlubVE",
@@ -448,7 +474,7 @@
         ],
         "published": "Thu, 21 May 2026 16:03:50 GMT",
         "source": "NBC News",
-        "fetch_timestamp": "2026-05-22T21:41:52.186186"
+        "fetch_timestamp": "2026-05-22T22:54:31.753782"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
@@ -474,7 +500,7 @@
         ],
         "published": "Thu, 21 May 2026 17:56:17 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-05-22T21:41:52.891717"
+        "fetch_timestamp": "2026-05-22T22:54:31.912873"
     },
     {
         "id": "CBMijgFBVV95cUxOYUpZUFRydUxfU2xUdWJ6bktOelNFZUI0dUsxdjFXX1Z3Q2dWZ2NkNzc4Q2l5SUloUFllSjAwZktjQzZXdXVkVDNPQ1FsOWFucHVSY1BlMDRobWVEWXlCUFhoZ2tXNUdscEZHWmU1bE9DUW5YNTYyQVNjUlJtLWQ2cE9mVzJDRUtadmJib2ZR0gGTAUFVX3lxTFA3bWEyTnJ4eVhGRTYwLXllV0F1dFNDOWxpdGplVF9QOTA1X0I4VXZZWXhVSlVkOWxKcE5BUXpYRkxJdzdJU05iM2NCdWtjemE3RjZaaXk2OTN4RXNNbWU5dHRnNVV2NURnUDNpX01yVk1SRVp5djNUV0I2MHAyLTQ5bThUbEdJeFlFb0FOeXYzeUhBZw",
@@ -500,7 +526,7 @@
         ],
         "published": "Thu, 21 May 2026 11:14:30 GMT",
         "source": "WAVY.com",
-        "fetch_timestamp": "2026-05-22T21:41:52.892274"
+        "fetch_timestamp": "2026-05-22T22:54:31.913478"
     },
     {
         "id": "CBMiigFBVV95cUxNLVlUdGMzNV9aelhBVzh0bGxSYnN0V0toREtuelNIQ2wwSUE5YVRkWGI0VDhKNHhSNkVadGdreVlwVE5fd2dGQWVXMW9ablktZEF0YjkwaURPM2g1U3RVZWY1ZmtXWFcwb0s4WWtBMUpBNGhtN1E0bWRmYW1UamZScWFVRWtscEVCaUE",
@@ -526,7 +552,7 @@
         ],
         "published": "Thu, 21 May 2026 09:00:00 GMT",
         "source": "NPR",
-        "fetch_timestamp": "2026-05-22T21:41:54.485567"
+        "fetch_timestamp": "2026-05-22T22:54:33.276289"
     },
     {
         "id": "CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw",
@@ -552,7 +578,7 @@
         ],
         "published": "Wed, 20 May 2026 21:04:23 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-05-22T21:41:54.486287"
+        "fetch_timestamp": "2026-05-22T22:54:33.277021"
     },
     {
         "id": "CBMixAFBVV95cUxNTHpHTW9OOXRPek1iMS1GcXlDM1EzclQ1bHJpMmNTWjBXQjVQaVRPRHo1T1IxcU5FQUFvcmd3RmJSMEdHdjBlZDhwN3NJYUJkX29QY2lfdzFEb2NadGJneVFBZ05BTXZHckNISm5zQ2Vjc0RLVzdoM1ZCVDZjRkJYajdSZHFSQXpKWkdnalZacWh0dlNaTWpGX1R6dXVNYXVPbkpiSWdtdUwwWHBiZG93bXpkSjhORkhsbnhCRklOanlWZ1hP",
@@ -578,7 +604,7 @@
         ],
         "published": "Wed, 20 May 2026 17:40:00 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-05-22T21:41:54.486881"
+        "fetch_timestamp": "2026-05-22T22:54:33.277611"
     },
     {
         "id": "CBMisgFBVV95cUxOa2VGb0pkTGE2RjZ5THgwQmpoM1p0RWE2RkVwaHByelU0ZG5KZVNtbThCX0RKUlpYU0RoWGdyUmIzSFFfbHhFNjZRRzdVSmJYa0xqSWRkWTc0MExXclVja0FoWnBRbS1lMHJZQU0zVjFYYWR5UjhqVGozb0VsbFFEQU1aYUx3TkYtdzFlVDFMbW8zalc4YjRuNlZkYnBMellEdENzd1hYS2FPeDVfeXRVWFRB0gHGAUFVX3lxTE53TmJWOUZlR0JGc2Q4cU5XUHI5clZpZnlrNm5mT2MzLVdRcXZ5RzRJcDI5Mi0tUHQ3azNpMTFzemxqeV9nX3BjNXRFWTJZeG5MVkU0WklTUWNXQmpHcDVEaVhWNnItVEdud0pRT0o2ay1wNG5WMDFaODBESlNGcnFDNEloZ00xejl3ekY2NlE2cFpxeFROWlFySFMycS1iM05XT1ZWcnNmdVVSYlVOTW1reFd3b3RZS214cTJhcVprQmotT2VLZw",
@@ -604,33 +630,33 @@
         ],
         "published": "Wed, 20 May 2026 17:12:00 GMT",
         "source": "KFYR-TV",
-        "fetch_timestamp": "2026-05-22T21:41:54.487671"
+        "fetch_timestamp": "2026-05-22T22:54:33.278428"
     },
     {
         "id": "CBMiwAFBVV95cUxQS2cyY1JBckhNYW5SYkg0Tk5jU0t0ZUZZbDdrdXQyRTlHWDBONFVueTV4RDdkLU5FanVWUnhEdXQ0M09iOEdlNkJjWGM1OEhwQkhPQ3VOLXlDa1FuQXB0bzlEYi0wci1MeTA0dDZWS2dSeHNNSi1Ub2hQQnF3STdONFRTd2lRMmVyaVV3bXVDcGZnSVYteWMtVzhLT1Z3dkNiNFcwdU9Hb3dKdGJSZUp2ckgtcEZWZ3R1Y0VRclRZdnY",
-        "title": "The hantavirus outbreak is a tragedy—and a valuable data source - The Economist",
+        "title": "The hantavirus outbreak is a tragedy—and a valuable data source - economist.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2cyY1JBckhNYW5SYkg0Tk5jU0t0ZUZZbDdrdXQyRTlHWDBONFVueTV4RDdkLU5FanVWUnhEdXQ0M09iOEdlNkJjWGM1OEhwQkhPQ3VOLXlDa1FuQXB0bzlEYi0wci1MeTA0dDZWS2dSeHNNSi1Ub2hQQnF3STdONFRTd2lRMmVyaVV3bXVDcGZnSVYteWMtVzhLT1Z3dkNiNFcwdU9Hb3dKdGJSZUp2ckgtcEZWZ3R1Y0VRclRZdnY?oc=5",
-        "location_name": "United Kingdom",
+        "location_name": "Canary Islands",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            28.2935785,
+            -16.6214471
         ],
         "location_method": "fallback",
         "location_confidence": "low",
         "locations": [
             {
-                "name": "United Kingdom",
+                "name": "Canary Islands",
                 "coordinates": [
-                    54.7023545,
-                    -3.2765753
+                    28.2935785,
+                    -16.6214471
                 ],
                 "method": "fallback",
                 "confidence": "low"
             }
         ],
         "published": "Wed, 20 May 2026 16:37:15 GMT",
-        "source": "The Economist",
-        "fetch_timestamp": "2026-05-22T21:41:54.488328"
+        "source": "economist.com",
+        "fetch_timestamp": "2026-05-22T22:54:33.279120"
     },
     {
         "id": "CBMiswFBVV95cUxQcDFSWVM3djVTMDJFSWpXZ0tuR04xS0ZWY29WeFJyMzM1RHRYeEVZNWFEc2VGTzlEWU0tQktTMHdyMDByaEVJZlJJclZnaUF1bVFOdVMweklBaHZpMFFXVmJSeVlXbnJiTG9xMTlxT1NEWG5zeFFfNU84ZUVibmhZeWZwTjRRTkxuN2pWRmtwRGxlLUxYc3lSSzBOUEVDbTgwRGIyTDgtMzNzZ2FtTWI3eERmb9IBuAFBVV95cUxOR1J6c19qbXNwTXdGSUJJVWxSbXpKaW15LWlDQUluSm1FUlJuRENrNjhweEd0dmo3d2g4WDg1MUlSa3VvSXpLbXh5TlhqTHlCVHp5Vi1uUkhuVVB1aG9KMkxtSnZTVExrUzRwV0Z5OGRFSFVVZVk2Z1djSXlHam5lNmQ3QUFUYjcyc2haZ0c3TV9NbVVjTzhuSXYybm5qdFhuQTFNdFRtcllCekhFaVVZS1ZtT0NzUHR3",
@@ -656,7 +682,7 @@
         ],
         "published": "Wed, 20 May 2026 14:55:00 GMT",
         "source": "CNBC",
-        "fetch_timestamp": "2026-05-22T21:41:54.489114"
+        "fetch_timestamp": "2026-05-22T22:54:33.279897"
     },
     {
         "id": "CBMieEFVX3lxTE9YVXhGRlpNQXN5bkI2VFJTNmNGdExsb3VWQTBZN2NfWGFySEVyMkU3WEM0SVdCTmVmc2d2MXNockh2Vy1Hb2h2Wm9vNDVLeFNlYmNDbFd6amlrbnFiV21QXzNuZGVlN1dNUnJ2REFYSEVEVGtOZlBlag",
@@ -682,7 +708,7 @@
         ],
         "published": "Wed, 20 May 2026 02:12:00 GMT",
         "source": "CNN",
-        "fetch_timestamp": "2026-05-22T21:41:54.489811"
+        "fetch_timestamp": "2026-05-22T22:54:33.280621"
     },
     {
         "id": "CBMijgFBVV95cUxOT1VFVjFERTZoWGVaRU9TTk0zN1JJTUY5UVU5YVg0T2psR2E2OENSdVNJcjY3WDV2ZWRfZTg4SE9ybUIxMjdUWVVKUkh4dW5MSF9FRkItRDEtX2YwTlpxQWVvM2J5OHZGandMU1BybVBOU2ExcGl5Z0hIMkNFdXZaTEh0S2VIUWd5ckVBZ2Fn",
@@ -708,7 +734,7 @@
         ],
         "published": "Tue, 19 May 2026 22:40:51 GMT",
         "source": "AP News",
-        "fetch_timestamp": "2026-05-22T21:41:54.490257"
+        "fetch_timestamp": "2026-05-22T22:54:33.281093"
     },
     {
         "id": "CBMinwFBVV95cUxNOUZTXzhTZ3BPcUtKX29ud1dLbTV0ZG8zM1R2RjNCRHBOS1dNaE1rV0x0dGgtU3k3d0VUOFJ0SThlaVYySEl6aUt3dkZiZ2U3a2Y4dGM0WTRGcUc2T29MM05TS0g0UzNNWXF0MUY4SDRSb2IwT2pKWFdmTWlxcGJzZ0QtcUE2OFpNRFFCbWdzQzNGTy1xVWpKOGxPcFk4cEU",
@@ -734,7 +760,7 @@
         ],
         "published": "Tue, 19 May 2026 20:53:00 GMT",
         "source": "AP News",
-        "fetch_timestamp": "2026-05-22T21:41:55.595823"
+        "fetch_timestamp": "2026-05-22T22:54:34.387250"
     },
     {
         "id": "CBMitwFBVV95cUxOcEtTdk9JUnZZSWg4ZVBDSkVBdWp6SUlaTm5KNmpjLUpScGhCQUw3TnY5QVBmYzdTUmgwSzM5OGJnWEJUVmIxWF9NM1NzZDJWbVJsVV8wOG9EV3RTcXJodzM0YjBMQVUxTFBFa2U3V2tJM3lLNVgxYmhLOFpOWVZYb1JwU3VJbG04NmNacGc2RFp0THg4bzBlOWtMVEp6OTVhb3hvckNUVl82TzdTa0VKRWpELUZ2Rms",
@@ -760,7 +786,7 @@
         ],
         "published": "Tue, 19 May 2026 20:23:42 GMT",
         "source": "American Hospital Association",
-        "fetch_timestamp": "2026-05-22T21:41:55.596657"
+        "fetch_timestamp": "2026-05-22T22:54:34.388043"
     },
     {
         "id": "CBMiiAFBVV95cUxNZEZKZ3NqakVzdl9fZzk0NXdZVE16WGxfd2R3LWx0TzVadXdHS1dXa2RWTkJUNEJzYkFoTTdPTE9KMnVWbUphWDVha1VIWlhkRHRJdXJzM3I2VzBKXzFhLWFhQjF1QkFRb2xGaXZQV3B1Wl9QaEgzYmVGWkpLRFhEdm1NOFA4Z0JS0gGOAUFVX3lxTE1DY0YtZDlpR2R4QmRaZ0NjSGpxYjhnaDQzOUxjYURpUlk5dDl1dGVBYmx6NnhtVmNRNXZObENHcXQ0d25pMkU5dUZsaFNZWnhQWVFGcXhPVXFxVHV1cGhoakVtZkNqQ1IxSHRGalljTjhtUVRIY0xWNEhwQlRndjRwQVJqdndsYThVa1lwSlE",
@@ -786,7 +812,7 @@
         ],
         "published": "Tue, 19 May 2026 20:06:00 GMT",
         "source": "The Hill",
-        "fetch_timestamp": "2026-05-22T21:41:55.597489"
+        "fetch_timestamp": "2026-05-22T22:54:34.388792"
     },
     {
         "id": "CBMiqwFBVV95cUxQU0Z4MmN1V0NMeTRPNUl3cDBPRHF6S3htNHVQTHBZV0Q0b2w5cUNaZUJKSTJxcVlxTklYTnY1S0tUWkZoRC1jODVYaWZncDcydkdfZ3F6V0c5MmVpX29DYUh1ZFlySlJ4RENIUjlFR28talU1Vm1MTFpOZEkzOVdxb2NRR3kyRjZrYVk0OW5HdEd1S1dKNXNyYy1xX1QteHRjZlJLekVEUzRaZm8",
@@ -812,7 +838,7 @@
         ],
         "published": "Tue, 19 May 2026 19:10:00 GMT",
         "source": "WOWT",
-        "fetch_timestamp": "2026-05-22T21:41:55.597936"
+        "fetch_timestamp": "2026-05-22T22:54:34.389245"
     },
     {
         "id": "CBMiowFBVV95cUxQR3VCd2dmNUFxNjl5NEM5cV9sUVJNbDRfTFdidS12Q2pyZGRoOG1yaXdUYkJHMDN1WlN5a1BuZTB1amk2bEtmME9ydGkwclkyWnNmcDFBSTVTOXpfRTdPUkg3VEtGOHFiWHRkTnQxT2c3NzhlRnVRX1VvSmdOcWRRdnFKak1ybG1LSG50SjVhdHR4Z3doVmxkT3BsT2dKQzdzUEhN",
@@ -838,7 +864,7 @@
         ],
         "published": "Tue, 19 May 2026 15:05:49 GMT",
         "source": "TODAY.com",
-        "fetch_timestamp": "2026-05-22T21:41:55.598396"
+        "fetch_timestamp": "2026-05-22T22:54:34.389706"
     },
     {
         "id": "CBMijgFBVV95cUxOSV9BRHJ1eXJDSFFySXNOSXBQUDVOUkdxejNRdFd4SXNTWEl2cUhDZE9QZ3dhVWVEUkJFUDNpdHE1NXE2T0FIazhKWURqdThLVmRYUWRDQlBGNGY3QXNvS3llTlR0ZVc5NzFrVkxqNGRCMkxSajNZLUxydTk3c0NRTnhmX0VYNmQ0TlNna1dR",
@@ -864,7 +890,7 @@
         ],
         "published": "Tue, 19 May 2026 15:00:25 GMT",
         "source": "TODAY.com",
-        "fetch_timestamp": "2026-05-22T21:41:55.599107"
+        "fetch_timestamp": "2026-05-22T22:54:34.390415"
     },
     {
         "id": "CBMidEFVX3lxTE95bWdPV0RJblN6Qkd1ZGJ6a0RhM1RzLXdRY0poNGFaZmZCLUpyLU4zLVphN3pPQThGd1ZvZFU2UFc1NGV0TTB6MlFvRHNuX1dJVnlETGtCd0JyNkowZjUxcWJFZHVWbkxVTWpJQ2UtbW8tSWpS",
@@ -890,7 +916,7 @@
         ],
         "published": "Tue, 19 May 2026 13:50:47 GMT",
         "source": "People.com",
-        "fetch_timestamp": "2026-05-22T21:41:57.351675"
+        "fetch_timestamp": "2026-05-22T22:54:35.924415"
     },
     {
         "id": "CBMiuwFBVV95cUxNcEY5Ri1fbmFtTHFFQy1uMVpiUXpocEUwRmktcVdCbTltSy1jcVNUNklack5NTjd0OWJRSDZ2Nk9DRzdva2NSRmF4eHJsSzZ4LVZYb1lLQWlvWlBUWi1NVndjcEZseFphc0RoZGc1T1pJNlRUbFNRSzBwWXdDQmxvQ1o0ZHhhZDI4VnczdWg4WXJIMXBlS3RJRk5taE04dDVXdTJfMHI0R0hwTmd4aUVJbGNvTVdkU2ItNEVv",
@@ -916,7 +942,7 @@
         ],
         "published": "Tue, 19 May 2026 12:30:00 GMT",
         "source": "Forbes",
-        "fetch_timestamp": "2026-05-22T21:41:57.352475"
+        "fetch_timestamp": "2026-05-22T22:54:35.925316"
     },
     {
         "id": "CBMingFBVV95cUxOM2FZT1h2WmNMV1pZYy1fYi1xNld0UDAyTzVwa3JjRXRwdlJtd0owSXVpMUZVTUt0Q0VjNGZNOTlsLVRpMFEwUWVGaTVBUnI2S2N3VVM2dnVrTWN2UF94b1VFNWRZR3pKbVN3cVFWblJib19fV2VlZzJaYWQwMEZ3a1c5dnM5R1piNW0xbFdSbmtrbHp2XzR0Z2xZV21jUQ",
@@ -942,7 +968,7 @@
         ],
         "published": "Tue, 19 May 2026 11:25:35 GMT",
         "source": "paproviders.org",
-        "fetch_timestamp": "2026-05-22T21:41:57.353229"
+        "fetch_timestamp": "2026-05-22T22:54:35.926135"
     },
     {
         "id": "CBMilwFBVV95cUxQV3VFdWVMS1RrQ1l3RDJQUTUxQnA1LUZzREQ3TkNKcjU1S0lSWV9md1Qyc3h4enJ0ZktQOWdJWDhZVkQxQTFibWdBd0F2Z29HR1R0YVhYeUw0eTZqUUJOb0VmTWl4OExUaFQ0Um5NVGpQT19UV1VZYm5jaUM0bGFsV3VSSGlaRzNZWDVHZ0dsVlMwSG1pWkN3",
@@ -968,7 +994,7 @@
         ],
         "published": "Tue, 19 May 2026 11:03:04 GMT",
         "source": "CNN",
-        "fetch_timestamp": "2026-05-22T21:41:57.353967"
+        "fetch_timestamp": "2026-05-22T22:54:35.926918"
     },
     {
         "id": "CBMikAFBVV95cUxQSnFGOGREZzktNnNrc2pYaVc5OG1GVmRzMnB1ZnA5VXdDM29yclFKU0JRWk9YX18za19NRUVLSGhpTlhXcnJ4bUI1OHBwYjFldWttSm1JYmM0TzhHSkgzaUJjS3hwRW1YNlVMcUg4X29TcHBTU3NaNkJjeTViMlhwQ05uXy1kRllVMV9VRGg0WHc",
@@ -994,7 +1020,7 @@
         ],
         "published": "Tue, 19 May 2026 10:31:36 GMT",
         "source": "Your Local Epidemiologist",
-        "fetch_timestamp": "2026-05-22T21:41:57.354628"
+        "fetch_timestamp": "2026-05-22T22:54:35.927600"
     },
     {
         "id": "CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4",
@@ -1020,7 +1046,7 @@
         ],
         "published": "Tue, 19 May 2026 07:00:00 GMT",
         "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "fetch_timestamp": "2026-05-22T21:41:57.355325"
+        "fetch_timestamp": "2026-05-22T22:54:35.928283"
     },
     {
         "id": "CBMitAFBVV95cUxOaFo5QzRfQUhHS3M3M1hNZzVacFctMU9odVZPVzQ1RjBFdTJFdGR5emJKWUlfVnVENThfZUhUQ3NpY1JSNTRndS1yb0Zkakg1cVAwTzJSNXJxcTI5VWRDS3FPdlRfeU9BRVNfRTJyRkRlRWtFZThGcExPUzJuYU1WVDlGeVdOVlBmOTBkVzBobXpja1BaS3EwSW83eFF5U3YwWGlYaUowUEt5OTlBYzV5dkgwR18",
@@ -1046,7 +1072,7 @@
         ],
         "published": "Tue, 19 May 2026 02:49:00 GMT",
         "source": "WSJ",
-        "fetch_timestamp": "2026-05-22T21:41:57.355969"
+        "fetch_timestamp": "2026-05-22T22:54:35.928919"
     },
     {
         "id": "CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o",
@@ -1072,7 +1098,7 @@
         ],
         "published": "Tue, 19 May 2026 02:07:29 GMT",
         "source": "Colorado Public Radio",
-        "fetch_timestamp": "2026-05-22T21:41:57.356858"
+        "fetch_timestamp": "2026-05-22T22:54:35.929811"
     },
     {
         "id": "CBMivwFBVV95cUxNQzFDX0E5MHVHTk41TUdnUEkyRjUzQ1JmQmJaV0FYWjRydmtORjB3Y0xOUkQ4T1ZLM3J2VmstZGM0dWVwby1mSmdxdWVfSjlpdE5NX1V1cTBEZkM3Vm9lMlZDekc0b3VSTzhYdkRUcFk5S0xwVVNnekowTm5aVFdMcU5pQmRRNTFYeVl4dU1iQllHSnBVSzFHTUN6VzRWTU05Z2txNV9sUDFyUW0tOG5JU3JKbTlkMDY4ZVBib1AwMA",
@@ -1098,7 +1124,7 @@
         ],
         "published": "Mon, 18 May 2026 22:09:55 GMT",
         "source": "The Conversation",
-        "fetch_timestamp": "2026-05-22T21:41:57.357545"
+        "fetch_timestamp": "2026-05-22T22:54:35.930526"
     },
     {
         "id": "CBMiyAFBVV95cUxPcXgtUFRRbWl0VTRLaGRicXc2R2ttdFo4ZlNxaUtaNm5zVlJiWmdEd1JEbVpVLTRaaFFvdGtfUEhDS0hiSEdEWlNhS0tWd0hmSUZZRU0wdTJNcmFuamkxQVZVanZ5TFFXaUUyWDVMb1V1bGZZZTFMRnNQREpGV1dSbVBpT2tiT2NaUXdZbjQwdFRYZG9aZzRONE1OLUNhaGNEVUcyeEl3OEdreE9HN0MtN0ZpcTh3UEtKajF1czctWGJ6NHFUUWZvMQ",
@@ -1124,7 +1150,7 @@
         ],
         "published": "Mon, 18 May 2026 21:55:26 GMT",
         "source": "Reuters",
-        "fetch_timestamp": "2026-05-22T21:41:57.357976"
+        "fetch_timestamp": "2026-05-22T22:54:35.930933"
     },
     {
         "id": "CBMirAFBVV95cUxQb3ZsNWRWd2JEZEpWclg4V2RoMlJ0bWRiVFpSN0pZX3ZfX0JtdW15RHZicG5od1FMbl92Tm4zdC1DRHBsQW1XR3VtZnVOQ2JOYXd2QlZCWFpsTzJHVGEtTDFnbmRSTy1EV04wNmhVM2xMVkZTVGg5dURsZktfMFNFZG43S0FpdFA3ZzJ0R09wQXVzNHRMaGY1Ynkxa2VMSXowcU9CZ3BCWnZQaFZi",
@@ -1150,7 +1176,7 @@
         ],
         "published": "Mon, 18 May 2026 21:24:00 GMT",
         "source": "AP News",
-        "fetch_timestamp": "2026-05-22T21:41:57.358610"
+        "fetch_timestamp": "2026-05-22T22:54:35.931589"
     },
     {
         "id": "CBMixAFBVV95cUxOWWl5U2J1SGpPNUhLVGJjRWhodVNoUzhMT3VzME9UMzEwTS1EMm5jczRKcTdGWDRYeEVEYmJmTkRPUkdoUXVNblRnRXJBZjJ6THR0M09uWVBjbmRVZjc0TDFWb1JhVkN3dmxqMEtwMFV5Vjc5cXd4VjA3MFYzXzNSazFPeWZDa2dhVkkya25kUjZ0dVJRWjJRcFBLaUpiMWx2RktDWldTWXVFN2hIU2F0aXF6M3FLV1ZNVGd4UzhfcE14Wl9J",
@@ -1176,7 +1202,7 @@
         ],
         "published": "Mon, 18 May 2026 20:20:22 GMT",
         "source": "PBS",
-        "fetch_timestamp": "2026-05-22T21:41:57.359236"
+        "fetch_timestamp": "2026-05-22T22:54:35.932203"
     },
     {
         "id": "CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ",
@@ -1202,7 +1228,7 @@
         ],
         "published": "Mon, 18 May 2026 20:02:40 GMT",
         "source": "The Colorado Sun",
-        "fetch_timestamp": "2026-05-22T21:41:57.359650"
+        "fetch_timestamp": "2026-05-22T22:54:35.932626"
     },
     {
         "id": "CBMiV0FVX3lxTE55MFhKTjNDdnZtRHVhMC16Rk1ieVgwR2FHTTJkOU82Qk8wenJoR2NjbFpheFFpSE1EOFhEZ056aGpLY0VfZXl1NXJ5RldzRjR5RDNDVFRiUQ",
@@ -1228,7 +1254,7 @@
         ],
         "published": "Mon, 18 May 2026 19:43:47 GMT",
         "source": "UN News",
-        "fetch_timestamp": "2026-05-22T21:41:57.360237"
+        "fetch_timestamp": "2026-05-22T22:54:35.933211"
     },
     {
         "id": "CBMioAFBVV95cUxQU0E5TDdrY1ZVWkNLdldSejN2MkcxX2pfUVVzZFBSeGxGeldDQmx2aWZKdmJVVWpKcVJrRzFCbUFodXowOTQ3dXB5c2hwcXlRTFhjTWJsTWp4R19ZTTJMTG92cWNZem9LTWx1c1hEcmUwNGtpdEtPdUY3YjZkTE9GcWpPalpnRWZBbTVzaUJiSnBoNHUzNkx0U1I2S09kMTB5",
@@ -1254,7 +1280,7 @@
         ],
         "published": "Mon, 18 May 2026 19:33:00 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-05-22T21:41:57.360736"
+        "fetch_timestamp": "2026-05-22T22:54:35.933726"
     },
     {
         "id": "CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3",
@@ -1280,7 +1306,7 @@
         ],
         "published": "Mon, 18 May 2026 19:05:05 GMT",
         "source": "The New York Times",
-        "fetch_timestamp": "2026-05-22T21:41:57.361366"
+        "fetch_timestamp": "2026-05-22T22:54:35.934365"
     },
     {
         "id": "CBMie0FVX3lxTFBEZENiTVE2YTNVVjh3OGd1cm9lb3FYVXBWcmFmWXRkR1hpaFg5WUNHekJIMF8xeGtLQ21tbmx4eExPUUNCZ3VicVNYTjZqajhJZHpkTWlaanNRdkdpTm45bDlCTkVzRU5QQkZMcElhQ2hoU1hTU3hqdG9Rcw",
@@ -1306,7 +1332,7 @@
         ],
         "published": "Mon, 18 May 2026 18:05:00 GMT",
         "source": "Newsweek",
-        "fetch_timestamp": "2026-05-22T21:41:59.251824"
+        "fetch_timestamp": "2026-05-22T22:54:37.664412"
     },
     {
         "id": "CBMivwFBVV95cUxNV25yN0ZMdTZNLUlXeE9xazNwRnBuZC1CV3A1bTdDUk5PUkNKSnkwTWFneGxyd3Nxd1VDSDFsZEZmQWFzR013Q196WDVKRjZQam45Q0RMNEhUUmxPY0JZTVRRejU4NGFnSzBSdlA0emEyek9lS2plZlhlYUlfWk9QdjFoM1c0YTNEN0tUb1BYT0xHT1U1bkJyYmRwTFV2TGtWd05TbDNXek42eWRfdnlnOGZSQmpuNXlsN3diNVZDZw",
@@ -1332,7 +1358,7 @@
         ],
         "published": "Mon, 18 May 2026 17:59:42 GMT",
         "source": "NBC News",
-        "fetch_timestamp": "2026-05-22T21:41:59.252310"
+        "fetch_timestamp": "2026-05-22T22:54:37.665035"
     },
     {
         "id": "CBMingFBVV95cUxOU0UyRDVUdWNmS2ltLVk3VzllSUd4Z05yeFRwSnctTXZUNDNkemxIbC1QcDFKZkU0azhQeFhnb1lzNGx4VUpVVUM5UFBYYkRnNjA0XzQ4dFJRdHBGWWE1M19oZWdVYVpHZTlRMVlxcDc2ZVFhS0dEcDlXTzZqVXU2UldkWW5ZN3h6ZHh0OWxveG9ZTWdST0oyOXNJYTlxQdIBsgFBVV95cUxPVE1Da1d3SlFiZVlrUmZZeWhLY2t1UlVNQWU3dEpxd29peWhsZ0RzUXZDX0RwOWR4Sk1tWlIxUEx5SnFJZ2JFNlMzdC1tQlNwNHR2ZGFRR3VzbmU4MjRYWHlJWFUyLWxWWDhiV0xPSWxUeE4yVzVJSFJjWkZhaURKbVNKWU9OV1EzT0w1SDRGa2tKa2NzdEJVajhjX1VvVXREQlpoT1otYm5ZeUhNdUxocVZn",
@@ -1358,7 +1384,7 @@
         ],
         "published": "Mon, 18 May 2026 17:48:00 GMT",
         "source": "KKTV",
-        "fetch_timestamp": "2026-05-22T21:41:59.252884"
+        "fetch_timestamp": "2026-05-22T22:54:37.665634"
     },
     {
         "id": "CBMitgFBVV95cUxNSjlYaGNZRDExWHJGNjRCTUFhTXhwRXNOTjVxRUtRa1FtdXlFUmFxa0hXTjdyN0ZRbkVqNzRSWDd3OWhCWkYtd1daME1WQjRUc2IwTVpuVlNPQXVQOW1xQ0JIdm9HMy12R01BRUU2YzYzQnBFTm5jbi1LSFFQVllFV190RVNkeTBsalZjOExibF92VzBXU1NHLVVjNE5GcTVDa2RVOFBRLWNjTXpIaEprOVJ4dXo5QQ",
@@ -1384,7 +1410,7 @@
         ],
         "published": "Mon, 18 May 2026 15:32:00 GMT",
         "source": "USA Today",
-        "fetch_timestamp": "2026-05-22T21:41:59.253487"
+        "fetch_timestamp": "2026-05-22T22:54:37.666301"
     },
     {
         "id": "CBMi0gFBVV95cUxPSl8wQ0dCRTN4dWJHWjE3Umo0YXByNjhwVXFRYURhRFY1NHFvVGpJbmdqOWpFbEdEVVdhRlYtRXVTcGFCUHlwLVBlTHNIVWVtem5sTHcwWS0tSzh2TGY0TV9lQzBUY0Y5Rm41Ym9xcDJhenBwV3dUalhOMEE3Mnk1QmhGa21nQ3RTWHlENjdSUEpNVFVXeHZMdFdDWnNDSE5MS3M3YWoyYzFpY05RalNnVERwWmlFMkZUd2pCUlVoSlRfNXFIaVBEWjdXc1R6cjNsRlE",
@@ -1410,7 +1436,33 @@
         ],
         "published": "Mon, 18 May 2026 14:18:00 GMT",
         "source": "The Guardian",
-        "fetch_timestamp": "2026-05-22T21:41:59.254153"
+        "fetch_timestamp": "2026-05-22T22:54:37.667390"
+    },
+    {
+        "id": "CBMiowFBVV95cUxNeE5NVDYwa0RFdlJzZ3hvSy1PY2FZdk4wbWF6bkMzMzItUEljb2pyTWdoX2ZaRHRuUUh2a3NxQy1aYUh4Y2pHek5GQldKbGFiYk5Hak1WV2dOZ2NZZ2pFMmx2OEVlLXl6UVVseDR3OWZSczRZaThZWGxWUUxObjc4QXEtdHE1eTZ0cm9FZlJXamVTRDZYejBLMlk5aFdINl9jMFRN0gGoAUFVX3lxTE0zbC1KcXhNdDJKS2NVNjNNdWdldFhkZ2FfOVptT0UzZlVKdkNvUFA4Y3VTWDhZWDFpN3diNUh4UWxQZDJaaThsS0ZDenBSalNTRkJBNVd0aEI3RXhYTmZiRzluMFhrS1FqSjdnOU9ublJtQ2NFSTEyb1RSc1Q5Mi1RVGdoN0tLeWtvenJWZWJqUkZVaE9VVldHSm9aaVZCLXRiSER3UTRESQ",
+        "title": "Ebola, hantavirus: Is the world prepared for the next pandemic? - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeE5NVDYwa0RFdlJzZ3hvSy1PY2FZdk4wbWF6bkMzMzItUEljb2pyTWdoX2ZaRHRuUUh2a3NxQy1aYUh4Y2pHek5GQldKbGFiYk5Hak1WV2dOZ2NZZ2pFMmx2OEVlLXl6UVVseDR3OWZSczRZaThZWGxWUUxObjc4QXEtdHE1eTZ0cm9FZlJXamVTRDZYejBLMlk5aFdINl9jMFRN0gGoAUFVX3lxTE0zbC1KcXhNdDJKS2NVNjNNdWdldFhkZ2FfOVptT0UzZlVKdkNvUFA4Y3VTWDhZWDFpN3diNUh4UWxQZDJaaThsS0ZDenBSalNTRkJBNVd0aEI3RXhYTmZiRzluMFhrS1FqSjdnOU9ublJtQ2NFSTEyb1RSc1Q5Mi1RVGdoN0tLeWtvenJWZWJqUkZVaE9VVldHSm9aaVZCLXRiSER3UTRESQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Mon, 18 May 2026 13:14:41 GMT",
+        "source": "Al Jazeera",
+        "fetch_timestamp": "2026-05-22T22:54:37.667932"
     },
     {
         "id": "CBMi5wFBVV95cUxPZUlDOXhza3F6WVZoR3dKYkRLUzN2T2Fsa0x4STY5NXNzdzdWNHhuMUhpc3BZUkJfUGpqWU53VmpRTUxNVWpMc1ZNSnFIM1VjSEdyLWxCWXp2dElnNXctanpvMkJnRExqT3pBSV83TDV6VFU3SDF2dGppdXV6V094RWlBM04xVEFkVFZqQ0RfUkE1M3JTakc4OGNobjlLcjBXYmpwcENzMW1iakNZdDlXTGhydDV1YjVlSnAzZ3pKWWlXQjJWWGl2SXdKejBGZDJNTDNsbHFtb3R3RWpaaVZydHc2LTc4ZVE",
@@ -1436,11 +1488,11 @@
         ],
         "published": "Mon, 18 May 2026 12:56:59 GMT",
         "source": "Yahoo",
-        "fetch_timestamp": "2026-05-22T21:41:59.255438"
+        "fetch_timestamp": "2026-05-22T22:54:37.668827"
     },
     {
         "id": "CBMijwFBVV95cUxOYnNya25ZYzU3YVNCSy15Tnl6UFVOdkRaaGJ3cE1JMjlvRXdFUG1tQzBrSkJUSnJiQ002RDlHRnFnUlJwY3RsU0ViTUdPbHNRRkgwbWxGV1RGeWltWGdQVm1oVFowUjgwakNFdTVHSU9ZOW9nRGRPSzZkS2FnMzgzLWEtM0hjU1R6c011amxGMNIBjwFBVV95cUxQWXpvVW9VeFBFVnU2QkwzMGdINWZCeTVsQndRakkwUmNPQTdhSVNqd0VHT3g4LTFXTWdoUUp4dnVxS2NDTlNmdVdDbmFVOEhkTU9tS1M4X1pDXzluT2Q0cjdlWlYzWlMzVm1VTUxLYlVEdWlEeU5BR1BaWk03NFIyeURBaG55S0JnUGNOYVFvRQ",
-        "title": "MV Hondius docks in Rotterdam after hantavirus ordeal - DW.com",
+        "title": "MV Hondius docks in Rotterdam after hantavirus ordeal - dw.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnNya25ZYzU3YVNCSy15Tnl6UFVOdkRaaGJ3cE1JMjlvRXdFUG1tQzBrSkJUSnJiQ002RDlHRnFnUlJwY3RsU0ViTUdPbHNRRkgwbWxGV1RGeWltWGdQVm1oVFowUjgwakNFdTVHSU9ZOW9nRGRPSzZkS2FnMzgzLWEtM0hjU1R6c011amxGMNIBjwFBVV95cUxQWXpvVW9VeFBFVnU2QkwzMGdINWZCeTVsQndRakkwUmNPQTdhSVNqd0VHT3g4LTFXTWdoUUp4dnVxS2NDTlNmdVdDbmFVOEhkTU9tS1M4X1pDXzluT2Q0cjdlWlYzWlMzVm1VTUxLYlVEdWlEeU5BR1BaWk03NFIyeURBaG55S0JnUGNOYVFvRQ?oc=5",
         "location_name": "Rotterdam",
         "coordinates": [
@@ -1461,8 +1513,8 @@
             }
         ],
         "published": "Mon, 18 May 2026 12:12:13 GMT",
-        "source": "DW.com",
-        "fetch_timestamp": "2026-05-22T21:42:00.498721"
+        "source": "dw.com",
+        "fetch_timestamp": "2026-05-22T22:54:39.163000"
     },
     {
         "id": "CBMi2gFBVV95cUxNSHpfby11Z3pRQWN0SUZrZkZHVXhaZnRvNUJHbUZoZDV0VFNlVW9tOU1qVTJNZEx3VU9ZZ1NXeDg1V1Y2NWdBSzVYMVA3TE9jdzVxNDBOMWtOV25ScVpvNkJSYW5HXzZOSU5QWFBja1VvU0tkVkRORkxManJGY3FGaUtOUk5wcGF6c0lucjhtMWF5U2M4aW1MbzE3cVhMcmM3NDZjSk5iNzJmbjRNeXdNTFZEWnVvcnQ4RFJlZVI4aTVTUXFCSk54aVhxc1hMVVdvTlkxZnk5VUI3dw",
@@ -1488,7 +1540,7 @@
         ],
         "published": "Mon, 18 May 2026 11:50:29 GMT",
         "source": "Reuters",
-        "fetch_timestamp": "2026-05-22T21:42:00.499517"
+        "fetch_timestamp": "2026-05-22T22:54:39.163766"
     },
     {
         "id": "CBMiWkFVX3lxTE9YNXdzUmhnNzhwYVBjODIxd1RFWkh6MDR1cVNSMHpqYWhPdEMyOXJBcGQxa2g0Uy1RQ1pOWGs4eWozSW14R1RGSzNiMVZlMEtaR2FUR3BIVHA3dw",
@@ -1514,7 +1566,7 @@
         ],
         "published": "Mon, 18 May 2026 11:13:42 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-22T21:42:00.499969"
+        "fetch_timestamp": "2026-05-22T22:54:39.164209"
     },
     {
         "id": "CBMilwFBVV95cUxNOHBvZS05alV0U29JVGNPcDJ3am1SWFpTZzRmaDRJMjBHdjBWUXJQUm1Idm5HSkNZcEgwX2M1bnltY2hxdFZ4MUxyckRBbTRUX3lacXlPdzE1S2hHU29DcU5HMXJVZGx6Q2Z2OElKZmVVQnZYSWZvNEM0dDVJV1VrT2RpNlpNNHQ2OHhpWnNKckxIbUNVbmpn0gGcAUFVX3lxTE13eVlPN3h1LXZWSExrTXh3aUI5Y0xZVHkwY2czeVpBZ3RBVDFmdktfZjRNcUFqbTNQeWR1aDlHYmliWWJabEt5cGYxYzYyOVg1RGN5OFdiSGlIX0pNMDhvZWxYUDNqTk90Rm5MbDhXZjVHV3lQVmlFZzdGOURnT0xqUEhZNnk1WGZZTkxzczhyaXg2cDFucXB5czRjVw",
@@ -1549,7 +1601,7 @@
         ],
         "published": "Mon, 18 May 2026 10:07:01 GMT",
         "source": "Al Jazeera",
-        "fetch_timestamp": "2026-05-22T21:42:00.500425"
+        "fetch_timestamp": "2026-05-22T22:54:39.164655"
     },
     {
         "id": "CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh",
@@ -1575,7 +1627,7 @@
         ],
         "published": "Mon, 18 May 2026 09:55:19 GMT",
         "source": "CBS News",
-        "fetch_timestamp": "2026-05-22T21:42:00.501079"
+        "fetch_timestamp": "2026-05-22T22:54:39.165313"
     },
     {
         "id": "CBMickFVX3lxTE8xelZ5ZGdGVVYxYU8zY3hkWEpXVjd4RmtiWmtYU3lGVGRhM2NuMi11d0FuZ1hHYk9Fb2t5M0VOeTBSdEZRMnVjRi1QZW0xUHdMV2pCNlYtalZLeUk3X2FFanZ5VnVRbE5ERVJHMkJLMWZKZw",
@@ -1601,7 +1653,7 @@
         ],
         "published": "Mon, 18 May 2026 07:00:00 GMT",
         "source": "UCHealth",
-        "fetch_timestamp": "2026-05-22T21:42:00.501836"
+        "fetch_timestamp": "2026-05-22T22:54:39.166080"
     },
     {
         "id": "CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc",
@@ -1627,7 +1679,7 @@
         ],
         "published": "Mon, 18 May 2026 07:00:00 GMT",
         "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "fetch_timestamp": "2026-05-22T21:42:00.502444"
+        "fetch_timestamp": "2026-05-22T22:54:39.166697"
     },
     {
         "id": "CBMiswFBVV95cUxOdjVIdE5rYnItLTBJdGpxV24wSVQzaXJnWGFCenJHQXdBekZhd2YyazBJUlpVLXFwZzloelRYZGY3RWJWTkkzb0RRV2YtSFZjZVlacHE1N2NtMWswY3p5Y3p0NkZ0LUh6VlNYanpIYkpXZEJLQ0M5M0FwUmI0REZheDVVNmtxM1QtdmpYSlNkbWV1SWVxeVZUQ3RnUm8xeXpZTEx3QlRxbHo1SVI0YW15VklXWdIBuAFBVV95cUxOU1FLRlE5QkJmTHZ1UExWQmo1SVcwZlpYRGtTVDZGUUI1aTdQTmd4OGVBZDcyUWI2MVg0YWEzblpLMmFNc0hfX2U3eVFJLUtiVldNTDhYcHJEaWpMcjBYeUlHc1FXRlNYSWhWZHpBR2ttN21Rc2FCUXhzelRmckRrNllUOUZaOVI4dTg1YVY5a2VyQS0zYnRPYlBWdmZwelhoVUhuRHBtNmxscDdmM0laVTRMX3JwVUZq",
@@ -1653,7 +1705,7 @@
         ],
         "published": "Mon, 18 May 2026 02:17:33 GMT",
         "source": "Fox News",
-        "fetch_timestamp": "2026-05-22T21:42:01.730642"
+        "fetch_timestamp": "2026-05-22T22:54:40.422802"
     },
     {
         "id": "CBMidEFVX3lxTE94Q2lVdy03YWVySkYwZTlMLXFNdzRrYzFRX1B0ZFBrbjRMcXp4Z0tFdTVzTnBCLWNXVGxqVm5kY0pETVlRVjRPZzB0UG5SWlhlMjQ2SlNsZXZsOUZNWnREQWdiLWVwNlRMcmRTdE03ZUY5OWxJ0gF6QVVfeXFMTzMtZjJNSXgta3BveVhKRTQ4OFhWTWFPUzFOSEVQajMycEg1WEZEYjdqUmpibnFhdDVlRHRSUE5tRzZON3FDUWctMjJ2dG9XZVhBZGJGemtFMklvdzMyR2E1MzFkYV9aUE1kLWc0R2FNQVQ5UFhYa09MblE",
@@ -1679,7 +1731,33 @@
         ],
         "published": "Mon, 18 May 2026 00:52:17 GMT",
         "source": "NewsNation",
-        "fetch_timestamp": "2026-05-22T21:42:01.731586"
+        "fetch_timestamp": "2026-05-22T22:54:40.423757"
+    },
+    {
+        "id": "CBMiggFBVV95cUxNQ0c3THBKSF8zT2g0enJleW00c0lCajZsQ0xTRlJJRklyN2ZKLVlzVnFjMFo2NzdiN05ZZFFDblUydHRjOVp6NHd6eXplSG9DN3JSS0lSUnpFc1FkRUxuZk1jenhPcktFWDFCUGdCVUR3bFMyQVM0VVdDS25WQ2liWjFR0gGHAUFVX3lxTFBadExDRDgwLTVDWEgtZTFVVmI4UExjSGVpYnkwZEt5SUNTUjFPRExIeVM5YUxsMkt6Y2JET1JqS0p3S054TzlWUUpUOXZ3QjZ4N01BbHRtd0NHMXo1dVFvMW5zVU8wMS1xcGR5bDZ4SWJ4NjJwVHhoemFiR195Y200NldwekZTOA",
+        "title": "Hantavirus cruise ship outbreak: Passenger recalls final days before deaths - NewsNation",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0c3THBKSF8zT2g0enJleW00c0lCajZsQ0xTRlJJRklyN2ZKLVlzVnFjMFo2NzdiN05ZZFFDblUydHRjOVp6NHd6eXplSG9DN3JSS0lSUnpFc1FkRUxuZk1jenhPcktFWDFCUGdCVUR3bFMyQVM0VVdDS25WQ2liWjFR0gGHAUFVX3lxTFBadExDRDgwLTVDWEgtZTFVVmI4UExjSGVpYnkwZEt5SUNTUjFPRExIeVM5YUxsMkt6Y2JET1JqS0p3S054TzlWUUpUOXZ3QjZ4N01BbHRtd0NHMXo1dVFvMW5zVU8wMS1xcGR5bDZ4SWJ4NjJwVHhoemFiR195Y200NldwekZTOA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Sun, 17 May 2026 21:37:21 GMT",
+        "source": "NewsNation",
+        "fetch_timestamp": "2026-05-22T22:54:40.424449"
     },
     {
         "id": "CBMivgFBVV95cUxPWXowR2ozdTZsU1E5OFBta3N0cGt4QVF5Vmk2WGJ1VjlnX3NnR2VKbGQ2dGN2TWRCRi1aRlplOFJGLWIyVWtSMzQ0YUNvdVFmQ3N2LVpLQ05rMnRPZDVKT2pJWkF6bGgxaGliZEEwbGRnMXR5NmIyQUpWQ0ZhZ0dhSThVdmoyNGRzblZnQ09DSnlfcDVXakpKaHBjOTlMX3M1VFlrS3A4QUFjNnBnc2k2YmxOYk40TTBYUUNlRUN3",
@@ -1705,7 +1783,7 @@
         ],
         "published": "Sun, 17 May 2026 18:25:11 GMT",
         "source": "Denver7",
-        "fetch_timestamp": "2026-05-22T21:42:01.732413"
+        "fetch_timestamp": "2026-05-22T22:54:40.425222"
     },
     {
         "id": "CBMilgFBVV95cUxOTUFKeVhLSnBUclZZQ1JmSzYweUZiUEhsdW1oLXVuOXl1OWFuekYxcW8yUnVVV2JCRDYzZUFTN3RuQUVzU0tjUEduR1BRUFNYdU80UHJMOFJkNndEOFE4MXByaEQtYXdMMlo2dlJuQ1lWeGZhQ0NVZlVXMTVBWlpXdjdSLV9JYVRRRnoyWWhwYnNqSDJhc1E",
@@ -1731,7 +1809,7 @@
         ],
         "published": "Sun, 17 May 2026 18:13:00 GMT",
         "source": "AP News",
-        "fetch_timestamp": "2026-05-22T21:42:01.732972"
+        "fetch_timestamp": "2026-05-22T22:54:40.425759"
     },
     {
         "id": "CBMipgFBVV95cUxPLVdIM25HLXpyMlpJNXhpNjBucmVkTE51S1VFMlY3dVItR01kcV9MUlBYazFCRnJ2czBPSlVnQkhrdm5ETlc3V1BBN3VYaWVhWTlKYW1SY3lVdHVDR2lIYUZqTk1Hdm1qeUExNDhJN3BkUUJFSnBBbDRjeHp6cXdKUDh1aFBMald1c081Y2U4bkFxb2VmSnhLRkVKQWhQUDExQkpDYTR3",
@@ -1757,7 +1835,7 @@
         ],
         "published": "Sun, 17 May 2026 18:10:00 GMT",
         "source": "AP News",
-        "fetch_timestamp": "2026-05-22T21:42:01.733537"
+        "fetch_timestamp": "2026-05-22T22:54:40.426344"
     },
     {
         "id": "CBMiqAFBVV95cUxNY0RwUU41dDFYLTVUQmt0dTNnRzRVRGxrMVZXS0U2aGpSSHh6ZDFJenNhcE9qeUJyaTM2T1FlbTlORWdIOVZMYzlVNnhXWEtIbmVMN2lDdHVXdVE2Yi12V3BBX2R3Yk1oUjdsOENuQlEzY3dWUXl4V0I0bG1WWXI2Q0Y0SXlqeUZVRi1MQkE4SThGNkxFRVloOXo1dFh6TTg1WjQ3d3NLd3A",
@@ -1783,7 +1861,7 @@
         ],
         "published": "Sun, 17 May 2026 18:09:58 GMT",
         "source": "statnews.com",
-        "fetch_timestamp": "2026-05-22T21:42:01.734198"
+        "fetch_timestamp": "2026-05-22T22:54:40.426976"
     },
     {
         "id": "CBMie0FVX3lxTE45Umtpd19DQ2xpNzAtUnpULVZXRVhvU2g4Tk10RWpjY0ZwNGVvbmlzUlA5Nzhpc0pfQzRBSnBjOUJzcWlNSEVnNXo3TUZJZjQyQzFjajA0eTN1cW1qUXRZMnB0Uy1UWjdKeWxUcEdHVFRjUFJRajZjVVA3cw",
@@ -1809,7 +1887,7 @@
         ],
         "published": "Sun, 17 May 2026 15:22:47 GMT",
         "source": "CNN",
-        "fetch_timestamp": "2026-05-22T21:42:01.734817"
+        "fetch_timestamp": "2026-05-22T22:54:40.427584"
     },
     {
         "id": "CBMiWkFVX3lxTFBSempEd1o2VDlqTl90RUJBZFJJQmhKMTlzMHRUWi1UWldzeGhzeHExSkF5OUluSkd3bEhSak5QSExXbVVxN0hkQlhlbHVqWGN0MmYtbXhiQjFFUQ",
@@ -1835,7 +1913,7 @@
         ],
         "published": "Sun, 17 May 2026 12:07:54 GMT",
         "source": "BBC",
-        "fetch_timestamp": "2026-05-22T21:42:01.735387"
+        "fetch_timestamp": "2026-05-22T22:54:40.428172"
     },
     {
         "id": "CBMivAFBVV95cUxOcVYxSHlZOTEtNzJSRUhFdU9henNzZks0NUJmSTZYY2d6QXlCUUtVMzlOSDE3WHh1ZmExaU9ENFpFRzBlNjZVajVWWTFGaGxkNVhEMGlZNG5vc21Sbm5DWUZmRmlxcnpBbHE4c1VHZUJ0dWJSc1ptbGtzY3F2NU5aNUxDUDdERk5pNTUtTEtybk1KaTI5Ml9DTXdnT3lBb2Nfb3M1OFdvRGxCX0NseWZvLVBfRW83aDMwZGdPdw",
@@ -1861,7 +1939,7 @@
         ],
         "published": "Sun, 17 May 2026 11:30:00 GMT",
         "source": "Scientific American",
-        "fetch_timestamp": "2026-05-22T21:42:01.736084"
+        "fetch_timestamp": "2026-05-22T22:54:40.428845"
     },
     {
         "id": "CBMiuAFBVV95cUxORDJ0dnhpdUFWX3VKeE01cENXRzRCenMxQ21fUC16RlAtTS1hU09IMnAyZWZQUWhMM2NRaDFGMFhsV01vS0tYU19hWXhzbnhDaUs4QzVWS3VxNFNBUWhLcEo0ckVFdTRHdGZoOE93b1ZVRFZwMk5mdkFlQWZFLWtiT0V3SXdiR0R4VG5RWENyNm9zVlF2ajNMN0hKbnlWQ1VlRVVPYW05QjlKWUVmLUJaTmVYeXBDTGxa",
@@ -1887,7 +1965,7 @@
         ],
         "published": "Sun, 17 May 2026 10:30:40 GMT",
         "source": "NBC News",
-        "fetch_timestamp": "2026-05-22T21:42:01.736822"
+        "fetch_timestamp": "2026-05-22T22:54:40.429589"
     },
     {
         "id": "CBMimgFBVV95cUxQQXJOVWJQV2p3Yklab0tmdGVzMG9GX0hhR1d6SU1qZzB6WmhtU3czUVBjdV9BeThaaTItRWVzaGxISXF0dlRkSVMySjM5bzVTeDVQcmx3N3pPQmtzRXZZcEhhREd0Q1NxZDB1NTNuX0tqcVI1NTl1QU1BeTF3QlVQaVctLW5DZkJORDJ6REdsUE5OLXZuSzR3OVlB",
@@ -1913,7 +1991,7 @@
         ],
         "published": "Sun, 17 May 2026 03:50:27 GMT",
         "source": "SciTechDaily",
-        "fetch_timestamp": "2026-05-22T21:42:01.737407"
+        "fetch_timestamp": "2026-05-22T22:54:40.430205"
     },
     {
         "id": "CBMiqwFBVV95cUxNZWxHX01XdG43NFdsSktRekFKbklBM3RnNmxvT0JXUkVycFM0WHJCam1xOHVicl9sUmNudFdHaXRkSEZDTXU4WFpqbGc1NFRKcEpjOHVsdVZFRWxZcFdNQlhQcnNFbGFuVzNJU2JKWHBYQUZ6b1J0anduRWFqYjJqMDhpUEhCQ19EdllSUm40N19KUmdGMFVPU0RySnVtaXBvZXlYR0VWeV9heDQ",
@@ -1939,7 +2017,7 @@
         ],
         "published": "Sat, 16 May 2026 21:11:50 GMT",
         "source": "NBC News",
-        "fetch_timestamp": "2026-05-22T21:42:01.737970"
+        "fetch_timestamp": "2026-05-22T22:54:40.430744"
     },
     {
         "id": "CBMixgFBVV95cUxPOWtvdlJNUjEzRkhCWFExVWtNZ3lxb1d2TkF4WTA5YnBwYW5xUHJqU3FaTFZudEtObVJEZ0NaVEN1OWtYcW9IVlRxbExJclotWG1SLWtUS3V0WlBBamRzN19HdzEyM3FGMnc0d3cyM1dlTkFtRGNrQWtkSG9QVHhKbXc2SDlPdURQZUpXQm5Mb0lKOUlKMmhoZDViM3NjTWM5S3FmbW5DOTFOcTRqZzNVTnJWNjBTcXJ4aXdxd1ZCSEY4VzMwT0E",
@@ -1965,7 +2043,7 @@
         ],
         "published": "Sat, 16 May 2026 19:06:09 GMT",
         "source": "Reuters",
-        "fetch_timestamp": "2026-05-22T21:42:01.738499"
+        "fetch_timestamp": "2026-05-22T22:54:40.431282"
     },
     {
         "id": "CBMirgFBVV95cUxOZldMMEd3SFVOTFVPZldPTGVpU2V5ZVJJa0xfSGFidzVMWFcwaThBZldEbGVSNVZuR2JEaFhOc1V2eEs4eHg3MkZqMUhiRGpRSlN1S0JKQ0JKVXNaS29sVllEOXlwQU9sYWlzc0NDRmZuV28tcE91T3RvWm1VejJvVjMxMlNxTV9mRm9GTzNOYzI0R1NmUUJCMVZLeFdKUUpRVWxGSW1MNWFKVjBmM0E",
@@ -1991,7 +2069,7 @@
         ],
         "published": "Sat, 16 May 2026 18:42:00 GMT",
         "source": "CBS News",
-        "fetch_timestamp": "2026-05-22T21:42:01.739095"
+        "fetch_timestamp": "2026-05-22T22:54:40.431840"
     },
     {
         "id": "CBMiigFBVV95cUxOQ01MSERfY0JHbWVCdy1rSWtHZ3EtNkJCNU5kcU9SQjNwbGY1b1B1NWE1alpYOGVsRnJxZWM5cU90Q2VIZzJiYzdjM0h2blhaUzExWEEtNlYtRkxORE1UR3dWTkhLTEsxTnFXSjczNHlJRmlVc3NpbHNfcGMwVTFRNlFtaGVlTjdlMUHSAY8BQVVfeXFMTUhqV3ctTE9hV3luREJWRnpHbzBnQ2EwZmk2anZfZTlFTGFIU193QVlUUFJpOWpTMGEzNXkwZFREaDFnZTMyc0xHb0tZWVhkN0pGUThSbEVPWHVtUVVhRXpFanBxN0pmYzVHMEtOWjNSNkxPMHJZV1Nlb1Z1bXlDT2NUbDVndlZONjgxb2lxcFk",
@@ -2017,7 +2095,7 @@
         ],
         "published": "Sat, 16 May 2026 18:07:02 GMT",
         "source": "CBS News",
-        "fetch_timestamp": "2026-05-22T21:42:01.739684"
+        "fetch_timestamp": "2026-05-22T22:54:40.432442"
     },
     {
         "id": "CBMikwFBVV95cUxQWlJ0TWdiZFVNMHhoYU1pRzg2QzFUTmpwUi1HM21xYUpJOEtvMVhoblh3TjFZcU5NV0lFREU3MENKVGxKZmJodjZmdmVqVzdYZG90SHdjbXhfWExLUjJhd2hKWUhHSmxqZ2VYekNnNEhGeHhCNGwtdEtMbFlmelg0WWt4dHpGVnZFeFhqVzJwQ2s2aFU",
@@ -2043,7 +2121,7 @@
         ],
         "published": "Sat, 16 May 2026 11:03:05 GMT",
         "source": "San Francisco Chronicle",
-        "fetch_timestamp": "2026-05-22T21:42:01.740337"
+        "fetch_timestamp": "2026-05-22T22:54:40.433084"
     },
     {
         "id": "CBMiuAFBVV95cUxOM3drM1YzX1pNOHFnUkloNGUxSXJBcDFybEF5cmsyMmYxMnJhWEpjRGhFM2sza2lCU1RyaHF1RWV4ZmMtR1k2VWhWc2FKSnRIbG13dkVsT2lVTWRhZ0sxRjc4eFI0NmJRS2dJbi11S3M5NUlqSEE3X0w5VmVQb1RjUDd1eS1QVFFGbGREZ21RdUVSLVdZLVBHRlFkZHhYaEh4TGN1ZFdDNlRqdm1XM0F1V1JIM25JRWRo",
@@ -2069,7 +2147,7 @@
         ],
         "published": "Sat, 16 May 2026 04:56:33 GMT",
         "source": "The Washington Post",
-        "fetch_timestamp": "2026-05-22T21:42:01.740990"
+        "fetch_timestamp": "2026-05-22T22:54:40.433719"
     },
     {
         "id": "CBMisAFBVV95cUxORXZia2lfOHI4ZU50dnJaalFDVVR3OHB6N2JxVklrUnpNLXNvaXFvWS04RzFUQm1RSXhFYk9xVy1ndF9iMnhaMXY4QzVtWWR0ZWxfSm84dDVWaWtPMUJ3dFBLcXQtWDVKQk8xdjVmdGZ4RjdWa1pRWVFkV2h0MVF5N1R1eXU2bWcwc3NqdkJNdWowN0tCRC1ITmRlZkVIeXpQVXo4X3QxbGU3bnV4S29MZdIBtgFBVV95cUxQNjk0TWZ4QzVabjBmWlVmMEVyVHpEc2hWTGQxYXJVZXcyVmg3bUxEenktaVQ0UnRScm96bEdCZ0tjYXBKSmowYnR2MllSVDdXaTJRRG5fUndnR0xySDREVm0wMFktT09TWWJkcGU0NGh5VUNuRzVZQTQxRHhCWm9jdm9JRXphUVZZczExeV84S2Jvb0g3TmVoU2h6bC1DQkxoN3BaTkZfVWhFMjVRVk1Vd21haVQxUQ",
@@ -2095,7 +2173,7 @@
         ],
         "published": "Sat, 16 May 2026 01:26:54 GMT",
         "source": "FOX 5 Atlanta",
-        "fetch_timestamp": "2026-05-22T21:42:03.478553"
+        "fetch_timestamp": "2026-05-22T22:54:41.939052"
     },
     {
         "id": "CBMipAFBVV95cUxNMHNUYXBybnpSa1lmc0M3ZGQ5d00yYzh1Tk1aYy1Ca3JoYVE3TUFMSDBkemRjeThLY2RXVUhvVHJwSWd1WDFiVTBYQkN6V01DSUI3QTdlRXJuRHh4MnAzUDZlSEM4VENBcFpLcmVkRHBuM2tQMHlDRnVIbEdjZERGQkkzNUhramJ2LXlRb3pGNUMtNGxpbkJtWlBmbU1MMWRUUlZISNIBqgFBVV95cUxPX2h5SGhRRmZSTmhubklCVW1wZDNCWFJMbVdHZkR4WFpQcE0tWDJmbHo1d2VSY28zWV9DZ1ViYko5b0ZiTEtFMXVVRXdQVS1sX0staUZpZGRJUlRrWWRJal95RUpsVnQ1cXBrRGY0SW9KZzlJMmY1c3lSS2x4cGZGN2VqNEZha2c3cldBRjlvM0pTS2JwemlhNjFsWGR0VFZnWXBHcm1xdlhWZw",
@@ -2121,7 +2199,7 @@
         ],
         "published": "Sat, 16 May 2026 01:15:00 GMT",
         "source": "The Hill",
-        "fetch_timestamp": "2026-05-22T21:42:03.479374"
+        "fetch_timestamp": "2026-05-22T22:54:41.940068"
     },
     {
         "id": "CBMi1AFBVV95cUxObDViczlYYzJIMU9lNDVXclVmbnozNW5CNjlybnZtdU93SlNRSDNSdU41WTQ1azRWZWUyY3gxRU44RGVUd0g0N1VlVEgwNHRlMHdhX1JuT01LZHhxOFpFYUlJb3RGeVAtY0kxcjZEMWlQWUYzV2Q5UGJzM1BmLXVlOG51REZKdXdjd2RPYWItSjQ0RjlHYlJjX085VlQ3ZU5EN1hkZjVuM2hEM2lEc3Jzd0ZTNDhWNU9FWlRRTE9GRzNSOUl5c3pGR05VYVlGTDRTWm5DbA",
@@ -2147,7 +2225,7 @@
         ],
         "published": "Sat, 16 May 2026 00:40:00 GMT",
         "source": "KUSA.com",
-        "fetch_timestamp": "2026-05-22T21:42:03.479827"
+        "fetch_timestamp": "2026-05-22T22:54:41.940542"
     },
     {
         "id": "CBMizwFBVV95cUxOY3FJUWQ0Njg1bUhJZ0E0ZDNQUTlCYkd1UzQxa1czbDRUR25tWWpjcEZ6aTA3ZWtQTkI5WURWQWV3OE1TUHJTcmJhVEMwVFRLWUR5UjQzQnJvWThDNVdRQzNTWlJhMDRmUlZKN0UyTExUSDRmZTN4SHJyZ0Y2SUxIa3dEYUJCdHVSWE44NEJ5V2xkdHdNemE3YnNmcHR4WmxsRTF5aHVpR2NYVHBxS2p6NmJQME0tcjFUTWI4WEQ4ZGlBZ0t5dmxMaTROZGl5NUHSAdQBQVVfeXFMTVVFVTlla3ZkMnVrcmlZUkFsV2xYN3NmZVZ1R0Nod2VVSHBIQVJZVjMteGNoZzRyYmxoNjZwTGlFR0RrS01oc0lwb185S2dLdGM5UzRSY21BeThWemZDZmRfNEk5M2FXOG1Ja3VZUVlpV2ZZUGUzMUM5VjhUcGVuTkpLSHNNcllFbWpoSmpKcVRHVEh5SlloaTNpUHhFZGRBeHRLVENDUjVYTS1TQ3Qyd3NCNl9ZRUl0UnA0RGJJQWo5VzkzQXNpcDRKUDBrMDJ6UkFmODE",
@@ -2173,7 +2251,7 @@
         ],
         "published": "Sat, 16 May 2026 00:37:50 GMT",
         "source": "Fox News",
-        "fetch_timestamp": "2026-05-22T21:42:03.480622"
+        "fetch_timestamp": "2026-05-22T22:54:41.941415"
     },
     {
         "id": "CBMifkFVX3lxTE1TZVA2by0xYm80NWdaU2VRMURDVnNiZnhrYXowUU5VMmJIeWZMQWVhbS1ZRjFVQ0dfMzhmZWxpVkp4NzNtSlNsakNqc0Z2Y3FBaG9mVU9pbnZ0VjVhNm04cXhpVHpsTl9iSkJtdk4xU0lEa2dPemdmZXZFNFBQUdIBgwFBVV95cUxPUzE3dXBDNG9LNzlWMG5sdWZ1eVEzQ25xaXBCcHJkeThnQXVtY1UyOUptcXh0eEZsbUc0NmpBbWo3MFA4OVNlMDFnamlhZTlURmEzWkpURGVwNDBhM09Ib2RvaW90X3NnckU3NU5mV2dlcG8tTDRJNTdtZTVCcmJRTmlBQQ",
@@ -2199,7 +2277,7 @@
         ],
         "published": "Sat, 16 May 2026 00:35:43 GMT",
         "source": "FOX 13 Seattle",
-        "fetch_timestamp": "2026-05-22T21:42:03.481240"
+        "fetch_timestamp": "2026-05-22T22:54:41.942050"
     },
     {
         "id": "CBMitwFBVV95cUxNWU9mQnFhNzVLNElpR0M4bm1TclcwM3REbk5JNjJ6Y1lsU0EzMUJZWHZWV21JY05Lay1aMjBfZG14bnFNUGY0ZVY5cFJlaFRZWkduSzAtLXVSZVBzbUZXNFV3U1RzNlhIUDllUVRESGltVVUxLUpqU0Z5WWVGak9BUGZYTndzS1ZPLUJCZ19vaHFxQWtnelpQd2RDWWpKbVQwU1pycTJKWl9xY0FRRnlpamIzWlAteWM",
@@ -2225,7 +2303,7 @@
         ],
         "published": "Sat, 16 May 2026 00:24:44 GMT",
         "source": "The Seattle Times",
-        "fetch_timestamp": "2026-05-22T21:42:03.481985"
+        "fetch_timestamp": "2026-05-22T22:54:41.942779"
     },
     {
         "id": "CBMi0wFBVV95cUxPMXFvTWhmZEI5SlBmajJ2UjZzVXRMc2h1WV8tSzd4UDRRNGsxSFN2R2p2T2N4M2pKQmZOUldJZ3VvNDNHX1dKZzRiTHhyQkNXelRoSWpWZ0J3bnV4RjJmNWFxRTNWa3hRZEltY3RNcG53VjBsOWNFck9SRkN2MEplTWkzeFdhbnNsb1ZaV254UjJUUFZvM0lWUGljUTA5QzBLX3JzYngwREh3MFVrbkdSMnBtYlQ3NEw4OVJHSElNZEluWHV2UGRMT19sbWxwcGlJN3JV",
@@ -2251,7 +2329,7 @@
         ],
         "published": "Sat, 16 May 2026 00:07:00 GMT",
         "source": "KING5.com",
-        "fetch_timestamp": "2026-05-22T21:42:04.731416"
+        "fetch_timestamp": "2026-05-22T22:54:43.377433"
     },
     {
         "id": "CBMie0FVX3lxTFBrdlNab0tPWHlPcW1GZFlBTVhYOGVLVkNrbFJIcFlJaERzWkV5cEsyeXJzRnNnRDREMjZoS00xYjlSM2V4X3BvbkRjMEZtbWFNRmhRbEV4RkZXblpRNzJyZXZFcHpEZ2E4ZHZpV1E3dFRSLV9yUmw5eUFWONIBgAFBVV95cUxPNUF5YVBzc3FudlhINDFLalNoRVR3NHhYTHNnTVBDRDB0bEQxbFpNdzFDSlZMcnpCbV9lSENaYkhWYWFUbjdjSzk4WklUeGlhUDdhcm1fbUVxXzlNSmFaZTNxRVpIdElIcHhLd0pFd0J2TDBCZC1BWXdoMVdndHhpVg",
@@ -2277,33 +2355,7 @@
         ],
         "published": "Fri, 15 May 2026 23:50:49 GMT",
         "source": "NewsNation",
-        "fetch_timestamp": "2026-05-22T21:42:04.732116"
-    },
-    {
-        "id": "CBMizgFBVV95cUxOV0FuS3dKTVVjNml0QlFhQjB6VVh2VXFZU2RhQ0cwX0V3bl80QWRlUHpIdEZmYndveHF4WlotS0V4QnNJNW4zSEw1NWJWa1VlVUNaNHdjc0pseUU4YjE1WGxrdlZibEZMa1o5V3JYQlpfZVhoUXJUMk9LTFZ2VjZlZUZQN2wwLU9KUUhFM3Y0WjFsTzdzbGRhRzVCSHdlMzRzaDVnSktneXVDWG1GSWFMNmpSbTdzR1FiRUN6cXJISHJSOElCUGhMamVFOElmdw",
-        "title": "Sin Nombre hantavirus case tied to home mouse exposure in Chelan County - KOMO",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0FuS3dKTVVjNml0QlFhQjB6VVh2VXFZU2RhQ0cwX0V3bl80QWRlUHpIdEZmYndveHF4WlotS0V4QnNJNW4zSEw1NWJWa1VlVUNaNHdjc0pseUU4YjE1WGxrdlZibEZMa1o5V3JYQlpfZVhoUXJUMk9LTFZ2VjZlZUZQN2wwLU9KUUhFM3Y0WjFsTzdzbGRhRzVCSHdlMzRzaDVnSktneXVDWG1GSWFMNmpSbTdzR1FiRUN6cXJISHJSOElCUGhMamVFOElmdw?oc=5",
-        "location_name": "Chelan County",
-        "coordinates": [
-            47.8012197,
-            -120.6276904
-        ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "Chelan County",
-                "coordinates": [
-                    47.8012197,
-                    -120.6276904
-                ],
-                "method": "extracted",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Fri, 15 May 2026 23:43:54 GMT",
-        "source": "KOMO",
-        "fetch_timestamp": "2026-05-22T21:42:05.937555"
+        "fetch_timestamp": "2026-05-22T22:54:43.378270"
     },
     {
         "id": "CBMirgFBVV95cUxOZjc2amlsaUpLS0JQUTNPNThKSjQ4LWlOcmQ4cFJzMWtnalRzZVQ4S1hRNGZmMDQ1WWN6Y1oyb2t6YVpaYno5RFNDN1JVWE0zY3NpVDgxTDQ0dF9XOWhZQmJna1oyU2xPNnhfdWl6MTNSakktX2Q1YzhwRENoQ3ZDZm0xeEhZVThjWlhNeUs4c2x5X3VabktULWhIVkxIUmNxaW1yZC02UDVSU0t1NkHSAcIBQVVfeXFMT1RNY0k1LVRMdG1pTVFudEFuNnA4aEZYSDNmZVdEZElGWldNMGpRRElpV2FjVHpKbV9HR0RaRUJ4ZU50RTFOTmpWVXZuUXk1aWZwSXEzM3RxT0ZqRWh4c01Da0V6R0dRVG9CVk5yTFFXcWRHaklWdzN2Qjg3SzNkN0s3a19kV3pKZGgyTUdXME85Z184UU5SbzVQX0NZRnRIaHNBY1VfU1l3Ui1USTF5VHlrbjYwVjBURFduMWczck91Q1E",
@@ -2329,59 +2381,7 @@
         ],
         "published": "Fri, 15 May 2026 23:10:52 GMT",
         "source": "KIRO 7 News Seattle",
-        "fetch_timestamp": "2026-05-22T21:42:05.938209"
-    },
-    {
-        "id": "CBMikwJBVV95cUxNLWJUd3NTYThMSWNxdFd2T08yQldCSWo5dVRhUUlVQjhLUW00eFdrQjZiT3JBcVppSXcwRDhBYVh5cmRTR215eThRUHlWM3I1OG96R3NoRXdwLWczQVktRUltaVNkNVRKREdqSDB1MzBENFhZUVBYQlBXaEJ2Y3ZvbjRCQWFBMDZJakxfT3E2WG1IZU0wSHdINnhhbVBnOHNuSl9kTjd1SEJlUGNaWlJJTEdKNjlvMWlZaVFFbW1jYzhaQ1Z6UTB0VE5yeTI5SGVkU0FkdVZZSzZscm9ublNhdjNhUkpKa3B4VXIxVFdpT1BQLTJ6OFVOWHl5dDRUZGRUZXRuNGxmR3dtTE1QbFZPUmNBTQ",
-        "title": "Hantavirus Updates - County of San Luis Obispo (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNLWJUd3NTYThMSWNxdFd2T08yQldCSWo5dVRhUUlVQjhLUW00eFdrQjZiT3JBcVppSXcwRDhBYVh5cmRTR215eThRUHlWM3I1OG96R3NoRXdwLWczQVktRUltaVNkNVRKREdqSDB1MzBENFhZUVBYQlBXaEJ2Y3ZvbjRCQWFBMDZJakxfT3E2WG1IZU0wSHdINnhhbVBnOHNuSl9kTjd1SEJlUGNaWlJJTEdKNjlvMWlZaVFFbW1jYzhaQ1Z6UTB0VE5yeTI5SGVkU0FkdVZZSzZscm9ublNhdjNhUkpKa3B4VXIxVFdpT1BQLTJ6OFVOWHl5dDRUZGRUZXRuNGxmR3dtTE1QbFZPUmNBTQ?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Fri, 15 May 2026 22:36:27 GMT",
-        "source": "County of San Luis Obispo (.gov)",
-        "fetch_timestamp": "2026-05-22T21:42:05.938755"
-    },
-    {
-        "id": "CBMi0wFBVV95cUxQejZBZXpTMndpWkgxN1JfTkJNSXR0dEhHaERPaHczc3J6WUdUMHVxTXJPUFVVUUFuTUlOdVNBcmpWNzdia1JTenNuMXJPdzY0ZGhjUlllWUZnTTJPU29SVEZKTkkyRjRZU3VVTE9FMW9nUnJ1MEIwcUJJMG50cVAtclFrNVVYSHh3SV94NS1RZGFaekg1N1FPX3BYeE5MbXhLbnZrY0pSNF9vVERHZk5vOVBQc0hnSnpXZkpPWkZQZlB3Tjdsc3NMZGdjVk44VENFZHRn",
-        "title": "Andes Hantavirus Strain Could Linger in Human Semen for Nearly 6 Years, and Change Little Over Time - Discover Magazine",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQejZBZXpTMndpWkgxN1JfTkJNSXR0dEhHaERPaHczc3J6WUdUMHVxTXJPUFVVUUFuTUlOdVNBcmpWNzdia1JTenNuMXJPdzY0ZGhjUlllWUZnTTJPU29SVEZKTkkyRjRZU3VVTE9FMW9nUnJ1MEIwcUJJMG50cVAtclFrNVVYSHh3SV94NS1RZGFaekg1N1FPX3BYeE5MbXhLbnZrY0pSNF9vVERHZk5vOVBQc0hnSnpXZkpPWkZQZlB3Tjdsc3NMZGdjVk44VENFZHRn?oc=5",
-        "location_name": "Human Semen",
-        "coordinates": [
-            34.0658037,
-            -118.4445686
-        ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "Human Semen",
-                "coordinates": [
-                    34.0658037,
-                    -118.4445686
-                ],
-                "method": "extracted",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Fri, 15 May 2026 21:50:20 GMT",
-        "source": "Discover Magazine",
-        "fetch_timestamp": "2026-05-22T21:42:07.341345"
+        "fetch_timestamp": "2026-05-22T22:54:44.809282"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-9-13-may-2026-week-20",
@@ -2407,7 +2407,7 @@
         ],
         "published": "Wed, 13 May 2026 15:46:07 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-05-22T21:42:08.049927"
+        "fetch_timestamp": "2026-05-22T22:54:45.092418"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
@@ -2433,6 +2433,6 @@
         ],
         "published": "Fri, 08 May 2026 17:33:41 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-05-22T21:42:08.752569"
+        "fetch_timestamp": "2026-05-22T22:54:45.352185"
     }
 ]
