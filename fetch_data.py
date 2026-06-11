@@ -10,7 +10,6 @@ from email.utils import parsedate_to_datetime
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-from geopy.exc import GeocoderTimedOut
 from geopy.geocoders import Nominatim, Photon
 
 GOOGLE_NEWS_QUERY = 'hantavirus OR "hantavirus outbreak" OR "orthohantavirus" OR "hps virus" when:7d'
@@ -777,7 +776,9 @@ def get_coordinates(location_name):
             coordinates = [location.latitude, location.longitude]
             GEOCODE_CACHE[cache_key] = coordinates
             return coordinates
-    except (GeocoderTimedOut, Exception):
+    except Exception:
+        # Best-effort geocoding: a timeout or any provider error should not
+        # abort the whole fetch cycle, so cache the miss and move on.
         GEOCODE_CACHE[cache_key] = None
         return None
 
