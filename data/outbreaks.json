@@ -1,34 +1,34 @@
 [
     {
-        "id": "CBMi3gFBVV95cUxOcENmNFlFM1IwRHlRWGU0emZZQ24xQVBHTnRtcUtVOTV5MVc2eEpMTVJBQnNFYmY2NnZJVDN5aWpkWDdsVkNndXFzMkplOVkzUVBmNFl5dWVOUVlWdEY0RGJMSVM3OTI1eHAxV1k3ek9rVmU2UWtyX3FjZEhJclFCVGVsNFFOQ1VzbUlDWEgwTkJ1QTZWOFFmSzJyQ0ZCWGE5VGw3aDBmOHBqSGp0bGU3YVRFcXBqMTNRYWNGNW8yN1NaU0RiOU0ySjM2MFlvanNjYmVjbjNJaEpGd2R1TXc",
-        "title": "Three dead after cruise outbreak – could hantavirus spread? - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcENmNFlFM1IwRHlRWGU0emZZQ24xQVBHTnRtcUtVOTV5MVc2eEpMTVJBQnNFYmY2NnZJVDN5aWpkWDdsVkNndXFzMkplOVkzUVBmNFl5dWVOUVlWdEY0RGJMSVM3OTI1eHAxV1k3ek9rVmU2UWtyX3FjZEhJclFCVGVsNFFOQ1VzbUlDWEgwTkJ1QTZWOFFmSzJyQ0ZCWGE5VGw3aDBmOHBqSGp0bGU3YVRFcXBqMTNRYWNGNW8yN1NaU0RiOU0ySjM2MFlvanNjYmVjbjNJaEpGd2R1TXc?oc=5",
-        "location_name": "Canary Islands",
+        "id": "CBMilAFBVV95cUxQRHFmYWZTLTIwaWg3N3JKUjAyZEpjalVOUW5FZWRXVnBBOXl4clFkUDRvWGJqZ1REbEFBYVBGbUtYMzdOYjZTdEhRaXR0aGQwdDNmQ2dzdURQaVBSRXR2ck1LVzNxdFFrdHEtTERILXJ5MTl2M3dzYml6WFZIbTVGREg0Q19ZRVpMNklqZzBjNnRjZXQt",
+        "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over - NL Times",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHFmYWZTLTIwaWg3N3JKUjAyZEpjalVOUW5FZWRXVnBBOXl4clFkUDRvWGJqZ1REbEFBYVBGbUtYMzdOYjZTdEhRaXR0aGQwdDNmQ2dzdURQaVBSRXR2ck1LVzNxdFFrdHEtTERILXJ5MTl2M3dzYml6WFZIbTVGREg0Q19ZRVpMNklqZzBjNnRjZXQt?oc=5",
+        "location_name": "Netherlands",
         "coordinates": [
-            28.2935785,
-            -16.6214471
+            52.2434979,
+            5.6343227
         ],
-        "location_method": "fallback",
+        "location_method": "inferred",
         "location_confidence": "low",
         "locations": [
             {
-                "name": "Canary Islands",
+                "name": "Netherlands",
                 "coordinates": [
-                    28.2935785,
-                    -16.6214471
+                    52.2434979,
+                    5.6343227
                 ],
-                "method": "fallback",
+                "method": "inferred",
                 "confidence": "low"
             }
         ],
-        "published": "Fri, 03 Jul 2026 19:51:14 GMT",
-        "source": "MSN",
-        "fetch_timestamp": "2026-07-05T14:28:47.935696"
+        "published": "Sun, 05 Jul 2026 12:45:00 GMT",
+        "source": "NL Times",
+        "fetch_timestamp": "2026-07-05T15:48:19.269715"
     },
     {
-        "id": "CBMisgJBVV95cUxQLVRfZHpsblFOcVczc2J1bzM5Nl9Sdl9uejBHWVd1RFRhSXpiZnJ1ajUwYkRIQUpsN1Z3TUhqbXhaaTZTZjc0dUtzc2dWcm45UmlDUXRpOGlBclRIellvaEVtUG1QX1JjaUJtSkY4ZHJXOXFaV0NjQll5SXJicEtUY3lUYUxfVWs5TTFZQ1FrakxhTFUybHpfWnRfQ3ZmSjFTcm1UbkJyeEE1LUxET3I0UGczc3RDY0hDSmtMVC10TGZPYlZ2d0c2ZWxDLXYtdW9aRXczOFNIX0dxelpJZU12SmR2S1ZJWlAxN2ZwMDZIY3ZDNk0xb2dkNGNXN2xXZTVzZ090aU0tbnhQaDVWOG1kMVBYb25hUGtOd0RkZEdUb3ljOTdRdFVlZl9DeHd6b3prYmc",
-        "title": "WHO declares deadly hantavirus outbreak over - MSN",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQLVRfZHpsblFOcVczc2J1bzM5Nl9Sdl9uejBHWVd1RFRhSXpiZnJ1ajUwYkRIQUpsN1Z3TUhqbXhaaTZTZjc0dUtzc2dWcm45UmlDUXRpOGlBclRIellvaEVtUG1QX1JjaUJtSkY4ZHJXOXFaV0NjQll5SXJicEtUY3lUYUxfVWs5TTFZQ1FrakxhTFUybHpfWnRfQ3ZmSjFTcm1UbkJyeEE1LUxET3I0UGczc3RDY0hDSmtMVC10TGZPYlZ2d0c2ZWxDLXYtdW9aRXczOFNIX0dxelpJZU12SmR2S1ZJWlAxN2ZwMDZIY3ZDNk0xb2dkNGNXN2xXZTVzZ090aU0tbnhQaDVWOG1kMVBYb25hUGtOd0RkZEdUb3ljOTdRdFVlZl9DeHd6b3prYmc?oc=5",
+        "id": "CBMiogJBVV95cUxOLTVSU2p6bVlzX0tMTFJIMC1XUFV1TUloLUFwV3R6V3BxSUZ0bUx3MHZ0dmFKV1dOSHp3S0pfYXJDQ1lOR3VmUUVzZlVaWlh3TlM5S2V4YjZPc0RzcGl6OVk0WHMtck5xV1VtSnk5QTZTWUEwekxOazB4QVVRQ3l6QzJxWjEzdmU5Q3ZRYV94eE1aS1NFbGd0LUFfY1NIZ0hoaFExaUpsS1ppTkUtd0RLcVdBMFlmZnVOZDRYVTlhZzJ3c3E3MVZvNVNubGFLWTJRWks1eVRkSktoX0tabUJZc0w4OVdOSjVRZ214SGh0dHhWcHBsdHREU00wOGlfS2xHY0d4RU9oS1NQVm1FQ1hmQW93aXE3QTRYcFdNUkVhNFViUQ",
+        "title": "WHO declares deadly cruise ship hantavirus outbreak over - MSN",
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOLTVSU2p6bVlzX0tMTFJIMC1XUFV1TUloLUFwV3R6V3BxSUZ0bUx3MHZ0dmFKV1dOSHp3S0pfYXJDQ1lOR3VmUUVzZlVaWlh3TlM5S2V4YjZPc0RzcGl6OVk0WHMtck5xV1VtSnk5QTZTWUEwekxOazB4QVVRQ3l6QzJxWjEzdmU5Q3ZRYV94eE1aS1NFbGd0LUFfY1NIZ0hoaFExaUpsS1ppTkUtd0RLcVdBMFlmZnVOZDRYVTlhZzJ3c3E3MVZvNVNubGFLWTJRWks1eVRkSktoX0tabUJZc0w4OVdOSjVRZ214SGh0dHhWcHBsdHREU00wOGlfS2xHY0d4RU9oS1NQVm1FQ1hmQW93aXE3QTRYcFdNUkVhNFViUQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -47,14 +47,14 @@
                 "confidence": "low"
             }
         ],
-        "published": "Fri, 03 Jul 2026 15:36:14 GMT",
+        "published": "Sat, 04 Jul 2026 06:20:10 GMT",
         "source": "MSN",
-        "fetch_timestamp": "2026-07-05T14:28:47.936225"
+        "fetch_timestamp": "2026-07-05T15:48:19.270265"
     },
     {
-        "id": "CBMioAFBVV95cUxPNkE4VXc4ZDhkWnhxdDQ3Y0ZudVJmN01UWnFqcE00RnhFWldTaTdseGVmQy1vY01uUDNnNFlzRjVsMkZBenE5UHloYzhJa1BIYXV4UVZMMEFNa0t4cWI5UDlqa3BPY1lxVTNOY3hwS1hVNGFIZHJoMTlJU3kzeVBDeklkZEdrYUtpWWtQQ0RJWGxMTENEQmpzYXMxZXRIRnBV",
-        "title": "WHO officially declares end of hantavirus outbreak - MSN",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkE4VXc4ZDhkWnhxdDQ3Y0ZudVJmN01UWnFqcE00RnhFWldTaTdseGVmQy1vY01uUDNnNFlzRjVsMkZBenE5UHloYzhJa1BIYXV4UVZMMEFNa0t4cWI5UDlqa3BPY1lxVTNOY3hwS1hVNGFIZHJoMTlJU3kzeVBDeklkZEdrYUtpWWtQQ0RJWGxMTENEQmpzYXMxZXRIRnBV?oc=5",
+        "id": "CBMidEFVX3lxTE1mbXYwOVNyS3VPcUJyYk5PVzhnOGxTbkFzb216WVFCTTZzZ2hfLTJCdEVzSEJDUzhmOWRHRTJwZUZ2SGFya28tamFpWDkzUVh0SFVCbGxGUDF0VFh3OXVtZkVPUzBsN1E5RElTVk9XeUlESC1E",
+        "title": "Trump's alleged slur against reporter, Pfizer hantavirus rumor & more - Snopes",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mbXYwOVNyS3VPcUJyYk5PVzhnOGxTbkFzb216WVFCTTZzZ2hfLTJCdEVzSEJDUzhmOWRHRTJwZUZ2SGFya28tamFpWDkzUVh0SFVCbGxGUDF0VFh3OXVtZkVPUzBsN1E5RElTVk9XeUlESC1E?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -73,9 +73,1075 @@
                 "confidence": "low"
             }
         ],
-        "published": "Fri, 03 Jul 2026 00:46:10 GMT",
+        "published": "Sat, 04 Jul 2026 04:39:58 GMT",
+        "source": "Snopes",
+        "fetch_timestamp": "2026-07-05T15:48:19.270882"
+    },
+    {
+        "id": "CBMi5gFBVV95cUxQWEFWWGxVYi1pV3l5OEdqb0FTZHhPWGRCbDVMWXpHd3A3WkVWaGFEZU1sTXI5OHpCX2E4WEZTak1UR2pmVzU2Z2dGVE5PaVNjUXhuSWJLOGNLeWZKU1Z5SkFMbnBiamFWcWpTWWd2MG81dzNxbmN5MjFCUzhUQmtrd291UkZaN1huZGxkRzdzeU42RGg4OWN5RjJtMGc2WVcxbTlQb2R3UXU4ZnV4V0tUWThiTklkTkpoZ2NFRzNNbmZGRzc5cHpWSlVGbFZ3VVJ3MVROSzhYT3Z1cGZGb3g0VWlZQTdXdw",
+        "title": "WHO declares cruise ship hantavirus outbreak over - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWEFWWGxVYi1pV3l5OEdqb0FTZHhPWGRCbDVMWXpHd3A3WkVWaGFEZU1sTXI5OHpCX2E4WEZTak1UR2pmVzU2Z2dGVE5PaVNjUXhuSWJLOGNLeWZKU1Z5SkFMbnBiamFWcWpTWWd2MG81dzNxbmN5MjFCUzhUQmtrd291UkZaN1huZGxkRzdzeU42RGg4OWN5RjJtMGc2WVcxbTlQb2R3UXU4ZnV4V0tUWThiTklkTkpoZ2NFRzNNbmZGRzc5cHpWSlVGbFZ3VVJ3MVROSzhYT3Z1cGZGb3g0VWlZQTdXdw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 23:55:09 GMT",
         "source": "MSN",
-        "fetch_timestamp": "2026-07-05T14:28:47.936687"
+        "fetch_timestamp": "2026-07-05T15:48:19.271483"
+    },
+    {
+        "id": "CBMiqAFBVV95cUxOalNNWUtOSVBqR3RlZHVWNjV6ZW1qQWlhMWdlb3M3azJxcjFuNVpPMnUzb21EdE9jbXVOMjhWemdtOWplcktfMWlIUF85cEY5ZkpvcUxuQWV0a0V5RUgtaUxyZDR2eXFTTmZBcmtlcm1EenZEMGRIX3BDMzZIaEhkUkk4S0l6QnNYNDRDNUNRUExBdm5fR0JsdUlLUFlLaW0yc1pSWUk4NzE",
+        "title": "WHO declare hantavirus outbreak is over months after first case was recorded - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalNNWUtOSVBqR3RlZHVWNjV6ZW1qQWlhMWdlb3M3azJxcjFuNVpPMnUzb21EdE9jbXVOMjhWemdtOWplcktfMWlIUF85cEY5ZkpvcUxuQWV0a0V5RUgtaUxyZDR2eXFTTmZBcmtlcm1EenZEMGRIX3BDMzZIaEhkUkk4S0l6QnNYNDRDNUNRUExBdm5fR0JsdUlLUFlLaW0yc1pSWUk4NzE?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 22:37:00 GMT",
+        "source": "The Independent",
+        "fetch_timestamp": "2026-07-05T15:48:19.272081"
+    },
+    {
+        "id": "CBMi1wFBVV95cUxQLU5Ia2tjN2N2Y0VfVHVtYlBDRENLNzVxTXByc0Vqa3g4TWh4RXQ5TDQtRGtXOG5sLWl6N0QxUk5pUWNKNjd2U0ktSXdvN2lRdnRIbElMZ2p2dnlaRlhUZlZwOEVoaF9LZVNLblpsRnRYMlRtRjdDaTZOVDd3SGtLWUpiS253V1NoRE5lRkdRLUFFVEFVWmtkMW9oa05CaHM2SDMzQ3hCa3hTeTFsVVk3bmhRV2lHT3MyTW5Mclh4UWQtRHdBRXppOHAtcUhmZkxVVjRVYzI1QQ",
+        "title": "The World Health Organization declared an end to the deadly hantavirus outbreak on a cruise ship which sparked international alarm, after the last person left quarantine. | via ANC 24/7 Link to full story in the comments section. - facebook.com",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLU5Ia2tjN2N2Y0VfVHVtYlBDRENLNzVxTXByc0Vqa3g4TWh4RXQ5TDQtRGtXOG5sLWl6N0QxUk5pUWNKNjd2U0ktSXdvN2lRdnRIbElMZ2p2dnlaRlhUZlZwOEVoaF9LZVNLblpsRnRYMlRtRjdDaTZOVDd3SGtLWUpiS253V1NoRE5lRkdRLUFFVEFVWmtkMW9oa05CaHM2SDMzQ3hCa3hTeTFsVVk3bmhRV2lHT3MyTW5Mclh4UWQtRHdBRXppOHAtcUhmZkxVVjRVYzI1QQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 20:00:20 GMT",
+        "source": "facebook.com",
+        "fetch_timestamp": "2026-07-05T15:48:19.273959"
+    },
+    {
+        "id": "CBMi6wFBVV95cUxOSi0zc0xtazNHR1A1ZWZpTXBmVG1oTU5iRlcwYllFWHVEV1c4Qk9HRENZeUV1U1k0dFRuX3VNV0wxY2R3dmkyeVZxMGsxZDBkUkd1WHBJenkzamVOTGhuUENqNVRoekdEcFpHclQwdlZldHQzb3g0cWpyX2VBeEcxaWx3Tl82QXNiWGRUc01BMHczUTBXaktXOGdnNVRQVjBjbURpZTFXaGJnT0dyOVVvU0RpcGRGX1hxc25TbWIzY3doLXlfQ3lWdjJLNEZ3WFNVckxvandBR3paeVRiQnRoNmYwUFNzbmlIRW5N",
+        "title": "WHO declares MV Hondius hantavirus outbreak contained - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSi0zc0xtazNHR1A1ZWZpTXBmVG1oTU5iRlcwYllFWHVEV1c4Qk9HRENZeUV1U1k0dFRuX3VNV0wxY2R3dmkyeVZxMGsxZDBkUkd1WHBJenkzamVOTGhuUENqNVRoekdEcFpHclQwdlZldHQzb3g0cWpyX2VBeEcxaWx3Tl82QXNiWGRUc01BMHczUTBXaktXOGdnNVRQVjBjbURpZTFXaGJnT0dyOVVvU0RpcGRGX1hxc25TbWIzY3doLXlfQ3lWdjJLNEZ3WFNVckxvandBR3paeVRiQnRoNmYwUFNzbmlIRW5N?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 16:23:34 GMT",
+        "source": "MSN",
+        "fetch_timestamp": "2026-07-05T15:48:19.274480"
+    },
+    {
+        "id": "CBMi1wFBVV95cUxNOUhOVzJBVG00S3dZcmtRYUJYZFpOZWU1OXpUME05OHlBTkZHSGZWSzRFdTM1bFdOOUFLNmVGS3N0d1k3Z2dNeTFhZEdadDU5S2U5LTBIV3Vxc09IZzJHUGpMZXViNlFaVXBqZmZCVTJya2FhM3BWUmNXbEY2UVV1LWVFa09Fdkg0T3ctanRfLXVsY0tTSl9ka1JWMDRmRGx1MWVqcXJ6WlFlQWxGUUVDQmo2STNwT3FFdHRCc0R5UkRDUVZyMUhUcjJlTlNyNmdFSEk5ZGRNQQ",
+        "title": "WHO declares end to MV Hondius hantavirus outbreak - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUhOVzJBVG00S3dZcmtRYUJYZFpOZWU1OXpUME05OHlBTkZHSGZWSzRFdTM1bFdOOUFLNmVGS3N0d1k3Z2dNeTFhZEdadDU5S2U5LTBIV3Vxc09IZzJHUGpMZXViNlFaVXBqZmZCVTJya2FhM3BWUmNXbEY2UVV1LWVFa09Fdkg0T3ctanRfLXVsY0tTSl9ka1JWMDRmRGx1MWVqcXJ6WlFlQWxGUUVDQmo2STNwT3FFdHRCc0R5UkRDUVZyMUhUcjJlTlNyNmdFSEk5ZGRNQQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 16:23:34 GMT",
+        "source": "MSN",
+        "fetch_timestamp": "2026-07-05T15:48:19.275137"
+    },
+    {
+        "id": "CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw",
+        "title": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - Global News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 16:10:42 GMT",
+        "source": "Global News",
+        "fetch_timestamp": "2026-07-05T15:48:19.275706"
+    },
+    {
+        "id": "CBMiswFBVV95cUxPR1VMQkNEZnlqTXhmZlBpVjFFRE5IcjdWRW82SWtzMHl3ZGo4VFZsXzBubXFRMzV4SUFoV2dJeGdtUmdJVzBwcGJkZThxUlJlb3hqcWM3YmJ5Ujlla09Qam1fc2NSR0NfTURxalZYLXo0dDlpV1NoWUx1NXF5NlZOa3VjTWRtUTJJSnM1M3ltR2tjZWduWWhIdWFjOXFqNDhaaHJXa1lKZmtWYUU0Yjg3dHhzMA",
+        "title": "WHO declares international Hantavirus outbreak over - Premium Times Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1VMQkNEZnlqTXhmZlBpVjFFRE5IcjdWRW82SWtzMHl3ZGo4VFZsXzBubXFRMzV4SUFoV2dJeGdtUmdJVzBwcGJkZThxUlJlb3hqcWM3YmJ5Ujlla09Qam1fc2NSR0NfTURxalZYLXo0dDlpV1NoWUx1NXF5NlZOa3VjTWRtUTJJSnM1M3ltR2tjZWduWWhIdWFjOXFqNDhaaHJXa1lKZmtWYUU0Yjg3dHhzMA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 16:10:10 GMT",
+        "source": "Premium Times Nigeria",
+        "fetch_timestamp": "2026-07-05T15:48:19.276214"
+    },
+    {
+        "id": "CBMiiwFBVV95cUxQUC1kMTJJTGVZTWRDRFNWWm5ob3R6Sml3Z1BHMGQ3ZTZXdFRYRm5HcWRhWVV6OVF0NGNSVDdWWm00LWRDTnRFM0hCcWc2ZHlsenRvSUJTQmdNR1lsRDljR215WTZPX3VKMDc5OUx1cXFjamZscDNodEVUTWRaZHNEZ3RGc3NiTzA3TGZv",
+        "title": "WHO declares deadly hantavirus outbreak on cruise ship over after three months - Yahoo News UK",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUC1kMTJJTGVZTWRDRFNWWm5ob3R6Sml3Z1BHMGQ3ZTZXdFRYRm5HcWRhWVV6OVF0NGNSVDdWWm00LWRDTnRFM0hCcWc2ZHlsenRvSUJTQmdNR1lsRDljR215WTZPX3VKMDc5OUx1cXFjamZscDNodEVUTWRaZHNEZ3RGc3NiTzA3TGZv?oc=5",
+        "location_name": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ],
+        "location_method": "inferred",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "coordinates": [
+                    54.7023545,
+                    -3.2765753
+                ],
+                "method": "inferred",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 12:32:25 GMT",
+        "source": "Yahoo News UK",
+        "fetch_timestamp": "2026-07-05T15:48:19.276772"
+    },
+    {
+        "id": "CBMiqgFBVV95cUxQTmtoZ3N0VHF1c19oWGI2QXZDdktodEdmMkhYNG5FTFpDRmtBRS1RR1JZNmtuMmdVSzVxT0g2MDdRekY3aDQ0R3RXazhhcjB1OU5kX2FocnlyY0xJTExQY0ZPdUd1SHdIVFIxVkdWRzllVFBjRVVzRG9NUktNYmZrd2dFaV9OTnY4eEpXcld1RTAyZExpdzBGVzZDdUlET25DQml2Tm9DaU9GZw",
+        "title": "WHO issues final update on deadly cruise ship hantavirus outbreak - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmtoZ3N0VHF1c19oWGI2QXZDdktodEdmMkhYNG5FTFpDRmtBRS1RR1JZNmtuMmdVSzVxT0g2MDdRekY3aDQ0R3RXazhhcjB1OU5kX2FocnlyY0xJTExQY0ZPdUd1SHdIVFIxVkdWRzllVFBjRVVzRG9NUktNYmZrd2dFaV9OTnY4eEpXcld1RTAyZExpdzBGVzZDdUlET25DQml2Tm9DaU9GZw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 12:32:00 GMT",
+        "source": "The Independent",
+        "fetch_timestamp": "2026-07-05T15:48:19.277295"
+    },
+    {
+        "id": "CBMiS0FVX3lxTE1Nc293M1MzN0JudDctd0NoaldDVERVbjU1R3NoSS1TcUxkT3BEZVZXM21OcHY1RmhqQzBDcER5SlJVTDRxdVhXeXh5TQ",
+        "title": "WHO says MV Hondius Hantavirus outbreak is over - ABC media",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Nc293M1MzN0JudDctd0NoaldDVERVbjU1R3NoSS1TcUxkT3BEZVZXM21OcHY1RmhqQzBDcER5SlJVTDRxdVhXeXh5TQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 12:23:14 GMT",
+        "source": "ABC media",
+        "fetch_timestamp": "2026-07-05T15:48:19.277823"
+    },
+    {
+        "id": "CBMiY0FVX3lxTFBidnZDaE9QS0dDMHVZWGpOdkRSMlNWV0U1UWxENnZjbFFXY1RCczlVclgwTDNzWEpfeTBTNDJ5alNzQnZhTWpzZXRpMTduWDQ3UGZuRGJocGUxSUxkQ3I2ZkNJQQ",
+        "title": "WHO: Hantavirus outbreak linked to cruise ship over - nhk.or.jp",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBidnZDaE9QS0dDMHVZWGpOdkRSMlNWV0U1UWxENnZjbFFXY1RCczlVclgwTDNzWEpfeTBTNDJ5alNzQnZhTWpzZXRpMTduWDQ3UGZuRGJocGUxSUxkQ3I2ZkNJQQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 12:06:55 GMT",
+        "source": "nhk.or.jp",
+        "fetch_timestamp": "2026-07-05T15:48:19.278486"
+    },
+    {
+        "id": "CBMijgFBVV95cUxPZnk2N3UxUWxSeUJCeDhMRjltN25nLTR3bll5cEgwazlXdGZIWjZibHBMRG53OWZ6Wm5JTW1DVGY4NjNQaC1vQkxCeU9GV1hVLTR1WElicDJIbi1WSS1HbnY1V3c1dzB4OFVUTTF4d1ltZjl3OGY3Y3Z2VnZOaWZETW5ZdFU0cFp3LWVfM2h3",
+        "title": "WHO Declares Deadly Hantavirus Outbreak Over - Newser",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnk2N3UxUWxSeUJCeDhMRjltN25nLTR3bll5cEgwazlXdGZIWjZibHBMRG53OWZ6Wm5JTW1DVGY4NjNQaC1vQkxCeU9GV1hVLTR1WElicDJIbi1WSS1HbnY1V3c1dzB4OFVUTTF4d1ltZjl3OGY3Y3Z2VnZOaWZETW5ZdFU0cFp3LWVfM2h3?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 12:04:00 GMT",
+        "source": "Newser",
+        "fetch_timestamp": "2026-07-05T15:48:19.278980"
+    },
+    {
+        "id": "CBMi1AFBVV95cUxObG1ZUkpEMHFldmU4NVZXdGNubnZlcHo2WnlmcFUySlpJUUhIMzJkQjhRZ2xYTUIzZkxwUkQ1b2JQbE8yS1R4alRsT29odmRFYWNPRDdZOEdZX0FGNEt0QV9fZzk4QzBjY2lOT0NFbzExaTN0WFVWVWowTW1PUjgxYTNvNE5NRzRmOUQ2RUR5V2xROEZ6UFJjRERPSWlXaTB3c2o0TUNvYWt0M3p1TzZPd2I0dHhsOXg4ZUlCZV9UTGtvZ2xkZV9PTzFlR0U0bzlGb2hDNw",
+        "title": "Hantavirus outbreak is over, World Health Organization says - KHOU",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObG1ZUkpEMHFldmU4NVZXdGNubnZlcHo2WnlmcFUySlpJUUhIMzJkQjhRZ2xYTUIzZkxwUkQ1b2JQbE8yS1R4alRsT29odmRFYWNPRDdZOEdZX0FGNEt0QV9fZzk4QzBjY2lOT0NFbzExaTN0WFVWVWowTW1PUjgxYTNvNE5NRzRmOUQ2RUR5V2xROEZ6UFJjRERPSWlXaTB3c2o0TUNvYWt0M3p1TzZPd2I0dHhsOXg4ZUlCZV9UTGtvZ2xkZV9PTzFlR0U0bzlGb2hDNw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 12:01:00 GMT",
+        "source": "KHOU",
+        "fetch_timestamp": "2026-07-05T15:48:19.279564"
+    },
+    {
+        "id": "CBMiswFBVV95cUxPRjlKUHgzbHJKeFI3aG05UlJFY0g2Rzl1azgyOWFvTzhEWFp3a00wREMzU2RkQWs4OEhyZ25RX2l2bnRUS3JjRmNydUdibGw2Tm9Jd0EzRVJzVHhYaGZ4VDF2dTJjTVVMTkpnWV95YU9Ld0xOdXp5MS1wYW96dTNKMXN0Zmg0WkdKdWhLWnlvc0M2YkJvNktJazdJVGt5dzh0dFVxNjBoOTBoZkVIMDNqUWthYw",
+        "title": "WHO declares cruise ship-linked hantavirus outbreak over - news.cgtn.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjlKUHgzbHJKeFI3aG05UlJFY0g2Rzl1azgyOWFvTzhEWFp3a00wREMzU2RkQWs4OEhyZ25RX2l2bnRUS3JjRmNydUdibGw2Tm9Jd0EzRVJzVHhYaGZ4VDF2dTJjTVVMTkpnWV95YU9Ld0xOdXp5MS1wYW96dTNKMXN0Zmg0WkdKdWhLWnlvc0M2YkJvNktJazdJVGt5dzh0dFVxNjBoOTBoZkVIMDNqUWthYw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 11:56:55 GMT",
+        "source": "news.cgtn.com",
+        "fetch_timestamp": "2026-07-05T15:48:19.280061"
+    },
+    {
+        "id": "CBMilAFBVV95cUxQRHNyUXhiZS1ES3RrSUNJWGR6aG5RY1ZxZVkzTFBjZGRRRTBwaGNpS25NdlVmdm5LOVE3ekFwY1ZrdEhaX3AwNy1BRlNvLU1iaTc0Ti03Q25ES2ZBcDUtMUlLQUdpUnIxeUVkWnMyX0M2NnYzNEhzRVlRUGJvd19kSUVwd29WT0k5cDdXNjN3dmpJTXpf",
+        "title": "WHO Declares Cruise Ship Hantavirus Outbreak Over After Global Response - Fox Rio Grande Valley",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHNyUXhiZS1ES3RrSUNJWGR6aG5RY1ZxZVkzTFBjZGRRRTBwaGNpS25NdlVmdm5LOVE3ekFwY1ZrdEhaX3AwNy1BRlNvLU1iaTc0Ti03Q25ES2ZBcDUtMUlLQUdpUnIxeUVkWnMyX0M2NnYzNEhzRVlRUGJvd19kSUVwd29WT0k5cDdXNjN3dmpJTXpf?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 11:06:34 GMT",
+        "source": "Fox Rio Grande Valley",
+        "fetch_timestamp": "2026-07-05T15:48:19.283226"
+    },
+    {
+        "id": "CBMidkFVX3lxTE5lTDNRbnhSa1p2WGo4dTdmX3RJdHBFMVlFUnZDS0dSSkh0Z080ekxrOTNrZGs5S3BjYkktejVBbzJtX05sdlZCUlVlQlV3Z2gydFpieTNyZi1FaEdVV2VTS2oxaEFlSDdnWkZCeHFLc2ZpTnJodXc",
+        "title": "Serious Potato Chip Recall; Taylor Swift $$ for Hospitals; Hantavirus Outbreak Ends - MedPage Today",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lTDNRbnhSa1p2WGo4dTdmX3RJdHBFMVlFUnZDS0dSSkh0Z080ekxrOTNrZGs5S3BjYkktejVBbzJtX05sdlZCUlVlQlV3Z2gydFpieTNyZi1FaEdVV2VTS2oxaEFlSDdnWkZCeHFLc2ZpTnJodXc?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 10:00:26 GMT",
+        "source": "MedPage Today",
+        "fetch_timestamp": "2026-07-05T15:48:19.283889"
+    },
+    {
+        "id": "CBMikAFBVV95cUxPWXJQQThtUi1CeTJHTU1uY0cxbWJ5eHh1WFhIWFltVE8zV2g0WmxSWXNOZTJEcmVDVmFXUlBPRTlyRGFROWljNmgxNzBweWI4WHRZSjg0T0p0NExSZ1RZa3JDQVFpWHd3OEpDdUhxN3l5REw4Z244dmc2Q09kVHUwVUMwRTJsQ3Zwd3F6RnJja1E",
+        "title": "WHO declares end of hantavirus outbreak - SWI swissinfo.ch",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXJQQThtUi1CeTJHTU1uY0cxbWJ5eHh1WFhIWFltVE8zV2g0WmxSWXNOZTJEcmVDVmFXUlBPRTlyRGFROWljNmgxNzBweWI4WHRZSjg0T0p0NExSZ1RZa3JDQVFpWHd3OEpDdUhxN3l5REw4Z244dmc2Q09kVHUwVUMwRTJsQ3Zwd3F6RnJja1E?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 09:36:00 GMT",
+        "source": "SWI swissinfo.ch",
+        "fetch_timestamp": "2026-07-05T15:48:19.284384"
+    },
+    {
+        "id": "CBMikgFBVV95cUxQa1NiLXI0NXB3aU04el9pcXJhdGJMdU9IZGpMN1RiZXpwT2VLdFg3Y1dBZkJKNV9aUjljVnhRSVNiYVVSUWpjVkU0dmh0RTMyU0szUFdnRjZnQ2wySFRaQ2l0VWUySkJlQ2l6ZlNwUnc4RWFaZWwtN2RzQnFhSENoSkU3aXFiZGlybWtidlNzSHJGZw",
+        "title": "WHO declares end of hantavirus outbreak on cruise ship - AKIpress News Agency",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa1NiLXI0NXB3aU04el9pcXJhdGJMdU9IZGpMN1RiZXpwT2VLdFg3Y1dBZkJKNV9aUjljVnhRSVNiYVVSUWpjVkU0dmh0RTMyU0szUFdnRjZnQ2wySFRaQ2l0VWUySkJlQ2l6ZlNwUnc4RWFaZWwtN2RzQnFhSENoSkU3aXFiZGlybWtidlNzSHJGZw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 08:20:00 GMT",
+        "source": "AKIpress News Agency",
+        "fetch_timestamp": "2026-07-05T15:48:19.284902"
+    },
+    {
+        "id": "CBMiuAFBVV95cUxQOEpzblJmTldFaVZxUzJBR2xqd0JsQmEtOGhyMEloMVo1MUtrMHpmNU1ZUW81U2RlV05GaDZxNC1NNzZqOGQ0bWFtc2Vtb2JkNzlCa21fUGFVRmwzNEpMTDlIR3FDdzRpazJ3VTFTY0xUekg0T1lpU1Jzb3VQbmhNdm1vZVpnYUY5TVhvWDdTekwwVlk3Zm1EWHdHU2F6c3RFYXdxNHVZZlV4ZFVBZFZIVW1FaUhHd1A0",
+        "title": "WHO Declares End of the Hantavirus Outbreak Linked to Cruise Ship MV Hondius - Novinite.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOEpzblJmTldFaVZxUzJBR2xqd0JsQmEtOGhyMEloMVo1MUtrMHpmNU1ZUW81U2RlV05GaDZxNC1NNzZqOGQ0bWFtc2Vtb2JkNzlCa21fUGFVRmwzNEpMTDlIR3FDdzRpazJ3VTFTY0xUekg0T1lpU1Jzb3VQbmhNdm1vZVpnYUY5TVhvWDdTekwwVlk3Zm1EWHdHU2F6c3RFYXdxNHVZZlV4ZFVBZFZIVW1FaUhHd1A0?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 08:17:15 GMT",
+        "source": "Novinite.com",
+        "fetch_timestamp": "2026-07-05T15:48:19.285615"
+    },
+    {
+        "id": "CBMiywFBVV95cUxQUVdDT1ZhSEJMYUNxVTJud1FtaklLZkswM2NXNmNnUzg3OHhQdDA4Ymxic3JRNHdONEpxQWljU0otS0JxSDhLZnV6VWdCdHpkRU54eGhOMEZHVzVkenJTaWpaVGFpcmhtLTJGOHE1WkJSbHU5SXE4M1g5aDZuSFVwYjZDTTVORGtNV1UtS0EybU9VRlhUTVhvanJDNWt1N3Bma1FRQmxtT1g2Tzc1NVFzb1dKTEFfaWFuNTYtZTI4VkxuWkJwTEIyRmM4SdIBywFBVV95cUxQUVdDT1ZhSEJMYUNxVTJud1FtaklLZkswM2NXNmNnUzg3OHhQdDA4Ymxic3JRNHdONEpxQWljU0otS0JxSDhLZnV6VWdCdHpkRU54eGhOMEZHVzVkenJTaWpaVGFpcmhtLTJGOHE1WkJSbHU5SXE4M1g5aDZuSFVwYjZDTTVORGtNV1UtS0EybU9VRlhUTVhvanJDNWt1N3Bma1FRQmxtT1g2Tzc1NVFzb1dKTEFfaWFuNTYtZTI4VkxuWkJwTEIyRmM4SQ",
+        "title": "WHO expects no further hantavirus spread following outbreak on cruise ship - Baird Maritime",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVdDT1ZhSEJMYUNxVTJud1FtaklLZkswM2NXNmNnUzg3OHhQdDA4Ymxic3JRNHdONEpxQWljU0otS0JxSDhLZnV6VWdCdHpkRU54eGhOMEZHVzVkenJTaWpaVGFpcmhtLTJGOHE1WkJSbHU5SXE4M1g5aDZuSFVwYjZDTTVORGtNV1UtS0EybU9VRlhUTVhvanJDNWt1N3Bma1FRQmxtT1g2Tzc1NVFzb1dKTEFfaWFuNTYtZTI4VkxuWkJwTEIyRmM4SdIBywFBVV95cUxQUVdDT1ZhSEJMYUNxVTJud1FtaklLZkswM2NXNmNnUzg3OHhQdDA4Ymxic3JRNHdONEpxQWljU0otS0JxSDhLZnV6VWdCdHpkRU54eGhOMEZHVzVkenJTaWpaVGFpcmhtLTJGOHE1WkJSbHU5SXE4M1g5aDZuSFVwYjZDTTVORGtNV1UtS0EybU9VRlhUTVhvanJDNWt1N3Bma1FRQmxtT1g2Tzc1NVFzb1dKTEFfaWFuNTYtZTI4VkxuWkJwTEIyRmM4SQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 05:36:50 GMT",
+        "source": "Baird Maritime",
+        "fetch_timestamp": "2026-07-05T15:48:19.286155"
+    },
+    {
+        "id": "CBMiyAFBVV95cUxOem9YRkdmVzBQQmZ1S0dHd29GU1NJdHdzMkZOTGJ3d09YMjVGaDNGbjZOM1dZM3BLMlZOZUtpbmxOTVpieW5yMmttZS1DaFpwM2k5TzZ2d0lRS08yTHVYa2RKdGRHTUdubndkVmFVWU9hT24xTllXaFA2UXRxSmU5LUtJT2hONUxUdVNpRk9ZVGdmWjMtSlFtSGgtLV80eDBBVEJVTWdHUEVqaXBwZ3ZGUkZXMkNjQkhqQ1lrYV9UVklQUlJYdU9UYQ",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - Manorama Yearbook",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOem9YRkdmVzBQQmZ1S0dHd29GU1NJdHdzMkZOTGJ3d09YMjVGaDNGbjZOM1dZM3BLMlZOZUtpbmxOTVpieW5yMmttZS1DaFpwM2k5TzZ2d0lRS08yTHVYa2RKdGRHTUdubndkVmFVWU9hT24xTllXaFA2UXRxSmU5LUtJT2hONUxUdVNpRk9ZVGdmWjMtSlFtSGgtLV80eDBBVEJVTWdHUEVqaXBwZ3ZGUkZXMkNjQkhqQ1lrYV9UVklQUlJYdU9UYQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 05:33:39 GMT",
+        "source": "Manorama Yearbook",
+        "fetch_timestamp": "2026-07-05T15:48:19.286794"
+    },
+    {
+        "id": "CBMijwFBVV95cUxQemhXX0xOZ1o2aUpaT09lOTlZWExnaGhQQVdQYU1RcFBKRDU2czRCUWlmVm0wZUdsb1hEbUxrcTdKblhBaFR4MDgzQnpxaGVhMGhMOWlsbktMTTFCUlA5eW9qWDhwQ1RQcXFuZExJbHBxS3Q1bWNMaFg1MXlnRkszNHlVTmpNcms0SE1GMVdXZw",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - Caliber.Az",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemhXX0xOZ1o2aUpaT09lOTlZWExnaGhQQVdQYU1RcFBKRDU2czRCUWlmVm0wZUdsb1hEbUxrcTdKblhBaFR4MDgzQnpxaGVhMGhMOWlsbktMTTFCUlA5eW9qWDhwQ1RQcXFuZExJbHBxS3Q1bWNMaFg1MXlnRkszNHlVTmpNcms0SE1GMVdXZw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 05:28:25 GMT",
+        "source": "Caliber.Az",
+        "fetch_timestamp": "2026-07-05T15:48:19.287419"
+    },
+    {
+        "id": "CBMioAFBVV95cUxQUTJQRGJkYm1mN1Q1UHFMWWpqSU44c0FQbnNYYXJ3bXpDNkVEd2FocUZnNmNoeGF3Ry1STDB4WlNTMUdPYzZ3LWN5WUNIU05lejZsRDRuUUJKVW9yWTRVWnVlbDBYWVhrRzlfU0YzR2V3QzQ3TUprUndzLURjbU9YdjE4dmxOWExwODBKdzlRaVV1NnJBNTlLUE5WNXNaSXV6",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - 93.3 The Drive",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTJQRGJkYm1mN1Q1UHFMWWpqSU44c0FQbnNYYXJ3bXpDNkVEd2FocUZnNmNoeGF3Ry1STDB4WlNTMUdPYzZ3LWN5WUNIU05lejZsRDRuUUJKVW9yWTRVWnVlbDBYWVhrRzlfU0YzR2V3QzQ3TUprUndzLURjbU9YdjE4dmxOWExwODBKdzlRaVV1NnJBNTlLUE5WNXNaSXV6?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 04:32:10 GMT",
+        "source": "93.3 The Drive",
+        "fetch_timestamp": "2026-07-05T15:48:19.288037"
+    },
+    {
+        "id": "CBMiVEFVX3lxTE5fc3ZSUHFESFItVng3dGhscnQ2LUg0YU13clBPSjRXQVlnQngwWmd0d3dLZGNOcEtyeUJxX3I2WjZXZHJNc3hVRTlnWnhVZVNWTmVIcg",
+        "title": "WHO declares end of hantavirus outbreak on Antarctic cruise ship, with 12 cases and 3 deaths - 동아사이언스",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fc3ZSUHFESFItVng3dGhscnQ2LUg0YU13clBPSjRXQVlnQngwWmd0d3dLZGNOcEtyeUJxX3I2WjZXZHJNc3hVRTlnWnhVZVNWTmVIcg?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 03:33:00 GMT",
+        "source": "동아사이언스",
+        "fetch_timestamp": "2026-07-05T15:48:19.288733"
+    },
+    {
+        "id": "CBMi5AFBVV95cUxQMlpmMU1KTnk1T2VpQ05fdnYyRHR6ZkI1MlRWUU1pSTBXengxbVFMZGRGMnFXVVdabVNZQm9uSzRRX05xeDFZZ3lHTUZTLWpoUHNsVW51dDRhVDktemE4SlNlLUhZOTNmdU5ITG9rUmpLU2JudTB3b0szTnV2SjVQV3lDbkVoNmY4MmdZRTRSc2pKUHh0dnV4ejZoZ3BhbHdTVXdDZWhBRXhnT19ITVZYcDkwNllvZWozcFhoeGlCTnBKcnhDUnYtZUNDWUNsWXY5ZTVTTFZoNW1DZ2x1REd1V1B0cUM",
+        "title": "World Health Organization declares Hantavirus outbreak officially over - cbs8.com",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMlpmMU1KTnk1T2VpQ05fdnYyRHR6ZkI1MlRWUU1pSTBXengxbVFMZGRGMnFXVVdabVNZQm9uSzRRX05xeDFZZ3lHTUZTLWpoUHNsVW51dDRhVDktemE4SlNlLUhZOTNmdU5ITG9rUmpLU2JudTB3b0szTnV2SjVQV3lDbkVoNmY4MmdZRTRSc2pKUHh0dnV4ejZoZ3BhbHdTVXdDZWhBRXhnT19ITVZYcDkwNllvZWozcFhoeGlCTnBKcnhDUnYtZUNDWUNsWXY5ZTVTTFZoNW1DZ2x1REd1V1B0cUM?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 03:20:00 GMT",
+        "source": "cbs8.com",
+        "fetch_timestamp": "2026-07-05T15:48:19.289262"
+    },
+    {
+        "id": "CBMiigFBVV95cUxPMDdHdGdKdjk1czdIYi1HQ1ZLOGFzbDVLMHFPZ3d0M2xVVTdPX1o0REhxVlVtX0dNWnFQd095MTNvNGNoSG9hUkJXc0VDeTdVQlVjWmY1X2g5NmZHZVNBZ00xX252VGZzc1NrcDFwVWR5MmtjNGd5Z1dXOTJKd3NzeWxhcEdDcUFpZUE",
+        "title": "Hantavirus Outbreak Tied To Cruise Ship Under WHO Investigation - Fox Rio Grande Valley",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDdHdGdKdjk1czdIYi1HQ1ZLOGFzbDVLMHFPZ3d0M2xVVTdPX1o0REhxVlVtX0dNWnFQd095MTNvNGNoSG9hUkJXc0VDeTdVQlVjWmY1X2g5NmZHZVNBZ00xX252VGZzc1NrcDFwVWR5MmtjNGd5Z1dXOTJKd3NzeWxhcEdDcUFpZUE?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 03:08:04 GMT",
+        "source": "Fox Rio Grande Valley",
+        "fetch_timestamp": "2026-07-05T15:48:19.289878"
+    },
+    {
+        "id": "CBMirwFBVV95cUxON1JEemFPYjhPTFoyNndKWWJmT21NaG9FdXBFa1JXREdacTYxTk9xX3ZwYzBoYy1iOTU5dWZGVldOSWVMZTB3eUZfclVQbGZtTVRkMkdXd1hSdkdCc0ZnZ2JfZllYSTF6RG9tclREN1VxQWFwYmZidGNLczRzamdYeDhQUzdRTEZ1RjdQanhyWTFQNXFhVFNKMU1yeUJuX01jZFRobjFBVkdLWUV6UXQw",
+        "title": "WHO chief says cruise ship-linked hantavirus outbreak over - bastillepost.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1JEemFPYjhPTFoyNndKWWJmT21NaG9FdXBFa1JXREdacTYxTk9xX3ZwYzBoYy1iOTU5dWZGVldOSWVMZTB3eUZfclVQbGZtTVRkMkdXd1hSdkdCc0ZnZ2JfZllYSTF6RG9tclREN1VxQWFwYmZidGNLczRzamdYeDhQUzdRTEZ1RjdQanhyWTFQNXFhVFNKMU1yeUJuX01jZFRobjFBVkdLWUV6UXQw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 02:53:00 GMT",
+        "source": "bastillepost.com",
+        "fetch_timestamp": "2026-07-05T15:48:19.290388"
+    },
+    {
+        "id": "CBMiswFBVV95cUxPNDZtdzZkVFdNY0ZXQ0trSjhjaUlOMjRIVEZmMi16a2E3dTI1VndPd0RpNllORzZDYXkycWVZV1J1T2NCWDdob2hyQUtkLTZRMkM4bGlCdlBhYkVQMGNpdGIyTzVFX1ZHU3pUTmp4anBxWE9GR1d3QmdQTEZyQXpFN2k1elAweTVYNGNKUlpYdWZTUTNHSktEdnNyaENKYXVPR3M2aDVfOWhqTHdIRFFsSVhHYw",
+        "title": "Study links biodiversity loss to rising hantavirus spillover risk - News-Medical",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDZtdzZkVFdNY0ZXQ0trSjhjaUlOMjRIVEZmMi16a2E3dTI1VndPd0RpNllORzZDYXkycWVZV1J1T2NCWDdob2hyQUtkLTZRMkM4bGlCdlBhYkVQMGNpdGIyTzVFX1ZHU3pUTmp4anBxWE9GR1d3QmdQTEZyQXpFN2k1elAweTVYNGNKUlpYdWZTUTNHSktEdnNyaENKYXVPR3M2aDVfOWhqTHdIRFFsSVhHYw?oc=5",
+        "location_name": "Europe",
+        "coordinates": [
+            51.0,
+            10.0
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Europe",
+                "coordinates": [
+                    51.0,
+                    10.0
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 02:50:00 GMT",
+        "source": "News-Medical",
+        "fetch_timestamp": "2026-07-05T15:48:19.290974"
+    },
+    {
+        "id": "CBMiY0FVX3lxTE55WkdkZEFYLTVLUEhmZmhVU0RjOVdyOXhnZTZ6enFWNk5sanRzSTd3a3RiY2ZYanNRV1QzbmpOWnJYU2ZCOXMzU0c2U0prMUpYZDdENmVVejVIRWdNTFhKRkdUVQ",
+        "title": "WHO chief says cruise ship-linked hantavirus outbreak \"over\"_InKunming - 昆明信息港",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55WkdkZEFYLTVLUEhmZmhVU0RjOVdyOXhnZTZ6enFWNk5sanRzSTd3a3RiY2ZYanNRV1QzbmpOWnJYU2ZCOXMzU0c2U0prMUpYZDdENmVVejVIRWdNTFhKRkdUVQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 01:41:49 GMT",
+        "source": "昆明信息港",
+        "fetch_timestamp": "2026-07-05T15:48:19.291570"
+    },
+    {
+        "id": "CBMi1wFBVV95cUxPd2h0RkJGWldFUUs4RnBuQ1V6TkdJYmRDZks1d3psMVZyVUx6WjVIamhQZ3FYQnlhaHZ1b0dzQ1d6SnRlT3NFNWtBN1hYcTJiRE9OX01RWGhsLUpHMTJoMGJTS0dpY29jZG1CNFVJZlJLQ2ZHd3A5TWZURXZ1MUw0M0pJbjFHOEJzZFVtdXJqZXIwcmpzeUhhNF9qVzRpVmlBQTE2U00xNVk3S3o1MHpLTU9tN3R3eDV6SHFaZ1g4VmFJam1mSlJSLVYzRlNPbmwtaGZjaGVaRdIB1wFBVV95cUxPd2h0RkJGWldFUUs4RnBuQ1V6TkdJYmRDZks1d3psMVZyVUx6WjVIamhQZ3FYQnlhaHZ1b0dzQ1d6SnRlT3NFNWtBN1hYcTJiRE9OX01RWGhsLUpHMTJoMGJTS0dpY29jZG1CNFVJZlJLQ2ZHd3A5TWZURXZ1MUw0M0pJbjFHOEJzZFVtdXJqZXIwcmpzeUhhNF9qVzRpVmlBQTE2U00xNVk3S3o1MHpLTU9tN3R3eDV6SHFaZ1g4VmFJam1mSlJSLVYzRlNPbmwtaGZjaGVaRQ",
+        "title": "WHO declares end to hantavirus outbreak on cruise ship after last person leaves quarantine - Firstpost",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd2h0RkJGWldFUUs4RnBuQ1V6TkdJYmRDZks1d3psMVZyVUx6WjVIamhQZ3FYQnlhaHZ1b0dzQ1d6SnRlT3NFNWtBN1hYcTJiRE9OX01RWGhsLUpHMTJoMGJTS0dpY29jZG1CNFVJZlJLQ2ZHd3A5TWZURXZ1MUw0M0pJbjFHOEJzZFVtdXJqZXIwcmpzeUhhNF9qVzRpVmlBQTE2U00xNVk3S3o1MHpLTU9tN3R3eDV6SHFaZ1g4VmFJam1mSlJSLVYzRlNPbmwtaGZjaGVaRdIB1wFBVV95cUxPd2h0RkJGWldFUUs4RnBuQ1V6TkdJYmRDZks1d3psMVZyVUx6WjVIamhQZ3FYQnlhaHZ1b0dzQ1d6SnRlT3NFNWtBN1hYcTJiRE9OX01RWGhsLUpHMTJoMGJTS0dpY29jZG1CNFVJZlJLQ2ZHd3A5TWZURXZ1MUw0M0pJbjFHOEJzZFVtdXJqZXIwcmpzeUhhNF9qVzRpVmlBQTE2U00xNVk3S3o1MHpLTU9tN3R3eDV6SHFaZ1g4VmFJam1mSlJSLVYzRlNPbmwtaGZjaGVaRQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 01:10:41 GMT",
+        "source": "Firstpost",
+        "fetch_timestamp": "2026-07-05T15:48:19.292213"
+    },
+    {
+        "id": "CBMiY0FVX3lxTE5ITnZ2VEpCZ1hkM3FZSi13bkx4cVNZUDUwTTYzT1VpVmladE54Z0oyU09hcVloVFhpbzJwdzVjb3FqOWVsM2F6bV9fUmtKMDV1U0NuZWpoczNnX3Z5MjZmcEZGbw",
+        "title": "WHO chief says cruise ship-linked hantavirus outbreak \"over\" - People's Daily Online",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ITnZ2VEpCZ1hkM3FZSi13bkx4cVNZUDUwTTYzT1VpVmladE54Z0oyU09hcVloVFhpbzJwdzVjb3FqOWVsM2F6bV9fUmtKMDV1U0NuZWpoczNnX3Z5MjZmcEZGbw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 00:49:00 GMT",
+        "source": "People's Daily Online",
+        "fetch_timestamp": "2026-07-05T15:48:19.292761"
+    },
+    {
+        "id": "CBMizwFBVV95cUxQWktvRlZqY2hiN19pSXJpNmMwTTRrVmRic1c1QlpGTFdCNFRWMURVNmx2V2tBV1JRVWt6c0dpYXJfdVItTG9CODJNSmxWT0p3SlpIZTRtQzN6c0dxeE5pQnVkdzQyTnpRU1R6b1lGUzE2aGE2YkhoMDlXVE0zSDM1R3RGTGhnLWphTWdNQ0o1V0xjVlo4b3VBdnFNRGpKX1N4emk3MjBIaXF1YV9rNktaT0tiQTZHM0NHZlRPSTJZT2RWVVpDSHRVdzJYNjZMQUU",
+        "title": "WHO declares Hantavirus outbreak tied to cruise ship over - cbs8.com",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWktvRlZqY2hiN19pSXJpNmMwTTRrVmRic1c1QlpGTFdCNFRWMURVNmx2V2tBV1JRVWt6c0dpYXJfdVItTG9CODJNSmxWT0p3SlpIZTRtQzN6c0dxeE5pQnVkdzQyTnpRU1R6b1lGUzE2aGE2YkhoMDlXVE0zSDM1R3RGTGhnLWphTWdNQ0o1V0xjVlo4b3VBdnFNRGpKX1N4emk3MjBIaXF1YV9rNktaT0tiQTZHM0NHZlRPSTJZT2RWVVpDSHRVdzJYNjZMQUU?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 00:36:00 GMT",
+        "source": "cbs8.com",
+        "fetch_timestamp": "2026-07-05T15:48:19.293326"
+    },
+    {
+        "id": "CBMiRkFVX3lxTE1uOTVRamM3cWtRMTFHMDktSnhiWWdiVlBLZldLcDZMUzJZeGhSYXNqQkhYdkszdnZvMkRoQlJrU2g4RU9RTHfSAUtBVV95cUxNb2ZySE1NSXgwMXExRUFtOU81TGEzRC01WExFaERhVkM0emdPLTBrVzdDT0xfV1l2QUk4MnR0akhhSk8zQTZpUmlFM0E",
+        "title": "Hantavirus outbreak on cruise liner concluded - Наша Ніва",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uOTVRamM3cWtRMTFHMDktSnhiWWdiVlBLZldLcDZMUzJZeGhSYXNqQkhYdkszdnZvMkRoQlJrU2g4RU9RTHfSAUtBVV95cUxNb2ZySE1NSXgwMXExRUFtOU81TGEzRC01WExFaERhVkM0emdPLTBrVzdDT0xfV1l2QUk4MnR0akhhSk8zQTZpUmlFM0E?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 00:04:19 GMT",
+        "source": "Наша Ніва",
+        "fetch_timestamp": "2026-07-05T15:48:19.293864"
+    },
+    {
+        "id": "CBMi4AFBVV95cUxQVDhHV3lKY1J1LUxKdTlocXNsWDNRN2VuRC1ZcjVMUVhFUHhjUTdrTXhTYllMTmhuWkJRclJxdXNxVTJyRzlSZDNQQTRMZWFnUWxZc0hOX0p0cHh2cllKUkNuZVRMVHJ3bmt4elk4XzdIVnBRWklpM2FMSjg0MktuNUtwU2c0dEpmeUtEY1lKOUhUdDlWTmJTLUJ5M253UmlHemFvTE1PR1NwczdYTzFLUk5odXdQRTJDakVkaEdvTzF1Zmc1UWVfNDgzMEkxa0xYaU9uUFdvUUc2TkFFRC1ONQ",
+        "title": "WHO Declares MV Hondius Hantavirus Outbreak Over After 13 Infected, 3 Dead: 19 Sources (Western Mainstream: 6) - NewsCord",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVDhHV3lKY1J1LUxKdTlocXNsWDNRN2VuRC1ZcjVMUVhFUHhjUTdrTXhTYllMTmhuWkJRclJxdXNxVTJyRzlSZDNQQTRMZWFnUWxZc0hOX0p0cHh2cllKUkNuZVRMVHJ3bmt4elk4XzdIVnBRWklpM2FMSjg0MktuNUtwU2c0dEpmeUtEY1lKOUhUdDlWTmJTLUJ5M253UmlHemFvTE1PR1NwczdYTzFLUk5odXdQRTJDakVkaEdvTzF1Zmc1UWVfNDgzMEkxa0xYaU9uUFdvUUc2TkFFRC1ONQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 03 Jul 2026 00:00:49 GMT",
+        "source": "NewsCord",
+        "fetch_timestamp": "2026-07-05T15:48:19.294561"
+    },
+    {
+        "id": "CBMilgFBVV95cUxPOHQ4eXRpZHZEalctWmU0dnZzTGV6ZEJCSXU4TmNTa0JnNVhFa3Z1a3QtN054d20xY1NfUDhfUGZ5RmNQUGhHMDNIWFlZbHRzNlBQOTVkNkRFb1REa2hXZ1JwV3N2ODhYM2ZzT0d4dXlDS2dTcjNsNnhUeW5uVWFkTGJCRDlZREcyb0FBdkxFaERjclFGbVE",
+        "title": "Cruise ship hantavirus outbreak declared over by WHO - BNO News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOHQ4eXRpZHZEalctWmU0dnZzTGV6ZEJCSXU4TmNTa0JnNVhFa3Z1a3QtN054d20xY1NfUDhfUGZ5RmNQUGhHMDNIWFlZbHRzNlBQOTVkNkRFb1REa2hXZ1JwV3N2ODhYM2ZzT0d4dXlDS2dTcjNsNnhUeW5uVWFkTGJCRDlZREcyb0FBdkxFaERjclFGbVE?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 23:56:02 GMT",
+        "source": "BNO News",
+        "fetch_timestamp": "2026-07-05T15:48:19.295092"
+    },
+    {
+        "id": "CBMi8gFBVV95cUxNZEVtV1VTeVdKczdEdmFWR2I4RHdzamNHekVCdkFpcmFqeWJpSUNkSW1CS0JWNHZBWnZHOXRpajlEUU5VVTJsVG1FbU5qWnlUT21fZmI0MXI0d0pFY1ZmX1pyWW5Oa0JyYmFBSFg3UTZxR1R6SzU5d2ZkaEQzMW5NNFRrTjBLRzBnaS0zQVZnZkRCenlBNkFWTXAwRERFblVvMjF0WDFxTzZUbFlYczFOYVo2TkhQWE80bFl3Z3owM0J6RVFFc0dja09GMGFnNTR5ZzlJQzJCdmJzbk1fd3BsNHVreEZiNjZtblFRM3kxSUJMQQ",
+        "title": "WHO declares cruise ship hantavirus outbreak over after 13 cases and three deaths - cbs19.tv",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZEVtV1VTeVdKczdEdmFWR2I4RHdzamNHekVCdkFpcmFqeWJpSUNkSW1CS0JWNHZBWnZHOXRpajlEUU5VVTJsVG1FbU5qWnlUT21fZmI0MXI0d0pFY1ZmX1pyWW5Oa0JyYmFBSFg3UTZxR1R6SzU5d2ZkaEQzMW5NNFRrTjBLRzBnaS0zQVZnZkRCenlBNkFWTXAwRERFblVvMjF0WDFxTzZUbFlYczFOYVo2TkhQWE80bFl3Z3owM0J6RVFFc0dja09GMGFnNTR5ZzlJQzJCdmJzbk1fd3BsNHVreEZiNjZtblFRM3kxSUJMQQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 23:49:00 GMT",
+        "source": "cbs19.tv",
+        "fetch_timestamp": "2026-07-05T15:48:19.295713"
+    },
+    {
+        "id": "CBMiwgFBVV95cUxNaEhWUWVNb0FLVUdTYjRQdzc1TE9LTTM1cWtaOXlrRjZkdlJWa205cHgxVzRXVW5IbnJyUW9YTXdUTzM2S0dib3NaOHNERldEN3Vpc1BrUkdncUYwV2hDRFRDNnNwR3ViRUNLOVJEWGtZeUtsUC11TnpwQm9STmszQWN3Zi1rdG0zaGFCbWQzVlYyT0UwVFRnWVhtdXlmY0dwVXJpSjJscG5MNm5CMEtXdzRjaHoxTmJRbFU5WDZ0VVhfZw",
+        "title": "W.H.O. declares the Hantavirus outbreak over - KTVN",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEhWUWVNb0FLVUdTYjRQdzc1TE9LTTM1cWtaOXlrRjZkdlJWa205cHgxVzRXVW5IbnJyUW9YTXdUTzM2S0dib3NaOHNERldEN3Vpc1BrUkdncUYwV2hDRFRDNnNwR3ViRUNLOVJEWGtZeUtsUC11TnpwQm9STmszQWN3Zi1rdG0zaGFCbWQzVlYyT0UwVFRnWVhtdXlmY0dwVXJpSjJscG5MNm5CMEtXdzRjaHoxTmJRbFU5WDZ0VVhfZw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 23:25:00 GMT",
+        "source": "KTVN",
+        "fetch_timestamp": "2026-07-05T15:48:19.296188"
+    },
+    {
+        "id": "CBMikAFBVV95cUxQbE14OVZidmlBbDl2dkdYR0FhanB0ZzBtMlJyenVpSERzOGZRMUplNDRlQXdadDBXSWVDWDE3UXRReVVwOWV1aldZX0J2cEZPdXg2RzJacXhzMGdRbTUxYkZUZFE1Ni15bkctRTZfdkNJd292Y2RnQnZsMVd0ekVoYTZDQXkzdmVtX2VzcU5wV1Q",
+        "title": "WHO says cruise ship-linked hantavirus outbreak over - Jamaica Observer",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbE14OVZidmlBbDl2dkdYR0FhanB0ZzBtMlJyenVpSERzOGZRMUplNDRlQXdadDBXSWVDWDE3UXRReVVwOWV1aldZX0J2cEZPdXg2RzJacXhzMGdRbTUxYkZUZFE1Ni15bkctRTZfdkNJd292Y2RnQnZsMVd0ekVoYTZDQXkzdmVtX2VzcU5wV1Q?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 23:15:28 GMT",
+        "source": "Jamaica Observer",
+        "fetch_timestamp": "2026-07-05T15:48:19.296712"
+    },
+    {
+        "id": "CBMiyAFBVV95cUxOLW0xejBWNHZTOFJCa2xmTGg3ZDlMNmxtUTUyRkxBMTlZYkFqc3ItSlpPTWl2Qi1zZ2c4ZGktdk5hT1FYamFJVG1nSmxzeUtWVHhGa2JJbDdEZHNHY0ZySGNKd0l6TXRXQ0g0VlFhbE1QT2VWVWdwQTlERWNTWUtfT0M3VWhuazBKNV9SN3BkQnBELWY4Z1FZa1pFVmk2blJxYUNNSTlkeHdNbVBOc3FGQnRPd1JUSDNXYml4ZndoMG1KQ3pnU3U2dg",
+        "title": "Hantavirus infection found in Okanogan County - ncwlife.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLW0xejBWNHZTOFJCa2xmTGg3ZDlMNmxtUTUyRkxBMTlZYkFqc3ItSlpPTWl2Qi1zZ2c4ZGktdk5hT1FYamFJVG1nSmxzeUtWVHhGa2JJbDdEZHNHY0ZySGNKd0l6TXRXQ0g0VlFhbE1QT2VWVWdwQTlERWNTWUtfT0M3VWhuazBKNV9SN3BkQnBELWY4Z1FZa1pFVmk2blJxYUNNSTlkeHdNbVBOc3FGQnRPd1JUSDNXYml4ZndoMG1KQ3pnU3U2dg?oc=5",
+        "location_name": "Okanogan County",
+        "coordinates": [
+            48.5158513,
+            -119.6527477
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Okanogan County",
+                "coordinates": [
+                    48.5158513,
+                    -119.6527477
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 22:50:00 GMT",
+        "source": "ncwlife.com",
+        "fetch_timestamp": "2026-07-05T15:48:20.564067"
+    },
+    {
+        "id": "CBMikgFBVV95cUxPbUJSTC1sS0N4dkhSZlZLZzFEYWRGM1ZHbnNmQm91RENyZ3V4V0ZFdXo0V3dpQUk1Ymtna1BhdWtVRlh2OVJkRzgwUHU3dHV6UGpvY25kQXBVSjRYeWJtVEtPakVrLUVkTWFsZnprYnZnSXZaM1pDNjhwZ2JvVkZ0RkxsSUxvVGJGenR5cnR2ZVRqdw",
+        "title": "Hantavirus outbreak tied to expedition ship is over, says WHO - PAXnews.com",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUJSTC1sS0N4dkhSZlZLZzFEYWRGM1ZHbnNmQm91RENyZ3V4V0ZFdXo0V3dpQUk1Ymtna1BhdWtVRlh2OVJkRzgwUHU3dHV6UGpvY25kQXBVSjRYeWJtVEtPakVrLUVkTWFsZnprYnZnSXZaM1pDNjhwZ2JvVkZ0RkxsSUxvVGJGenR5cnR2ZVRqdw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 22:43:00 GMT",
+        "source": "PAXnews.com",
+        "fetch_timestamp": "2026-07-05T15:48:20.564912"
+    },
+    {
+        "id": "CBMizgFBVV95cUxOX1NkQ0Z6Y1QtTVFOeTBIYWhIR0R0S3NkRXJZTHhWNldsczFCck44SGl2REJteHZuaEx6dkdtd3Y3RTM3dno3czRaQU9QeU9TODlwQ1hwNnZoRG1hNWpOblV3djFZT1N4elpzQzJHUUhWZWRYUTV5V1BYRW16dTNwX04xZDR0bnJJcWZtYldiSVdXTFctNXlwMVFKdXRNNFRuYUlndmtYZ2puellWTlJuVHpjN19XYTNCNXpXVFhVM3dOVTFRVWZjM0QtZ1RfZw",
+        "title": "WHO Declares Hantavirus Outbreak Linked To Cruise Ship Over - kare11.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1NkQ0Z6Y1QtTVFOeTBIYWhIR0R0S3NkRXJZTHhWNldsczFCck44SGl2REJteHZuaEx6dkdtd3Y3RTM3dno3czRaQU9QeU9TODlwQ1hwNnZoRG1hNWpOblV3djFZT1N4elpzQzJHUUhWZWRYUTV5V1BYRW16dTNwX04xZDR0bnJJcWZtYldiSVdXTFctNXlwMVFKdXRNNFRuYUlndmtYZ2puellWTlJuVHpjN19XYTNCNXpXVFhVM3dOVTFRVWZjM0QtZ1RfZw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 22:41:00 GMT",
+        "source": "kare11.com",
+        "fetch_timestamp": "2026-07-05T15:48:20.565511"
     },
     {
         "id": "CBMimgFBVV95cUxOT0dIYnNmZkV3Mk1QY0owdll5Rnl5dEhiR1R1NXQyMGxtaGZpR0NiYUlrUlBtVXd5Ri1ZLXd5NGRIQ3dEYUtPbXoxUDNXQTRoRU5ycS1sWUtUQ1pIbDNlQTVTV2ExbmQ0S3ctTmFCMXdDeDdWWlprT0pfMWRTZVU4cmxPREhoZ3BacHBoak9JUjJ0clFjN0RmdnRn0gGaAUFVX3lxTE5PR0hic2ZmRXcyTVBjSjB2WXlGeXl0SGJHVHU1dDIwbG1oZmlHQ2JhSWtSUG1Vd3lGLVktd3k0ZEhDd0RhS09tejFQM1dBNGhFTnJxLWxZS1RDWkhsM2VBNVNXYTFuZDRLdy1OYUIxd0N4N1ZaWmtPSl8xZFNlVThybE9ESGhncFpwcGhqT0lSMnRyUWM3RGZ2dGc",
@@ -101,12 +1167,12 @@
         ],
         "published": "Thu, 02 Jul 2026 22:30:01 GMT",
         "source": "Inquirer.net",
-        "fetch_timestamp": "2026-07-05T14:28:47.937149"
+        "fetch_timestamp": "2026-07-05T15:48:20.566011"
     },
     {
-        "id": "CBMi2wFBVV95cUxQdWdra19YNmpWYUxYMDJ4eV82X2pmdzdyeWl5bnlNU1czM1hYRTVQMVlqYTkyYUhuTmpVSXJMdVoyeEJSR18wdHhkeE1KRWJRVUt5VUhhNlhFZ0pKY3RwMnhmQnh3ZGNnU1hUb2xtZDVvcG5qenJPVHhvWUNwMDRiSzlmQXFraEdTczdqbVVENkpHb3NvTldsMk1TeGFrSHh6Nkd5YWhOVHVFOHpvVlR0eUVZaHJaTjlyNXlNLUEzU1dzQW9aVVRnYmJoMmNjZG1qTjc4NURXSU5qSGs",
-        "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - Rural Radio Network",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWdra19YNmpWYUxYMDJ4eV82X2pmdzdyeWl5bnlNU1czM1hYRTVQMVlqYTkyYUhuTmpVSXJMdVoyeEJSR18wdHhkeE1KRWJRVUt5VUhhNlhFZ0pKY3RwMnhmQnh3ZGNnU1hUb2xtZDVvcG5qenJPVHhvWUNwMDRiSzlmQXFraEdTczdqbVVENkpHb3NvTldsMk1TeGFrSHh6Nkd5YWhOVHVFOHpvVlR0eUVZaHJaTjlyNXlNLUEzU1dzQW9aVVRnYmJoMmNjZG1qTjc4NURXSU5qSGs?oc=5",
+        "id": "CBMimAJBVV95cUxQakVnb2NsRlVDbnRTTnNLbWZDdE1COVk4WXgxY2VpdG52c1c0Q0J6U3lhOEVxd3Fxd3ItZlZRWWRkb1JvYkVwS0wtYm5JQ3V2c2hUNWJEYW1RWGxRbnlTOEFLeFlaRXZpRU82NlFHM2RqOGhuejZibVIzMjVkMWp5YXFONE1sTWlOMk53eGxDVThFN3RRLXlXX3JaTXJWeGRQdkc0bkNtQk82OTVCNGdMYTZNWG1rTTNNUDhyMkhlRmVsMFJ2U2s5dUZRWlBVWXQwZGdCS2hKQVh2eGRkNGNhYUN6azFrZjJ3MGNvbi1fY0lsUGFZX0toTjhtbWtHQkU5QWp1QjBscER4OXJvdnQtZ1cwWExBczdY",
+        "title": "National headlines: Hantavirus, Vatican excommunicates breakaway group members, wildfires and more - weareiowa.com",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQakVnb2NsRlVDbnRTTnNLbWZDdE1COVk4WXgxY2VpdG52c1c0Q0J6U3lhOEVxd3Fxd3ItZlZRWWRkb1JvYkVwS0wtYm5JQ3V2c2hUNWJEYW1RWGxRbnlTOEFLeFlaRXZpRU82NlFHM2RqOGhuejZibVIzMjVkMWp5YXFONE1sTWlOMk53eGxDVThFN3RRLXlXX3JaTXJWeGRQdkc0bkNtQk82OTVCNGdMYTZNWG1rTTNNUDhyMkhlRmVsMFJ2U2s5dUZRWlBVWXQwZGdCS2hKQVh2eGRkNGNhYUN6azFrZjJ3MGNvbi1fY0lsUGFZX0toTjhtbWtHQkU5QWp1QjBscER4OXJvdnQtZ1cwWExBczdY?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -125,14 +1191,14 @@
                 "confidence": "low"
             }
         ],
-        "published": "Thu, 02 Jul 2026 20:03:26 GMT",
-        "source": "Rural Radio Network",
-        "fetch_timestamp": "2026-07-05T14:28:47.938449"
+        "published": "Thu, 02 Jul 2026 22:17:00 GMT",
+        "source": "weareiowa.com",
+        "fetch_timestamp": "2026-07-05T15:48:20.566649"
     },
     {
-        "id": "CBMi2AJBVV95cUxQblY0Z1pxSjVabTZVb3RILWRmcU51TnJuVTZ0cTNiSG1YVmp6SThQamxmTGtqTGdiRno2cTFFaFJmYkJGdWYybm8tNTQ4YTFlUXRSclh2Q18xbDdib24tclpCYUhFYTVodWM4MWJVeHQ3c0FOWjh1N2FKYnNrVXl2SmVpbmZwWDFQRTV2d3lBbnpnZ0RwZ05NeUcwTERUSDV0aWRObDc4NHZoVmozdkp4bTB6WXNVNk9lVG9OdkpMdUxKUzl4Z2pSZWdVZGp6d0U5MmRpX0M2RFNhVEpZMUExU2R6RGo5N1FfTDhEQXNKZmdvU2NjbTBNRmVTalBnOHlMcS1RUjV6THVNNUhGRkgyRG44RmdWMHRtMUMyNGFtaWFiYzZERHpfUHJJRU9XdFR2LWRTMHJ6cm8xN2x4cXo2VmJLRFhNekkxdnQ4S2RLRFdBeEI0N1piWQ",
-        "title": "WHO declares hantavirus outbreak over as last patient finishes quarantine - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQblY0Z1pxSjVabTZVb3RILWRmcU51TnJuVTZ0cTNiSG1YVmp6SThQamxmTGtqTGdiRno2cTFFaFJmYkJGdWYybm8tNTQ4YTFlUXRSclh2Q18xbDdib24tclpCYUhFYTVodWM4MWJVeHQ3c0FOWjh1N2FKYnNrVXl2SmVpbmZwWDFQRTV2d3lBbnpnZ0RwZ05NeUcwTERUSDV0aWRObDc4NHZoVmozdkp4bTB6WXNVNk9lVG9OdkpMdUxKUzl4Z2pSZWdVZGp6d0U5MmRpX0M2RFNhVEpZMUExU2R6RGo5N1FfTDhEQXNKZmdvU2NjbTBNRmVTalBnOHlMcS1RUjV6THVNNUhGRkgyRG44RmdWMHRtMUMyNGFtaWFiYzZERHpfUHJJRU9XdFR2LWRTMHJ6cm8xN2x4cXo2VmJLRFhNekkxdnQ4S2RLRFdBeEI0N1piWQ?oc=5",
+        "id": "CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ",
+        "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -151,14 +1217,92 @@
                 "confidence": "low"
             }
         ],
-        "published": "Thu, 02 Jul 2026 19:11:12 GMT",
+        "published": "Thu, 02 Jul 2026 22:00:43 GMT",
+        "source": "The New York Times",
+        "fetch_timestamp": "2026-07-05T15:48:20.567273"
+    },
+    {
+        "id": "CBMirwFBVV95cUxQMXdDblNlTWYxZzFjUUkzMy15QmNna01MSDJRaDRTME0wSjQ4X3pfWGpEM2pSUVdoX2d1SF9rbF80UEs0QnlRTTVFcDhTSl9Eenc0dlF2ZjJCNDZPaWhobHRNcGVTSEtzR21LN0FJeGNzRVBtLThDU0FkWU90UVgzWmFURWg0dU13cGdzWUpBSlc3ejAtVlI2WDA0QmhlMzNBNmIwMWc0SFp1a2pVLWI0",
+        "title": "WHO director declares hantavirus outbreak linked to cruise ship is over - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXdDblNlTWYxZzFjUUkzMy15QmNna01MSDJRaDRTME0wSjQ4X3pfWGpEM2pSUVdoX2d1SF9rbF80UEs0QnlRTTVFcDhTSl9Eenc0dlF2ZjJCNDZPaWhobHRNcGVTSEtzR21LN0FJeGNzRVBtLThDU0FkWU90UVgzWmFURWg0dU13cGdzWUpBSlc3ejAtVlI2WDA0QmhlMzNBNmIwMWc0SFp1a2pVLWI0?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 21:28:00 GMT",
+        "source": "CBS News",
+        "fetch_timestamp": "2026-07-05T15:48:20.567960"
+    },
+    {
+        "id": "CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw",
+        "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 20:57:46 GMT",
+        "source": "Al Jazeera",
+        "fetch_timestamp": "2026-07-05T15:48:20.568499"
+    },
+    {
+        "id": "CBMixAFBVV95cUxQTEJfVVJkU0VDNF9WRjBXUTlDTmljUU0yUzIzSHhxVW1EaktiZnpOWDdKTTZ6emlmZS1FblIxc2cxRWNjaUg2VXhlNHpUcnFEbTg0T0YxQ29WZlZ6RVFTTkxpSHAxaHRvQlkxa1Q1WEl2QzNveTItN0xMcGdZYlRpdEVYNHkxU1laeFFwZlpzaGE3MDU1QnpJZlphWHRvQUwxbFBlMHdlTnRwSWt1SXF6akRpNVp6Vnh5cnlXMEUyVms2Q1M1",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - MSN",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJfVVJkU0VDNF9WRjBXUTlDTmljUU0yUzIzSHhxVW1EaktiZnpOWDdKTTZ6emlmZS1FblIxc2cxRWNjaUg2VXhlNHpUcnFEbTg0T0YxQ29WZlZ6RVFTTkxpSHAxaHRvQlkxa1Q1WEl2QzNveTItN0xMcGdZYlRpdEVYNHkxU1laeFFwZlpzaGE3MDU1QnpJZlphWHRvQUwxbFBlMHdlTnRwSWt1SXF6akRpNVp6Vnh5cnlXMEUyVms2Q1M1?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 20:32:51 GMT",
         "source": "MSN",
-        "fetch_timestamp": "2026-07-05T14:28:47.938955"
+        "fetch_timestamp": "2026-07-05T15:48:20.569113"
     },
     {
-        "id": "CBMiwgNBVV95cUxQUHkwZmhLWFFHN1NtV2FMZlBDSDdyaFZLVlBhbjlTbU1VNmJlX3cxNTItZ3JldmNsNy1vMzNCckpPUmdPRXhrUHdwUUFDZHhYYV9iTk51b1lLVk45dk5EUWc2dDJkY0dUSE5YZlcyS1Q0MW5wMTZNVHJqSTZzRmlETVJSd3lHeng5dXNSU2FNekJLcDZCVkF5VlN0UVVKdmwzNTFTcnhwWU5abXZXcHQtc2FPdmpaZjZFUUt5N3RNWWIxNmJNVHBvbUxhOHJWQXVsUnNSbmdFLVFsUVAyOVhUbE1BMHRoMm81ME1jemZkZEY3QzJwVHJIZVhSTWIzdWY4SnBxUnhQRHNfRWNWYkN4S0Z3Rl9uNGc3dE5QTGNXUWwtbmhOWmVzb1E4SVNhZENRZjdYMm5VNTJ0YWhCVm9kS21nVl85aWFVMjlyc0w4RGRSeGdIU25fTjFSNEhJTExVRDdzODBEOUZYSmh1ZThta1pmS1dxbGJ3UEM5ZTlnUlg0aFJOUDVkV2pmQlBlT1pYY1hzSmZxa3lDMW0yM3JkZzNpQnR1UnZqZzNEbVRidkZGbkU4VGZaNkx6dU9nNm5vV1E",
-        "title": "Three cruise ship passengers dead, others ill after suspected hantavirus outbreak. Here’s what we know - MSN",
-        "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQUHkwZmhLWFFHN1NtV2FMZlBDSDdyaFZLVlBhbjlTbU1VNmJlX3cxNTItZ3JldmNsNy1vMzNCckpPUmdPRXhrUHdwUUFDZHhYYV9iTk51b1lLVk45dk5EUWc2dDJkY0dUSE5YZlcyS1Q0MW5wMTZNVHJqSTZzRmlETVJSd3lHeng5dXNSU2FNekJLcDZCVkF5VlN0UVVKdmwzNTFTcnhwWU5abXZXcHQtc2FPdmpaZjZFUUt5N3RNWWIxNmJNVHBvbUxhOHJWQXVsUnNSbmdFLVFsUVAyOVhUbE1BMHRoMm81ME1jemZkZEY3QzJwVHJIZVhSTWIzdWY4SnBxUnhQRHNfRWNWYkN4S0Z3Rl9uNGc3dE5QTGNXUWwtbmhOWmVzb1E4SVNhZENRZjdYMm5VNTJ0YWhCVm9kS21nVl85aWFVMjlyc0w4RGRSeGdIU25fTjFSNEhJTExVRDdzODBEOUZYSmh1ZThta1pmS1dxbGJ3UEM5ZTlnUlg0aFJOUDVkV2pmQlBlT1pYY1hzSmZxa3lDMW0yM3JkZzNpQnR1UnZqZzNEbVRidkZGbkU4VGZaNkx6dU9nNm5vV1E?oc=5",
+        "id": "CBMixAFBVV95cUxOSTBsa29OaEw1R1hCRTVpT3BVbmtoS21jOG45N2Z5M3plNUVUd1oyMFhyZkN5a29xOVNSLXZnWGNEZTJ0MUttX3p0RGR4SHQ3Q3g3M3I2QlhYVFlNazd4VEs3cENGZXlqYWV4OU10WmVQekZfMlZJSXJYZDNwT3d3YXl4R2ctM3lzOXotTDMwZ09ITEZOSVRGTkluRUhIMkt1OHlNdW16cHk3RjJ4UzVGWmx1Q25OU1MxYUk2emlQRU9Raml5",
+        "title": "WHO Declares End Of Cruise Ship Hantavirus Outbreak - Newsradio 95 WXTK",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTBsa29OaEw1R1hCRTVpT3BVbmtoS21jOG45N2Z5M3plNUVUd1oyMFhyZkN5a29xOVNSLXZnWGNEZTJ0MUttX3p0RGR4SHQ3Q3g3M3I2QlhYVFlNazd4VEs3cENGZXlqYWV4OU10WmVQekZfMlZJSXJYZDNwT3d3YXl4R2ctM3lzOXotTDMwZ09ITEZOSVRGTkluRUhIMkt1OHlNdW16cHk3RjJ4UzVGWmx1Q25OU1MxYUk2emlQRU9Raml5?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -177,9 +1321,1153 @@
                 "confidence": "low"
             }
         ],
-        "published": "Thu, 02 Jul 2026 16:23:49 GMT",
-        "source": "MSN",
-        "fetch_timestamp": "2026-07-05T14:28:47.939571"
+        "published": "Thu, 02 Jul 2026 20:24:00 GMT",
+        "source": "Newsradio 95 WXTK",
+        "fetch_timestamp": "2026-07-05T15:48:20.569693"
+    },
+    {
+        "id": "CBMioAFBVV95cUxQcnZEcVVCX0J2bzQ0S3Vlc1V4OWxPbGx4cXp0Y1d1R2lfVGY3anZWb1k3NEt0anFPSmhSSnlMbWRKcWt5QVJQU09YV2xPWXRnT2RMaDQ2UGEwOU5wMV9wTFpOalAzYlZxZmE4Z3FoU1VmZnppTlVxRFNCWU5COUZKSF9DRmZ1bTdwYzNfVS1OYUplRFgwOUFWdWxJUGdDQWkw",
+        "title": "WHO declares cruise ship hantavirus outbreak over - Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnZEcVVCX0J2bzQ0S3Vlc1V4OWxPbGx4cXp0Y1d1R2lfVGY3anZWb1k3NEt0anFPSmhSSnlMbWRKcWt5QVJQU09YV2xPWXRnT2RMaDQ2UGEwOU5wMV9wTFpOalAzYlZxZmE4Z3FoU1VmZnppTlVxRFNCWU5COUZKSF9DRmZ1bTdwYzNfVS1OYUplRFgwOUFWdWxJUGdDQWkw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 19:28:06 GMT",
+        "source": "Yahoo",
+        "fetch_timestamp": "2026-07-05T15:48:20.570163"
+    },
+    {
+        "id": "CBMiSkFVX3lxTE11TzlZdENaZ0FDbDdkWEtkOFEzMHI5VkEyZ0x5MnFWeVo5SENHcERtSGxTU2NUWEtnU0h4ekZFOS1lMGFrY3hxVG13",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - سانا",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11TzlZdENaZ0FDbDdkWEtkOFEzMHI5VkEyZ0x5MnFWeVo5SENHcERtSGxTU2NUWEtnU0h4ekZFOS1lMGFrY3hxVG13?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 19:16:00 GMT",
+        "source": "سانا",
+        "fetch_timestamp": "2026-07-05T15:48:20.570869"
+    },
+    {
+        "id": "CBMigAFBVV95cUxOWW1GSU5wcGoxekxDWTNMRFhYQWdGYWVwTzMzN0Y5Tm1ab2czTDV3MFFwRHR0bzJvUE1zSWZsdWxKN1YwUmQ5bTN2MEpZMVNFcmcwVDg1c040WnhDejdZWnJfM3ljNjFrakF5VTBkLTdDei1EVXpLZ1A0d2RlTC0yM9IBiAFBVV95cUxPQ2p4UUc4cHFvTzVGR1dBd3lmSG16dEVNYUY3TXlQcmVpT1QyVm9nLTF2b0VlWmc1TEt0SGhSN2dhMXIySHk5YmdvbE0tS2tGMFVTZXgyMURzdDVYS2x0VnZWeUJ4RmZTV1VUdC1qY053aklpc3pPeDE4cFBpeDBoU1NlZUdQTDZo",
+        "title": "WHO announces hantavirus outbreak over - The Express Tribune",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWW1GSU5wcGoxekxDWTNMRFhYQWdGYWVwTzMzN0Y5Tm1ab2czTDV3MFFwRHR0bzJvUE1zSWZsdWxKN1YwUmQ5bTN2MEpZMVNFcmcwVDg1c040WnhDejdZWnJfM3ljNjFrakF5VTBkLTdDei1EVXpLZ1A0d2RlTC0yM9IBiAFBVV95cUxPQ2p4UUc4cHFvTzVGR1dBd3lmSG16dEVNYUY3TXlQcmVpT1QyVm9nLTF2b0VlWmc1TEt0SGhSN2dhMXIySHk5YmdvbE0tS2tGMFVTZXgyMURzdDVYS2x0VnZWeUJ4RmZTV1VUdC1qY053aklpc3pPeDE4cFBpeDBoU1NlZUdQTDZo?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 18:59:02 GMT",
+        "source": "The Express Tribune",
+        "fetch_timestamp": "2026-07-05T15:48:20.571379"
+    },
+    {
+        "id": "CBMimAFBVV95cUxNN2x3d0dLb1dHc3hyMndpRjh0bVlGaGRBcjdEaHNEMGJvQWlpT3VFU2hDa2RMSHgtVHNvSUhYdnYwNm5NZXFodjkzakthWWVXRmdyOHBzaWNvMkpGa25FTUUwNjR3RDNlU3JSUEZBM2pnTXNtdjhrcGo3MngtdjktcTAtTHhRcWJ4UHFjNkF5Sk1TMjJQQk5aeg",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - 1470 & 100.3 WMBD",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2x3d0dLb1dHc3hyMndpRjh0bVlGaGRBcjdEaHNEMGJvQWlpT3VFU2hDa2RMSHgtVHNvSUhYdnYwNm5NZXFodjkzakthWWVXRmdyOHBzaWNvMkpGa25FTUUwNjR3RDNlU3JSUEZBM2pnTXNtdjhrcGo3MngtdjktcTAtTHhRcWJ4UHFjNkF5Sk1TMjJQQk5aeg?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 18:36:15 GMT",
+        "source": "1470 & 100.3 WMBD",
+        "fetch_timestamp": "2026-07-05T15:48:20.572039"
+    },
+    {
+        "id": "CBMic0FVX3lxTFBWN3N5NWtlZU5ybXZhdXJvZnZCOWM1ZU41Ym9maW1CN3dub0JvSlhuM0FiWXFhaWt6MlFUZFZqWDItdnVpd29UQU1fT2doMXI2MTNrRmtrM2xNdnRLY2tLQVVINFVOVjNUa3VtU1FJQXVTazA",
+        "title": "Deadly hantavirus outbreak is officially over, WHO says - wng.org",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWN3N5NWtlZU5ybXZhdXJvZnZCOWM1ZU41Ym9maW1CN3dub0JvSlhuM0FiWXFhaWt6MlFUZFZqWDItdnVpd29UQU1fT2doMXI2MTNrRmtrM2xNdnRLY2tLQVVINFVOVjNUa3VtU1FJQXVTazA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 18:27:00 GMT",
+        "source": "wng.org",
+        "fetch_timestamp": "2026-07-05T15:48:20.573042"
+    },
+    {
+        "id": "CBMiqwFBVV95cUxQbjBuMkx1ZmQ5UWNZVVNGT1h2bWRnQlhsYVJIeFdIQ2k5ZEFXbzg1QjRab2VSVTJFSlo2dVByaW1KNlZUTG9oX2V4dGtUWS1UYTEzWkdZVFJYYlNOX3NUYnJ4enRUMXZuN1RhVXRPZ2V3R2Nhb3ozYWVrV0N1RnR5TzItNU5JTDRvVloyUEVlZVVXeDBlQjJsdUhkbUVob2t3QUVfcmVuNGF3WlnSAbABQVVfeXFMTUpFOThxVS00VFI4dklmQm1mWU1lOWw5M3BoZGpVcUxkTGJKUHByNFdwc3otb1BrZjhEVERTTEp5OEpPNWxRQW9NQ3h0VGNxQnNfb1RCLTRXaXh6VnBpTFN6aDNpMDRPNWEyZUVndTBCRFo0OEtRNWhCa2Q5dDlveVFSRlh3aVVrdTVXVjlJd29XX1hudVY1WFVDT2hpbUVFa1dEdlFlMnRENHFwNGlRRXQ",
+        "title": "WHO declares Hantavirus outbreak over, warns of escalating Ebola crisis - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjBuMkx1ZmQ5UWNZVVNGT1h2bWRnQlhsYVJIeFdIQ2k5ZEFXbzg1QjRab2VSVTJFSlo2dVByaW1KNlZUTG9oX2V4dGtUWS1UYTEzWkdZVFJYYlNOX3NUYnJ4enRUMXZuN1RhVXRPZ2V3R2Nhb3ozYWVrV0N1RnR5TzItNU5JTDRvVloyUEVlZVVXeDBlQjJsdUhkbUVob2t3QUVfcmVuNGF3WlnSAbABQVVfeXFMTUpFOThxVS00VFI4dklmQm1mWU1lOWw5M3BoZGpVcUxkTGJKUHByNFdwc3otb1BrZjhEVERTTEp5OEpPNWxRQW9NQ3h0VGNxQnNfb1RCLTRXaXh6VnBpTFN6aDNpMDRPNWEyZUVndTBCRFo0OEtRNWhCa2Q5dDlveVFSRlh3aVVrdTVXVjlJd29XX1hudVY1WFVDT2hpbUVFa1dEdlFlMnRENHFwNGlRRXQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 18:26:48 GMT",
+        "source": "Vanguard News",
+        "fetch_timestamp": "2026-07-05T15:48:20.573623"
+    },
+    {
+        "id": "CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ",
+        "title": "The hantavirus outbreak is over, WHO declares - Live Science",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 18:15:51 GMT",
+        "source": "Live Science",
+        "fetch_timestamp": "2026-07-05T15:48:20.574098"
+    },
+    {
+        "id": "CBMizwFBVV95cUxQV2NsdXBxM3l4ZGc5bmVTMDk0NGdRWGlfTkRSNkdVYkRFd1FvNkhyakVxdnRyWGZIS3JabnNQWk1HUEczbmhmLW5Na2dtUXFkb1A3Y3JfUW1obFBpVXQ0dHVQRmtacElrODNHVWJPSGNVY3Y4eGdIXzlCRU54cUVrQjBvNjdPVndPQmNtU3ZMYmU5U25YeUFOS0ZuZmRJTDljcVJMcmduMWo5Yk5panh6clJsdFZRcUdzcFdCUVZ6QVVIMHFfbVBrLS1HZGdrRlHSAdQBQVVfeXFMUGYtcDdkSjhpVC1PSXc0NHhJdllxQzhScTVVdU5WcmZkWjA1RnlCUnE5NVdYNzlXelBTQ3BKQmMtZ194enI1OGltUnBnWlRUb1pEVVhrWFNVbkRnN2lobXJRSTkwX3FJaC0zZlp0OV85SENoVzhVMTBxNlkwVnN1b1daQTA2d0NLdS1ia2FoN2lPSEJCTURSbTB4ZTJWTnItOFNJbWZJbGM0Uk82ODMtbUxrYkttNi1GRUxnc3BVMFhZWjJIX1hodEJmdmtka0RhUjFxNjI",
+        "title": "WHO declares cruise ship hantavirus outbreak is over after final quarantine ends - India Today",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2NsdXBxM3l4ZGc5bmVTMDk0NGdRWGlfTkRSNkdVYkRFd1FvNkhyakVxdnRyWGZIS3JabnNQWk1HUEczbmhmLW5Na2dtUXFkb1A3Y3JfUW1obFBpVXQ0dHVQRmtacElrODNHVWJPSGNVY3Y4eGdIXzlCRU54cUVrQjBvNjdPVndPQmNtU3ZMYmU5U25YeUFOS0ZuZmRJTDljcVJMcmduMWo5Yk5panh6clJsdFZRcUdzcFdCUVZ6QVVIMHFfbVBrLS1HZGdrRlHSAdQBQVVfeXFMUGYtcDdkSjhpVC1PSXc0NHhJdllxQzhScTVVdU5WcmZkWjA1RnlCUnE5NVdYNzlXelBTQ3BKQmMtZ194enI1OGltUnBnWlRUb1pEVVhrWFNVbkRnN2lobXJRSTkwX3FJaC0zZlp0OV85SENoVzhVMTBxNlkwVnN1b1daQTA2d0NLdS1ia2FoN2lPSEJCTURSbTB4ZTJWTnItOFNJbWZJbGM0Uk82ODMtbUxrYkttNi1GRUxnc3BVMFhZWjJIX1hodEJmdmtka0RhUjFxNjI?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 17:46:40 GMT",
+        "source": "India Today",
+        "fetch_timestamp": "2026-07-05T15:48:20.574681"
+    },
+    {
+        "id": "CBMilAFBVV95cUxPOU52bVlTWDNQTTJmby1tRXpiczBhTWgyNHhGOE5YdVFrT2lLRmg2NG9sTHUwdFFSQnd3OXd0MkwyNUoxa3pmWlBkdE8yWWI4Z19DbU1lTXFUbFpINzFySjZqWWxzTnZIb3dxVlNac1VsVjV6cDN2eldXZV9pSjFSQ0ptSkM4TzNKZURvYnNIZjFBb21T",
+        "title": "WHO declares hantavirus outbreak over as last patient finishes quarantine - Washington Examiner",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU52bVlTWDNQTTJmby1tRXpiczBhTWgyNHhGOE5YdVFrT2lLRmg2NG9sTHUwdFFSQnd3OXd0MkwyNUoxa3pmWlBkdE8yWWI4Z19DbU1lTXFUbFpINzFySjZqWWxzTnZIb3dxVlNac1VsVjV6cDN2eldXZV9pSjFSQ0ptSkM4TzNKZURvYnNIZjFBb21T?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 17:44:00 GMT",
+        "source": "Washington Examiner",
+        "fetch_timestamp": "2026-07-05T15:48:20.575224"
+    },
+    {
+        "id": "CBMiyAFBVV95cUxOX0Z3d1RkZ0FhVGNNVkQzUE4zUlAtTHNpNUNmbzN4VGN4cWNuVGFlWmtkeGM2LUhab0NZMHM2ZnJfY1R4YllzZ3E1RXp6dFJzYXJPaDBXdW5iSlV3QWJHN1lpVTlBVWFUUUJucmtaMEN6aFRuZDJkcDMwZzRROGZ2eHl4T3g4QkJjMU1VLUJpcWxXMl9kWWZZQnJZRVNHdTQ4NGxuNHA2VEdhVndwRHFPcHV2OUt0MW9KYlVDeDFSSDRybVVLMG51Nw",
+        "title": "WHO says cruise ship-linked hantavirus outbreak over The World Health Organization (WHO) declares an end to the deadly hantavirus outbreak on a cruise ship which sparked international alarm, after the last person is confirmed to have tested negative and l - LinkedIn",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0Z3d1RkZ0FhVGNNVkQzUE4zUlAtTHNpNUNmbzN4VGN4cWNuVGFlWmtkeGM2LUhab0NZMHM2ZnJfY1R4YllzZ3E1RXp6dFJzYXJPaDBXdW5iSlV3QWJHN1lpVTlBVWFUUUJucmtaMEN6aFRuZDJkcDMwZzRROGZ2eHl4T3g4QkJjMU1VLUJpcWxXMl9kWWZZQnJZRVNHdTQ4NGxuNHA2VEdhVndwRHFPcHV2OUt0MW9KYlVDeDFSSDRybVVLMG51Nw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 17:39:35 GMT",
+        "source": "LinkedIn",
+        "fetch_timestamp": "2026-07-05T15:48:20.576351"
+    },
+    {
+        "id": "CBMiiAFBVV95cUxQRGxtc3pIRm1MbnJ6cFo3M1J4VHJWcWZRQW4zX2hvSTVhSzFRRXVzVVBlZkh3dnZYYno0MDdsdmxhQl84M3VRMHl5VlNOQ1N4U0Rrb2dnU25ua1hfOFN5dHlRM1Q1YzhLcHBTdkQ1cGhpVzNNV01ieWc3MXpneTRWUjZ5NTEwYXBS",
+        "title": "Hantavirus outbreak linked to cruise ship over, says WHO - CBC",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGxtc3pIRm1MbnJ6cFo3M1J4VHJWcWZRQW4zX2hvSTVhSzFRRXVzVVBlZkh3dnZYYno0MDdsdmxhQl84M3VRMHl5VlNOQ1N4U0Rrb2dnU25ua1hfOFN5dHlRM1Q1YzhLcHBTdkQ1cGhpVzNNV01ieWc3MXpneTRWUjZ5NTEwYXBS?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 17:35:29 GMT",
+        "source": "CBC",
+        "fetch_timestamp": "2026-07-05T15:48:20.577052"
+    },
+    {
+        "id": "CBMiZkFVX3lxTE1sSktjWjdrVDN5UTBXME5EZV9QTTltSlV2TmZ1RXMta2w4VUJRSWRRYi02ZzFoVXhGM1FJNjdRMWVwTWgxRUpuSG9pSENNZGEtUTRWbGZQR2Rsekc5MDFhV2huWms3QQ",
+        "title": "WHO Declares End to Hantavirus Outbreak on Cruise Ship - news.sbs.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sSktjWjdrVDN5UTBXME5EZV9QTTltSlV2TmZ1RXMta2w4VUJRSWRRYi02ZzFoVXhGM1FJNjdRMWVwTWgxRUpuSG9pSENNZGEtUTRWbGZQR2Rsekc5MDFhV2huWms3QQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 17:24:00 GMT",
+        "source": "news.sbs.co.kr",
+        "fetch_timestamp": "2026-07-05T15:48:20.577735"
+    },
+    {
+        "id": "CBMiWEFVX3lxTE9laFZWU01nbjB1a1VnekVveTlfbEJRcmduYlhsVnZVb2R3VUhxT3ZnX0c3ODBMYXhJZnU1bGQzamlUSHcwQjJYWWVBSE9rVnl2RFlUX001Z2M",
+        "title": "WHO declares cruise ship hantavirus outbreak over - TRT World",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9laFZWU01nbjB1a1VnekVveTlfbEJRcmduYlhsVnZVb2R3VUhxT3ZnX0c3ODBMYXhJZnU1bGQzamlUSHcwQjJYWWVBSE9rVnl2RFlUX001Z2M?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:47:45 GMT",
+        "source": "TRT World",
+        "fetch_timestamp": "2026-07-05T15:48:20.578217"
+    },
+    {
+        "id": "CBMikgFBVV95cUxQVk5QRExzeTBRa1lsVmRlRjlvOS1wbEZYYWVuZ2p2dDhtNHAyVEFqY19PRnVkYVVpUWhIbElxbXBEX29OTllnczlQdkxSYlcxdjctZHFnQmhBdGdvYzZMV1BZeEFtY0NrZ2xUdldZT3BLT1Rrc0xBY3ZQTml0SExDV3o2UFVjeWhTNHNlbG1JZTUwQQ",
+        "title": "WHO declares cruise ship-linked hantavirus outbreak over - Citizen Digital",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVk5QRExzeTBRa1lsVmRlRjlvOS1wbEZYYWVuZ2p2dDhtNHAyVEFqY19PRnVkYVVpUWhIbElxbXBEX29OTllnczlQdkxSYlcxdjctZHFnQmhBdGdvYzZMV1BZeEFtY0NrZ2xUdldZT3BLT1Rrc0xBY3ZQTml0SExDV3o2UFVjeWhTNHNlbG1JZTUwQQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:45:44 GMT",
+        "source": "Citizen Digital",
+        "fetch_timestamp": "2026-07-05T15:48:20.578753"
+    },
+    {
+        "id": "CBMigAFBVV95cUxPTDMxNFBBUzY1cXY3M25TOEloMzJzNUw1THM5aU45TUtlSGRFZXp2NnJ5Wi1Ob25zWXpjdlF4UVVzMDBQeU5QTlNudnczUUJibk5BbTBPTmYxVUlvVEVCV2U2NTA3RTNnc3k2ZFVhYkN5UHJOZWN3RFBGWjFycG1RVw",
+        "title": "WHO: Cruise ship hantavirus outbreak is officially over - Latest news from Azerbaijan",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDMxNFBBUzY1cXY3M25TOEloMzJzNUw1THM5aU45TUtlSGRFZXp2NnJ5Wi1Ob25zWXpjdlF4UVVzMDBQeU5QTlNudnczUUJibk5BbTBPTmYxVUlvVEVCV2U2NTA3RTNnc3k2ZFVhYkN5UHJOZWN3RFBGWjFycG1RVw?oc=5",
+        "location_name": "Azerbaijan",
+        "coordinates": [
+            40.3936294,
+            47.7872508
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Azerbaijan",
+                "coordinates": [
+                    40.3936294,
+                    47.7872508
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:39:45 GMT",
+        "source": "Latest news from Azerbaijan",
+        "fetch_timestamp": "2026-07-05T15:48:21.983167"
+    },
+    {
+        "id": "CBMiqgFBVV95cUxPYm00RUtrMGxCMExiYVZwVTRrcnNWNi1ZelJzaG0yckRzdlRaMlI0WTd2bk9WbGZuQzR2SVV4ZDljdjVlcUdZVndOLUhPNGFzNFdQQ0FFVWl4cFZJZ1NNc0ZULVlVX1ptdnY5a0h5ellmSWhhdXdBRTFhckhPUHlLbHBWMnptaHR3WjVnQU1WbTBhMDVqeHhMdE9VbmdTSngycjkwZkFTdkYtUQ",
+        "title": "WHO Declares MV Hondius Hantavirus Outbreak Over After Weeks of Surveillance - Dawan Africa",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm00RUtrMGxCMExiYVZwVTRrcnNWNi1ZelJzaG0yckRzdlRaMlI0WTd2bk9WbGZuQzR2SVV4ZDljdjVlcUdZVndOLUhPNGFzNFdQQ0FFVWl4cFZJZ1NNc0ZULVlVX1ptdnY5a0h5ellmSWhhdXdBRTFhckhPUHlLbHBWMnptaHR3WjVnQU1WbTBhMDVqeHhMdE9VbmdTSngycjkwZkFTdkYtUQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:31:59 GMT",
+        "source": "Dawan Africa",
+        "fetch_timestamp": "2026-07-05T15:48:21.983975"
+    },
+    {
+        "id": "CBMihwFBVV95cUxNTmx4WWpHeDZTODh4VjQzU1Bxd2VKT21lZzNJdmVQZDNtWmNnVm9RUTN0cFRVblhjS2h0R20zNXh3b0pObUFvWTEzRGNfRXVhR0Fkbk80dGx0UnpOdUVTYUozM1hIbVNNR015bG9KcWY3aGROR3RoakQ3aTd0N0c5R3BUbXhXTkU",
+        "title": "WHO says Hantavirus outbreak linked to ship is over - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmx4WWpHeDZTODh4VjQzU1Bxd2VKT21lZzNJdmVQZDNtWmNnVm9RUTN0cFRVblhjS2h0R20zNXh3b0pObUFvWTEzRGNfRXVhR0Fkbk80dGx0UnpOdUVTYUozM1hIbVNNR015bG9KcWY3aGROR3RoakQ3aTd0N0c5R3BUbXhXTkU?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:30:47 GMT",
+        "source": "AOL.com",
+        "fetch_timestamp": "2026-07-05T15:48:21.984634"
+    },
+    {
+        "id": "CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw",
+        "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:30:42 GMT",
+        "source": "BBC",
+        "fetch_timestamp": "2026-07-05T15:48:21.985263"
+    },
+    {
+        "id": "CBMie0FVX3lxTFBQRUMzckRhQ0ZRZGpDcXVxZFM5ZnhLRV9nZGhaVlRQRUFyUU1KWGx0VkhjbHBQd3ZEZVMyVjFhaUpRUXBsTzUzb2tfY3Q4NXlTX241MllZb0JmRmVSVXBzRGRPM3BqTDFYYTM4TGl5YnNOem8zTDFVYVFFOA",
+        "title": "Outbreak of hantavirus on ship in April declared over - RTE.ie",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRUMzckRhQ0ZRZGpDcXVxZFM5ZnhLRV9nZGhaVlRQRUFyUU1KWGx0VkhjbHBQd3ZEZVMyVjFhaUpRUXBsTzUzb2tfY3Q4NXlTX241MllZb0JmRmVSVXBzRGRPM3BqTDFYYTM4TGl5YnNOem8zTDFVYVFFOA?oc=5",
+        "location_name": "April de",
+        "coordinates": [
+            52.4874692,
+            13.3498498
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "April de",
+                "coordinates": [
+                    52.4874692,
+                    13.3498498
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:25:07 GMT",
+        "source": "RTE.ie",
+        "fetch_timestamp": "2026-07-05T15:48:23.325470"
+    },
+    {
+        "id": "CBMiiAFBVV95cUxNQUVlYk9CTWJoWENGaXhYeXJUYVE1SWVCSGdrYjVnb25tY2V0QmtQb2V1THk2LTZBUGNTR1duSC1qX2c5OWdKZXA5Q2c4TVVlbHExb3BJa2RCQ19DTUpPZEJ0ZjJKcXFKNVlfUXZQNzdiaGhkNld0TXlpTW1FaDJUTDg0THhHWnJW0gGOAUFVX3lxTFBHYnU0NXlfcVROMEpNcDQ4djRiNG9FUVMzQzJXUGVNbDFicEQ4VlE5UzZhVHRpUW03eXlHMmRHYW9OVk9KbHFDd05UR0ZyQ2c3X3lpekc1dlZBRVBWempjOWR4blVKQkdsSDUwZXZrT2d5TmlPMHV5QkloeTVoNFZ4S0FMVTRNQy05cEszVnc",
+        "title": "WHO announces hantavirus outbreak over - A News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUVlYk9CTWJoWENGaXhYeXJUYVE1SWVCSGdrYjVnb25tY2V0QmtQb2V1THk2LTZBUGNTR1duSC1qX2c5OWdKZXA5Q2c4TVVlbHExb3BJa2RCQ19DTUpPZEJ0ZjJKcXFKNVlfUXZQNzdiaGhkNld0TXlpTW1FaDJUTDg0THhHWnJW0gGOAUFVX3lxTFBHYnU0NXlfcVROMEpNcDQ4djRiNG9FUVMzQzJXUGVNbDFicEQ4VlE5UzZhVHRpUW03eXlHMmRHYW9OVk9KbHFDd05UR0ZyQ2c3X3lpekc1dlZBRVBWempjOWR4blVKQkdsSDUwZXZrT2d5TmlPMHV5QkloeTVoNFZ4S0FMVTRNQy05cEszVnc?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 16:08:00 GMT",
+        "source": "A News",
+        "fetch_timestamp": "2026-07-05T15:48:23.326109"
+    },
+    {
+        "id": "CBMiiAFBVV95cUxNNHBlc0x3MWxkX3lWazdVa3V6X0YzeFNDS3hlY1hPZ2dWQUJvSkVJeE1JWF8yckdSNnE0MGJMbTg1UmZsNS04SmM3bmhTMkRfcXhkVGxvUXFUSUpBZy1WWUhyelpYOThQYjBleTktRWVTb2p0TkZHemxuUFhLVVNLbFBYZG9BZnZh",
+        "title": "WHO declares cruise ship-linked hantavirus outbreak over - CNA",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHBlc0x3MWxkX3lWazdVa3V6X0YzeFNDS3hlY1hPZ2dWQUJvSkVJeE1JWF8yckdSNnE0MGJMbTg1UmZsNS04SmM3bmhTMkRfcXhkVGxvUXFUSUpBZy1WWUhyelpYOThQYjBleTktRWVTb2p0TkZHemxuUFhLVVNLbFBYZG9BZnZh?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 15:59:00 GMT",
+        "source": "CNA",
+        "fetch_timestamp": "2026-07-05T15:48:23.326645"
+    },
+    {
+        "id": "CBMilgFBVV95cUxQVC1vbTNybU1kQWhWNmp3bkFLRnZ1R2tQaUVESnZ6SlBwX01kOHoxYXhwSWFvMmdyNjRGckhyTGViOVczOWFlRDdoelA1NzVham5RM3BIelVWQkNtZ2NZVDhUbVNqOFY0eklwNWlxd0dzakotTDI4QURYSl9nQlA4VFBLOFNnVWxDZWs3LUxmVzZicW5yZFE",
+        "title": "WHO declares cruise ship-linked hantavirus outbreak over - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVC1vbTNybU1kQWhWNmp3bkFLRnZ1R2tQaUVESnZ6SlBwX01kOHoxYXhwSWFvMmdyNjRGckhyTGViOVczOWFlRDdoelA1NzVham5RM3BIelVWQkNtZ2NZVDhUbVNqOFY0eklwNWlxd0dzakotTDI4QURYSl9nQlA4VFBLOFNnVWxDZWs3LUxmVzZicW5yZFE?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 15:59:00 GMT",
+        "source": "The Straits Times",
+        "fetch_timestamp": "2026-07-05T15:48:23.327167"
+    },
+    {
+        "id": "CBMixwFBVV95cUxOUTVNVkRpbV96d1N4Rldyd1pEU2x2OFFsczhTLUg2VjZVRkx5ZVpWRGJJLUt1SXRNN0xaWUZiODZLcU1sWWZBdUlhUFYtMlhDVkh0NEM5Mm11MG16ZzdMX3lqeW9xVDBoMVVHM2lZNEMxY01xRDZES2JuNXNOcVNMQ1FxVXN0SkV0VXJLYlNqMktQSGdTVE9wVXhzdDIxRG9USDA4R28wdlEtc2tPR2hnNjROLVY3cWZHbWRkeGVyZTVKS3l4YkZ3",
+        "title": "RAW: FILE: WHO SAYS HANTAVIRUS OUTBREAK IS OVER - KTBS 3",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTVNVkRpbV96d1N4Rldyd1pEU2x2OFFsczhTLUg2VjZVRkx5ZVpWRGJJLUt1SXRNN0xaWUZiODZLcU1sWWZBdUlhUFYtMlhDVkh0NEM5Mm11MG16ZzdMX3lqeW9xVDBoMVVHM2lZNEMxY01xRDZES2JuNXNOcVNMQ1FxVXN0SkV0VXJLYlNqMktQSGdTVE9wVXhzdDIxRG9USDA4R28wdlEtc2tPR2hnNjROLVY3cWZHbWRkeGVyZTVKS3l4YkZ3?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 15:47:03 GMT",
+        "source": "KTBS 3",
+        "fetch_timestamp": "2026-07-05T15:48:23.327712"
+    },
+    {
+        "id": "CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc",
+        "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 15:44:36 GMT",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "fetch_timestamp": "2026-07-05T15:48:23.328525"
+    },
+    {
+        "id": "CBMilAFBVV95cUxOVHhBaGNjOHhnTV9zLWM4blphOVBOSHZ3WjVzMExObEF3MldZZ0RMTnh6YWJUN3ZSaHVocGJQbVUwZmZVVnIxNFFmMFg5MHl4WHEydFE1ZVQ5WElsMmdyV1VHUTJYWUpGTFB2M2xqNTdrX1VFWnlfZ2RmNFFpX3A1SnNPQk5lWjJtLUlPN1JlVjhYSjN6",
+        "title": "WHO declares end of Hantavirus outbreak after containment - People Daily",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHhBaGNjOHhnTV9zLWM4blphOVBOSHZ3WjVzMExObEF3MldZZ0RMTnh6YWJUN3ZSaHVocGJQbVUwZmZVVnIxNFFmMFg5MHl4WHEydFE1ZVQ5WElsMmdyV1VHUTJYWUpGTFB2M2xqNTdrX1VFWnlfZ2RmNFFpX3A1SnNPQk5lWjJtLUlPN1JlVjhYSjN6?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 15:17:05 GMT",
+        "source": "People Daily",
+        "fetch_timestamp": "2026-07-05T15:48:23.329063"
+    },
+    {
+        "id": "CBMikgFBVV95cUxQc1gxdTRRRTVIMGwweFd6Nm5pdk1wQW1UaXlCTEpENV9abVZUeGJxRVVpS204aGpMWDBTRkdfbmJvOUY1dzRjcWhyZk1Lc0VfcW9TU3loR3FOLXZ4QjgwS29GdnB0WlQtaXY0X2xpX0ZfeXA0WTh1alhFT29FOGZLdEgzUXQtOEgxVHMxaUVoUGUwQQ",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - Classic Rock 103.5 WIMZ",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc1gxdTRRRTVIMGwweFd6Nm5pdk1wQW1UaXlCTEpENV9abVZUeGJxRVVpS204aGpMWDBTRkdfbmJvOUY1dzRjcWhyZk1Lc0VfcW9TU3loR3FOLXZ4QjgwS29GdnB0WlQtaXY0X2xpX0ZfeXA0WTh1alhFT29FOGZLdEgzUXQtOEgxVHMxaUVoUGUwQQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 15:12:12 GMT",
+        "source": "Classic Rock 103.5 WIMZ",
+        "fetch_timestamp": "2026-07-05T15:48:23.329763"
+    },
+    {
+        "id": "CBMiYkFVX3lxTE1rVmpZemFfUDlCZkVnWHhlWFB6YXFLSnJfaDV4THgwbzZhemM5UHJoYkZacHdPUHNvY1N3cV9seER0MTFDbmJ6MVF5RW1UUmZVOVkza2pkb2dzWGJobzBjX1N3",
+        "title": "WHO chief says cruise ship-linked hantavirus outbreak \"over\" - Global Times",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rVmpZemFfUDlCZkVnWHhlWFB6YXFLSnJfaDV4THgwbzZhemM5UHJoYkZacHdPUHNvY1N3cV9seER0MTFDbmJ6MVF5RW1UUmZVOVkza2pkb2dzWGJobzBjX1N3?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 14:39:00 GMT",
+        "source": "Global Times",
+        "fetch_timestamp": "2026-07-05T15:48:23.330285"
+    },
+    {
+        "id": "CBMimwFBVV95cUxOMkhCR3BndlFBT1NNNmxoQjdWRC1oOHRIb0JQTjZ1SjRJd2JKaFNsbnFWR0ZKRnpDVW5ZbnZLdkZwMzB3Sl8xY2xBYUU5bGlmRW40emIzemQ4QnVsVlBwbXlGbEhySjJqN2MwZkJldGVYaGtabXQ3UjlFaHNjVGVMZzBYVkNWMjFPeGhrU2pHZ0xlODV6MkVoTDBVQdIBmgFBVV95cUxQeE5iOEJXNmtObzJWbTJuUXJ5am5pampqd0t0cXFBQmpVSXVJdlVBNHNNcW5tNzV4S0RIYTVBb1NFZ0J1MzNLWE9wcnVkVVFRUW1OYWpETy12ZDVJTG9QSjRUZjhxaWEzcUNLcjV6Y3Vzd0N1eERKdUc3b1JNVW1Iank1eWI4UDJaYko0UWtNUUl6VUtlazByZFN3",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - Modern Ghana",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMkhCR3BndlFBT1NNNmxoQjdWRC1oOHRIb0JQTjZ1SjRJd2JKaFNsbnFWR0ZKRnpDVW5ZbnZLdkZwMzB3Sl8xY2xBYUU5bGlmRW40emIzemQ4QnVsVlBwbXlGbEhySjJqN2MwZkJldGVYaGtabXQ3UjlFaHNjVGVMZzBYVkNWMjFPeGhrU2pHZ0xlODV6MkVoTDBVQdIBmgFBVV95cUxQeE5iOEJXNmtObzJWbTJuUXJ5am5pampqd0t0cXFBQmpVSXVJdlVBNHNNcW5tNzV4S0RIYTVBb1NFZ0J1MzNLWE9wcnVkVVFRUW1OYWpETy12ZDVJTG9QSjRUZjhxaWEzcUNLcjV6Y3Vzd0N1eERKdUc3b1JNVW1Iank1eWI4UDJaYko0UWtNUUl6VUtlazByZFN3?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 14:35:54 GMT",
+        "source": "Modern Ghana",
+        "fetch_timestamp": "2026-07-05T15:48:23.330946"
+    },
+    {
+        "id": "CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt",
+        "title": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 14:26:00 GMT",
+        "source": "Forbes",
+        "fetch_timestamp": "2026-07-05T15:48:23.331550"
+    },
+    {
+        "id": "CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 13:43:00 GMT",
+        "source": "The Guardian",
+        "fetch_timestamp": "2026-07-05T15:48:23.332174"
+    },
+    {
+        "id": "CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw",
+        "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 13:27:44 GMT",
+        "source": "Reuters",
+        "fetch_timestamp": "2026-07-05T15:48:23.332807"
+    },
+    {
+        "id": "CBMiW0FVX3lxTE1NOGJEZGFFa2Y5OHVOaE5fNUNaODBXbGpmSl9PQzljQmFBMjZfSTQtV3ZVQXJhWEZDZktQVGhIN0JraU1vZ3FCdU9URzFpY2c1MWZlejV2cjdXRFk",
+        "title": "Pelosi Reflects On 15 Years Of The Affordable Care Act Virus Hantavirus Contagio (R6TAnAeUhR) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NOGJEZGFFa2Y5OHVOaE5fNUNaODBXbGpmSl9PQzljQmFBMjZfSTQtV3ZVQXJhWEZDZktQVGhIN0JraU1vZ3FCdU9URzFpY2c1MWZlejV2cjdXRFk?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 09:49:13 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-07-05T15:48:23.333466"
+    },
+    {
+        "id": "CBMiYEFVX3lxTFBaUkQ5cTJDcVlabnZkMXYxengySjNvVE53Y3AxV2N6MDBOWTRHTHhHTjFwdGloWnMxQi1od3BQSnRKU2VXUWNPck5VUTJoeEIwdHlkdzVUaVV6dXVDOXFXWg",
+        "title": "Just Eva Lys Practicing… Can’t Stop Watching Hantavirus Pandemia (C9EOpQnsMj) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUkQ5cTJDcVlabnZkMXYxengySjNvVE53Y3AxV2N6MDBOWTRHTHhHTjFwdGloWnMxQi1od3BQSnRKU2VXUWNPck5VUTJoeEIwdHlkdzVUaVV6dXVDOXFXWg?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 08:43:26 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-07-05T15:48:23.334134"
+    },
+    {
+        "id": "CBMiW0FVX3lxTE5kWksxWWVXVlN5UnlwWnRQZGk4YmpWaWhXekg2MWxnWXVKR0ZTN1hqTE42bXBrMlc3dmZKUGJjS2EzZk9fcWg5cjU3dEMwblVUWkREXzRMTW56UjA",
+        "title": "Dianne Wiest Winning Best Supporting Actress For \"Hannah And Her Sisters\" Hantavirus Map (cx1lsPVL3R) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kWksxWWVXVlN5UnlwWnRQZGk4YmpWaWhXekg2MWxnWXVKR0ZTN1hqTE42bXBrMlc3dmZKUGJjS2EzZk9fcWg5cjU3dEMwblVUWkREXzRMTW56UjA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 05:52:49 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-07-05T15:48:23.334821"
+    },
+    {
+        "id": "CBMiXEFVX3lxTE1LQmlVLTRETkk2aGhmUDVXZVRjTkhxUDNVcmZmd2g5cTNWeG5tVk1lTENFajdSb29iQWItNVA2SlR3VVdpZnlKU0ducXNvOTNpY3ZfVXVzcU45TDlY",
+        "title": "WHO declares hantavirus outbreak over as last patient finishes quarantine - Washington Examiner",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LQmlVLTRETkk2aGhmUDVXZVRjTkhxUDNVcmZmd2g5cTNWeG5tVk1lTENFajdSb29iQWItNVA2SlR3VVdpZnlKU0ducXNvOTNpY3ZfVXVzcU45TDlY?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 05:07:00 GMT",
+        "source": "Washington Examiner",
+        "fetch_timestamp": "2026-07-05T15:48:23.335397"
+    },
+    {
+        "id": "CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ",
+        "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
+        "location_name": "Europe",
+        "coordinates": [
+            51.0,
+            10.0
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Europe",
+                "coordinates": [
+                    51.0,
+                    10.0
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 05:04:00 GMT",
+        "source": "News-Medical",
+        "fetch_timestamp": "2026-07-05T15:48:23.335959"
+    },
+    {
+        "id": "CBMivwFBVV95cUxPWDJMOUFRYk9MaFg1T0VrbWJyS2dPRkV1NFZmSl9UWFRjak5QcmtPX2NNVzltMGJNaTVlTV80NE9EVmZxOWFOd1RPQkR2aWNpT0t1V2pnZ1V3SWpqMVplaXY2Q3k3REUyaEszVXl4QndPSlB2MlJQOEtETEJqVy1vVkFUMVVpRjJEeGEzaHdKVldST1pGazVDbG0xVHFkSzFqa0dLM25KUU9VaVFSaWVEdy1IbUgxS1dyMXpRYTUtbw",
+        "title": "Virginia monitoring traveler linked to Hantavirus-hit cruise ship, says resident is low-risk - 95.7 KELO-FM",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDJMOUFRYk9MaFg1T0VrbWJyS2dPRkV1NFZmSl9UWFRjak5QcmtPX2NNVzltMGJNaTVlTV80NE9EVmZxOWFOd1RPQkR2aWNpT0t1V2pnZ1V3SWpqMVplaXY2Q3k3REUyaEszVXl4QndPSlB2MlJQOEtETEJqVy1vVkFUMVVpRjJEeGEzaHdKVldST1pGazVDbG0xVHFkSzFqa0dLM25KUU9VaVFSaWVEdy1IbUgxS1dyMXpRYTUtbw?oc=5",
+        "location_name": "Virginia",
+        "coordinates": [
+            37.1232245,
+            -78.4927721
+        ],
+        "location_method": "inferred",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Virginia",
+                "coordinates": [
+                    37.1232245,
+                    -78.4927721
+                ],
+                "method": "inferred",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 02 Jul 2026 04:25:02 GMT",
+        "source": "95.7 KELO-FM",
+        "fetch_timestamp": "2026-07-05T15:48:23.336841"
+    },
+    {
+        "id": "CBMiugJBVV95cUxNN0hzOEUwdVladmNBbkl4QVBqMVBZMzk5SUpMcUVTc2d6ODRFbFBLMDNnMUt1aVV5V2wxR081c3B2SzhZWlZiTWM0aWMwa1NPQm9vVjhCcTY4RmQyVEFXZmZYRkcydHBmVkdYWlM0bUVSa2x2cXlkbkUtemNFVEpDNUhMRnozTVM5T3Z0Ync4Tk9oZlpRdjFpRlBmVmw4cXMwbGFvU21yX2hZWjJSM05sdE0tNXp4VFlySVJialJWSjF5aHNnN29zYXVBSmdrYXhjT3JockE2QWtLWTgwWTBmdjZjaDdTTUEybUxXMF8xSloxY0dtNVZUNWJ2NW5TZnpvOEJzS3IzcUcyVmdrX0FFMkpXWE1samJpSVV5UmthRzFQWWR5Yk9tRHRMMjI2M0d1bnBTcG82NmpDQQ",
+        "title": "Fact Check Team: Hantavirus differs from Covid, still sparks renewed anxiety of pandemic - KTUL",
+        "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNN0hzOEUwdVladmNBbkl4QVBqMVBZMzk5SUpMcUVTc2d6ODRFbFBLMDNnMUt1aVV5V2wxR081c3B2SzhZWlZiTWM0aWMwa1NPQm9vVjhCcTY4RmQyVEFXZmZYRkcydHBmVkdYWlM0bUVSa2x2cXlkbkUtemNFVEpDNUhMRnozTVM5T3Z0Ync4Tk9oZlpRdjFpRlBmVmw4cXMwbGFvU21yX2hZWjJSM05sdE0tNXp4VFlySVJialJWSjF5aHNnN29zYXVBSmdrYXhjT3JockE2QWtLWTgwWTBmdjZjaDdTTUEybUxXMF8xSloxY0dtNVZUNWJ2NW5TZnpvOEJzS3IzcUcyVmdrX0FFMkpXWE1samJpSVV5UmthRzFQWWR5Yk9tRHRMMjI2M0d1bnBTcG82NmpDQQ?oc=5",
+        "location_name": "Covid",
+        "coordinates": [
+            -37.7437084,
+            176.2619904
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Covid",
+                "coordinates": [
+                    -37.7437084,
+                    176.2619904
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Wed, 01 Jul 2026 20:17:02 GMT",
+        "source": "KTUL",
+        "fetch_timestamp": "2026-07-05T15:48:24.791006"
+    },
+    {
+        "id": "CBMixgFBVV95cUxNekk1Sk1ZVU9kTDZCdUZfZzB3ckI1Ul91cWFESldpa1V4UDctZnJVZXZkcTVUcUZ5X0lQZl92UnhmWDVNeDJpeEpxZ2htZURiTnkycExZVzdxYjRWaVNYQmhPcTdoVzlVWUtudVJsOUFjTjBFUGJ4d1doUlRkZ0NYcEpaellWaEJndzkzRmlXWXRkRVNiNVluY0N1c2ttRnpMSXktY19BVmlScmJTTGdYUmJtM2tFQVd0UHVzdW00aXhyOW1DU0E",
+        "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - Times Colonist",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekk1Sk1ZVU9kTDZCdUZfZzB3ckI1Ul91cWFESldpa1V4UDctZnJVZXZkcTVUcUZ5X0lQZl92UnhmWDVNeDJpeEpxZ2htZURiTnkycExZVzdxYjRWaVNYQmhPcTdoVzlVWUtudVJsOUFjTjBFUGJ4d1doUlRkZ0NYcEpaellWaEJndzkzRmlXWXRkRVNiNVluY0N1c2ttRnpMSXktY19BVmlScmJTTGdYUmJtM2tFQVd0UHVzdW00aXhyOW1DU0E?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Tue, 30 Jun 2026 23:35:49 GMT",
+        "source": "Times Colonist",
+        "fetch_timestamp": "2026-07-05T15:48:24.791823"
+    },
+    {
+        "id": "CBMitwFBVV95cUxQQnNLLUhaTUtHOXl6OW15eUxXcmttNHNUYTZQNEIxYU1PM3lPaVV2bTNJZWZzUDVjR0Z0SzRWU0k1bURDdlVtODROcERIYllyb1dxdlBFNmxncU5VUWlUQ2plQm8yYWtoOEZ0eEl1aExjWnpmYmJJVGctQldMaE12cW85SlZVQkZpV1dWUERSUHpwVFY0SHVic2N5V1Z2MWo3dlRXc0ZvVXdYcUZnQjVoRV9sXzVDZjA",
+        "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - CTV News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnNLLUhaTUtHOXl6OW15eUxXcmttNHNUYTZQNEIxYU1PM3lPaVV2bTNJZWZzUDVjR0Z0SzRWU0k1bURDdlVtODROcERIYllyb1dxdlBFNmxncU5VUWlUQ2plQm8yYWtoOEZ0eEl1aExjWnpmYmJJVGctQldMaE12cW85SlZVQkZpV1dWUERSUHpwVFY0SHVic2N5V1Z2MWo3dlRXc0ZvVXdYcUZnQjVoRV9sXzVDZjA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Tue, 30 Jun 2026 19:07:55 GMT",
+        "source": "CTV News",
+        "fetch_timestamp": "2026-07-05T15:48:24.792486"
+    },
+    {
+        "id": "CBMisgFBVV95cUxNcDBpVlF5T2h5cHR1SzJWN2ZXaUxwOTgzOGFPdW9BVXRuZzJCNDBTUEFCWGdPZUtaYXBnWE90OUtMWE5JbXFjdkRGbDl5TU9GenRCYm5EUjFVcExUMDliTGcySWpNYUFwajdsZXhrUEtnLWdwdUtQbmE4RXFvVmhEUFlzSHQ0UmdfMzNGX1hjMVNITjVaWGFmRWdIUDh2dFF0OGM0WU5xWng4ZEZGcGxBQ19R",
+        "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - larongeNOW",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDBpVlF5T2h5cHR1SzJWN2ZXaUxwOTgzOGFPdW9BVXRuZzJCNDBTUEFCWGdPZUtaYXBnWE90OUtMWE5JbXFjdkRGbDl5TU9GenRCYm5EUjFVcExUMDliTGcySWpNYUFwajdsZXhrUEtnLWdwdUtQbmE4RXFvVmhEUFlzSHQ0UmdfMzNGX1hjMVNITjVaWGFmRWdIUDh2dFF0OGM0WU5xWng4ZEZGcGxBQ19R?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Tue, 30 Jun 2026 16:55:17 GMT",
+        "source": "larongeNOW",
+        "fetch_timestamp": "2026-07-05T15:48:24.793110"
+    },
+    {
+        "id": "CBMi9wFBVV95cUxNQjNiMDllRGthVUJ2TFAtN1dnSzQ3aTc1VnlrZ1Izb2pvS1RiNFlsemFrTjFOZFhyeUpSVkFYcmthZXNQZkliOXQwS0NzczEzR2RYSmEzYjRyV1BiT2FpOFpqd1FPLXBZY2UzN1Q2NTZrdVp2REhMTjNINWROMEFHVHVtSUJEbXhjeU9PcVR1aUVlZ2V4WTR4Ym5JZ2VoN0tlRXM4aGhhRVlGX01YY0toODZvU0V1bFphdEl5QXBYUkNuTmQ5ZERvaHhwQWlJcTJ3V1FXaHVIMTEzM1pFdU1jcmx4RDFVRFVjcGt6THRpQmtEYlJnLUlV",
+        "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjNiMDllRGthVUJ2TFAtN1dnSzQ3aTc1VnlrZ1Izb2pvS1RiNFlsemFrTjFOZFhyeUpSVkFYcmthZXNQZkliOXQwS0NzczEzR2RYSmEzYjRyV1BiT2FpOFpqd1FPLXBZY2UzN1Q2NTZrdVp2REhMTjNINWROMEFHVHVtSUJEbXhjeU9PcVR1aUVlZ2V4WTR4Ym5JZ2VoN0tlRXM4aGhhRVlGX01YY0toODZvU0V1bFphdEl5QXBYUkNuTmQ5ZERvaHhwQWlJcTJ3V1FXaHVIMTEzM1pFdU1jcmx4RDFVRFVjcGt6THRpQmtEYlJnLUlV?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Tue, 30 Jun 2026 16:39:00 GMT",
+        "source": "Toronto Star",
+        "fetch_timestamp": "2026-07-05T15:48:24.793772"
+    },
+    {
+        "id": "CBMipgFBVV95cUxQZFVoVTlmZXFmek9nQ1RBTk81T1UyaHpEQUVHd0J2cU1YY0l2RUJTVkFsbExXbHlWaGs5dUFWeTllYWp2ZVJtSlJIQXhtekZrUm5ELVN4RHRGTmhvYXVFX25Gd0RVZ21fRjlaOVVDcGVJczFiWGl1RXU3ZUZmWV9uWmx4OExGaWZDU1RUNmhVWXdoRTF0SlY1UmxtVWpfMFQwczB4M193",
+        "title": "Zero Americans Became Ill in a Cruise Ship Hantavirus Outbreak: Here's the Monitoring Process Behind It - Medical Daily",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFVoVTlmZXFmek9nQ1RBTk81T1UyaHpEQUVHd0J2cU1YY0l2RUJTVkFsbExXbHlWaGs5dUFWeTllYWp2ZVJtSlJIQXhtekZrUm5ELVN4RHRGTmhvYXVFX25Gd0RVZ21fRjlaOVVDcGVJczFiWGl1RXU3ZUZmWV9uWmx4OExGaWZDU1RUNmhVWXdoRTF0SlY1UmxtVWpfMFQwczB4M193?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Tue, 30 Jun 2026 15:30:23 GMT",
+        "source": "Medical Daily",
+        "fetch_timestamp": "2026-07-05T15:48:24.794524"
+    },
+    {
+        "id": "CBMihwFBVV95cUxPQVhvU0xvbUVHS1NWSkQzX2pvbW9kYmhpTUU1OHRlZUk3bFdPYzQ1YnU3S3l4NEF5bm9KXy02WVJiUERDeTJqZUdEYkJoemR6cE9WcEU1NDdpdFVPR1lWXzAwSDZYRGpvU01RZnlCRHE3bVdLVVhmNkpSemtPV0UwNWpFSmZIbmM",
+        "title": "Canadians exposed to hantavirus on cruise ship complete isolation period - CBC",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVhvU0xvbUVHS1NWSkQzX2pvbW9kYmhpTUU1OHRlZUk3bFdPYzQ1YnU3S3l4NEF5bm9KXy02WVJiUERDeTJqZUdEYkJoemR6cE9WcEU1NDdpdFVPR1lWXzAwSDZYRGpvU01RZnlCRHE3bVdLVVhmNkpSemtPV0UwNWpFSmZIbmM?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Mon, 29 Jun 2026 23:33:25 GMT",
+        "source": "CBC",
+        "fetch_timestamp": "2026-07-05T15:48:24.795140"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-6-12-june-2026-week-24",
@@ -205,7 +2493,7 @@
         ],
         "published": "Fri, 12 Jun 2026 15:19:02 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-05T14:28:51.696216"
+        "fetch_timestamp": "2026-07-05T15:48:28.519659"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-23-29-may-2026-week-22",
@@ -231,7 +2519,7 @@
         ],
         "published": "Fri, 29 May 2026 16:06:52 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-05T14:28:52.232288"
+        "fetch_timestamp": "2026-07-05T15:48:29.002163"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-14-22-may-2026-week-21",
@@ -257,7 +2545,7 @@
         ],
         "published": "Fri, 22 May 2026 17:24:45 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-05T14:28:52.752887"
+        "fetch_timestamp": "2026-07-05T15:48:29.478888"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-9-13-may-2026-week-20",
@@ -283,7 +2571,7 @@
         ],
         "published": "Wed, 13 May 2026 15:46:07 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-05T14:28:53.221595"
+        "fetch_timestamp": "2026-07-05T15:48:30.116943"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
@@ -309,6 +2597,6 @@
         ],
         "published": "Fri, 08 May 2026 17:33:41 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-05T14:28:53.676702"
+        "fetch_timestamp": "2026-07-05T15:48:30.391167"
     }
 ]
