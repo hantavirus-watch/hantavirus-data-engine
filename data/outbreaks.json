@@ -23,7 +23,7 @@
         ],
         "published": "Sat, 11 Jul 2026 17:38:11 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-07-11T19:41:40.470618"
+        "fetch_timestamp": "2026-07-11T20:41:59.869327"
     },
     {
         "id": "CBMiW0FVX3lxTFB3QXVidXNWMEhRVGwtVmRkUkFlMzJ6TnBlVDJfVm5fMm9yN2tXcnVPU0VjM0Nab0o5bHBFYkpkM3QxMnFxSGNsOWlpdEtZMXkycnZNYmZTYnhleFU",
@@ -49,7 +49,33 @@
         ],
         "published": "Sat, 11 Jul 2026 15:41:21 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:40.471472"
+        "fetch_timestamp": "2026-07-11T20:41:59.870154"
+    },
+    {
+        "id": "CBMipAFBVV95cUxOendfZzR6NERHVDFFUnl5UEhDUW9vamdLNFl0S3ZsVlRTb21UR1dDM29pN3hGc3I5LVZvSFlBcTlpemVzbkd6amNidnJzeW1yQV9mNDdsQlZrYy1BZDRzWFZIWGdSRnhNMTB2RGhyakt6VmRFUnpqbEdVM0lJdXdJVkxRczNGQWFpa1dydDVvSHNjUmZGM3l4TDVIeE9QT2R6clRNaw",
+        "title": "Three New Yorkers were passengers on Hantavirus-infected cruise ship - PIX11",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOendfZzR6NERHVDFFUnl5UEhDUW9vamdLNFl0S3ZsVlRTb21UR1dDM29pN3hGc3I5LVZvSFlBcTlpemVzbkd6amNidnJzeW1yQV9mNDdsQlZrYy1BZDRzWFZIWGdSRnhNMTB2RGhyakt6VmRFUnpqbEdVM0lJdXdJVkxRczNGQWFpa1dydDVvSHNjUmZGM3l4TDVIeE9QT2R6clRNaw?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Sat, 11 Jul 2026 12:53:56 GMT",
+        "source": "PIX11",
+        "fetch_timestamp": "2026-07-11T20:41:59.870724"
     },
     {
         "id": "CBMijAFBVV95cUxOYXV2blhlckZpaHFTc19JTk1hZ0puNEpmU0s1dzJydUh3ZnJPQkhPUjh3eDdYUXpCRllMOU9ieWcwUEptN24xWElIT2dxWVBQS0ExVzZyVHJlZzNSS1dVRzU2cTZGQnFsVmlrcWFLUmJzbHQ4aU1zRURwUnFKU3RheVlxR1NJQjJTMXBRTA",
@@ -75,7 +101,7 @@
         ],
         "published": "Sat, 11 Jul 2026 12:00:03 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.472095"
+        "fetch_timestamp": "2026-07-11T20:41:59.871365"
     },
     {
         "id": "CBMiYEFVX3lxTE9WSXZncW5peEc0ZVlFY0t1NXk0TmpiaTdSaFBfcmh1QmZ1Z3oxTWtWSkwtM2NERGpqbjhQT0NrNjVMYXp0VWZoaE9tTl80VG1IejFEUjVfWDFpQjRUcEtiQQ",
@@ -101,7 +127,7 @@
         ],
         "published": "Sat, 11 Jul 2026 10:30:18 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:40.472740"
+        "fetch_timestamp": "2026-07-11T20:41:59.872028"
     },
     {
         "id": "CBMi3wFBVV95cUxOSUpyQU9Xbjdpa3J4dEdxcXlRZjQxdU9jQlV3WU5vcEpCeGJyeVRjWldkS3Vxa3V6akJ3M1ZieTlaZG1rSkh6U0ptaVBIbElEREtHNTZ1OEdxYXNDQzkxUkZwTXlNNHZ3LVkySzJ2V2ZaaEFfQXo2UDhnNVJsdHhhcERpQjZUTnVBc0N0ZGxlWjctbTlPdVQyTWpYWkt3ZGcwV3BYbWdmdmMtSWIxZUVmTkJ1OFNNVGdDWXgtZzlPYmliX0c3NHJnZnhvZVBBajR0TkJmTW1penhhZXpEalJj",
@@ -127,7 +153,7 @@
         ],
         "published": "Sat, 11 Jul 2026 09:47:23 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-07-11T19:41:40.473400"
+        "fetch_timestamp": "2026-07-11T20:41:59.872701"
     },
     {
         "id": "CBMihwFBVV95cUxPb00wcGdjdTBWMmdiWE1TeUh2R0lPYldtZmptV20wb09RcWFJY29paXotMHk1djZTWmM4SkM5Y25lMFozTTNveEdpQmplR05iZnRaanJNVE9PVlFuTzFtbTdhY2F4NENCbUNxX2hLZmZkdWZxT1Bld3JpdXp2bTdEM3dVNjJDYlk",
@@ -153,7 +179,7 @@
         ],
         "published": "Sat, 11 Jul 2026 07:22:24 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.474049"
+        "fetch_timestamp": "2026-07-11T20:41:59.873443"
     },
     {
         "id": "CBMigAJBVV95cUxNbnZ1U1BRNVNhOEdXQzRlWHdnMDRHT0lPU1lGTWczeXY4cWlrYllCcVRqV0oydmVfM0RRNU9sZEZybHpMWGdrcEdqUnN1YW5vMmtpMEV5LS1PLWQzR2lCSURSbUEzb3EyTG01ZVpZSldnUGpNSUQ1V1dzUS1sU21wTEt3QkcyNUdPeUVCS0JXRndER2J4OTZKbl91U2V3Rng1VU1HVWhNZDhFZzZob20tVmc3cUdibFBCR2paS3J1Ny1SUG9Kd0tlVERITG42OTRtUnVaUHAwVVVlWk9mUy1PcmhmOXlTSnNEQ0RVZHdOZEFDUHlDNW5WaHpEcVRrQjdR",
@@ -179,7 +205,7 @@
         ],
         "published": "Sat, 11 Jul 2026 06:45:40 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.474707"
+        "fetch_timestamp": "2026-07-11T20:41:59.874179"
     },
     {
         "id": "CBMiiwFBVV95cUxPWTYzRnNuQWxxQmFDMVgwbXJwTWIyalZ0SndIOVN3cVN0VXZrc0VnX0c1cHFvUDdmNWw1TlVEcWVLZ0dyVDlHUnFsNXRNaVVnTm9xdDNjb1hHVjNRSTJEeG53VnJPWGU1S3FfVkx1UENSYkdYeUYyVE1lem54Y3NoMm1sM1J1cURHU1Jr",
@@ -205,7 +231,7 @@
         ],
         "published": "Sat, 11 Jul 2026 05:07:00 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.475215"
+        "fetch_timestamp": "2026-07-11T20:41:59.874720"
     },
     {
         "id": "CBMihgFBVV95cUxPQnFoaEtsX0ZuZGo0WENmcjhmeUxiUmZaUjFrR01pVTJ0TlA2ME1kXzY2Mi1ya2VGTV9oRDN1Zk5qOGNvUTFFRmNZcllDU3lrT0lzSktzYWwyTW1pcTR2SENaMmVRZlVsWVFweFRJdHlNN0VPOU9VREM5SExUeWs5STVLUmNsUQ",
@@ -231,7 +257,7 @@
         ],
         "published": "Sat, 11 Jul 2026 03:19:29 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.475952"
+        "fetch_timestamp": "2026-07-11T20:41:59.875469"
     },
     {
         "id": "CBMiYEFVX3lxTE1TN2l3WVNFX3NXam5oNnNtdklDRXhoTzVfSE1BUVRTYnlZNVFKVkNBWVhOWTRpamhKWWh6Q1dCbzJiZTMxLVA4Um5DSkJHQno1aFVrUjRyM0hXVHYwRmN5Tg",
@@ -257,7 +283,7 @@
         ],
         "published": "Sat, 11 Jul 2026 02:18:46 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:40.476559"
+        "fetch_timestamp": "2026-07-11T20:41:59.876071"
     },
     {
         "id": "CBMihwFBVV95cUxOUG9yaTNJZ3ZmSU9ONmZQNExmRUNTbmhVUnRGY1ZNTU55Z0VCVVNMVFFmb2xpVHhrQ3hvTUNKcWM0VzhYVmRPdF9HS1VTRU5GTlExdG9hSWdWc1RtcmY0SnZkbURmeDlvOFZuUGttMnVxUVZqRWNpWTFMVGtZWjlmN2lhVk1tWVU",
@@ -283,7 +309,7 @@
         ],
         "published": "Sat, 11 Jul 2026 01:21:59 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.477118"
+        "fetch_timestamp": "2026-07-11T20:41:59.876658"
     },
     {
         "id": "CBMihgFBVV95cUxNRlVqMGdvTXNNZTRQNTBjZzRFRzk1TE85UkhYWkdsNWZ4STN5MkZydFBreHNnUWVYRXVRWkR6UDBka3pqVEFaLUd1ZTdHT0I4U2FNZ0xpNTBJX0ZsX0RHazMwV3JfWWJpMG1leVU4VzFxVzJabWEwTXZzRkg3a241UTJUSjJIUQ",
@@ -309,7 +335,7 @@
         ],
         "published": "Sat, 11 Jul 2026 01:08:37 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.477743"
+        "fetch_timestamp": "2026-07-11T20:41:59.877309"
     },
     {
         "id": "CBMihgFBVV95cUxORGN4WHhwaWlvZ1oxeTRPU3VKUS0xM2hiTEEtZGdvUHh6NV9pY3Yxc2ltQkRLNm1DNmQ3cmdNTlY5WU5CXzhXWTR3MTZZeDZNRTNFS2h1Y3lEYUQ5MXJraDY3cDQtd3hDQ0JiakpSdFZhRWhITWhaOWhYenM4QUZWLWFFVGVCdw",
@@ -335,7 +361,7 @@
         ],
         "published": "Sat, 11 Jul 2026 00:40:21 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:40.478295"
+        "fetch_timestamp": "2026-07-11T20:41:59.877901"
     },
     {
         "id": "CBMi5wFBVV95cUxNRHBhUU1wUXBUazdnbWNDS3VkaWR2aWYyRGpUQmpLNHRBYlAtLXhXZVIxbk9VR1J0M0p0TENJTWR4X21jb3BrVU5lWTdwM3dBYTVadjIya2xwTEg5UFZBWmQ4VjV4dmZ2Z0J5c3QxNW05UGlsMGdGWDBTRFQyR3hLRmkxckh0aW4tMFA4U0NXaGJEOFphYWRnZlo1aEpQeExTUnZJaHBOUnVkUzRMbjQ3NFdTNEE5dXlMUktjODBFWFZLN0d2S0RVZ3hHODY5VmVycnE2bXplZWlnRGR5eGFSVGFKSEZaaGM",
@@ -361,7 +387,7 @@
         ],
         "published": "Fri, 10 Jul 2026 23:09:25 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-07-11T19:41:40.478974"
+        "fetch_timestamp": "2026-07-11T20:41:59.878626"
     },
     {
         "id": "CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ",
@@ -396,7 +422,7 @@
         ],
         "published": "Fri, 10 Jul 2026 23:07:08 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-07-11T19:41:44.623239"
+        "fetch_timestamp": "2026-07-11T20:42:03.522639"
     },
     {
         "id": "CBMicEFVX3lxTE53RVktbmlUSVJOc1lrYWVTSjRlNGRTcllPYnRfNmJubEVrZnV5dEUzYU5WTVp6ejZMOVFXTENwVTAwR3R6WDFfdURGMGhzZks0SlM5SVBpbTNjaFd4M3dmVW05RmR4TV9ibVN1cUpKQ2I",
@@ -422,7 +448,7 @@
         ],
         "published": "Fri, 10 Jul 2026 22:39:02 GMT",
         "source": "Think Global Health",
-        "fetch_timestamp": "2026-07-11T19:41:46.279014"
+        "fetch_timestamp": "2026-07-11T20:42:04.990664"
     },
     {
         "id": "CBMiogFBVV95cUxOR0MxemdqZi1oY3lvcV8tS2pmZTVvZnliS3I3UTlBUUJrZ0ZvaC1vaXEwV2dGaEd5cGtkMHJHWTVsVVMxQjlLeHpPSEhZdEk2cWs3bWpzazNGTmlZWmE2TnVuaUQtOGJ4MkdCRjdLNmR4em82S2pVS0ctMEFkNmFJWk9RZVpKVzk0YnNCYkFPQTVjeHRXaWNqMng0NXR0ZFVabXfSAacBQVVfeXFMTmo5bnViZXpNU1dGWkVpQ1VneXVLV0FUd0E4Sks2ME8yR3piaE9NMkxBSzdQbUttcm96NGhZekgtc244M2pKQTR4MHlTLS03SlphaFZyc19FUWlDMzR2Vk1XaVowVVRnZlFMRTRSWU1kWWdrblMxVmY2MGxxWEFRVHJ2RnYwWXhIUE93eG9teC16OTNoZGNxREdXNTg0V1Ixb083N0NwN28",
@@ -448,7 +474,7 @@
         ],
         "published": "Fri, 10 Jul 2026 19:58:41 GMT",
         "source": "tovima.com",
-        "fetch_timestamp": "2026-07-11T19:41:46.279952"
+        "fetch_timestamp": "2026-07-11T20:42:04.991729"
     },
     {
         "id": "CBMiqAFBVV95cUxQVzNRVk4tM3BoYkoxMFlINTB1WVQwcmZsbTRfODIxLUlWQkpJb1h2SlFGNHA2eXkxTWwyTUtNX25UcGZvVVJtdWJfNzR1eHZlOWIzZ3k1UWxYZ0dNcjhKV1ZVZEk2X1dlaHpjRVBhbldyVWFNb0VtQ1RWbDBCLUdhSXExektrMWM3Ul94eFRiSDVYb2tQZVdtMHhOcHMwNHVJXzdHbnJleHQ",
@@ -474,7 +500,7 @@
         ],
         "published": "Fri, 10 Jul 2026 19:40:09 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-07-11T19:41:47.799447"
+        "fetch_timestamp": "2026-07-11T20:42:06.487225"
     },
     {
         "id": "CBMitwFBVV95cUxQX0xRaDZkMXJSaElmbmxzMGZhbGkzN2NOWHVnWUh3SUtjSDBHeGhSU0R2Wk1QMzBNUXdCc1BoRUhSZHRrUUs4UG9xdEllRVhOR01mVTR6NFJvR1pINlVQQk5nWm4zR0tYSk9DaDdXVGV5ekktSEQwT0NHc3NFQVFLSDhNR25GdnJzcEtRV2lFTmlBUzA1MFo1ZmZ6NHRBUmtwZkE0TnZMQzRZY2JXREFDTHdGTDBJWU0",
@@ -500,7 +526,7 @@
         ],
         "published": "Fri, 10 Jul 2026 15:01:21 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-07-11T19:41:47.800224"
+        "fetch_timestamp": "2026-07-11T20:42:06.487958"
     },
     {
         "id": "CBMiW0FVX3lxTFBBalcxSmJkN3dUR0xpa3JzMjBPcXVVdkRsM20zR3lvQ0M4S1N3MzdRSnZPbzBET2VPNzJMU3hkeEwzS2t0eE5tOHdLdjI3STRWbk9vbDFHRWR4MWM",
@@ -526,7 +552,7 @@
         ],
         "published": "Fri, 10 Jul 2026 13:59:25 GMT",
         "source": "rti.org.tw",
-        "fetch_timestamp": "2026-07-11T19:41:47.800847"
+        "fetch_timestamp": "2026-07-11T20:42:06.488585"
     },
     {
         "id": "CBMimAFBVV95cUxPcGp5QllIZWVyUTZjSUZnLTlYU0daTFFRWnBKLW9kQW81bThLWU5XWVZkXzlWS3BBNzhCc3RCSDhrclVmcUkteFBzdTJ4OWZnb2Q4SEVfcGFkVVVvb3VzTXlVV1RGRlFMSFdWUXJoSW9mN1ZKNE5mZGhfd2FhMC1xNzhJN1Z5elpuZ1ExWjBxNEp0QXRqZkZxQw",
@@ -552,7 +578,7 @@
         ],
         "published": "Fri, 10 Jul 2026 11:44:09 GMT",
         "source": "Bioengineer.org",
-        "fetch_timestamp": "2026-07-11T19:41:47.801537"
+        "fetch_timestamp": "2026-07-11T20:42:06.489292"
     },
     {
         "id": "CBMijgFBVV95cUxNb1hNM1A0M2pxSkdlUW9YSnRnZ2JpalNtdXZtd3Uyc3E0a1E1M0ZROTAyMVRGbzV3SmlsUTlNYnlrVEdQX2UzbThCeUJSdWVQeVNQOUhwNzJNNGgyQWRWa0FWRm9FaEUwb3B0YTRRdGRfUmswWVVNQlgtN0k0enN3VEctSFk2anFMUDB0SEFR",
@@ -578,7 +604,7 @@
         ],
         "published": "Fri, 10 Jul 2026 11:20:37 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-07-11T19:41:47.801975"
+        "fetch_timestamp": "2026-07-11T20:42:06.489778"
     },
     {
         "id": "CBMihwFBVV95cUxNOWc0NllNNk1USGVONktNa09JWXE0cVJsdEdIb3dMZ0ZRZDNIMTFXU3FKSHNDWFBUZjIzdUt4SGxDd3Y4Q18tNzVwbWUxdnlOSk9HdlBRcUNXdXdycHV3ekVTVlFhTmZ4Wm0wTlNwNWpjRjRoVlFZcURCSDNCMGxkcjZvd2cyTnc",
@@ -604,7 +630,68 @@
         ],
         "published": "Fri, 10 Jul 2026 10:54:19 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:47.802475"
+        "fetch_timestamp": "2026-07-11T20:42:06.490337"
+    },
+    {
+        "id": "CBMiYEFVX3lxTE9sUDZvWkFYb2d2eGZFLWFRT3NzV0NJTkpRWklYQmt0RG5DMWdBMnVtZU04SG8zTlJnSE5Mc3RiZzZTVjNfNDVabG1xSGVKOFZ6NS05eUF0Rkl6aTZhNVJYVA",
+        "title": "Aston Villa VS Liverpool Hantavirus Map (FuSDDgbFqr) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sUDZvWkFYb2d2eGZFLWFRT3NzV0NJTkpRWklYQmt0RG5DMWdBMnVtZU04SG8zTlJnSE5Mc3RiZzZTVjNfNDVabG1xSGVKOFZ6NS05eUF0Rkl6aTZhNVJYVA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Fri, 10 Jul 2026 09:16:41 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-07-11T20:42:06.490835"
+    },
+    {
+        "id": "CBMioAFBVV95cUxPMFhrVTRKdWFVd2lLTmpaT0NLOVdOaGktZGxEX1NYbUxnNFZ3bDRFdEtDcFMzWTJSVE9FOHRCeGlXa05ZamxjQVMwVE5UU0ZoY0xHVU8xRC02YTNxS3RTdXBEVjBQd2RSV18yVkRVdURuaTFoaDA5VWN6Zl9KanZUMnlXc1pTTllmR01XYWlzOEtxcXNjWXgybzZEMVJ0aTM1",
+        "title": "Five passengers from hantavirus-stricken cruise ship depart quarantine in Omaha - Omaha World-Herald",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFhrVTRKdWFVd2lLTmpaT0NLOVdOaGktZGxEX1NYbUxnNFZ3bDRFdEtDcFMzWTJSVE9FOHRCeGlXa05ZamxjQVMwVE5UU0ZoY0xHVU8xRC02YTNxS3RTdXBEVjBQd2RSV18yVkRVdURuaTFoaDA5VWN6Zl9KanZUMnlXc1pTTllmR01XYWlzOEtxcXNjWXgybzZEMVJ0aTM1?oc=5",
+        "location_name": "Omaha Omaha World-Herald",
+        "coordinates": [
+            41.2615715,
+            -95.9338417
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Omaha Omaha World-Herald",
+                "coordinates": [
+                    41.2615715,
+                    -95.9338417
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            },
+            {
+                "name": "Omaha",
+                "coordinates": [
+                    41.2587459,
+                    -95.9383758
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Fri, 10 Jul 2026 06:30:22 GMT",
+        "source": "Omaha World-Herald",
+        "fetch_timestamp": "2026-07-11T20:42:09.297131"
     },
     {
         "id": "CBMigwNBVV95cUxOWnhYT3RsOGIzYWZqSmpJTElZSmxRYldWV1ljMmRGMVBWV3BENWZWLWd2UzhjRl9xQUJzdkloSDBDQXcxcEJNeUFoWU9Yb1Q4ZGxPOU9Ob1NBbXJaSG9IV0dranRpUWRXVS0tMExKRzZqcHdVOXJhb3otb19SMWVLNy1KXzFQb1o1Y0gwZjY0bEFyVmlyX3FCZUFDLW1kekNrdFEtT1l2c0l4OFlCWkRfcjdRYllkcV92TXhmcDV5OGNxSFk0dVQxZ196LUJrWXRSNXJ5SzZEODc4UFJaeDhOZWgzR01mMHFHRE5hcW1GZzhSYlVtSS1CaHRSQndqRUd3VThEMjBiclZaUE1hUzIteGlYUnY4bVk3UC1aZFQxVW1IOENPVzhjUHhKTkh1aGhsRGRKT3YzTHVnalRNVHg4SWlkU282Z0VrSWVXWkNNNnBaSzd4NnlfZVM1Y01Rd2RrUGpfXzBhbDlfbTBfZ2tDb2xMVms4VUxsM1BmTENYQTV5WnM",
@@ -630,7 +717,7 @@
         ],
         "published": "Fri, 10 Jul 2026 06:04:11 GMT",
         "source": "MSN",
-        "fetch_timestamp": "2026-07-11T19:41:47.803007"
+        "fetch_timestamp": "2026-07-11T20:42:09.297852"
     },
     {
         "id": "CBMijgFBVV95cUxQQnM2bFNsTW9maTR5NGlYZGpDS0xqZmo4SzlCd3ZmVU1ZZVVDRTBRaFdjc0ZvSFNzaE8wUlNwenhqSmg0TUZCSjhLWUloZlhDMG9FbzZTWjhiMjNIeDVTY0Y3RHl1aDlNNEFGSlZnMkM4ZUc0WmhnUDBhUVQyeFZjZmpQQ01HVVptRUJHTzZB",
@@ -656,7 +743,7 @@
         ],
         "published": "Fri, 10 Jul 2026 05:29:20 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:47.803523"
+        "fetch_timestamp": "2026-07-11T20:42:09.298458"
     },
     {
         "id": "CBMiyAFBVV95cUxNYUVOeTQtNEl1UDBtbGxhb29aWEJxWFdMZ0U5SzltLUltb2RrbjZlRHhCU2daN1N1T081NnozMWNoSTFjdmg4LXV4ejRZTDJJOS12UExEQTJjdUsxbGdocVNiY2dJUWlhVkdEdnRoMnRWb2M2VDZJZFdqT1ExYTBwYndnRjE3YWxjaGtmZjRiVU0xLW1iOTdFV3NqekV2dTVQUnpMRjhUMUtCVzNxX0lua2xGZlJRQUJkMGVHUjVVeWNCY1FTeVZRVg",
@@ -682,33 +769,7 @@
         ],
         "published": "Fri, 10 Jul 2026 04:30:13 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-07-11T19:41:47.803956"
-    },
-    {
-        "id": "CBMipAFBVV95cUxOendfZzR6NERHVDFFUnl5UEhDUW9vamdLNFl0S3ZsVlRTb21UR1dDM29pN3hGc3I5LVZvSFlBcTlpemVzbkd6amNidnJzeW1yQV9mNDdsQlZrYy1BZDRzWFZIWGdSRnhNMTB2RGhyakt6VmRFUnpqbEdVM0lJdXdJVkxRczNGQWFpa1dydDVvSHNjUmZGM3l4TDVIeE9QT2R6clRNaw",
-        "title": "Three New Yorkers were passengers on Hantavirus-infected cruise ship - PIX11",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOendfZzR6NERHVDFFUnl5UEhDUW9vamdLNFl0S3ZsVlRTb21UR1dDM29pN3hGc3I5LVZvSFlBcTlpemVzbkd6amNidnJzeW1yQV9mNDdsQlZrYy1BZDRzWFZIWGdSRnhNMTB2RGhyakt6VmRFUnpqbEdVM0lJdXdJVkxRczNGQWFpa1dydDVvSHNjUmZGM3l4TDVIeE9QT2R6clRNaw?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Fri, 10 Jul 2026 04:00:50 GMT",
-        "source": "PIX11",
-        "fetch_timestamp": "2026-07-11T19:41:47.804451"
+        "fetch_timestamp": "2026-07-11T20:42:09.298953"
     },
     {
         "id": "CBMihAFBVV95cUxOcXQ0SDdfaE5OX0JFZGhRQk5oYU5EUEtNLWE2ZmdSV3VOZU9hWjdrQXRmN01jVWpVUkRhc09KckRYaE9oZnpESXpfQVNfYWUybG0tU01aZzhOeDNZSFhKd2tfb182VXU5aGt5Nlhyblo3MFJseV8yYkFOVW80bDE5NnNfaUQ",
@@ -734,7 +795,7 @@
         ],
         "published": "Fri, 10 Jul 2026 03:05:14 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:47.805047"
+        "fetch_timestamp": "2026-07-11T20:42:09.299631"
     },
     {
         "id": "CBMinAFBVV95cUxOQWowSXMtQW9NTlotcmFRdlB1ZURnalFYODBXWGhkbkZKcU5qN0FrUENuQXJ2TlBaZ3RoOXNwN25fVUZiVnFlVDF4QWI0cFMwT0NRTHR3c2dQWXBRbEhzM2ZJYUtVdHcxNjNIQ0thZ1FDX2ZzSXRsV0xZSm9GMTQ2b1hWV2owQTBhRzdBMTVGQk1iWGctVXNINVQ1bGI",
@@ -760,7 +821,7 @@
         ],
         "published": "Fri, 10 Jul 2026 03:02:58 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-07-11T19:41:47.805643"
+        "fetch_timestamp": "2026-07-11T20:42:09.300317"
     },
     {
         "id": "CBMi7gFBVV95cUxNT2tkSmhUcXZZVUpuSjM4cGwtejc5QUVXUjFNbGIyRWhZS053cWlxWkRpVHNkaG03SjV1QXlHSkVsLWhXVUlSVkVsdmhwdVdtcjMwRTA3U3paYTBDUldqVTdDRmVXdkFWVTJqMkpVWUozNFFVMVlOV0RWV055UTdvanRGM1NQTk81QTAtMFhkbkU0UWlOU2Y2czZBT2NrUHpEaURrd0lPNTJ2Zm1KU2RkQ205blY5VnVWc1VDQXVUbFBPTXlyWlNFY21YUUluQ1dSSC1CQkZ0ZElLN001bTVtX2QzWUMtdm9qQ2lYTFpR",
@@ -786,7 +847,33 @@
         ],
         "published": "Fri, 10 Jul 2026 02:37:11 GMT",
         "source": "MSN",
-        "fetch_timestamp": "2026-07-11T19:41:47.806138"
+        "fetch_timestamp": "2026-07-11T20:42:09.300961"
+    },
+    {
+        "id": "CBMihwFBVV95cUxQY1hrYTFxMHRGSThOSVc2dVdwWThORUwtN3hIajIzUjBOcTlqN01DLWNOOGxCX2dEb0F6X1d4TDVka0psNnJxQU5fRkVUWFM4bkdlUkkzLVNMOTlzSFBlZkxPV1hvRUlILTRmdC12bWwyWTBEaDExUFhiNkplTjZFOWdQTTB2NWM",
+        "title": "CDC response to Hantavirus sparks worry among disease experts as cases rise - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1hrYTFxMHRGSThOSVc2dVdwWThORUwtN3hIajIzUjBOcTlqN01DLWNOOGxCX2dEb0F6X1d4TDVka0psNnJxQU5fRkVUWFM4bkdlUkkzLVNMOTlzSFBlZkxPV1hvRUlILTRmdC12bWwyWTBEaDExUFhiNkplTjZFOWdQTTB2NWM?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 09 Jul 2026 21:51:02 GMT",
+        "source": "AOL.com",
+        "fetch_timestamp": "2026-07-11T20:42:09.301638"
     },
     {
         "id": "CBMif0FVX3lxTE5DT0lhNEdyVEZRY0drQm1KM0EyNGRLTVJXc0p4ZFZhdERlZDdqajZYYjUwWnpoSVFsSnhZX2JUelMxQ3pVdmIwM1FpZXBOZWxoeHpfQnV2Y0tUcnBsdjlnQUZZWXNUQkhyWUVBM3hpQ2dDNUhZcUI0ajV4X19nd00",
@@ -812,7 +899,7 @@
         ],
         "published": "Thu, 09 Jul 2026 21:43:21 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:47.806686"
+        "fetch_timestamp": "2026-07-11T20:42:09.302259"
     },
     {
         "id": "CBMiigFBVV95cUxObThPUXJIallvX2NlWFlKamszaUZ4cTcxSG41akhqQmNTblNVWDVoUmVSUTV3cnd0LW9xdzlFVUs4ekgtRTBjNDQ0emxtdUJNTkxSM1pMeG9sUGVmYldPOUNLZFJQNEhWZWNGd2lGRHFHLU1jZkVWUVVXTnpSLVJkY2xINnB0TVNMNnc",
@@ -847,7 +934,7 @@
         ],
         "published": "Thu, 09 Jul 2026 19:38:00 GMT",
         "source": "American Hospital Association",
-        "fetch_timestamp": "2026-07-11T19:41:51.022958"
+        "fetch_timestamp": "2026-07-11T20:42:12.555566"
     },
     {
         "id": "CBMiigFBVV95cUxQTDh3ZWlPamlKM0g0SG12ZkFoVllxMldaSm0yMXY3MS1MeFF2cEdJdXJQR0NyT0tkdzM2N3B4RGhXXzNSZ1lfd0tIczcyTjI2X2NwM0RuR2FjMnFNaENlQl9HRjdNZFdEeHUzRzFOdV8yVXNWRXRBVHRDQ2dzVmNNbjFMUElMZTdRQ2c",
@@ -873,7 +960,7 @@
         ],
         "published": "Thu, 09 Jul 2026 18:48:49 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:52.736294"
+        "fetch_timestamp": "2026-07-11T20:42:14.178361"
     },
     {
         "id": "CBMieEFVX3lxTE5PWEFrN0dHWkJQZ09LNzZWNGVPb0FjTy1xTTk0TzV1MXJYX3lpQVFnQjlyNHcyVS1qZEVQRHUzempmVGZuZ3BXRm5EMEw4SDh1R2RIalU3SjZSeUY2dXRTSGJKRThRNHZRaXlHa1hEVTdFOHhwMU03VQ",
@@ -899,7 +986,7 @@
         ],
         "published": "Thu, 09 Jul 2026 18:14:31 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-07-11T19:41:52.737033"
+        "fetch_timestamp": "2026-07-11T20:42:14.179055"
     },
     {
         "id": "CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE",
@@ -925,7 +1012,7 @@
         ],
         "published": "Thu, 09 Jul 2026 18:06:03 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-07-11T19:41:52.737732"
+        "fetch_timestamp": "2026-07-11T20:42:14.179750"
     },
     {
         "id": "CBMiggFBVV95cUxQd3lQQ0RYcVNORml0UjI1LVQtQXdjR0VQWTZ5VDV1MnczM0FHbHhEazFCYkNtYmp5Tl8wcUw2NUZzRnAzVnJFVzFTbXF6T3otM0ltLXhqbHBobzZmSnBMd2lXVWw2OGc3Wi1kUzMtaks5NWhkYjM2VzQwdEhKNTdQU2x3",
@@ -951,7 +1038,7 @@
         ],
         "published": "Thu, 09 Jul 2026 14:38:32 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:52.738239"
+        "fetch_timestamp": "2026-07-11T20:42:14.180322"
     },
     {
         "id": "CBMimAFBVV95cUxPc3pQVVh1UHlhLW95TnM4Z3ZhZUpzU3NNM1FhUDQ4WGZzaDJNSWFzZTgzM0l3aDRkOUVSMGJvblY4UlJGeW1yZFNtZEdSb1Z6UjhNWXJCSkRpVTZFSk9JVktBZU9QLXZfbWxJVXRCdmp1RFpGU3lSRTVrNVlFOHdsdzU3RGFHQVlsWjJuQl9zeVh4eVE2UkhBTw",
@@ -977,7 +1064,7 @@
         ],
         "published": "Thu, 09 Jul 2026 12:29:10 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-07-11T19:41:54.301471"
+        "fetch_timestamp": "2026-07-11T20:42:15.685597"
     },
     {
         "id": "CBMiWEFVX3lxTE9laFZWU01nbjB1a1VnekVveTlfbEJRcmduYlhsVnZVb2R3VUhxT3ZnX0c3ODBMYXhJZnU1bGQzamlUSHcwQjJYWWVBSE9rVnl2RFlUX001Z2M",
@@ -1003,7 +1090,7 @@
         ],
         "published": "Thu, 09 Jul 2026 05:54:45 GMT",
         "source": "TRT World",
-        "fetch_timestamp": "2026-07-11T19:41:54.302146"
+        "fetch_timestamp": "2026-07-11T20:42:15.686235"
     },
     {
         "id": "CBMif0FVX3lxTFBhUXVienFaQ0JLM1hJRHlTNEdoUlFkZG45ck1OM1pPS2U4X2QzWEhmMlgtaEdDcFdHazhtc0FrYktnMmV6TnpnNkhEOEtvTS03TGJuSGRKRDV4c1U1U1NIZERKUUgwT2NVblpnWldYUXdlVmhGdUE4NWdESGRQN0U",
@@ -1029,7 +1116,7 @@
         ],
         "published": "Thu, 09 Jul 2026 05:44:54 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:54.302938"
+        "fetch_timestamp": "2026-07-11T20:42:15.687028"
     },
     {
         "id": "CBMiYEFVX3lxTFBaUkQ5cTJDcVlabnZkMXYxengySjNvVE53Y3AxV2N6MDBOWTRHTHhHTjFwdGloWnMxQi1od3BQSnRKU2VXUWNPck5VUTJoeEIwdHlkdzVUaVV6dXVDOXFXWg",
@@ -1055,7 +1142,7 @@
         ],
         "published": "Wed, 08 Jul 2026 22:12:35 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:54.303605"
+        "fetch_timestamp": "2026-07-11T20:42:15.687702"
     },
     {
         "id": "CBMif0FVX3lxTE9TVWgtS1Rub3JmQ0JXbTV0bVczX0ZncUExSlMwcmdDdmxDQUhPNklHRFVqc3R5dFp6dVhaVDFXVTVVQlhRbXNLZDctRldxSVBpMFR2RUxxNHRTQ3NBd0NvYVJxZE50NzFRcm1fQzZDazQ3RWljMFNQZGxxRkdzeFU",
@@ -1099,7 +1186,7 @@
         ],
         "published": "Wed, 08 Jul 2026 21:02:11 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:58.789178"
+        "fetch_timestamp": "2026-07-11T20:42:20.203098"
     },
     {
         "id": "CBMigwFBVV95cUxPR05YaE5fQXpjZHFZdTk0a1hhSTFuUlJKU25McGtmOGpDMUQ1Wngxc1g3M3E0aHhwbkNrT1VKaUtNeW5HMkxuM3pHSUUxeWg5ejE3NjgwaGIzQ1p6dGlVMjZ2cU5fWFZ1cEx1SGNDSmFQT25tUDh5N2lncC1XemEwQS1STQ",
@@ -1125,7 +1212,7 @@
         ],
         "published": "Wed, 08 Jul 2026 21:02:11 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:58.789990"
+        "fetch_timestamp": "2026-07-11T20:42:20.203990"
     },
     {
         "id": "CBMiekFVX3lxTE5OQnctd1hQMHpyTm5za204SVpkU2V5ZVFobE5yR2QtXzBsVmVJMU15SWhQVkp6Si1GMmcxUHFkcWh2OFFkZDVvSHkzZkUxMnpycnR3bEVTV09faVVQRHpQeU9XVml2V0dNaGNHOW55VEZxU0lLVUxHbTJn",
@@ -1151,7 +1238,7 @@
         ],
         "published": "Wed, 08 Jul 2026 21:02:11 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:58.790729"
+        "fetch_timestamp": "2026-07-11T20:42:20.204719"
     },
     {
         "id": "CBMiYEFVX3lxTE92dlBJRDlvdEg5TzNIellYOXpuMm56UV9WSDRGdnNfeU5rc0I2dlhmQ0xzNzh0X3hpSmIxdnVmUjEyZkZCcEhoNTRaNFFyb1FiLUFkWWtSWHI1ZFRWSTdhaA",
@@ -1177,7 +1264,7 @@
         ],
         "published": "Wed, 08 Jul 2026 19:38:05 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:58.791282"
+        "fetch_timestamp": "2026-07-11T20:42:20.205320"
     },
     {
         "id": "CBMiW0FVX3lxTE4zMkFfTmgzM3JnR18wZC1XSDZobGNSZTQyYW4xX25WXy04eXNZUl9zMHpkQ3NvaHVMX3lsZ3Eyd1B6Mk1POG80LUtRS25NV3VBTDI5MjVUSTR5Nm8",
@@ -1203,7 +1290,7 @@
         ],
         "published": "Wed, 08 Jul 2026 16:42:30 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:58.791822"
+        "fetch_timestamp": "2026-07-11T20:42:20.205896"
     },
     {
         "id": "CBMiYEFVX3lxTFA2SXJPZkxiZUV4bXdYc3hvZHh2NTFSVGN0MEVQYkU2cWNvdWdzdzFJY3lfVFRndFpXSFRodjVNZ0xUTU5VSWJVMEF2UjFPYTdxLU5hMUZZdjhzbVlaazZoOA",
@@ -1229,7 +1316,7 @@
         ],
         "published": "Wed, 08 Jul 2026 11:12:13 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:58.792324"
+        "fetch_timestamp": "2026-07-11T20:42:20.206460"
     },
     {
         "id": "CBMiYEFVX3lxTE1IX21HVG5jRFdXbTNCUjZZMHZIamdqVmJKWlRGUllMcktqbWxaLUJVVU1zejlsbjA2bzBFOG5ZaEhjdFVWLUZOVkUtbW1oLUUwOGc2QnRxSURRUzRfQk5uMw",
@@ -1255,7 +1342,7 @@
         ],
         "published": "Wed, 08 Jul 2026 07:29:30 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:58.792752"
+        "fetch_timestamp": "2026-07-11T20:42:20.206943"
     },
     {
         "id": "CBMiW0FVX3lxTE5rY3VwVjVHbV8wdHZzaE5Rc2lIMTJCa3JZR0lPR3c0TFFxa3RoNm9ON2N5N1htVjhDLTNCZWNZYWUxclNicTFiUFNfWVRQa3JuMlFUVXBlZHlPNkE",
@@ -1281,7 +1368,7 @@
         ],
         "published": "Wed, 08 Jul 2026 05:09:13 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:58.793279"
+        "fetch_timestamp": "2026-07-11T20:42:20.207528"
     },
     {
         "id": "CBMiW0FVX3lxTE9GbFpNcXNsVGplVVVsM2VwRm45eThHV0JnSUVXdGVUZFQ4ZU5Uc2ZCblhZSUloR1hTaE8tSHM5aXJHamRNTmJwU0o0dGhZNy1Cb1pyMmNTWFVTeDQ",
@@ -1307,7 +1394,7 @@
         ],
         "published": "Wed, 08 Jul 2026 03:22:26 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:41:58.793861"
+        "fetch_timestamp": "2026-07-11T20:42:20.208160"
     },
     {
         "id": "CBMi-AFBVV95cUxOUGFBWld0dzA2dnBIemkxdWxPcFpHNTNNTGdKS1IyQUJSWnJ1Tk1UZGVlb1NocHpRZ2tRUHBkQ3lRQWVOd3RNcjNldFRjTmNkTzV0aXFRb0gwZWozOHd0c1lDZzFkUlVPWHh0emtnVUI2aEdHSTNmMXJRNHdieXRubGV5WGQ4aFlKZDhJcWhjbHJ5dm5Nczl2THNMWXJZV3pkY1E3a0tNaXhuMklVYXZHM2ZxcDB5SVI1RXBfNHAzd0xTaEN2MUFYSVRkM2xDZEd0QlZ1R2M1aUdJNlZJQVF3b0MyLVp1enE0SVgtQTNUR0dMWFZZS1M3LQ",
@@ -1333,7 +1420,7 @@
         ],
         "published": "Tue, 07 Jul 2026 19:55:44 GMT",
         "source": "MSN",
-        "fetch_timestamp": "2026-07-11T19:41:58.794398"
+        "fetch_timestamp": "2026-07-11T20:42:20.208758"
     },
     {
         "id": "CBMiaEFVX3lxTFBON0tjSERVUVBReEEwRDhrR0lQU3U4dG9aRzcxS2drbmh4MUJwUmFaV001LS1Gc1ZIWHdxMHg2cmVpc3QxeTV2Q3ZJRjQ5ZTZMYk9UWnowQjFDaTZHZkQzbm1fckZMMHJh",
@@ -1359,33 +1446,7 @@
         ],
         "published": "Tue, 07 Jul 2026 19:30:13 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:41:59.908512"
-    },
-    {
-        "id": "CBMijwFBVV95cUxNYlVGYWJlODJzY1M4eFNpd0JWZk5iN3BqNFFGdFViVmlfcGk0c2NfczR1TEJyN1ZUMUJEeEtfTzVFWW11bUVZd25UVkJzRlgxaVQ1WC1XVkJmVWgyX0kwRDk5SDdiYjRoY1JkRGRXVnpWRWlfcDJmZVFyRm1qc1Jvbmx1c1N3VzhoSm51OG9scw",
-        "title": "Canada confirms first suspected hantavirus case linked to cruise ship - AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlVGYWJlODJzY1M4eFNpd0JWZk5iN3BqNFFGdFViVmlfcGk0c2NfczR1TEJyN1ZUMUJEeEtfTzVFWW11bUVZd25UVkJzRlgxaVQ1WC1XVkJmVWgyX0kwRDk5SDdiYjRoY1JkRGRXVnpWRWlfcDJmZVFyRm1qc1Jvbmx1c1N3VzhoSm51OG9scw?oc=5",
-        "location_name": "Canada",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "Canada",
-                "coordinates": [
-                    61.0666922,
-                    -107.991707
-                ],
-                "method": "extracted",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Tue, 07 Jul 2026 15:21:22 GMT",
-        "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:42:01.175896"
+        "fetch_timestamp": "2026-07-11T20:42:21.498083"
     },
     {
         "id": "CBMiigFBVV95cUxPZzRmWUpONGZ5VDYwOHNCUHRjVkNsYU1pWUE4WGFkc3FKM2JOSGotNTF2ZkpPb3dzdXNRM2RhdDdvc0N6dVhOOENxb2NBOENudkZuWTdhZ0pCODhVVHBOSjdPNHBGemh6UkJNR1c0QUJUSnRaekFyQTAzVUc3LV9qc21PaGhhbE1tcGc",
@@ -1411,7 +1472,7 @@
         ],
         "published": "Tue, 07 Jul 2026 15:19:43 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-07-11T19:42:02.697064"
+        "fetch_timestamp": "2026-07-11T20:42:23.022653"
     },
     {
         "id": "CBMibEFVX3lxTE5EVVVOUXdaa01FbFA2YkY1TmU1RHJYN0dZU0dRSzZIUFFlc29RdUprLVp6VmpKdWQ2bVZvQUVrNGp1ZENiZkVoeExtcld0R3V1TG0tNlhmRWZrb0tWZGQ5VTd3eFI0T2FKUlA1WA",
@@ -1437,7 +1498,7 @@
         ],
         "published": "Tue, 07 Jul 2026 12:07:26 GMT",
         "source": "sundayindependent.co.za",
-        "fetch_timestamp": "2026-07-11T19:42:02.697886"
+        "fetch_timestamp": "2026-07-11T20:42:23.023480"
     },
     {
         "id": "CBMiqwFBVV95cUxNZmZ5Qmw4RXUwR3g3dDNFak1LMzF2ZnJrcUphTFQ2YUsyU1l3UnRzQ2pFQjZVMnpfZXhlNzFVdDN3TFR1aC1UeEFmWWpuQy1tUTROdU5RSURIa2paYXhpWTd4N1VuR0NTU0dRVHA3cDJrNVB2NXhaWnROOFZvSVY4SUk5TE5wbDJXeURha2wtdXppLXpqdGZ3bm9SZDFHNURyRlY1dTYyeUF3bEU",
@@ -1463,7 +1524,7 @@
         ],
         "published": "Tue, 07 Jul 2026 07:00:00 GMT",
         "source": "Northwestern Now News",
-        "fetch_timestamp": "2026-07-11T19:42:04.175607"
+        "fetch_timestamp": "2026-07-11T20:42:24.458694"
     },
     {
         "id": "CBMiywFBVV95cUxOenoyUHlBNE1vV1ByVnk1YjhGeDJmcjA2Ui1PWWRSWmxQVEpxOXcySUlmOFdtMXpDTzRYalNMeVJLM3V5WkdzR19sOFlwZWcxczcxMjBpcW5VTmhJQXRFaFUzc3hsUHBEUXAyTFhmaFdTYXpzRF9ER21WQUN0Zy1GRzBqQnBFUGM5YWg3bjBMeFBrbl9JNEhNT3BjaHV5b2hCMFRCbTNvSC1yTFEzVjhWbGZXSS1vZEZSbmk4M1dlYkZqWDF4THhaN2xRTQ",
@@ -1489,7 +1550,7 @@
         ],
         "published": "Tue, 07 Jul 2026 01:35:33 GMT",
         "source": "Genetic Engineering and Biotechnology News",
-        "fetch_timestamp": "2026-07-11T19:42:04.176718"
+        "fetch_timestamp": "2026-07-11T20:42:24.459759"
     },
     {
         "id": "CBMiYEFVX3lxTE53RC1PUVh2OWhiRER2M09KTktzVnR0U3pKTF8tejh0alBJcXg0MlZHZmdwOW5uYkczTERFME1uQmxfSTRfSWZMNW83NC1qTVBabXhpQ3BXNjd4dUZzSXVpQQ",
@@ -1515,7 +1576,7 @@
         ],
         "published": "Tue, 07 Jul 2026 00:50:29 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.177243"
+        "fetch_timestamp": "2026-07-11T20:42:24.460333"
     },
     {
         "id": "CBMiW0FVX3lxTE5LM2lqYzVXc2phR2c0dmRnN1U4NWI5VV9mSVlhRFVwVjFuWG9FQmZhUlRWcGNBM3FubWl3Zkt3WmoxeUZnZHd3dGdKOC1ONHJaTURjMXctbUg1U1E",
@@ -1541,7 +1602,7 @@
         ],
         "published": "Mon, 06 Jul 2026 19:39:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.177830"
+        "fetch_timestamp": "2026-07-11T20:42:24.461508"
     },
     {
         "id": "CBMiywFBVV95cUxNaEstTWVKUXVKd3NmaWNkZmotdGJ0S1VWU1JaMFI0R3BScktZUENSZ29NRTVYcHNkUk1pOEoxVURuLWdoTFFlU0RoOWJEZlNLaFE4UXVKRFhZSk9xWFlENk5HYk1KYjdmNGwzWFR6bThMTWM3NlZtcU9HSU9wYkNlYWVFVWRaNUNsd09VVGp5Q3p3ZWkyTHNESV9LTkFUdFVBdkFtZUVWZkY3VWI0RndFUTBEZnZVZDB0MnZaWXI5RlpJWWRwX2pzbzFzQQ",
@@ -1567,7 +1628,7 @@
         ],
         "published": "Mon, 06 Jul 2026 19:32:04 GMT",
         "source": "The Eastleigh Voice",
-        "fetch_timestamp": "2026-07-11T19:42:04.178442"
+        "fetch_timestamp": "2026-07-11T20:42:24.462184"
     },
     {
         "id": "CBMi8gFBVV95cUxNR292MmhCajYtSUdFaU45SmpjWENuUnhtMlpydzVkcm1Rd2lUa2owalhIN0FUVUo1ZWM1LUs2aHl3TjRZd3ZJZ1pKQmRTaVdmelVKbTZkbEJaVml5RG5EWmFYTWVCU190MUE3SmxBX0Q3VlNUcW91YldyMDBVVUZZT042cWZLNnpoVjBaa3BqLWJPbmZWYWY4bkFhM3FPYkRyWE5RSWs0YjFXY2l5VldJanNrX25wcnlwLVlmZ3ZVTjJYV203S0hHRmxzd0s0TjdQLXVBVVBPdVMtQXphVjNHd1cxNm1SYU5rMzJlWVh0clNMQQ",
@@ -1593,7 +1654,7 @@
         ],
         "published": "Mon, 06 Jul 2026 19:06:00 GMT",
         "source": "News-Medical",
-        "fetch_timestamp": "2026-07-11T19:42:04.179741"
+        "fetch_timestamp": "2026-07-11T20:42:24.462837"
     },
     {
         "id": "CBMiW0FVX3lxTE1taWI5alQ1V3Z6M0xFWUdiX1ZVZDhBOVZOYzZHWlpTSk42Zy1JcmR2bXk1T0NEb09ldGRqV25fNUhaaHNHOGpQaU54aFdaSzZPenpJd2JFMGR4SVU",
@@ -1619,7 +1680,7 @@
         ],
         "published": "Mon, 06 Jul 2026 12:24:01 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.180289"
+        "fetch_timestamp": "2026-07-11T20:42:24.463440"
     },
     {
         "id": "CBMiW0FVX3lxTE5qN0F5YmtZZGlkOEJ2VDBLUHFxb3QyNnA0ckFpRWNlVGgwSzFTZVVGUnBKd1piRFk0ckFWd1B1aG01R0JvNDVTZGF0WUZReWd3QzVsbGQ0Nldyek0",
@@ -1645,7 +1706,7 @@
         ],
         "published": "Mon, 06 Jul 2026 09:49:39 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.180882"
+        "fetch_timestamp": "2026-07-11T20:42:24.464038"
     },
     {
         "id": "CBMiYEFVX3lxTFBjNjVMSzJMQk1KU3hPR21tdk5VdnJVMHJBdmlEeHd6NEJlYW9sSVNCVFRhSE5lZF9kNkRhS1pHYllaUXBQV0Nmc1c1a0h2Z0E5YVBPZ1RhamtDMXJxcmZEQQ",
@@ -1671,7 +1732,7 @@
         ],
         "published": "Mon, 06 Jul 2026 09:18:26 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.181454"
+        "fetch_timestamp": "2026-07-11T20:42:24.464627"
     },
     {
         "id": "CBMiW0FVX3lxTE5Rb2otVHZoaDZMWFB0RVltZU0zRm9UVWFXOEQ0Slg5TzYzcVZ1dDFkZVZPcWV4N3l2VlAtQkpycHV2WHJwWkVMSWg0aXF3UFJwczNOVFhWYS1hM1U",
@@ -1697,7 +1758,7 @@
         ],
         "published": "Mon, 06 Jul 2026 08:55:29 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.181931"
+        "fetch_timestamp": "2026-07-11T20:42:24.465159"
     },
     {
         "id": "CBMi6wFBVV95cUxPZVFoMVMwdzl6YVFtTGN0RU1pRUp6VzdKQ1ZIZ3RtT1ZOd0IyM3lIVVRjQUZpY1ZRdktnQkhvTWtjenBxQlVNSFhvX3ZxWHlodGlPbDR1UXNtOUEtS1IwbTk2dFFaazk2Vm1uRlhqSGU0SW4xYUw5empLam96VkMtQ1lwSkFtVF9GV1JISzZKQV9MVjBERzFjR2hXRTNrZmpCd2pUV3RqUE9ISlpuWEFBS0hBa1Q0bGZ3OG9Tbm5RN3BzSWhEYkRwVm81WWhQeXZUXzdwYXpoZHg2TjVnbU5jTkRsR3ZMMWpVWVJZ",
@@ -1723,7 +1784,7 @@
         ],
         "published": "Mon, 06 Jul 2026 03:25:58 GMT",
         "source": "The Eastleigh Voice",
-        "fetch_timestamp": "2026-07-11T19:42:04.182752"
+        "fetch_timestamp": "2026-07-11T20:42:24.466022"
     },
     {
         "id": "CBMi2wFBVV95cUxPUnQzNDJ0bWRXdTU3QnpJRURTZTRFTWxjSGM1WGhhOWhwWTA4dUt3c0wxQ19GSFFHZE8xaG9SQlJ6bjYzTFJBZXNpbWJxNi16bzJ2WGJ5WWVacmMyNDRicnR5WGlvd3lHM01fRXc3Q0tCNVdkbTY5Z2pIdzhBa1k0Zk5hSXZXMXNOS0V2YXYwNW5oTzQtRmNudUx0OFdSS1NVVWc3SGNXcHlpd2lPVVRjcEZ1WlpfWkxuVXBMeUVHeXg3a013VldwWm5oMG8wYzNNQzdneWdjVFFRZ1U",
@@ -1749,7 +1810,7 @@
         ],
         "published": "Mon, 06 Jul 2026 01:31:00 GMT",
         "source": "VnExpress International",
-        "fetch_timestamp": "2026-07-11T19:42:04.183387"
+        "fetch_timestamp": "2026-07-11T20:42:24.466722"
     },
     {
         "id": "CBMibkFVX3lxTE1GLXgxSWUyNnFKRVJNaElMSmtBZVROcUx6U3pMdWJCQkdqS0VFdjJLYjd0RnVJV2xCQVJnNE5JYUVuc3diUTg1Xy1zMFVWVW9Gdk9icl9NYllWNzhEVUZRSWxKTFlTdURLVHctMFNR",
@@ -1775,7 +1836,7 @@
         ],
         "published": "Sun, 05 Jul 2026 16:22:09 GMT",
         "source": "Travel And Tour World",
-        "fetch_timestamp": "2026-07-11T19:42:04.184114"
+        "fetch_timestamp": "2026-07-11T20:42:24.467492"
     },
     {
         "id": "CBMikAFBVV95cUxPQXowYUlWeUJuWG1ITV9FLVVsRVp5Q0cxdHgzRTRETEVOcE44T0ZSYVNiV003NHpBNUJPTFFiX3h2TlVvZWtUV0FRQjRNVEwzZHdJZXRPeWhEUkZ0ZVNVeVQwYjlSU3B2N2tJUmg1OFgyQTZxQXYybkUwa2VEbVFYamxmTG5hMVlFNDlmYXNsRnQ",
@@ -1801,7 +1862,7 @@
         ],
         "published": "Sun, 05 Jul 2026 14:46:52 GMT",
         "source": "Journal-News.com",
-        "fetch_timestamp": "2026-07-11T19:42:04.184457"
+        "fetch_timestamp": "2026-07-11T20:42:24.467890"
     },
     {
         "id": "CBMiwAFBVV95cUxNVXo0MUdjQU5pNGFVOVVPMG9OSVFMWWVRR0tRSjB5MnZJUFJqc2p4QzRRY3JmOGE2aHlMWVo4Nmt5SURnWFo5ang1bm1kWURNOEc1QmtiZXZIWW5HeFZ5QVVIZ2xYRzllZ01odXNqX1d2RGx2a3NLcFJ2R09DNUpmb0ZJbVB0UUJReC1rSE9SVEstUkhOMjZNbVhYTmdxWXdFQXhYNDNLdGI0Uk1TTGJXTVRTenM5RGlrSzZod1hyREw",
@@ -1827,7 +1888,7 @@
         ],
         "published": "Sun, 05 Jul 2026 14:12:00 GMT",
         "source": "Euronews",
-        "fetch_timestamp": "2026-07-11T19:42:04.184976"
+        "fetch_timestamp": "2026-07-11T20:42:24.468473"
     },
     {
         "id": "CBMilAFBVV95cUxQRHFmYWZTLTIwaWg3N3JKUjAyZEpjalVOUW5FZWRXVnBBOXl4clFkUDRvWGJqZ1REbEFBYVBGbUtYMzdOYjZTdEhRaXR0aGQwdDNmQ2dzdURQaVBSRXR2ck1LVzNxdFFrdHEtTERILXJ5MTl2M3dzYml6WFZIbTVGREg0Q19ZRVpMNklqZzBjNnRjZXQt",
@@ -1853,7 +1914,7 @@
         ],
         "published": "Sun, 05 Jul 2026 12:45:00 GMT",
         "source": "NL Times",
-        "fetch_timestamp": "2026-07-11T19:42:04.185365"
+        "fetch_timestamp": "2026-07-11T20:42:24.468943"
     },
     {
         "id": "CBMi3AFBVV95cUxOSlRqdkNkVUt2eHhCWHFlWF9jcllDcUthNmduaktpS29mbDlma2J0RjFlRUwwWXh0NW9CLUtKdFl2Y25WRjMyMTFRdkdpUVFDMExQYjBfTGVRS3NjbmVza1pkbDhCaG1Bdno5YnZ1OU1ySy1Vc0MwR0Q4d241ajVtSjlFaDhFal82NlB2ZGhkWmJqWGw2LTc2d1hGSjBYWGZGZTdHNEY5SXhfT2tTamJES3lzNGZLYzdDTjZ2VWg2NUJxaUo0TkFuVTBMTXQyMmlKeDhkSndWVUVBR3d2",
@@ -1879,7 +1940,7 @@
         ],
         "published": "Sun, 05 Jul 2026 11:06:22 GMT",
         "source": "The Eastleigh Voice",
-        "fetch_timestamp": "2026-07-11T19:42:04.185963"
+        "fetch_timestamp": "2026-07-11T20:42:24.469587"
     },
     {
         "id": "CBMioAFBVV95cUxNLWMtNkRuYW04ajhUMFZnb0ZyVUM5Sy1ETTJTRVVvdEZkWDFDNmhEVjdTX052d1VyTWpidTE0ZThQbzZkMkl0UUNXaTJSRWtqemFxSGpoQUhrSGdtOVkxNXJIc0tITWEyVk4yYldGWDRZNEE4Qjc0V2dBYUtwVFQxRy1RUGIySHR1OWc3SHNEZ1BocU1WcU9CWm9jUllXMEh2",
@@ -1905,7 +1966,7 @@
         ],
         "published": "Sun, 05 Jul 2026 10:37:00 GMT",
         "source": "bluewin.ch",
-        "fetch_timestamp": "2026-07-11T19:42:04.186417"
+        "fetch_timestamp": "2026-07-11T20:42:24.470120"
     },
     {
         "id": "CBMi6gFBVV95cUxNZG1kcklpdl9lRkl0THZXT1U3Y3hoTFFrYkRsYmdRVXY0bDlKRHFoV3NhdWVab0ZUa3FrMmpLVFo2Nk9uZW1vWURfV1NnVmhVbVFDRGNJeUp5MUpYYzNCRXlGbW9SdTJ4WVNoRlNKb19kTUNlN1lERkxpX3VlU1BXb0FCUnVJcDVPUE9BZkVhajJWb0dQNVFqMHoydC0tRjF4a2pvRlNhSHpLODhoajY0WWpKSW5UUkFlOFZGVG9zLU1pLWpFMEw5SlZHbE43bHV2RVNmR3VMcWJKZVhuMHFWQXEwTWtMaERGcVE",
@@ -1931,7 +1992,7 @@
         ],
         "published": "Sun, 05 Jul 2026 09:58:53 GMT",
         "source": "The Eastleigh Voice",
-        "fetch_timestamp": "2026-07-11T19:42:04.187096"
+        "fetch_timestamp": "2026-07-11T20:42:24.470830"
     },
     {
         "id": "CBMiygFBVV95cUxNekJPWDJraWdUSVI0cU1vc19kR3VvSjBJNklPdFc1VVhtRFl3dEtlX2hPOGFpS19PNXhhZ0lpaGt5aElEM090cUFrOHJiV0pZODNuYkkwOFNSd1JmSERWUzlzMWozR0xURXBDRUN3eVBWS0NSLWhVaDQwNzVZcWdRNTZidWo1OVo3QmNxYUtjcVRLbzhMVFRWQmpSX2p4dEYwZmYyMjBEYjRzRk82bnFkRkxJQXhoalllLUhSSHpZVVh2YmRYRTNHTFpB",
@@ -1957,7 +2018,7 @@
         ],
         "published": "Sun, 05 Jul 2026 09:28:20 GMT",
         "source": "The Eastleigh Voice",
-        "fetch_timestamp": "2026-07-11T19:42:04.187537"
+        "fetch_timestamp": "2026-07-11T20:42:24.471319"
     },
     {
         "id": "CBMiYEFVX3lxTE1GM2VyM04yQmMzYzlfektCZWpCWHZyOGxPZW53SnVtY1BOZ3NsUjBBelBfME5yMUZZb0tVNjFubHh5NnQ0ZFhJZnJjb1F1QUVLU1Q3cUlRR2w2cGpyMEY4aA",
@@ -1983,7 +2044,7 @@
         ],
         "published": "Sun, 05 Jul 2026 09:25:41 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.188080"
+        "fetch_timestamp": "2026-07-11T20:42:24.471903"
     },
     {
         "id": "CBMiYEFVX3lxTE8wakNhUE1PUk41SkhqNHVmVmJxaThFR3Jib2EzRXpxSXprS2pmcENQMFk3aFFvTFFhT3BTTUdjTC01U2gwX1dwMXNYbnp4dnZpdER0Y2hRbHA1UzMyN1gxOA",
@@ -2009,7 +2070,7 @@
         ],
         "published": "Sun, 05 Jul 2026 08:20:46 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.188641"
+        "fetch_timestamp": "2026-07-11T20:42:24.472530"
     },
     {
         "id": "CBMilgFBVV95cUxNbU0yNEsxMTVRVFZGb3pZM2hzSkdhS3lLcndkMHNuZU1wMTdNZVllN0xfTTJzZlUyZTd4LTB0SVU3M3pjU3E5akYwUTRJTThIYU9xUzVRSTByWVFNREFfZDBncHk1d0cxTEkwRU5acXBMcjVOUERvbThlMVNrWVRlYi1QNmRWbHZHUnByc2V4OWVmblpoU1E",
@@ -2035,7 +2096,7 @@
         ],
         "published": "Sun, 05 Jul 2026 07:06:20 GMT",
         "source": "Tempo.co English",
-        "fetch_timestamp": "2026-07-11T19:42:04.189152"
+        "fetch_timestamp": "2026-07-11T20:42:24.473089"
     },
     {
         "id": "CBMisgFBVV95cUxOa1BpY1EwVlNzVGdPMW5vdmYtWUt2WE1UQnNseXdtZlpuZXJRRzB2UmlJczQ2d0pjVHB1WmJhZEcyVkNIZ25udkNZR0JMQmdaUDJBSXFDbENyX1c4V1ctRmhlRlpZb0xCXzdQOHAycm1acUNlSjA4eFUyaTN6cHF2Q25LNzRiWThPUkg2Ni1zTkFxZWZxRFFHeGJPSXVCUlJRaFhNUE1uTHNpNzNISC1RRUJ3",
@@ -2061,7 +2122,7 @@
         ],
         "published": "Sun, 05 Jul 2026 07:00:00 GMT",
         "source": "Investing.com Nigeria",
-        "fetch_timestamp": "2026-07-11T19:42:04.189692"
+        "fetch_timestamp": "2026-07-11T20:42:24.473658"
     },
     {
         "id": "CBMivAFBVV95cUxNNXZzM01tNTRjTXJaQ081Nm15UmRYNjk2c3JEUFJScDlCWHJNR0tsNHVxREd3WFZpUFZvbzd3WE5lUlBkV1dXeHRLN3VYYWpCMnEwbkRkMi1abkN5clpOdkJUNHN6bl9zaXRNVHhkcE9NMVd1cFppdFJRR1YzWEJuMlVvOElOU1JlVUN3cXp4MnBHNVVmckxtR05DY1R1TE9zTzAtZGNpOXNVbjAtRTdXWEREX2tlOTc3dGtSOQ",
@@ -2087,7 +2148,7 @@
         ],
         "published": "Sun, 05 Jul 2026 07:00:00 GMT",
         "source": "Ocala StarBanner",
-        "fetch_timestamp": "2026-07-11T19:42:04.190167"
+        "fetch_timestamp": "2026-07-11T20:42:24.474206"
     },
     {
         "id": "CBMiygFBVV95cUxPUi12MUY0aEozMWMwNWplVFFHSV90YmRfeThOc3Y3aUo1QmY4MXhjdnRXTnpvSE5VTDY5OV9aTlFtbkZzOEt2aEFoRGhSQW1xTy05MFJsLVVuNmdyX01Rei1sN1NKSDBMNnZuWHFfX0xkWlQ5T0lRMEdsbi05aUxMZVBxcUQzSnNiMW56bmlfR1Fadmg5LWJ1dzBJZl9zTExHQnQtek9HMVZUbkJ6VDJZdEFXZ0NtdlBkV2t3QmM3aUt1U01yYmExbHFR",
@@ -2113,7 +2174,7 @@
         ],
         "published": "Sun, 05 Jul 2026 07:00:00 GMT",
         "source": "OKC Thunder Wire",
-        "fetch_timestamp": "2026-07-11T19:42:04.190767"
+        "fetch_timestamp": "2026-07-11T20:42:24.474838"
     },
     {
         "id": "CBMilgFBVV95cUxOc1l6d2ZrUFhLcERYblFybUR0bU55UnczSmRBVm1CS3FXdmI0Nm1Yd2ZYZzlONTlzbDRlMkdfZzQxc3dkWkMtM1ZRVlFkTUN2bTRSWUt4VHJkSzlDQU5RdmVXWDYzVHgwRFVnZG5jQWllVVE5amtGZ3FEY1otNFExWXpJcFd2MndmOExmdnVqUzlvdk5qRlE",
@@ -2139,7 +2200,7 @@
         ],
         "published": "Sun, 05 Jul 2026 07:00:00 GMT",
         "source": "وكالة الانباء العراقية (واع)",
-        "fetch_timestamp": "2026-07-11T19:42:04.191445"
+        "fetch_timestamp": "2026-07-11T20:42:24.475551"
     },
     {
         "id": "CBMirwNBVV95cUxQemI1S1h6ZWZoWGk1d0E0Z0VkSXlMZ3E5WWZvVXRsUC1FR0NrOG83QTVWOVhOSl9YdGVWTF90VUg1YUIzMnlzdXZ4ZmhFeDA4c1BjdENhSHF2bk93dlZrNm1oLXBNekhDOERmLU9uS2xSNXZCWVotZHhneUw1VEZoeGFZQ0xLQXFPWmxrRGVISEdoamxtRTljUTQtWjg5elVnY3lEUkJTNEV6S1BEeWNESjMtR3MxSXRKZmQ4WEVWYk5KTXZTakgtQXd3VWNNQ2wtLTczSjYxeFhvVzFVUHNyb0VNTzdOMWdVMEYxR294UG1xVmJHQ1FEOU0zVkwtTE5hazNDNFhoSEE3SUdQcXpqRktia3VMV3lOaWZSNVhQTmQ4WmE0ZFdnelA5eE1FUDJmdnNGMmd2VVR1LUE2MUtTRC1BeVNIU1RiajRVVDJESXNUMl90bDJBUWxzQm1qeURxTGM4eFNUckhHVXJJcFlQOVpyRHN4cFgtb1ZqNWlEYlNZWFdnQkV4NWFwaUlnWlpDOERLUXRVa292eUpOWFA5enJDSDBDaERkMkp4TlNnTQ",
@@ -2165,33 +2226,7 @@
         ],
         "published": "Sun, 05 Jul 2026 02:49:11 GMT",
         "source": "MSN",
-        "fetch_timestamp": "2026-07-11T19:42:04.192006"
-    },
-    {
-        "id": "CBMiW0FVX3lxTFA2eVB3MHdGRG1aa0RZa05GT2p5RFluMG9rVzF4bEpjNWxibXlmbFplVmNqa1YyOFFFSVI2azVwLWdueEI4YWZZZEFpdE5ZN1AxUFp4WmVkbEQyb1k",
-        "title": "$50 Fake APPLE Watch ULTRA? Hantavirus Los Angeles (bNLsoEAr8I) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2eVB3MHdGRG1aa0RZa05GT2p5RFluMG9rVzF4bEpjNWxibXlmbFplVmNqa1YyOFFFSVI2azVwLWdueEI4YWZZZEFpdE5ZN1AxUFp4WmVkbEQyb1k?oc=5",
-        "location_name": "California",
-        "coordinates": [
-            36.7014631,
-            -118.755997
-        ],
-        "location_method": "inferred",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "California",
-                "coordinates": [
-                    36.7014631,
-                    -118.755997
-                ],
-                "method": "inferred",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Sat, 04 Jul 2026 22:46:43 GMT",
-        "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.192429"
+        "fetch_timestamp": "2026-07-11T20:42:24.476167"
     },
     {
         "id": "CBMiW0FVX3lxTFBXcUk5ZGw2X3NQUHU5ZmJWcU5rT2xtOFN2aml3QU5wZE5oRDBidzN3NXVIa0pJdWpCN05GWDRsVEV6bHVxdUE1WnozZHhmQzJTZFFQZGtIbDV5UUk",
@@ -2217,7 +2252,7 @@
         ],
         "published": "Sat, 04 Jul 2026 21:14:13 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-07-11T19:42:04.192988"
+        "fetch_timestamp": "2026-07-11T20:42:24.476756"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-6-12-june-2026-week-24",
@@ -2243,7 +2278,7 @@
         ],
         "published": "Fri, 12 Jun 2026 15:19:02 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-11T19:42:07.926825"
+        "fetch_timestamp": "2026-07-11T20:42:28.224912"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-23-29-may-2026-week-22",
@@ -2269,7 +2304,7 @@
         ],
         "published": "Fri, 29 May 2026 16:06:52 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-11T19:42:08.332041"
+        "fetch_timestamp": "2026-07-11T20:42:28.604966"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-14-22-may-2026-week-21",
@@ -2295,7 +2330,7 @@
         ],
         "published": "Fri, 22 May 2026 17:24:45 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-11T19:42:08.869054"
+        "fetch_timestamp": "2026-07-11T20:42:28.979483"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-9-13-may-2026-week-20",
@@ -2321,7 +2356,7 @@
         ],
         "published": "Wed, 13 May 2026 15:46:07 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-11T19:42:09.269437"
+        "fetch_timestamp": "2026-07-11T20:42:29.312562"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
@@ -2347,6 +2382,6 @@
         ],
         "published": "Fri, 08 May 2026 17:33:41 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-07-11T19:42:09.479002"
+        "fetch_timestamp": "2026-07-11T20:42:29.953397"
     }
 ]
