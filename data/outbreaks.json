@@ -1,5 +1,31 @@
 [
     {
+        "id": "CBMiW0FVX3lxTE85clRweF9zTTNaQ183NncyV1p1b0pHSmtnd1hTR0tDZnQ3SVpLNnFIejBFcVhqWEZGYkNtcTNJN1pqbk9kMGo3SXVZV1lfajhvY2lNRXJtWGN3MTQ",
+        "title": "Perrita Contagio Hantavirus (0K99UupJ9D) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85clRweF9zTTNaQ183NncyV1p1b0pHSmtnd1hTR0tDZnQ3SVpLNnFIejBFcVhqWEZGYkNtcTNJN1pqbk9kMGo3SXVZV1lfajhvY2lNRXJtWGN3MTQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Wed, 12 Aug 2026 14:48:27 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-12T20:38:15.445878"
+    },
+    {
         "id": "CBMiW0FVX3lxTE9fWkYyV2VDckVzN2pRSHBIMWQwalRkRUFGTnVodk1ITmlFMW5kVWxOazFVd3htRjRScW5XWHJ6RUprV1Z2aDBoajhIN3ItYlFnVGsxcXlyT2VvUTQ",
         "title": "Yan Diomande Born To Dribble Hantavirus Milano (SJf5aNt8Ld) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fWkYyV2VDckVzN2pRSHBIMWQwalRkRUFGTnVodk1ITmlFMW5kVWxOazFVd3htRjRScW5XWHJ6RUprV1Z2aDBoajhIN3ItYlFnVGsxcXlyT2VvUTQ?oc=5",
@@ -23,33 +49,7 @@
         ],
         "published": "Wed, 12 Aug 2026 14:11:34 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.542368"
-    },
-    {
-        "id": "CBMiYEFVX3lxTFBJMzZPUmpTRnhQVlhjQ3RILUxEdVYwWDlxVEl1a1JKYmE5dl9sejBSRXNjVTJsQmt5QzRaZWdEcXBxWFFlT3VUQ3c0STAyY244R2UxblF2UEZPVFhRdjZQdw",
-        "title": "🔴 LIVE Gold Trading (XAUUSD) 1-Minute | Million Moves Algo V5 Hantavirus Map (XOJ5NQuO77) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJMzZPUmpTRnhQVlhjQ3RILUxEdVYwWDlxVEl1a1JKYmE5dl9sejBSRXNjVTJsQmt5QzRaZWdEcXBxWFFlT3VUQ3c0STAyY244R2UxblF2UEZPVFhRdjZQdw?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Wed, 12 Aug 2026 13:09:20 GMT",
-        "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.543197"
+        "fetch_timestamp": "2026-08-12T20:38:15.446315"
     },
     {
         "id": "CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE",
@@ -75,7 +75,7 @@
         ],
         "published": "Wed, 12 Aug 2026 13:08:44 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-08-12T19:36:02.544595"
+        "fetch_timestamp": "2026-08-12T20:38:15.447288"
     },
     {
         "id": "CBMiW0FVX3lxTE56b2k1WmpvV2FuTzJSckNqZHd3YTY2OTNmQjRrNzJfalFDR0ZGS3lSdzhMc2x1OHp1NnZiX2Q0T3VUcGhJdHdjRzZjM0dpVFJ5NS1tWlhkczBDbkU",
@@ -101,7 +101,33 @@
         ],
         "published": "Wed, 12 Aug 2026 03:44:54 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.545177"
+        "fetch_timestamp": "2026-08-12T20:38:15.447710"
+    },
+    {
+        "id": "CBMiYEFVX3lxTFBKVUFseEJBT05EOE9CdkRUSjVGRDhTWlBCblEyYlEtaHJSRmhvY01IOHRvRE9yVE9aRUlzS2lmSElSVUpuZkF1MjJRSkdTNFlDTzNVbUw5R2Q0LVJadzViOA",
+        "title": "Raceday - Le Mans 24 Hour (1966) | Shell Historical Film Archive Hantavirus Milano (t4s8zVEf79) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVUFseEJBT05EOE9CdkRUSjVGRDhTWlBCblEyYlEtaHJSRmhvY01IOHRvRE9yVE9aRUlzS2lmSElSVUpuZkF1MjJRSkdTNFlDTzNVbUw5R2Q0LVJadzViOA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Wed, 12 Aug 2026 03:00:41 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-12T20:38:15.448138"
     },
     {
         "id": "CBMiW0FVX3lxTE9lY2JPV2R3RkdOTm43NkM3R3BCQWZnbnVZUE1kUDJsUXBobWxNc2kyN0dwUVQ1aWZhVEpSSHZYeTgxd2ZwSHBIUzJfdy1DWjdOOEtkS0JzbHp4ODQ",
@@ -127,7 +153,7 @@
         ],
         "published": "Wed, 12 Aug 2026 02:06:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.545749"
+        "fetch_timestamp": "2026-08-12T20:38:15.448530"
     },
     {
         "id": "CBMiW0FVX3lxTE5RVG5vX2VyQ0VTOGhXMVlSWHN4TV9kWFpITXdhRUtFSEpqR3RyQ3ZIemIyOGZSbHBtRFl6dEdVMmtmUnJYSEZyN28yc25VQ1ZyRDd4TEJub2xSZ0U",
@@ -153,7 +179,7 @@
         ],
         "published": "Wed, 12 Aug 2026 02:02:50 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.546338"
+        "fetch_timestamp": "2026-08-12T20:38:15.448944"
     },
     {
         "id": "CBMivwJBVV95cUxOM1R3WS1PcHVhWXVYNmxSX3RwMml5bk12TmZBdXBrTU5ma245Z2FjX1dCUkFYOXpEa2ZYbEJyUHVjMm5UVk5lMlZpU3VZWllsLUV6eDFvTUVkaWVzNWNfcnZsTnVkTHRYYTlTVHZoeHZTcVdmd2k3Z0F1TURvWFYxTXR4RkRwNHFBTk5EeXZ6LTd1U0FQUzRGZmpmQW5nWHNFZ2M2NzhSZWJfR1FCdWduejljckwtTEw1ajBqaklNR3dNalRBM1d1LTNLemlTQVZZXzMyX05rU0ZEYzRwZHd2eUFKWTdQRnhIdHJtaXV6bWFUUDQ1aXlPUDlmV1FJM0pZa09TaHdwLVlJdHB4QWlFUE9sdFY4QWI3ZVl4d3hWb0d6SXJHWjNSeDZfOUhGeU1rMy1ERmR1VUJlMjNYRnEw",
@@ -179,7 +205,7 @@
         ],
         "published": "Wed, 12 Aug 2026 00:17:45 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-08-12T19:36:02.547150"
+        "fetch_timestamp": "2026-08-12T20:38:15.449533"
     },
     {
         "id": "CBMiW0FVX3lxTE9Yc1N5UFl5eUp4N2ZJdVVEMks3d0szVDN3bHdYc1laQU90LVpMRlFnWm0wZS1IbmZIQ2pNbFdKX3JKd0NDOXdvR3FjZ2pSWEJvX01lVnhtT1hqZUk",
@@ -205,7 +231,7 @@
         ],
         "published": "Wed, 12 Aug 2026 00:16:54 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.547761"
+        "fetch_timestamp": "2026-08-12T20:38:15.449981"
     },
     {
         "id": "CBMiW0FVX3lxTE9GRHIxVWlIWDlBQ3A5Ui1WYmJ2cnotQ0lpWlFvUmdzNi1PSzhvRHJHUWRHQWx2RlIxZk9xZld0WmZpaHlyYnY1eGFtWGpBM0t4OXVRVmI5NWs1T2M",
@@ -231,7 +257,7 @@
         ],
         "published": "Wed, 12 Aug 2026 00:05:14 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.548267"
+        "fetch_timestamp": "2026-08-12T20:38:15.450312"
     },
     {
         "id": "CBMiYEFVX3lxTE5RV2NGWHNQb3B3ZldLU1BCYi1lUlpORzk5MC05VWtDcjdLZDlxVGlaMGdBQUtNQXlWaVkwTjBjLUdRWGM0dHBCc2t2eWZoX0ZKZ2FoRGtTUGxXNzNTdmtxMw",
@@ -257,7 +283,7 @@
         ],
         "published": "Tue, 11 Aug 2026 23:36:33 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.548812"
+        "fetch_timestamp": "2026-08-12T20:38:15.450708"
     },
     {
         "id": "CBMiW0FVX3lxTFA5U2h2bmlvZVljd1hsMFNkd0R4V0JmSzg4cHVkbXI4M3dSU09VWEdYM2RubkVPQnRfa2plNVRPekppRnEtUUpZV01nRFEzRjNmNzFmbzBtM3NRZGs",
@@ -283,7 +309,33 @@
         ],
         "published": "Tue, 11 Aug 2026 22:59:25 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.549479"
+        "fetch_timestamp": "2026-08-12T20:38:15.451182"
+    },
+    {
+        "id": "CBMiW0FVX3lxTE9qNlc0ZFJIQW1Ial84VkljR0dwNEFRcDdPSmxXOE9WZ184YV81bURUXzlrWC1yNVh0anRPcmNFN09FX0preUhFN003WTVQR0VMOTdYWGZzZzVWV3c",
+        "title": "Gripen E Operating From Short Runways Hantavirus Map (oQDRqSo5ZC) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qNlc0ZFJIQW1Ial84VkljR0dwNEFRcDdPSmxXOE9WZ184YV81bURUXzlrWC1yNVh0anRPcmNFN09FX0preUhFN003WTVQR0VMOTdYWGZzZzVWV3c?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Tue, 11 Aug 2026 22:56:14 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-12T20:38:15.451568"
     },
     {
         "id": "CBMiW0FVX3lxTE1XUlR1RTl1a3VZUW5vSFFDQVpQVUhXcnBwdjc3T3BFV0NuWkFGei1fRS1vUnVKblpWanJOZGs4UWVEX29CYUtHWXZlRWJPR1BNU1pzYUlDYVBEenM",
@@ -309,7 +361,7 @@
         ],
         "published": "Tue, 11 Aug 2026 22:17:42 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.550046"
+        "fetch_timestamp": "2026-08-12T20:38:15.451980"
     },
     {
         "id": "CBMiYEFVX3lxTE9NZTRsNDVkMEFyb2RzWWVRVUY1RlpINlN2TE0tblRDanZ4aERHLVJwSjhJRXBMdThBTXZRUmtTTi01UGVia1o1SkR5dUxoZ0RkWnNDVTVuSTc0VmZ0cjR5ZQ",
@@ -335,7 +387,7 @@
         ],
         "published": "Tue, 11 Aug 2026 22:11:03 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.550609"
+        "fetch_timestamp": "2026-08-12T20:38:15.452361"
     },
     {
         "id": "CBMiW0FVX3lxTE93aE1tcDVwWDFYd1cyLXBEYXktX01Ta3NZa2NDRjQ5ekJXeTZ4aC0yRjVqazN6ZzJXSFM1ejU5NXZUUXc5c3ZCbVhYc3RxX1JwSHNJRG4zNmVpbVk",
@@ -361,7 +413,7 @@
         ],
         "published": "Tue, 11 Aug 2026 21:12:28 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.551231"
+        "fetch_timestamp": "2026-08-12T20:38:15.452797"
     },
     {
         "id": "CBMiW0FVX3lxTE95NGZkelpFRGRWY1A0N2EzMzFYM2JRQnJQcnVKWUdOUHZzMklYaWtPTGtDR1REakY2Y2dHQzQxNnZXT1ZuWEJhcGw0SFByV3plQ0NfU2Q5NHZDbVU",
@@ -387,7 +439,7 @@
         ],
         "published": "Tue, 11 Aug 2026 21:06:13 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.551882"
+        "fetch_timestamp": "2026-08-12T20:38:15.453268"
     },
     {
         "id": "CBMiW0FVX3lxTE1tVUxWT25IYW5kSXB0bXpRRHFuSDRGSk9TTHR5QmpyMGlJa0ZpLUFLUHJzRUp2RVBKbU5yUHFwZ2xiOF8tUVpQa09fZ2Q0R2NqTll6OXMySjhYcUE",
@@ -413,7 +465,7 @@
         ],
         "published": "Tue, 11 Aug 2026 21:05:09 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.552472"
+        "fetch_timestamp": "2026-08-12T20:38:15.456168"
     },
     {
         "id": "CBMiuwFBVV95cUxQd0ZHbWJ4R1lFVGhGQlByZ1FQNHFfUkNUV1pVX0dQSzNsWG9Zc2N0S2NweXZiYm0tdTBxQm9UeXNDcThCdmtjQjJwTE1CUDMxdXRqT1EwMmtHTHRMM2R6NjZtWG0zX0llUmo2cW1qVVZ6QXJfMVhMLWhUaVV5SWVaQWp5Q0ZrNlM5Z3ZabWxtUUswSWFxQnBSNG9CclB2ZmVSNDVJNUoxeVN0bmRUdVB4WjQ4TTNhVWNncEtj",
@@ -439,7 +491,7 @@
         ],
         "published": "Tue, 11 Aug 2026 19:57:06 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-08-12T19:36:02.553198"
+        "fetch_timestamp": "2026-08-12T20:38:15.456758"
     },
     {
         "id": "CBMiYEFVX3lxTE00bWNHVDkxcHMyS2VrU19QLUpraURpUUdpNUpxYVFRSVJSWlcxOGdxcUhxZ1YybzdGLWRocWZBcWE5Q3NTQzk3czNpWjFLNFhOYmZ4bUNBSTQtb1pLcVZTcQ",
@@ -465,7 +517,7 @@
         ],
         "published": "Tue, 11 Aug 2026 16:56:14 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.555928"
+        "fetch_timestamp": "2026-08-12T20:38:15.457174"
     },
     {
         "id": "CBMiYEFVX3lxTE1ONzh5eVRYYWQxajUtdUY1bGEtemtRSHZyYXJjaExnaERmeHVhVVVHcGYtdHpiTWVqa1liV3AxbUJOVDZ3aHVUMnBwMlRkQW5qU2VoRTZwN1lEeFlMUWpSOQ",
@@ -491,7 +543,7 @@
         ],
         "published": "Tue, 11 Aug 2026 16:52:37 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.556579"
+        "fetch_timestamp": "2026-08-12T20:38:15.457583"
     },
     {
         "id": "CBMiW0FVX3lxTE10akxnZXN0S2l3QVE2TVltYXVFVXhTbkRHZ3AyTVNfNnZQZV83RHpGTDlua29abEsxUjVKbzNuZDFCaG9fd1FDckg3LWxNZU1yQ0dBVExNaklHcGs",
@@ -517,7 +569,7 @@
         ],
         "published": "Tue, 11 Aug 2026 16:19:18 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.557195"
+        "fetch_timestamp": "2026-08-12T20:38:15.458004"
     },
     {
         "id": "CBMiW0FVX3lxTFAyaDNrNjl3MFNEd2d0SDE3SzNHb21qU1NsSTNnWUVSZ3JMTmV0bmRmVzNmendSb2RFSV9rbUsxX0Q1d2lxc0JnUTI4QmZXNnNmem42VU9IWFZHdG8",
@@ -543,7 +595,7 @@
         ],
         "published": "Tue, 11 Aug 2026 14:48:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.557696"
+        "fetch_timestamp": "2026-08-12T20:38:15.458324"
     },
     {
         "id": "CBMiW0FVX3lxTE5hM0tFWkFybXdwYm5GVTRIcmo0VVFPLVpnYWVlbWJtbE5zNnM1M0xKWC0tVFpXNkc1TWxJcjVhR1o0MFNUMkw0VUZhVnhMb0tCcGtiRTRfVW1uY3c",
@@ -569,33 +621,7 @@
         ],
         "published": "Tue, 11 Aug 2026 14:48:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.558404"
-    },
-    {
-        "id": "CBMiW0FVX3lxTE1oSlh0cldBY3N0MGt4VE1WbFY0Z2o5YURaUFFUR1Nvc25oaHBPVmN3enFFRXBlOFNzWjBwdS1yTm1Cd05vWFVnd2t2WllJSmd0VkJrMU93UzV1Z2s",
-        "title": "Sydney Traffic Chaos; Coles Refund Battle; Hantavirus Plane Touches Down | 7NEWS Classico (YVYYGdE7OO) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oSlh0cldBY3N0MGt4VE1WbFY0Z2o5YURaUFFUR1Nvc25oaHBPVmN3enFFRXBlOFNzWjBwdS1yTm1Cd05vWFVnd2t2WllJSmd0VkJrMU93UzV1Z2s?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Tue, 11 Aug 2026 14:44:33 GMT",
-        "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.559036"
+        "fetch_timestamp": "2026-08-12T20:38:15.458828"
     },
     {
         "id": "CBMiW0FVX3lxTE5uZkdCRnprb3FmUW1VeE82S0ZYcGdRQkNfVlBKbnBaRmNsWWhDcEYzUC1DM0E1ODNTb2Vsa2pRbmtybUw0bWVYYWU0THBiX1N3dDdLQTREblpSaGc",
@@ -621,7 +647,7 @@
         ],
         "published": "Tue, 11 Aug 2026 13:52:58 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.559646"
+        "fetch_timestamp": "2026-08-12T20:38:15.459237"
     },
     {
         "id": "CBMiowFBVV95cUxOaF8zRFYyTnduNy1vNUFmUS0wbXl2cDhtRlRzcWxnb0RXZmJ4OWxvd2JlNnJOelN2VW9UTFFjVjhERlBNVzBsQkpyVkYybEZaNGRXeS02NjdmazBrTTdoWFB3blh1OV82LWVsajJESWdub1Z5TXhLa2JuSmxMUlF5WVRtS1VFeTBMcEt0c2pOeVBoaEEwNGZhYzU2YnRFLW9CSWE00gGoAUFVX3lxTE1VdzBCT2JTWjAxakRFdHZTazdtNS1KSHUxd2R6aTFwdXBtRlJMT2RIS0lhd3dJSDBaMjZBR0gwYkYzWlVna3lhM0F6Mlc1bHdsT0xUSWxwNEFpYm56ak02QmQ0eE91blR2WGdmT2NUem9wWldISHMxTGpRR0pkTEZjRVhWZlpiMXBGUzhfTEJXWnNzUWhRVmRzeGtzQzM1ZTk4dHRVS2RDUg",
@@ -647,7 +673,7 @@
         ],
         "published": "Tue, 11 Aug 2026 12:26:45 GMT",
         "source": "Diari ARA",
-        "fetch_timestamp": "2026-08-12T19:36:02.560226"
+        "fetch_timestamp": "2026-08-12T20:38:15.459648"
     },
     {
         "id": "CBMi4wFBVV95cUxNcEZCVEFGZWkyMEJzc2VXalNIYUJZVWtvM0tfUVYyNGZHRVlhYnBXeThMaGJyVzhjM1N1aGVGRUN4TFVERTJrS0RGcWVCN2pfSE5oTmdqWThGNFRKVm9BZkV1QjZNVmVYSTJBRWQtRktTYWdwZHFwbzVrZ0k4TVZiUks2WklUZElHTmhCYUVQVDZRYzhUcjBIa21xaVBid1Uzd09yRGY2ZVUxcHJPNGJrNDhlS1JneUY3bkNxaDEzY3c0TjJfbWVvM2hwV3BnN3RFSzhFZVFpY1BEdFhscUw0M0g3TdIB6AFBVV95cUxPdXhoR1RfcUZTNFJYaTRkUmFtUDlBT0hOZG4xMF9NQXZ3NmR4Q1ZhQmdKaVpuMURmSzhmVkxuUUFxcWJxNF9pcnM4dl9TTXBfUEk0Q2xKaWtoWnY3V256d0hNMDRPUnNrRU5Idy1zVzFvMFdaSnBnZ2huSGUwa0lOalR2Z0NkdmNMTUtFbFpUY0xkZW5PVWcwYzI1bC1kVG1lcnhndU5kTzRYTHFHWS1pU2RFTmdwY2ZkbTVSR19YQ1JkTDliN2Q2UkVYZVFMQU1BVHNpS29JTERqS0E0dFQ2NXYtUXdrbk5x",
@@ -673,7 +699,7 @@
         ],
         "published": "Tue, 11 Aug 2026 12:16:57 GMT",
         "source": "Demócrata",
-        "fetch_timestamp": "2026-08-12T19:36:02.561171"
+        "fetch_timestamp": "2026-08-12T20:38:15.460332"
     },
     {
         "id": "CBMipAFBVV95cUxOendfZzR6NERHVDFFUnl5UEhDUW9vamdLNFl0S3ZsVlRTb21UR1dDM29pN3hGc3I5LVZvSFlBcTlpemVzbkd6amNidnJzeW1yQV9mNDdsQlZrYy1BZDRzWFZIWGdSRnhNMTB2RGhyakt6VmRFUnpqbEdVM0lJdXdJVkxRczNGQWFpa1dydDVvSHNjUmZGM3l4TDVIeE9QT2R6clRNaw",
@@ -699,7 +725,7 @@
         ],
         "published": "Tue, 11 Aug 2026 11:44:52 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-12T19:36:02.561719"
+        "fetch_timestamp": "2026-08-12T20:38:15.460720"
     },
     {
         "id": "CBMiW0FVX3lxTE9haUJmcW1lcWRPZkJZZ3hSYWJhWmM3UVp5eC02emVyaFRtN042RS1yZHhUZjBLNmVvbGNLZjhwVWx0bGVQVEFVQWo3RkxYMHc1MG9MYTBlRXBHekE",
@@ -725,7 +751,7 @@
         ],
         "published": "Tue, 11 Aug 2026 11:22:08 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.562179"
+        "fetch_timestamp": "2026-08-12T20:38:15.461018"
     },
     {
         "id": "CBMiyAFBVV95cUxNYUVOeTQtNEl1UDBtbGxhb29aWEJxWFdMZ0U5SzltLUltb2RrbjZlRHhCU2daN1N1T081NnozMWNoSTFjdmg4LXV4ejRZTDJJOS12UExEQTJjdUsxbGdocVNiY2dJUWlhVkdEdnRoMnRWb2M2VDZJZFdqT1ExYTBwYndnRjE3YWxjaGtmZjRiVU0xLW1iOTdFV3NqekV2dTVQUnpMRjhUMUtCVzNxX0lua2xGZlJRQUJkMGVHUjVVeWNCY1FTeVZRVg",
@@ -751,7 +777,7 @@
         ],
         "published": "Tue, 11 Aug 2026 10:52:15 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-12T19:36:02.562655"
+        "fetch_timestamp": "2026-08-12T20:38:15.461340"
     },
     {
         "id": "CBMiW0FVX3lxTE5Lb2FjcXNlZDlhUUxhZDZ3cUo2WHJNTWNiVTN3bDMxeFBQaC1uVC1fQkFQQk1BSFBmYjA1eFZkRFVnM2tMSlJJWEE5QVBReGxMNGduRFRRYmNzYTQ",
@@ -777,7 +803,7 @@
         ],
         "published": "Tue, 11 Aug 2026 10:12:28 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.563244"
+        "fetch_timestamp": "2026-08-12T20:38:15.461752"
     },
     {
         "id": "CBMiW0FVX3lxTE5HR2dVLVpfdHJLS2lHMThlR2dKS1BZMzdtU185R0pWZ0RWRWRxVnphV1ZqYk5QTlZBS0RsbGZWZEtTZmtTVEN4MFBLMllwSEl5czhJQjc2OHYyZUk",
@@ -803,7 +829,7 @@
         ],
         "published": "Tue, 11 Aug 2026 09:43:07 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.563819"
+        "fetch_timestamp": "2026-08-12T20:38:15.462157"
     },
     {
         "id": "CBMiW0FVX3lxTE45Ty1HODFoUjBTTUM2MnVneU5yVnNJdTlUeVlpanlsV3pIQnRtSmJUNjdRTVhsTzhNdXA5dnJ6UXVEUVU0WGdBazY3QzBkR2p5SEpRaE45azJQVWs",
@@ -829,7 +855,7 @@
         ],
         "published": "Tue, 11 Aug 2026 09:38:09 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.564396"
+        "fetch_timestamp": "2026-08-12T20:38:15.462543"
     },
     {
         "id": "CBMinAFBVV95cUxOQWowSXMtQW9NTlotcmFRdlB1ZURnalFYODBXWGhkbkZKcU5qN0FrUENuQXJ2TlBaZ3RoOXNwN25fVUZiVnFlVDF4QWI0cFMwT0NRTHR3c2dQWXBRbEhzM2ZJYUtVdHcxNjNIQ0thZ1FDX2ZzSXRsV0xZSm9GMTQ2b1hWV2owQTBhRzdBMTVGQk1iWGctVXNINVQ1bGI",
@@ -855,7 +881,7 @@
         ],
         "published": "Tue, 11 Aug 2026 09:15:24 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-12T19:36:02.565037"
+        "fetch_timestamp": "2026-08-12T20:38:15.463016"
     },
     {
         "id": "CBMiW0FVX3lxTFBGeDJ3S01kTGN4NUV0bVc5WVYyTlhWTXpSSkdBSWl6ai0zVVh1TjBiWVoweUdoS0RjWmZDa3hKNFlHdmdOZXh6UEV2NEFZdkV2ZTBpN0tUd0REWms",
@@ -881,7 +907,7 @@
         ],
         "published": "Tue, 11 Aug 2026 06:15:45 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.565567"
+        "fetch_timestamp": "2026-08-12T20:38:15.463368"
     },
     {
         "id": "CBMiYEFVX3lxTE5iTVc3SGlPdzdLdl91VzdIX2ltdGVYQVd6V19ORGNOd0I0MVdPUk90V0dhQURIdHowOHoyT2w0RmJnQ2hOTnRJdXdXV0RCbEFuMUcxMkZ2UmFNMVdpY09PNA",
@@ -907,33 +933,7 @@
         ],
         "published": "Tue, 11 Aug 2026 05:18:40 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.566176"
-    },
-    {
-        "id": "CBMiYEFVX3lxTE5sOFRMV3p2d3lfeGZaeWdSX25Ja0dxeVFxcFFrbnljekpFRGpxY2ZQbnpPS0lrSC1icXAxVHBpU1BxQlN4VUVGNkliVzVvRm9ZWDNMb01mSmh6TXdXZDg4ZA",
-        "title": "NETHERLANDS VS MOROCCO WORLD CUP LIVE WATCHALONG! Hantavirus Map (xlhwhvMWVi) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sOFRMV3p2d3lfeGZaeWdSX25Ja0dxeVFxcFFrbnljekpFRGpxY2ZQbnpPS0lrSC1icXAxVHBpU1BxQlN4VUVGNkliVzVvRm9ZWDNMb01mSmh6TXdXZDg4ZA?oc=5",
-        "location_name": "Netherlands",
-        "coordinates": [
-            52.2434979,
-            5.6343227
-        ],
-        "location_method": "inferred",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Netherlands",
-                "coordinates": [
-                    52.2434979,
-                    5.6343227
-                ],
-                "method": "inferred",
-                "confidence": "low"
-            }
-        ],
-        "published": "Tue, 11 Aug 2026 02:55:23 GMT",
-        "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.566662"
+        "fetch_timestamp": "2026-08-12T20:38:15.463794"
     },
     {
         "id": "CBMiW0FVX3lxTE1TTjlIcWdGRlZBbGV4S0FIdTlrZFE3aWZYblNjbUNnTG1iYlZtM0JaRjdGWXlXVHl0R3dVbUJFMHg3QjJkNUxxWDN1RmZ0RkRYdW80bUVlemd0Tk0",
@@ -959,7 +959,7 @@
         ],
         "published": "Tue, 11 Aug 2026 01:05:19 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.567267"
+        "fetch_timestamp": "2026-08-12T20:38:15.464203"
     },
     {
         "id": "CBMiW0FVX3lxTE1jQno4bk80REFtTjBfX2U2YTdiZVUwOVlDNm1MZ09RNmc3ai1uSlZhYTRmVS1fdmw3c3ZKVlBHZnp4Mmpxb3BtWk9FNFJKeU9fWEpxNDZ0cGt5Z00",
@@ -985,7 +985,7 @@
         ],
         "published": "Tue, 11 Aug 2026 00:06:57 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.567852"
+        "fetch_timestamp": "2026-08-12T20:38:15.464622"
     },
     {
         "id": "CBMiW0FVX3lxTFBkTHpiQmY4NHVVaG1NVWcwNVN5dHJVZG9LUkxvSmRWbnZ4aC00UUU2ZmFyVDVEOEdxeExBM0FkTWhwaEVmX01CelI2Q2xzeXVaMlNxdW1KZl9tb3M",
@@ -1011,7 +1011,7 @@
         ],
         "published": "Mon, 10 Aug 2026 21:13:07 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:02.568529"
+        "fetch_timestamp": "2026-08-12T20:38:15.465098"
     },
     {
         "id": "CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ",
@@ -1046,7 +1046,7 @@
         ],
         "published": "Mon, 10 Aug 2026 20:54:49 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-08-12T19:36:06.558212"
+        "fetch_timestamp": "2026-08-12T20:38:19.761043"
     },
     {
         "id": "CBMiW0FVX3lxTE5femVxd0xnSWxwNjBHSWVyUWpKaUlOdFJrMTl3YlIycnBxTnhaeHJSY2dCeG5KN3BwOUR1OVg2em5acUdqQ0RxREVvS0NYOGlKSE5lV3NabGpRcXM",
@@ -1072,7 +1072,7 @@
         ],
         "published": "Mon, 10 Aug 2026 20:46:03 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:06.559028"
+        "fetch_timestamp": "2026-08-12T20:38:19.761676"
     },
     {
         "id": "CBMiW0FVX3lxTE9xQnhvbTFUQkZJVDBxTkRFMkJJbC1ReXRfNll0QWt2OG1TWWJZeEVxRVE4QU81YmEtX1RhaURZOWRDdTNfZ282S011T25vSkNZbjJ0azdnRnlackE",
@@ -1098,7 +1098,7 @@
         ],
         "published": "Mon, 10 Aug 2026 20:22:00 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:06.559714"
+        "fetch_timestamp": "2026-08-12T20:38:19.762164"
     },
     {
         "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
@@ -1124,7 +1124,7 @@
         ],
         "published": "Mon, 10 Aug 2026 19:47:32 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-08-12T19:36:07.879450"
+        "fetch_timestamp": "2026-08-12T20:38:20.992961"
     },
     {
         "id": "CBMipAFBVV95cUxPSjItTU1MMjYyY3RkZFYtcTByV2pLQ3Q1bmo1QzN5RlFPeWh1bEhlT2JCRFRoOWhSbmh6RExhV29GLUdZbDRvZEM0NTZ2LW5IYVhnMGVIUWVjc1dmbk5MMWRYVFZ0cVhrWEF0clIxelBHdGh6TVBiQnhacnZaRm1kMHY3Q0oxb1Foc25FT0tVLTk3NEpDSV9XLUltbExnelEtaEJCbA",
@@ -1150,7 +1150,7 @@
         ],
         "published": "Mon, 10 Aug 2026 18:28:53 GMT",
         "source": "ddnews.gov.in",
-        "fetch_timestamp": "2026-08-12T19:36:07.880252"
+        "fetch_timestamp": "2026-08-12T20:38:20.993649"
     },
     {
         "id": "CBMiW0FVX3lxTE5FS1lSWFNSTTNfN3IxNjdyRkN0OVMzMWJLMHpQdy1Kb0wyaEJkQmE0VGkyQkJyYVN3bkhaQ2lTVk5QQy1LdXdsLWlnZndlSW83cW54MFd5TjlpX0k",
@@ -1176,7 +1176,7 @@
         ],
         "published": "Mon, 10 Aug 2026 17:24:09 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:07.880892"
+        "fetch_timestamp": "2026-08-12T20:38:20.994133"
     },
     {
         "id": "CBMijgFBVV95cUxNb1hNM1A0M2pxSkdlUW9YSnRnZ2JpalNtdXZtd3Uyc3E0a1E1M0ZROTAyMVRGbzV3SmlsUTlNYnlrVEdQX2UzbThCeUJSdWVQeVNQOUhwNzJNNGgyQWRWa0FWRm9FaEUwb3B0YTRRdGRfUmswWVVNQlgtN0k0enN3VEctSFk2anFMUDB0SEFR",
@@ -1202,7 +1202,7 @@
         ],
         "published": "Mon, 10 Aug 2026 16:06:33 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-12T19:36:07.881414"
+        "fetch_timestamp": "2026-08-12T20:38:20.994476"
     },
     {
         "id": "CBMiW0FVX3lxTFBZdzRGMXprZ3BUdGUzeGU5Nk5VMnBzcmE3Y1U1Z0w0NGVuVTVFNWVpMHoxSnQ1djFtY25DWmhpT1ljVlI1NFdjM0JNQ0FOWkR5aEU2aUpQOU9Ec1k",
@@ -1228,7 +1228,7 @@
         ],
         "published": "Mon, 10 Aug 2026 14:48:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:07.881964"
+        "fetch_timestamp": "2026-08-12T20:38:20.994975"
     },
     {
         "id": "CBMiW0FVX3lxTE9DTC1wODh5Q2JRUDAza2x6czhzcWoyeGQ3T1I1NUtobFhuWnU2T3JVTENrY0ZGRDNHWDJXUGRPLXBlY3p2ODl2ZjBlZDR1N0ExVFpBTjVYM2Y3WEk",
@@ -1254,7 +1254,7 @@
         ],
         "published": "Mon, 10 Aug 2026 14:48:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:07.882604"
+        "fetch_timestamp": "2026-08-12T20:38:20.995432"
     },
     {
         "id": "CBMiW0FVX3lxTFBGTVJiVEltWkkzUE5naUlJeGxqbkhlbld5SVpDRWhnVHRHcTVBcGM4QktfN2RCSHBqT09ObXpGZ0lvX1BDaUNWQ2pmRUl3blZ4MUxNRVJkVXE4djg",
@@ -1280,7 +1280,7 @@
         ],
         "published": "Mon, 10 Aug 2026 14:48:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:07.883211"
+        "fetch_timestamp": "2026-08-12T20:38:20.995862"
     },
     {
         "id": "CBMiW0FVX3lxTE4xdmdzTkcxb0RvR25SRGlITndqTWI3dzZBWVF4M1hzOFRtNEtnanp6LWVtLWtRbVdHREgyekxpWWpDMEI1alJpOTBEbVpmZUpNU09QU1otT0lPdzg",
@@ -1306,7 +1306,7 @@
         ],
         "published": "Mon, 10 Aug 2026 12:10:34 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:07.883747"
+        "fetch_timestamp": "2026-08-12T20:38:20.996230"
     },
     {
         "id": "CBMiW0FVX3lxTFBfZjF1V01LVGRlZnFiV0o3aXhqQ1ZxS0s0Z0g3QVdjZTg4OFZtbEJFWkgtQ05Pc201NWw4Ty1PMFF2STdiVU55TVRzMlpBTVZrc05vT004alFCWWs",
@@ -1332,7 +1332,7 @@
         ],
         "published": "Mon, 10 Aug 2026 11:33:20 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:07.884234"
+        "fetch_timestamp": "2026-08-12T20:38:20.996543"
     },
     {
         "id": "CBMiW0FVX3lxTE53ZFJubkxRZXpKRi1GcXk0UGVUOHdWSEVsbGNzS2sxWmZTRnk5S3p5MXEtenN2MEwwVkZpWWJKTXMydEFVeHVxcGFYYkhudzNiUlRoa3lDTFAwLUU",
@@ -1358,7 +1358,7 @@
         ],
         "published": "Mon, 10 Aug 2026 10:29:28 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:07.884811"
+        "fetch_timestamp": "2026-08-12T20:38:20.996965"
     },
     {
         "id": "CBMimAFBVV95cUxPc3pQVVh1UHlhLW95TnM4Z3ZhZUpzU3NNM1FhUDQ4WGZzaDJNSWFzZTgzM0l3aDRkOUVSMGJvblY4UlJGeW1yZFNtZEdSb1Z6UjhNWXJCSkRpVTZFSk9JVktBZU9QLXZfbWxJVXRCdmp1RFpGU3lSRTVrNVlFOHdsdzU3RGFHQVlsWjJuQl9zeVh4eVE2UkhBTw",
@@ -1384,7 +1384,7 @@
         ],
         "published": "Mon, 10 Aug 2026 09:30:09 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-12T19:36:09.227998"
+        "fetch_timestamp": "2026-08-12T20:38:22.434055"
     },
     {
         "id": "CBMiYkFVX3lxTE5xajQwZndOVEd2aFN5SzlvNzNybUhVQko2c0FUUnVMVHd4QkVxcHNVVnhIM0ZIU1RUVE9jLThPVTY3aVU4SnFDSUpkX3NPWFBzV2lJcl9tV1VsWkhZWjY3VDNB",
@@ -1410,7 +1410,7 @@
         ],
         "published": "Mon, 10 Aug 2026 09:29:40 GMT",
         "source": "Cape Times",
-        "fetch_timestamp": "2026-08-12T19:36:09.228955"
+        "fetch_timestamp": "2026-08-12T20:38:22.434702"
     },
     {
         "id": "CBMiW0FVX3lxTE9wRXdxck94VjktbUV1SUdNMGpPSllpU1huN2stVmhackRlN3FVako4Zi0wQjgtYjVsaVpFenVjVFB2NkF5dnNBQ1JLRzhDMnpCOW02cnliLTJKOGs",
@@ -1436,7 +1436,7 @@
         ],
         "published": "Mon, 10 Aug 2026 05:03:01 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.229748"
+        "fetch_timestamp": "2026-08-12T20:38:22.435176"
     },
     {
         "id": "CBMiW0FVX3lxTE9taERramZFQlhicEVrZ2tIWlQ3VVVnYWd1WnhiZ2VWT1ZpVGR4ZU01eElWaFI1eExFTTQ2aFl1QjVGMlp3MWI3RlFpdF9BZE5NVmc5VGdkS3pCdVU",
@@ -1462,7 +1462,7 @@
         ],
         "published": "Mon, 10 Aug 2026 04:20:16 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.230426"
+        "fetch_timestamp": "2026-08-12T20:38:22.435650"
     },
     {
         "id": "CBMiW0FVX3lxTE9IUmRkMkZBQmtIbzU4TEo3dU9hemw2Sk5DR3o1dUNTMVB2YzZJRmtMUnZZYWlybUpfamFRb0VvcEE4VXRYQnZ6ei1KdFlJWUdZa2diLW5reWgxcnc",
@@ -1488,7 +1488,7 @@
         ],
         "published": "Mon, 10 Aug 2026 03:58:54 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.231615"
+        "fetch_timestamp": "2026-08-12T20:38:22.436659"
     },
     {
         "id": "CBMiW0FVX3lxTE52QV9HaWFVWmJqVXZRUlFuTTVnR3V3S0ZVTFdzWnFvS2hzZTlVVEVFVm83YktIZFB6c2dWN0xNOFp4RzBiSjZCekctSkQtX05nd29sU0twQnFLY1k",
@@ -1514,7 +1514,7 @@
         ],
         "published": "Mon, 10 Aug 2026 00:22:03 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.232272"
+        "fetch_timestamp": "2026-08-12T20:38:22.437104"
     },
     {
         "id": "CBMiW0FVX3lxTE9CSmRKT1RfWEZRUkZfd3FJbjdmd2czcDV1Y0JHbFVyeVFVWWZTWFFOa1dMcWl6M0ZRdGJGYmowR25VR3FmU0NmakR1RmxVdU1HeXk3MXU3WDhIUk0",
@@ -1540,7 +1540,7 @@
         ],
         "published": "Sun, 09 Aug 2026 14:41:47 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.232869"
+        "fetch_timestamp": "2026-08-12T20:38:22.437503"
     },
     {
         "id": "CBMiW0FVX3lxTE02Wjd6N2pwMFVMLU9zQnBfYTZ3RDNvZ090TjBSMXFYYUI2Y1E4M18wWDIxZDVTT3BkanVmZm4tNnhpT2g4aFhTS3ZvQnNtNlRRUVpFRmhiWkotLTA",
@@ -1566,7 +1566,7 @@
         ],
         "published": "Sun, 09 Aug 2026 14:20:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.233435"
+        "fetch_timestamp": "2026-08-12T20:38:22.437893"
     },
     {
         "id": "CBMiY0FVX3lxTE10am91WDBkTVdyNmJBRkl0NFlQVW1HTVNOdlVVVmtMbHFVNzJsUk9oOGI2cWlQbDFqdzhxNFJBZmgxTnZySjdocnB0dmtqa2ZPV0NTaHJVOWVhejBzQWRRZ3diRQ",
@@ -1592,7 +1592,7 @@
         ],
         "published": "Sun, 09 Aug 2026 13:46:12 GMT",
         "source": "Bybit",
-        "fetch_timestamp": "2026-08-12T19:36:09.234060"
+        "fetch_timestamp": "2026-08-12T20:38:22.438326"
     },
     {
         "id": "CBMiW0FVX3lxTE9BSzhYOUNJMERBYUtIYkpNRVo0bDVxMzFhQTlBWFhYd1JkREt1bFZPeEdUWnNsMlNjSzZvOE9hLWl1WGY0SXBmV2tRdE9NVkFCaS1XRjVSOEJEUFE",
@@ -1618,7 +1618,7 @@
         ],
         "published": "Sun, 09 Aug 2026 05:15:59 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.234690"
+        "fetch_timestamp": "2026-08-12T20:38:22.438778"
     },
     {
         "id": "CBMiW0FVX3lxTE1meWdVYmRYa2xoVVN6OVdZaERlaDgxMk5ISW9sQTAtYmw1NGR6SzY3LVFnUm13WXhsT05zNU9uYUw5bzVCRzlndU0xelNGYU1ndGtvMzU5aWZtdjA",
@@ -1644,7 +1644,7 @@
         ],
         "published": "Sat, 08 Aug 2026 21:14:55 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.235285"
+        "fetch_timestamp": "2026-08-12T20:38:22.439155"
     },
     {
         "id": "CBMiW0FVX3lxTFB1cGxkS25JZEVRUlFFVEd1TjB0STA1ZXROMTZZVGpybzJ3cER4MnFWLUVRd2ZTMmYyZDVUaEphRGFUX3dDLTh3VXVNcHdlTDE2UGVPS3dTUFhnbkE",
@@ -1670,7 +1670,7 @@
         ],
         "published": "Sat, 08 Aug 2026 20:51:15 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.235923"
+        "fetch_timestamp": "2026-08-12T20:38:22.439553"
     },
     {
         "id": "CBMickFVX3lxTE1zWGptMWZIclZCYjg1MFF1R3ZlSWN5bVhRQWRWczlEM2QxSjBBY2dCOHFYZHlWNnh0QnBSZ1RWc2s3VHpMRFJNQnhULWVJSkg3QUpxWlZzYldQVjhPMnY3eU41MjFUNUJ1MlZZVU1rWXV1Zw",
@@ -1696,7 +1696,7 @@
         ],
         "published": "Sat, 08 Aug 2026 20:22:21 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-12T19:36:09.236415"
+        "fetch_timestamp": "2026-08-12T20:38:22.439913"
     },
     {
         "id": "CBMiW0FVX3lxTE80N0pVMGxlU3dXX25maEltZW9TaENKTDBINnc0SG1UeGJCbE9JT0tvNlZ0Rm5uYlZseERQbVBCWlpoOF9heUp1ZHdNVjQ1Z0dua19pWUt5REpGa00",
@@ -1722,7 +1722,7 @@
         ],
         "published": "Sat, 08 Aug 2026 18:39:31 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.237115"
+        "fetch_timestamp": "2026-08-12T20:38:22.440389"
     },
     {
         "id": "CBMiW0FVX3lxTE91YU9lVDhsV3o4Y2cyZWxiSjVxZjNJcFg3Q3BheG1vby1XcmxfTXVrbzVQeDF6REwyT1Z0N2c5Y1FjazZjTFN2YkwzT1BacU1aOVBmVTZUazNHV0E",
@@ -1748,7 +1748,7 @@
         ],
         "published": "Sat, 08 Aug 2026 18:20:55 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.237840"
+        "fetch_timestamp": "2026-08-12T20:38:22.440919"
     },
     {
         "id": "CBMi5wFBVV95cUxNRHBhUU1wUXBUazdnbWNDS3VkaWR2aWYyRGpUQmpLNHRBYlAtLXhXZVIxbk9VR1J0M0p0TENJTWR4X21jb3BrVU5lWTdwM3dBYTVadjIya2xwTEg5UFZBWmQ4VjV4dmZ2Z0J5c3QxNW05UGlsMGdGWDBTRFQyR3hLRmkxckh0aW4tMFA4U0NXaGJEOFphYWRnZlo1aEpQeExTUnZJaHBOUnVkUzRMbjQ3NFdTNEE5dXlMUktjODBFWFZLN0d2S0RVZ3hHODY5VmVycnE2bXplZWlnRGR5eGFSVGFKSEZaaGM",
@@ -1774,7 +1774,7 @@
         ],
         "published": "Sat, 08 Aug 2026 16:45:39 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-08-12T19:36:09.238582"
+        "fetch_timestamp": "2026-08-12T20:38:22.441429"
     },
     {
         "id": "CBMiW0FVX3lxTFByMTJmWndGenhNeXY0SkRzUkZlTV9oVGJ0SHdBNXVjOFB5N2F0bHBKSFRlVXVHcjhsYktpMDg2bklpZXFBMnFGMENJQkFYSkhMNF9BcndkamdIdjQ",
@@ -1800,7 +1800,7 @@
         ],
         "published": "Sat, 08 Aug 2026 16:42:45 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.239241"
+        "fetch_timestamp": "2026-08-12T20:38:22.441882"
     },
     {
         "id": "CBMiW0FVX3lxTFBLNUtSQk53alJzM3dQRF9Td3dCLVJnX2EtZjZhazBoeF9kcndrVG1PNnEwazJ3d0JVQTVmS3lLTGtnVmp1MzBNTmxsNXNoVnFGLWdkVV9HTDg4NXM",
@@ -1826,7 +1826,7 @@
         ],
         "published": "Sat, 08 Aug 2026 14:48:27 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.239877"
+        "fetch_timestamp": "2026-08-12T20:38:22.442322"
     },
     {
         "id": "CBMiqgFBVV95cUxOdVBjSjVXaHhWenZySjBGYlBJM3Z3cm5yek0yeklscU1kbm9xbkp6M3lBQ3FIcVp1X3FEaE1hdUt2RUtCOU5SMGtkYklWRTFiMFE0cjlkeVZyZ0ZtQVFiVWtNQ0RrNDRya0FqZ09CZUctNW96VFdLR3VQVkdBbXZpN3JCR1ZBcGZvWGJBdTdHdkx0a1hDUUVEVVM1YTUxNHFpWGZPd0FZTEVrdw",
@@ -1852,7 +1852,7 @@
         ],
         "published": "Sat, 08 Aug 2026 14:00:05 GMT",
         "source": "NewVision.co.ug",
-        "fetch_timestamp": "2026-08-12T19:36:09.240556"
+        "fetch_timestamp": "2026-08-12T20:38:22.442779"
     },
     {
         "id": "CBMiW0FVX3lxTE5ZZkNFUGtUazhDNHVpbkhtX2htajhhanN5MVl3d0ZMUGctWGhReDlEVkxpNlgwWmI3VUhELU45bHdYOWpKem1nR0dPVjVOcjRNOEJDYkZMdEU5V28",
@@ -1878,33 +1878,7 @@
         ],
         "published": "Sat, 08 Aug 2026 13:36:34 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.241221"
-    },
-    {
-        "id": "CBMiW0FVX3lxTE5FQi1DaWFTbWpTUkpmNmpjYjZfTEFJZzRaT0hYbTZNS3I4WWxfUkpvTUtfWWZwdnNRRmhWaE5LeV9zQ3hIblRtdUVDY2hxQm5SUndOODNwSUFZczQ",
-        "title": "Working With ELITE Coaches As A Football Analyst! - Paul Brand Hantavirus Map (uApwJCRnMT) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQi1DaWFTbWpTUkpmNmpjYjZfTEFJZzRaT0hYbTZNS3I4WWxfUkpvTUtfWWZwdnNRRmhWaE5LeV9zQ3hIblRtdUVDY2hxQm5SUndOODNwSUFZczQ?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Sat, 08 Aug 2026 11:49:04 GMT",
-        "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.241933"
+        "fetch_timestamp": "2026-08-12T20:38:22.443234"
     },
     {
         "id": "CBMiW0FVX3lxTE15VEkxTFNkai1WWWg4bFBOV05KbURtRWdfbmwxM3MzNl95YXYxYjB3c19VR00tR3E4ajdmNGlpcXBHckptbHJtLW15S1FEZWlzQ0RLVlJtWElCLWM",
@@ -1930,7 +1904,7 @@
         ],
         "published": "Sat, 08 Aug 2026 11:48:11 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.242554"
+        "fetch_timestamp": "2026-08-12T20:38:22.443634"
     },
     {
         "id": "CBMi3wFBVV95cUxOSUpyQU9Xbjdpa3J4dEdxcXlRZjQxdU9jQlV3WU5vcEpCeGJyeVRjWldkS3Vxa3V6akJ3M1ZieTlaZG1rSkh6U0ptaVBIbElEREtHNTZ1OEdxYXNDQzkxUkZwTXlNNHZ3LVkySzJ2V2ZaaEFfQXo2UDhnNVJsdHhhcERpQjZUTnVBc0N0ZGxlWjctbTlPdVQyTWpYWkt3ZGcwV3BYbWdmdmMtSWIxZUVmTkJ1OFNNVGdDWXgtZzlPYmliX0c3NHJnZnhvZVBBajR0TkJmTW1penhhZXpEalJj",
@@ -1956,7 +1930,7 @@
         ],
         "published": "Sat, 08 Aug 2026 10:19:43 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-08-12T19:36:09.243325"
+        "fetch_timestamp": "2026-08-12T20:38:22.444102"
     },
     {
         "id": "CBMi2gFBVV95cUxObkR5djloS3FweEZ0aHZYT2pCaV9yemhLS1AxU1hFb0tfclY1bk55bmlIaVZ2U2NWZjdZVlVrejNXaDlIeEZxbmI0VGNLMVB6ZzV5UUpOWkJhNEdqTENVeXR3RFhzODl3Vk1lb3pQVGRLdGxES00xT1JvSnl2TUVUSXVBZU5tQ3BsU3J2MWVzbXV3a3Zvcmh5c0c1Y3lnR2lHMFR4NVI4WFJPOERYbEtxU2R6SmE3X1NFOTFJZHZNbVh3ZzBObU0weG4zSm5tOUNPNDlCRTc5aDNWZw",
@@ -1982,7 +1956,7 @@
         ],
         "published": "Sat, 08 Aug 2026 08:01:08 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-08-12T19:36:09.244009"
+        "fetch_timestamp": "2026-08-12T20:38:22.444543"
     },
     {
         "id": "CBMiW0FVX3lxTFBEcnJ1UTVIZUd5dElJb05Pa2lYdURhUHpOVzVHZzVReUlqTDhMZkJqU0tVaUFUVUV5UUpDaklKbjNzcHF1OHZjYzh0R0wxenFKejBrTDVQclNfSFk",
@@ -2008,7 +1982,7 @@
         ],
         "published": "Sat, 08 Aug 2026 06:27:51 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.244631"
+        "fetch_timestamp": "2026-08-12T20:38:22.444915"
     },
     {
         "id": "CBMiW0FVX3lxTE5nV3FZb2w1TUJheDVxUThiU3lMNFlWRXB2M1FuLXNlZEdVRWdjVUc4SDM3QUVVMU43cXN5V2R5UUR4QkVNVFlRcEs4eUV3cGVhUXFUTWg3ekNYeWM",
@@ -2034,7 +2008,7 @@
         ],
         "published": "Sat, 08 Aug 2026 06:15:40 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.245357"
+        "fetch_timestamp": "2026-08-12T20:38:22.445409"
     },
     {
         "id": "CBMiW0FVX3lxTE5KOFdFRXlNR2dRVk45ZUtUbTRXazRjUUVNMXhweGRKYi1TSGVldmxmNTAyb0Y3Skp4R202ZVFHMVJNZnVtMU5tRzZPQ1pCU3oxNDJkNG5yR0lXdjA",
@@ -2060,7 +2034,7 @@
         ],
         "published": "Sat, 08 Aug 2026 04:03:46 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:09.245997"
+        "fetch_timestamp": "2026-08-12T20:38:22.445862"
     },
     {
         "id": "CBMihAFBVV95cUxPUkpDT0JXZFZiOWFNTFBuRlZmNUlPMUVmRElhYVpuTE1FQmFEbncxYXdOcXZnTWpNUnhfS1JxNFFVc2ZEUmh5QnRxN0wyQTJGbTNwd2hsTXpNT1d0M0syb0Zad2pkdnRvSVRQY3NlcVRBNnBZTlRiUWFwWGx4QkxOa0hoWVA",
@@ -2086,7 +2060,7 @@
         ],
         "published": "Fri, 07 Aug 2026 16:49:16 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-08-12T19:36:09.246579"
+        "fetch_timestamp": "2026-08-12T20:38:22.446229"
     },
     {
         "id": "CBMiyAFBVV95cUxNWVhHSWhBM0FIeVVILUZqNFM0N2s4MUhweWhQREJab2hLRGlyemwwT2NSZG9jb1JHd093c0w2UXRCZ0VpWm83Tkc5SmZSbjZBS1VPTEMwODNXcnJOamNVZll4bTBHNUU5WERwZHdpME5yQWYxaG1CaGdwLXNpbmp0djhfcmp6Sm1OUS1mZ09mTmNwVHZEclJEdV9Vb0hKa044R1lEVEE2ODVaSnN0NG5rSlBVd01UTjdxeTdtT25tQnJmaVhWcFBzYQ",
@@ -2112,7 +2086,7 @@
         ],
         "published": "Fri, 07 Aug 2026 13:36:30 GMT",
         "source": "Anadolu Ajansı",
-        "fetch_timestamp": "2026-08-12T19:36:09.247129"
+        "fetch_timestamp": "2026-08-12T20:38:22.446583"
     },
     {
         "id": "CBMinAFBVV95cUxOMDZfUmlPOERCbmI1MGVROFYzVFlCWFd1azRQWXBCUGxwQ29tVUxCaEpkOTlIdDFXVjJOTUl2VEItZWtSZkZfUDMtM1VXbk9iQ19ySjdsczM4WVJYLVZHWHQyVmNpUVA0RzZiYjhZbmduR1hTNzdZaGVzV0xHYm5VWGxhcHVHVGpQRnNhSXVYVXNLYTUzZk5pRFcyNHA",
@@ -2147,7 +2121,7 @@
         ],
         "published": "Fri, 07 Aug 2026 12:46:43 GMT",
         "source": "The Connexion",
-        "fetch_timestamp": "2026-08-12T19:36:12.783815"
+        "fetch_timestamp": "2026-08-12T20:38:26.320632"
     },
     {
         "id": "CBMitgFBVV95cUxPSkx0RUJnaHVqaHZfOGJCcHR6SlRxTFNuWnZkd2VPUEJSSDZ0a2ktV3hsMklha3FuOUJPdUhvN3VJU2huampwVEtzMlduUEc3dXlJM19SM3BNZUNLczgybzdabUlTZVdVb3dUamkyZ3p1Z1FKLUZ2c2U1X2RNVWYtZXFIbXJKTjZndWcwSXc1RWtMZkpjcWlfWEhsRUVId2sxM3pRMTJaNXZTMkI2cFI4THNUT1ctdw",
@@ -2173,7 +2147,7 @@
         ],
         "published": "Fri, 07 Aug 2026 10:52:12 GMT",
         "source": "HESPRESS English - Morocco News",
-        "fetch_timestamp": "2026-08-12T19:36:12.784892"
+        "fetch_timestamp": "2026-08-12T20:38:26.321272"
     },
     {
         "id": "CBMiW0FVX3lxTFBEVUpKUUp1VUtVM095SFNFVU81bWR4UXdGSTdPZmJpSmMwdEdENXdEcGN0T3A1ajdwbXQ0bXlRZk5uSHVjM193Z2NBLWl2cWpLM3R3Z05yOUtIdTg",
@@ -2199,7 +2173,33 @@
         ],
         "published": "Fri, 07 Aug 2026 10:19:16 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:12.785505"
+        "fetch_timestamp": "2026-08-12T20:38:26.321683"
+    },
+    {
+        "id": "CBMiogFBVV95cUxNOFhOTWJhMDh0d2JKMHgtcjdHV1kwd0p1U3JvLWR6bUUteHVQZ1pURWR5anVWeVhnUkJaMVBvRkFmaHdXc1ZNTW1NemNuNE1kMjlFRHZFQ2RLV0NFVjJLcFlUSl8zY1ZNd2piMEhVUzdzQW1aMktJcGpVcE9lRHFHMlRBMWQyMnBNT1pfcndhM2dBNzhzaEhNM1FDaFpycGdYbUHSAacBQVVfeXFMUEx5RW9xVmV0ZlBHTWFadWJ2V3dVQ2dnMHFkNjNIdW1Yai1weUVUSTF0NlI5N0g3ZExUM3d2SHk1YUo4S3EzVXVQN1JCX1U3ZndMQXRhWVVnX05fUGg2OWN0aUxiMldrZHpyWHFFSk5mTjhTXzBZbU5NclVJSGxfYnZnRklPVmZhZGZDUGVZVnRXa21FYkM3cTlUc0VTejZRQWVXMUVtNFU",
+        "title": "Andes hantavirus case detected in France-linked traveller | Tap to know more | Inshorts - Inshorts",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFhOTWJhMDh0d2JKMHgtcjdHV1kwd0p1U3JvLWR6bUUteHVQZ1pURWR5anVWeVhnUkJaMVBvRkFmaHdXc1ZNTW1NemNuNE1kMjlFRHZFQ2RLV0NFVjJLcFlUSl8zY1ZNd2piMEhVUzdzQW1aMktJcGpVcE9lRHFHMlRBMWQyMnBNT1pfcndhM2dBNzhzaEhNM1FDaFpycGdYbUHSAacBQVVfeXFMUEx5RW9xVmV0ZlBHTWFadWJ2V3dVQ2dnMHFkNjNIdW1Yai1weUVUSTF0NlI5N0g3ZExUM3d2SHk1YUo4S3EzVXVQN1JCX1U3ZndMQXRhWVVnX05fUGg2OWN0aUxiMldrZHpyWHFFSk5mTjhTXzBZbU5NclVJSGxfYnZnRklPVmZhZGZDUGVZVnRXa21FYkM3cTlUc0VTejZRQWVXMUVtNFU?oc=5",
+        "location_name": "France-linked",
+        "coordinates": [
+            43.5698457,
+            7.1077651
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "France-linked",
+                "coordinates": [
+                    43.5698457,
+                    7.1077651
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Fri, 07 Aug 2026 05:58:48 GMT",
+        "source": "Inshorts",
+        "fetch_timestamp": "2026-08-12T20:38:27.947335"
     },
     {
         "id": "CBMikwFBVV95cUxPRDNHS1hDczBZTzZ3aEZ5SXVPQU50VDI2eG9oc3NCN3VJOGNLdVlHMkNHbVhSUG5zNlpfeXlRbHlETDhoaGtqUU1KR0c0TjU1UDdXNjRmNXZuLUJQZEVlYjUtb0pRaUFjclRrMklpZ2JjRHdJMEhualdWUVJQVVVhTEhvdlFwOWZDcWZQcVhyVWFLR28",
@@ -2234,7 +2234,7 @@
         ],
         "published": "Fri, 07 Aug 2026 05:29:58 GMT",
         "source": "RTL Today",
-        "fetch_timestamp": "2026-08-12T19:36:14.522872"
+        "fetch_timestamp": "2026-08-12T20:38:29.322926"
     },
     {
         "id": "CBMikwFBVV95cUxNamdOUmUwU25lUDhvOGpLdDdBMDhydHEwdHpSeG9RX2lySFVkQ1ZLX21DMW04M3Z2VlRWVzZRSDR3VVVxcDdOMkdUNURFUXJ0ZF95MjhXZ1lJZDRYbURtaExNcHFCeDFEdjV5UzloQWFTdjFVUlRzMHN5MnQwN0ZNYXFRemdpQnJmLThockd6ZVcwSXM",
@@ -2260,7 +2260,7 @@
         ],
         "published": "Fri, 07 Aug 2026 04:47:16 GMT",
         "source": "ddnews.gov.in",
-        "fetch_timestamp": "2026-08-12T19:36:14.523726"
+        "fetch_timestamp": "2026-08-12T20:38:29.323496"
     },
     {
         "id": "CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg",
@@ -2304,7 +2304,7 @@
         ],
         "published": "Thu, 06 Aug 2026 18:07:31 GMT",
         "source": "Medical Xpress",
-        "fetch_timestamp": "2026-08-12T19:36:16.327364"
+        "fetch_timestamp": "2026-08-12T20:38:31.084639"
     },
     {
         "id": "CBMi0AFBVV95cUxPd3FqZnhnLVlNR202cllLRXhIazE2SXJNb2k0dGI4YjNxODh4V3dDNFJKenh5LU9qX3hyeUFON2hQTFlUa0ZYMlNsNnhTQW9rVWRwTDlJMGEzT2M4dlB6MG1UWFNmV1Vhb3QzUmRlbFlfSWhFXzY2alpqNG1WbG52REtuMTZlWEJxOW44Q09vNGFHVXA5TGNHSTNKRkVYbC1GeDhla0JobEhuZkpJSHpIRG1pOVBEQzBBc2Nwc29Ca3dwcUpjbnNNc1NVRUt5UFFr0gHWAUFVX3lxTE1GbEJOX0lRc2Rnd2w5NVFydTh6Q1NobWtFRjAwcWxxUXVnVDNicUg3UE9jUWF0UGRjTFdacmZnWWI5aVlVbHFJbDN2RS0yVThtUXpKYTFpQld2bFVtOFlldmVtUDQ0N0cwTTNxdWxpdXNzbHAwUFBveW5ISUd2VFdIaW4zZ3N0a3BNTVpsaFFRYzdNUC1GVUpwcE9IR1dzQVA2cTJ3SkxvYlJPT09ZOC1kd1NsdjZSYWtfVlJLTjlWNDFVZmhTZUszQ1ZZQ1ZKek1IQ0xMYVE",
@@ -2312,8 +2312,8 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd3FqZnhnLVlNR202cllLRXhIazE2SXJNb2k0dGI4YjNxODh4V3dDNFJKenh5LU9qX3hyeUFON2hQTFlUa0ZYMlNsNnhTQW9rVWRwTDlJMGEzT2M4dlB6MG1UWFNmV1Vhb3QzUmRlbFlfSWhFXzY2alpqNG1WbG52REtuMTZlWEJxOW44Q09vNGFHVXA5TGNHSTNKRkVYbC1GeDhla0JobEhuZkpJSHpIRG1pOVBEQzBBc2Nwc29Ca3dwcUpjbnNNc1NVRUt5UFFr0gHWAUFVX3lxTE1GbEJOX0lRc2Rnd2w5NVFydTh6Q1NobWtFRjAwcWxxUXVnVDNicUg3UE9jUWF0UGRjTFdacmZnWWI5aVlVbHFJbDN2RS0yVThtUXpKYTFpQld2bFVtOFlldmVtUDQ0N0cwTTNxdWxpdXNzbHAwUFBveW5ISUd2VFdIaW4zZ3N0a3BNTVpsaFFRYzdNUC1GVUpwcE9IR1dzQVA2cTJ3SkxvYlJPT09ZOC1kd1NsdjZSYWtfVlJLTjlWNDFVZmhTZUszQ1ZZQ1ZKek1IQ0xMYVE?oc=5",
         "location_name": "Galicia",
         "coordinates": [
-            42.61946,
-            -7.863112
+            -34.9137948,
+            -57.9530291
         ],
         "location_method": "extracted",
         "location_confidence": "medium",
@@ -2321,8 +2321,8 @@
             {
                 "name": "Galicia",
                 "coordinates": [
-                    42.61946,
-                    -7.863112
+                    -34.9137948,
+                    -57.9530291
                 ],
                 "method": "extracted",
                 "confidence": "medium"
@@ -2339,7 +2339,7 @@
         ],
         "published": "Thu, 06 Aug 2026 16:13:50 GMT",
         "source": "Diari ARA",
-        "fetch_timestamp": "2026-08-12T19:36:17.959944"
+        "fetch_timestamp": "2026-08-12T20:38:32.914918"
     },
     {
         "id": "CBMiW0FVX3lxTFBpWldNd1hkYXJLM1VtOUtPeUFET1NlaThJS2pERUVvXzF0Rk8ydmgtaG51djhQZGxBZFQ5ZS1CU0VKN3czR05DaUFzV2FlYl9WcEZTTWdSYm1SZE0",
@@ -2365,7 +2365,7 @@
         ],
         "published": "Thu, 06 Aug 2026 04:38:24 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:17.960923"
+        "fetch_timestamp": "2026-08-12T20:38:32.915572"
     },
     {
         "id": "CBMi6wFBVV95cUxNWHB5cUxPVU8tbW5IRTlQRF9qTGJmQlNPdDRmU21XekNHbWxVdG5NZ1AtaHZUY2VfNmdzZkh6UTZXU2R4NlBYeEdsbjd3Y05wdWlTbFUxN0FYLWxNVjM1NU5FWEUwYVpyYkJGRXVxZ2FrM3FQa2dJb2NZT3N2OHNpN0FzV0VvN0lXQ2V3RHA1d2dFLWpZa2JtR2pYcGFfd1d6amQ4UzROZHl2dy1BdnRrWUhMa1JvSlJkSm0wV0lhSGQyM0kxTjRUWV9PblJlNVczajNEMjZFWmRIRGo5dEY5OVROVkFWR3EzTjF3",
@@ -2391,7 +2391,7 @@
         ],
         "published": "Thu, 06 Aug 2026 02:39:35 GMT",
         "source": "Doherty Institute",
-        "fetch_timestamp": "2026-08-12T19:36:17.961875"
+        "fetch_timestamp": "2026-08-12T20:38:32.916236"
     },
     {
         "id": "CBMiW0FVX3lxTE5KTHdqR0F2c1hpR3FfX3ZrUlBRY2FZZlNFbkZ1RC0tOVpDSUR2cnNCamloc0FTUjJxSGpHdnllVTlXT0hHcW5iWndSMjJiQWNOX0t5X19vZHkzZk0",
@@ -2417,7 +2417,7 @@
         ],
         "published": "Thu, 06 Aug 2026 00:50:45 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-08-12T19:36:17.962524"
+        "fetch_timestamp": "2026-08-12T20:38:32.916690"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-6-12-june-2026-week-24",
@@ -2443,6 +2443,6 @@
         ],
         "published": "Fri, 12 Jun 2026 15:19:02 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-08-12T19:36:18.756937"
+        "fetch_timestamp": "2026-08-12T20:38:33.603122"
     }
 ]
