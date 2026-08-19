@@ -1,7 +1,7 @@
 [
     {
         "id": "CBMiW0FVX3lxTE95b25talRrOS03TFRlVHVyUy1kckdwa3lQZEU2OHg2bThzeGN4bjVpSnNvTWlzVzQ4SVlvb1FmZWVuVVdWaGtGNWhLXy1RS2NVblFFN2txOXlKYzQ",
-        "title": "Marquez's Sachsenring Masterclass Terrifies Title Rivals Virus Hantavirus (Yg3iXwvrmr) - mshale.com",
+        "title": "Marquez's Sachsenring Masterclass Terrifies Title Rivals Virus Hantavirus (Yg3iXwvrmr) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95b25talRrOS03TFRlVHVyUy1kckdwa3lQZEU2OHg2bThzeGN4bjVpSnNvTWlzVzQ4SVlvb1FmZWVuVVdWaGtGNWhLXy1RS2NVblFFN2txOXlKYzQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -22,8 +22,34 @@
             }
         ],
         "published": "Wed, 19 Aug 2026 17:16:24 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:35.420036"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:21.787828"
+    },
+    {
+        "id": "CBMimAFBVV95cUxPc3pQVVh1UHlhLW95TnM4Z3ZhZUpzU3NNM1FhUDQ4WGZzaDJNSWFzZTgzM0l3aDRkOUVSMGJvblY4UlJGeW1yZFNtZEdSb1Z6UjhNWXJCSkRpVTZFSk9JVktBZU9QLXZfbWxJVXRCdmp1RFpGU3lSRTVrNVlFOHdsdzU3RGFHQVlsWjJuQl9zeVh4eVE2UkhBTw",
+        "title": "Two NJ residents possibly exposed to hantavirus: health dept - PIX11",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3pQVVh1UHlhLW95TnM4Z3ZhZUpzU3NNM1FhUDQ4WGZzaDJNSWFzZTgzM0l3aDRkOUVSMGJvblY4UlJGeW1yZFNtZEdSb1Z6UjhNWXJCSkRpVTZFSk9JVktBZU9QLXZfbWxJVXRCdmp1RFpGU3lSRTVrNVlFOHdsdzU3RGFHQVlsWjJuQl9zeVh4eVE2UkhBTw?oc=5",
+        "location_name": "Two NJ",
+        "coordinates": [
+            40.2881399,
+            -74.5476826
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Two NJ",
+                "coordinates": [
+                    40.2881399,
+                    -74.5476826
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Wed, 19 Aug 2026 12:59:54 GMT",
+        "source": "PIX11",
+        "fetch_timestamp": "2026-08-19T23:18:23.372082"
     },
     {
         "id": "CBMiyAFBVV95cUxNYUVOeTQtNEl1UDBtbGxhb29aWEJxWFdMZ0U5SzltLUltb2RrbjZlRHhCU2daN1N1T081NnozMWNoSTFjdmg4LXV4ejRZTDJJOS12UExEQTJjdUsxbGdocVNiY2dJUWlhVkdEdnRoMnRWb2M2VDZJZFdqT1ExYTBwYndnRjE3YWxjaGtmZjRiVU0xLW1iOTdFV3NqekV2dTVQUnpMRjhUMUtCVzNxX0lua2xGZlJRQUJkMGVHUjVVeWNCY1FTeVZRVg",
@@ -49,7 +75,7 @@
         ],
         "published": "Wed, 19 Aug 2026 02:35:07 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-19T22:49:35.421160"
+        "fetch_timestamp": "2026-08-19T23:18:23.372695"
     },
     {
         "id": "CBMinAFBVV95cUxOQWowSXMtQW9NTlotcmFRdlB1ZURnalFYODBXWGhkbkZKcU5qN0FrUENuQXJ2TlBaZ3RoOXNwN25fVUZiVnFlVDF4QWI0cFMwT0NRTHR3c2dQWXBRbEhzM2ZJYUtVdHcxNjNIQ0thZ1FDX2ZzSXRsV0xZSm9GMTQ2b1hWV2owQTBhRzdBMTVGQk1iWGctVXNINVQ1bGI",
@@ -75,7 +101,7 @@
         ],
         "published": "Wed, 19 Aug 2026 00:46:39 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-19T22:49:35.421867"
+        "fetch_timestamp": "2026-08-19T23:18:23.373437"
     },
     {
         "id": "CBMiTEFVX3lxTE1kTnJ5bDk0SV8zWWx5ZnlLa0t3S2pNSUlRWDJybWhDQTBYanJoSTB5YlgyLTI3Q29TM1VCeDFia2hUVlhhTV9rTkluQWg",
@@ -101,7 +127,7 @@
         ],
         "published": "Tue, 18 Aug 2026 23:20:19 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-08-19T22:49:35.422521"
+        "fetch_timestamp": "2026-08-19T23:18:23.374161"
     },
     {
         "id": "CBMickFVX3lxTE1zWGptMWZIclZCYjg1MFF1R3ZlSWN5bVhRQWRWczlEM2QxSjBBY2dCOHFYZHlWNnh0QnBSZ1RWc2s3VHpMRFJNQnhULWVJSkg3QUpxWlZzYldQVjhPMnY3eU41MjFUNUJ1MlZZVU1rWXV1Zw",
@@ -127,7 +153,7 @@
         ],
         "published": "Tue, 18 Aug 2026 13:17:12 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-19T22:49:35.422914"
+        "fetch_timestamp": "2026-08-19T23:18:23.374631"
     },
     {
         "id": "CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ",
@@ -162,7 +188,7 @@
         ],
         "published": "Tue, 18 Aug 2026 12:41:27 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-08-19T22:49:38.269635"
+        "fetch_timestamp": "2026-08-19T23:18:26.200021"
     },
     {
         "id": "CBMihwFBVV95cUxQRUF5bXNaY055ak5EZ0RUT0lHTG45SzN3RFZmcDBrUzFSTzVqdVFxNjh3c2JiU1paX0ZDOEFJRUdubElHa2JtajJ3VC1uVGlMQnh5QkZZaUdSTnBzSXB3a29fZVlveGdrRTUzN2p2bk8yUXRRUDkxTlE4OExJclNsUVJHZndTa1E",
@@ -188,11 +214,11 @@
         ],
         "published": "Tue, 18 Aug 2026 12:18:40 GMT",
         "source": "OddsShopper",
-        "fetch_timestamp": "2026-08-19T22:49:38.270348"
+        "fetch_timestamp": "2026-08-19T23:18:26.200820"
     },
     {
         "id": "CBMiuwFBVV95cUxQd0ZHbWJ4R1lFVGhGQlByZ1FQNHFfUkNUV1pVX0dQSzNsWG9Zc2N0S2NweXZiYm0tdTBxQm9UeXNDcThCdmtjQjJwTE1CUDMxdXRqT1EwMmtHTHRMM2R6NjZtWG0zX0llUmo2cW1qVVZ6QXJfMVhMLWhUaVV5SWVaQWp5Q0ZrNlM5Z3ZabWxtUUswSWFxQnBSNG9CclB2ZmVSNDVJNUoxeVN0bmRUdVB4WjQ4TTNhVWNncEtj",
-        "title": "INO, MRNA, NVAX, EBS Jump Overnight: Trump Promises Full Hantavirus Report As Deadly Outbreak Sparks Vaccine Rally - Stocktwits",
+        "title": "INO, MRNA, NVAX, EBS Jump Overnight: Trump Promises Full Hantavirus Report As Deadly Outbreak Sparks Vaccine Rally - stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0ZHbWJ4R1lFVGhGQlByZ1FQNHFfUkNUV1pVX0dQSzNsWG9Zc2N0S2NweXZiYm0tdTBxQm9UeXNDcThCdmtjQjJwTE1CUDMxdXRqT1EwMmtHTHRMM2R6NjZtWG0zX0llUmo2cW1qVVZ6QXJfMVhMLWhUaVV5SWVaQWp5Q0ZrNlM5Z3ZabWxtUUswSWFxQnBSNG9CclB2ZmVSNDVJNUoxeVN0bmRUdVB4WjQ4TTNhVWNncEtj?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -213,8 +239,8 @@
             }
         ],
         "published": "Tue, 18 Aug 2026 11:53:31 GMT",
-        "source": "Stocktwits",
-        "fetch_timestamp": "2026-08-19T22:49:38.271136"
+        "source": "stocktwits.com",
+        "fetch_timestamp": "2026-08-19T23:18:26.201639"
     },
     {
         "id": "CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE",
@@ -240,7 +266,7 @@
         ],
         "published": "Tue, 18 Aug 2026 08:36:16 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-08-19T22:49:38.271835"
+        "fetch_timestamp": "2026-08-19T23:18:26.202433"
     },
     {
         "id": "CBMimwFBVV95cUxOR3pIanZBbENOZWp5WXZkUGEzcDNla1Fhcnp0dkthV0hCOG1IaVNUaEswejJCRzRpaUs1cVpIY3BWV0tZSDNYdVlPQ0k5YzMzS2dpVUpaZldCZ3ZRR0JFNzBhNEN6UzRMNDZOYjN1SDZzMkZBenQwNnRRRVpvQ19rbTQ1MnREbWNQTzdRa2Qxa2VJN2tVTFBxOUxHYw",
@@ -266,11 +292,11 @@
         ],
         "published": "Tue, 18 Aug 2026 04:28:03 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-08-19T22:49:38.272231"
+        "fetch_timestamp": "2026-08-19T23:18:26.202868"
     },
     {
         "id": "CBMiW0FVX3lxTE9jRU9uTlhBZ1dac25qb0lrUU9LdTduLXBxNWJGbi0ybmZYYUo0N010ZlFkMWxlZndaOThDbnB0aU5Ld1BlSFZRdlI4Q0dIMDNVRm14WVpoTnBlaE0",
-        "title": "Extreme Heat Warning For The Ozarks - Heat Index 110-115 Hantavirus Illinois (wPPiqCwT5n) - mshale.com",
+        "title": "Extreme Heat Warning For The Ozarks - Heat Index 110-115 Hantavirus Illinois (wPPiqCwT5n) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRU9uTlhBZ1dac25qb0lrUU9LdTduLXBxNWJGbi0ybmZYYUo0N010ZlFkMWxlZndaOThDbnB0aU5Ld1BlSFZRdlI4Q0dIMDNVRm14WVpoTnBlaE0?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -291,12 +317,12 @@
             }
         ],
         "published": "Tue, 18 Aug 2026 03:08:39 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:38.272840"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:26.203513"
     },
     {
         "id": "CBMiW0FVX3lxTE91dWFiSEFwc0Z6Q2V3ZG5YcUg1RFNzWVJpYjczYzdHcEs0cEowWE92cGJPVUZ1TWFCMGlhakxRMG9ocXpDNGlSVDRiVDRGejFQT0NSWU00SFV6Y0E",
-        "title": "Hamad Medjedovic Vs Jesper De Jong | Roland Garros 2023 Hantavirus Milano (RlG25ajhIS) - mshale.com",
+        "title": "Hamad Medjedovic Vs Jesper De Jong | Roland Garros 2023 Hantavirus Milano (RlG25ajhIS) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dWFiSEFwc0Z6Q2V3ZG5YcUg1RFNzWVJpYjczYzdHcEs0cEowWE92cGJPVUZ1TWFCMGlhakxRMG9ocXpDNGlSVDRiVDRGejFQT0NSWU00SFV6Y0E?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -317,12 +343,12 @@
             }
         ],
         "published": "Tue, 18 Aug 2026 02:07:49 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:38.273432"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:26.204167"
     },
     {
         "id": "CBMiW0FVX3lxTFBiNDBkclg3SHRaRU15MGo4ZmdJaUNGbE5XbVplOUluQVpFQnpiY3k5eTNDQUljUmpTWTRJUnNEb3J3b3pVUy1OcFVPNmRfV3pUZElUX3VmS3pObUE",
-        "title": "Gary Sanchez Defensive Highlights || EL GARY || ᴴᴰ Hantavirus Milano (qLc6uB3Pcf) - mshale.com",
+        "title": "Gary Sanchez Defensive Highlights || EL GARY || ᴴᴰ Hantavirus Milano (qLc6uB3Pcf) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiNDBkclg3SHRaRU15MGo4ZmdJaUNGbE5XbVplOUluQVpFQnpiY3k5eTNDQUljUmpTWTRJUnNEb3J3b3pVUy1OcFVPNmRfV3pUZElUX3VmS3pObUE?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -343,8 +369,8 @@
             }
         ],
         "published": "Tue, 18 Aug 2026 00:53:24 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:38.274114"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:26.204844"
     },
     {
         "id": "CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw",
@@ -388,7 +414,7 @@
         ],
         "published": "Tue, 18 Aug 2026 00:44:36 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-08-19T22:49:39.381639"
+        "fetch_timestamp": "2026-08-19T23:18:27.313663"
     },
     {
         "id": "CBMiqgFBVV95cUxQVG51a2d2Rmo0RUNLVF9oVWxRRFpxdmJ1UGlwNmJ5OVcwNV8wOTRFbl9QNHc0UkNKaDI4N0J4QjNkVEMtcVVNbWxqUzJ2QUlYVlVQMjBCbkJlWWVzNElERTR4N0FHNFhBUEdxbzJHbW9uY1Y1c1BEbnp3U0g0LTN4NzNpcURlNC13TkJGQXFlQXQyVUpkMmtvOGRjSXdLYTFpaGZzaDFsX2ZDd9IBrwFBVV95cUxOZWtUd2dHSktfZUtxY21DQ1ZXT0liSlRYRE42VUlZUnRRelhaY1l1NGJCUDladWppZ19hT3lCNUN2d1BXSUxURm5VaFdYamtIRnhFZGx0UnNBN19uOGFySnRiR1hKRUhrZXdDdTdEc1VaX1paZXlPZVd2cDJrUFA5Y3I1blhiWGh2X1pWQk9kcV8wcUdDN0tlaVMwSGhlSEcwQ2ZrdzBlZGt3VzhtV1FZ",
@@ -414,7 +440,7 @@
         ],
         "published": "Tue, 18 Aug 2026 00:21:36 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-08-19T22:49:39.382729"
+        "fetch_timestamp": "2026-08-19T23:18:27.314759"
     },
     {
         "id": "CBMiqwFBVV95cUxOanBya3VnenlXNEprVzFhcGNBN1MwQ0VCSE9rU1dSRHp6THlLTElCZThJb0VvMW9xbVk3cnhYNUFBVTBPWHpkWDM1clBkaTRiNVIyQm0xLUhsYzh2X0x3dXBMN0xPVUtpa3FDQWgyZHFUc1ZNVUtMM0JiVW52OW1tS2ZaeEROeUVxYS1OX2NYcW1JVzBFbVU2X0lsMTNzdUp5azJLNUp1Y3FJNWvSAbABQVVfeXFMUFFXRG5FYW9leWxiQmVtVWlSY1FLd1kxWnFnS0NCMm1Ra0lsUnlxRmVoVmFJazVfSnNzQVctcEYwM0JhQVNBRnNMLUZrRkIwcFh2ZTlNeGxoYU9ic1BLemd0Q3hrMVpzQk42UUlkbENhaTFfZDJhYTRMVHYtbzhlVFdiUWhNNFoxekpOOUJDcGJkYW1oeGo0RW85bl9WZzBaeGpvejV6VGNnbVFKSS1OZlI",
@@ -440,11 +466,11 @@
         ],
         "published": "Tue, 18 Aug 2026 00:19:36 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-08-19T22:49:39.383391"
+        "fetch_timestamp": "2026-08-19T23:18:27.315478"
     },
     {
         "id": "CBMiW0FVX3lxTE5ZakgxODlSenVOZG84QnYwdU1WSXFGQmpaaFhWdUVxZTNUSVVhZ2RkU3c5anVKbDBheFpYNlZJM1djU21FUHIyY3E4UExqWTBKZXV0VlRoLWc1RE0",
-        "title": "MEXICO VS ENGLAND: 4 Minutes Preview Tactical Masterclass ⚠️ Virus Hantavirus Contagio (7I7SOeggP4) - mshale.com",
+        "title": "MEXICO VS ENGLAND: 4 Minutes Preview Tactical Masterclass ⚠️ Virus Hantavirus Contagio (7I7SOeggP4) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZakgxODlSenVOZG84QnYwdU1WSXFGQmpaaFhWdUVxZTNUSVVhZ2RkU3c5anVKbDBheFpYNlZJM1djU21FUHIyY3E4UExqWTBKZXV0VlRoLWc1RE0?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -465,12 +491,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 23:21:53 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:39.384122"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:27.316239"
     },
     {
         "id": "CBMiYEFVX3lxTFBsTFJHRnk0WTE3a1ZoWTB6b1dUNDJBUjRlN01lbi1feEhtRGgtbE9ob3g0cGhGWmJUN0tQbXhZQUdRUzdQMnk2NjlCUUhxVTZTUzF3LV8yak83bDNIQUdJSw",
-        "title": "Perrita Contagio Hantavirus (0K99UupJ9D) - mshale.com",
+        "title": "Perrita Contagio Hantavirus (0K99UupJ9D) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsTFJHRnk0WTE3a1ZoWTB6b1dUNDJBUjRlN01lbi1feEhtRGgtbE9ob3g0cGhGWmJUN0tQbXhZQUdRUzdQMnk2NjlCUUhxVTZTUzF3LV8yak83bDNIQUdJSw?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -491,8 +517,8 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 21:32:47 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:39.384593"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:27.316721"
     },
     {
         "id": "CBMikAFBVV95cUxPemFaZjh5S25mQkNLem9pNHdEVFFqUVJ1LU1TMHVNa2tMaVV0SG9XeE04Ry1lYWlYM2VacGFRY25PRlZFRkYtUjBRS3RJV0VnVHdEYUJYUTk0S0V2alJ0bFh4ZDVJWjNPOUluUzVZYUpIRXFTQkVESlo5UVk4TTFDTDlMNTBDZTRxTkQ5Yk9IQ2E",
@@ -518,11 +544,11 @@
         ],
         "published": "Mon, 17 Aug 2026 21:09:13 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-08-19T22:49:39.385356"
+        "fetch_timestamp": "2026-08-19T23:18:27.317549"
     },
     {
         "id": "CBMiW0FVX3lxTE1GNlZIRkdxRGhraEpiczNHbU0wNWZfZjczY3k2NjZNeXpReEdBRmUtQTg0X3pDbVUyNnIzZW5mM2hqc2NJeXE1UVYwdHYwU29PLWR4V21kYkNHeEk",
-        "title": "£3 Dr. Martens... Flipped For? Virus Hantavirus Contagio (DkTs2teMug) - mshale.com",
+        "title": "£3 Dr. Martens... Flipped For? Virus Hantavirus Contagio (DkTs2teMug) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GNlZIRkdxRGhraEpiczNHbU0wNWZfZjczY3k2NjZNeXpReEdBRmUtQTg0X3pDbVUyNnIzZW5mM2hqc2NJeXE1UVYwdHYwU29PLWR4V21kYkNHeEk?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -543,12 +569,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 20:37:22 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:39.385955"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:27.318177"
     },
     {
         "id": "CBMiYEFVX3lxTFBjV1pReUpGb012NUhnOVJWNEk0T1ZCRlJjV3hkNlByZ21XM0xoOGpMay1EdFI4cjJKbl94a281azJZZGdjbldwSmRXamhpdGZSRUtYNW9TTnJWTXdJaVVIbg",
-        "title": "Dominick Cruz Vs Takeya Mizugaki [Highlights] Hantavirus Map (Xl82qP3wIM) - mshale.com",
+        "title": "Dominick Cruz Vs Takeya Mizugaki [Highlights] Hantavirus Map (Xl82qP3wIM) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjV1pReUpGb012NUhnOVJWNEk0T1ZCRlJjV3hkNlByZ21XM0xoOGpMay1EdFI4cjJKbl94a281azJZZGdjbldwSmRXamhpdGZSRUtYNW9TTnJWTXdJaVVIbg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -569,8 +595,8 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 19:37:53 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:39.386509"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:27.318767"
     },
     {
         "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
@@ -596,7 +622,7 @@
         ],
         "published": "Mon, 17 Aug 2026 16:07:15 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-08-19T22:49:40.491371"
+        "fetch_timestamp": "2026-08-19T23:18:28.424722"
     },
     {
         "id": "CBMihwFBVV95cUxNOWc0NllNNk1USGVONktNa09JWXE0cVJsdEdIb3dMZ0ZRZDNIMTFXU3FKSHNDWFBUZjIzdUt4SGxDd3Y4Q18tNzVwbWUxdnlOSk9HdlBRcUNXdXdycHV3ekVTVlFhTmZ4Wm0wTlNwNWpjRjRoVlFZcURCSDNCMGxkcjZvd2cyTnc",
@@ -622,11 +648,11 @@
         ],
         "published": "Mon, 17 Aug 2026 15:15:00 GMT",
         "source": "AOL.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.492104"
+        "fetch_timestamp": "2026-08-19T23:18:28.425447"
     },
     {
         "id": "CBMiYEFVX3lxTE9ob1U4OXJVcTdGcEM2TmZBNTRRYUpYTlJVbGlubzNaNmtxaUlhSXFpTHdVWmQ0MlZtTkJfRjE0bHNETXdxYnFHdklIR2xiWWlfeDJfWHNhYWxXdW5yVmphSg",
-        "title": "CANADA VS BOSNIA || WORLD CUP 2026 || SCORE PREDICTION Hantavirus Mascherine (r7sd3ZpetL) - mshale.com",
+        "title": "CANADA VS BOSNIA || WORLD CUP 2026 || SCORE PREDICTION Hantavirus Mascherine (r7sd3ZpetL) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ob1U4OXJVcTdGcEM2TmZBNTRRYUpYTlJVbGlubzNaNmtxaUlhSXFpTHdVWmQ0MlZtTkJfRjE0bHNETXdxYnFHdklIR2xiWWlfeDJfWHNhYWxXdW5yVmphSg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -647,12 +673,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 14:40:54 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.492746"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.426096"
     },
     {
         "id": "CBMiW0FVX3lxTFBldEFJVFROUzFlUFgtUEk1bklhdmF5enpLR1k1Z0pEeno4MTVHZlJFMUtxNDhDRU5qaERqSHFITW1KN2FFQjN3V3RUTTF1b1FLSlQ1QjZMZi1NUDg",
-        "title": "Antilopen Gang - Pizza (Live @ Highfield Festival 2024) Hantavirus Pandemia (0p1un1HKdW) - mshale.com",
+        "title": "Antilopen Gang - Pizza (Live @ Highfield Festival 2024) Hantavirus Pandemia (0p1un1HKdW) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBldEFJVFROUzFlUFgtUEk1bklhdmF5enpLR1k1Z0pEeno4MTVHZlJFMUtxNDhDRU5qaERqSHFITW1KN2FFQjN3V3RUTTF1b1FLSlQ1QjZMZi1NUDg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -673,12 +699,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 13:30:51 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.493281"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.426666"
     },
     {
         "id": "CBMitwFBVV95cUxQX0xRaDZkMXJSaElmbmxzMGZhbGkzN2NOWHVnWUh3SUtjSDBHeGhSU0R2Wk1QMzBNUXdCc1BoRUhSZHRrUUs4UG9xdEllRVhOR01mVTR6NFJvR1pINlVQQk5nWm4zR0tYSk9DaDdXVGV5ekktSEQwT0NHc3NFQVFLSDhNR25GdnJzcEtRV2lFTmlBUzA1MFo1ZmZ6NHRBUmtwZkE0TnZMQzRZY2JXREFDTHdGTDBJWU0",
-        "title": "GOVX Stock Became A Hot Biodefense Trade Amid Ebola, Hantavirus Concerns - Stocktwits",
+        "title": "GOVX Stock Became A Hot Biodefense Trade Amid Ebola, Hantavirus Concerns - stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0xRaDZkMXJSaElmbmxzMGZhbGkzN2NOWHVnWUh3SUtjSDBHeGhSU0R2Wk1QMzBNUXdCc1BoRUhSZHRrUUs4UG9xdEllRVhOR01mVTR6NFJvR1pINlVQQk5nWm4zR0tYSk9DaDdXVGV5ekktSEQwT0NHc3NFQVFLSDhNR25GdnJzcEtRV2lFTmlBUzA1MFo1ZmZ6NHRBUmtwZkE0TnZMQzRZY2JXREFDTHdGTDBJWU0?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -699,12 +725,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 12:15:14 GMT",
-        "source": "Stocktwits",
-        "fetch_timestamp": "2026-08-19T22:49:40.493836"
+        "source": "stocktwits.com",
+        "fetch_timestamp": "2026-08-19T23:18:28.427288"
     },
     {
         "id": "CBMiW0FVX3lxTE1FbWppU09PcGNwN1JTa1c3MFU2ZnNXc2xnWHpSREc2aWpEaUNHa2VXemtUSjNud3dsTjdkTG5jamV4QURhSjJrdS1ISDRSclRtWFhaVERMQ1Bqcms",
-        "title": "MAMADOU ALPHA DIALLO Hantavirus Milano (xKNRp8Ns14) - mshale.com",
+        "title": "MAMADOU ALPHA DIALLO Hantavirus Milano (xKNRp8Ns14) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbWppU09PcGNwN1JTa1c3MFU2ZnNXc2xnWHpSREc2aWpEaUNHa2VXemtUSjNud3dsTjdkTG5jamV4QURhSjJrdS1ISDRSclRtWFhaVERMQ1Bqcms?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -725,12 +751,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 07:06:55 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.494308"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.427802"
     },
     {
         "id": "CBMiW0FVX3lxTE5fS1pOMmIzSEdXY3FBdEV0Skg5a3dCLWJ0Y25tNWdTQUplOUwwcVJ5bnM2Q3hlVjBQd0lWaHVBUGdqMDRLMF9qRnpNU0czUGp6RFN5NVd4X09QYzg",
-        "title": "DELE ALLI'S TOP 10 SPURS GOALS! Hantavirus Illinois (OIHPzc1Kb3) - mshale.com",
+        "title": "DELE ALLI'S TOP 10 SPURS GOALS! Hantavirus Illinois (OIHPzc1Kb3) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fS1pOMmIzSEdXY3FBdEV0Skg5a3dCLWJ0Y25tNWdTQUplOUwwcVJ5bnM2Q3hlVjBQd0lWaHVBUGdqMDRLMF9qRnpNU0czUGp6RFN5NVd4X09QYzg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -751,12 +777,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 06:39:29 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.494831"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.428375"
     },
     {
         "id": "CBMiW0FVX3lxTE9PRzZlcFZ4RFE4TkE5NzV1R2czZ0Q4dHRyNFZmRXlrTmNYWmFEXzlMZEktY0dqWjM0SEUtMlVaZGEwVVRUOEkzY1FTRnEyaDlRazlsT0J6LWw3ZnM",
-        "title": "Hantavirus Hit Cruise Ship Reaches Rotterdam, Crew Being Quarantined And Ship Disinfected Shepton Mallet (0S6UnDFx7y) - mshale.com",
+        "title": "Hantavirus Hit Cruise Ship Reaches Rotterdam, Crew Being Quarantined And Ship Disinfected Shepton Mallet (0S6UnDFx7y) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PRzZlcFZ4RFE4TkE5NzV1R2czZ0Q4dHRyNFZmRXlrTmNYWmFEXzlMZEktY0dqWjM0SEUtMlVaZGEwVVRUOEkzY1FTRnEyaDlRazlsT0J6LWw3ZnM?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -777,12 +803,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 05:58:35 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.495524"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.429098"
     },
     {
         "id": "CBMiW0FVX3lxTE9rWXJtTEtIZ1dVRHV1Z3kzcWFnd2Y2ZjhwU3RuaTRvQV83cF9KcmlwWWxGQmVhREt3eEVJX1NyUDN2M0laVEpncWhyZGN5ZjlHQTQ5Rm1tME1Ra0k",
-        "title": "The Road | The Story Of JJ Wetherholt Contagio Hantavirus (oOJVdXR6Kw) - mshale.com",
+        "title": "The Road | The Story Of JJ Wetherholt Contagio Hantavirus (oOJVdXR6Kw) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rWXJtTEtIZ1dVRHV1Z3kzcWFnd2Y2ZjhwU3RuaTRvQV83cF9KcmlwWWxGQmVhREt3eEVJX1NyUDN2M0laVEpncWhyZGN5ZjlHQTQ5Rm1tME1Ra0k?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -803,12 +829,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 05:02:34 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.496069"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.429693"
     },
     {
         "id": "CBMiW0FVX3lxTFBPRHFRNGROV0g4alh0akx2Ukx0VWhfY0c1Tlk3cVN2MGliYkwxbms3Mi1sMy14UEtZb29ZUnNoS3VTWFF3Y3h6OWVmaFNMek1CMzd3Z2VXWnNoaE0",
-        "title": "James Webb Space Telescope Documentary In Urdu Hindi | Urdu Cover Hantavirus Map (J7oHryNKNq) - mshale.com",
+        "title": "James Webb Space Telescope Documentary In Urdu Hindi | Urdu Cover Hantavirus Map (J7oHryNKNq) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPRHFRNGROV0g4alh0akx2Ukx0VWhfY0c1Tlk3cVN2MGliYkwxbms3Mi1sMy14UEtZb29ZUnNoS3VTWFF3Y3h6OWVmaFNMek1CMzd3Z2VXWnNoaE0?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -829,12 +855,12 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 05:01:21 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.496674"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.430351"
     },
     {
         "id": "CBMiYEFVX3lxTE9pbXpkMzVSYUg2UXlDVzJSVzFwcnpHM0FDS0FUSzYtMWI0eTM5SGdGRHlMQ1hvRllYQ2NoRUZPNzVuNDJZOERkMkRFa2xpTERpU09aSmhESGxNTzMxeUdKSA",
-        "title": "Cathay Pacific Economy On The A350-1000 To Osaka — Flawless? Hantavirus Map (H56mIYdyNh) - mshale.com",
+        "title": "Cathay Pacific Economy On The A350-1000 To Osaka — Flawless? Hantavirus Map (H56mIYdyNh) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pbXpkMzVSYUg2UXlDVzJSVzFwcnpHM0FDS0FUSzYtMWI0eTM5SGdGRHlMQ1hvRllYQ2NoRUZPNzVuNDJZOERkMkRFa2xpTERpU09aSmhESGxNTzMxeUdKSA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -855,34 +881,8 @@
             }
         ],
         "published": "Mon, 17 Aug 2026 04:17:07 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:40.497344"
-    },
-    {
-        "id": "CBMimAFBVV95cUxPc3pQVVh1UHlhLW95TnM4Z3ZhZUpzU3NNM1FhUDQ4WGZzaDJNSWFzZTgzM0l3aDRkOUVSMGJvblY4UlJGeW1yZFNtZEdSb1Z6UjhNWXJCSkRpVTZFSk9JVktBZU9QLXZfbWxJVXRCdmp1RFpGU3lSRTVrNVlFOHdsdzU3RGFHQVlsWjJuQl9zeVh4eVE2UkhBTw",
-        "title": "Two NJ residents possibly exposed to hantavirus: health dept - PIX11",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3pQVVh1UHlhLW95TnM4Z3ZhZUpzU3NNM1FhUDQ4WGZzaDJNSWFzZTgzM0l3aDRkOUVSMGJvblY4UlJGeW1yZFNtZEdSb1Z6UjhNWXJCSkRpVTZFSk9JVktBZU9QLXZfbWxJVXRCdmp1RFpGU3lSRTVrNVlFOHdsdzU3RGFHQVlsWjJuQl9zeVh4eVE2UkhBTw?oc=5",
-        "location_name": "Two NJ",
-        "coordinates": [
-            40.2881399,
-            -74.5476826
-        ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "Two NJ",
-                "coordinates": [
-                    40.2881399,
-                    -74.5476826
-                ],
-                "method": "extracted",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Mon, 17 Aug 2026 03:54:47 GMT",
-        "source": "PIX11",
-        "fetch_timestamp": "2026-08-19T22:49:42.055056"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.431065"
     },
     {
         "id": "CBMioAFBVV95cUxQc282b0RKMEVQbGFyMmxFN2FqTHY3Xy1TYnRoeUpHVW41UGpzY1haVmpTNXRWM0RZLUdjTGkzTFFiOEZFQkdienk4NV9ZSHFuR1otWmZwSUJzNmszZkNER0l5TWg1dEJOZjRhTFctYXlEU2RwMG1NSU11SXFYVDBCMWg3eEVfU0dWbzFzOTNpSkxReER4WU9kTmFzZjJMamFF",
@@ -908,7 +908,7 @@
         ],
         "published": "Mon, 17 Aug 2026 01:03:03 GMT",
         "source": "Omaha World-Herald",
-        "fetch_timestamp": "2026-08-19T22:49:42.055840"
+        "fetch_timestamp": "2026-08-19T23:18:28.431681"
     },
     {
         "id": "CBMioAFBVV95cUxQMHZhUTNJWkVVZVluR1dUZGgxMlFTSTlPbEVuLWRwRTcySzFvMFRCdmxXQjB0UEFWZm0zZHFOQ2tLYS16cGZsRkc3ZWZKdzlubzJneWEyb2ZEVFRoc0ZsRTJIVmFhRnFDUUhYcDVneTkzbUgxb1otQkNjYXlIR0JibF82TjFRQ2NpZWU3aHBNVE9TcVJseFNrQUdZdjltWjFW",
@@ -934,7 +934,7 @@
         ],
         "published": "Mon, 17 Aug 2026 01:03:03 GMT",
         "source": "Omaha World-Herald",
-        "fetch_timestamp": "2026-08-19T22:49:42.056516"
+        "fetch_timestamp": "2026-08-19T23:18:28.432423"
     },
     {
         "id": "CBMijgFBVV95cUxNb1hNM1A0M2pxSkdlUW9YSnRnZ2JpalNtdXZtd3Uyc3E0a1E1M0ZROTAyMVRGbzV3SmlsUTlNYnlrVEdQX2UzbThCeUJSdWVQeVNQOUhwNzJNNGgyQWRWa0FWRm9FaEUwb3B0YTRRdGRfUmswWVVNQlgtN0k0enN3VEctSFk2anFMUDB0SEFR",
@@ -960,11 +960,11 @@
         ],
         "published": "Mon, 17 Aug 2026 00:48:36 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-08-19T22:49:42.056986"
+        "fetch_timestamp": "2026-08-19T23:18:28.432939"
     },
     {
         "id": "CBMiW0FVX3lxTE82aFhBV28zakY3bDFaUUoxd3FNd09LNjNCZVJINngtaElJc1Rsa2lTcnJNNjBraVBxTk45d0dZZnN1Yi1YVlRPeGhjbk9ETUFRd0RCSjVqRkNoLVU",
-        "title": "Jonathan Maul College Recruiting Video Virus Hantavirus Contagio (IdQ1jDV1nQ) - mshale.com",
+        "title": "Jonathan Maul College Recruiting Video Virus Hantavirus Contagio (IdQ1jDV1nQ) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82aFhBV28zakY3bDFaUUoxd3FNd09LNjNCZVJINngtaElJc1Rsa2lTcnJNNjBraVBxTk45d0dZZnN1Yi1YVlRPeGhjbk9ETUFRd0RCSjVqRkNoLVU?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -985,12 +985,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 22:00:09 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.057573"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.433538"
     },
     {
         "id": "CBMiW0FVX3lxTFA3R1RFVDRMa091RjZIOFVRU3VkLTJzSGpoMy0ycElKOWNZZTJ2alNvSXZ1TXdUU29LdC1ocHBGMDgwbUJ0d3ppRlhsR3RmYTBRSDFiWFMtSkNJaTg",
-        "title": "Tennis Channel Cincinnati Open 2026 Teaser Contagio Hantavirus (T7y9ksljWy) - mshale.com",
+        "title": "Tennis Channel Cincinnati Open 2026 Teaser Contagio Hantavirus (T7y9ksljWy) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3R1RFVDRMa091RjZIOFVRU3VkLTJzSGpoMy0ycElKOWNZZTJ2alNvSXZ1TXdUU29LdC1ocHBGMDgwbUJ0d3ppRlhsR3RmYTBRSDFiWFMtSkNJaTg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1011,12 +1011,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 19:37:54 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.058113"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.434130"
     },
     {
         "id": "CBMiW0FVX3lxTE9BcHdkM3FpRDJTZVd1am9saUNxemJ1VV8tNjZrM0tPY05KZ1IxY2xoYkJwR3JndENDa2IzNHNnVUQxVEJKTkQ1aFU2bGJTc1hBeHY4X2wxTkFHRm8",
-        "title": "Aymeric Laporte Hantavirus Pandemia (VnJKQXQveP) - mshale.com",
+        "title": "Aymeric Laporte Hantavirus Pandemia (VnJKQXQveP) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BcHdkM3FpRDJTZVd1am9saUNxemJ1VV8tNjZrM0tPY05KZ1IxY2xoYkJwR3JndENDa2IzNHNnVUQxVEJKTkQ1aFU2bGJTc1hBeHY4X2wxTkFHRm8?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1037,12 +1037,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 17:58:58 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.058575"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.434623"
     },
     {
         "id": "CBMiYEFVX3lxTE5BZ1B1ZmdDT2N4MmdFTURoN25DRDc5X3BrUy1YN0hLOEwtZXdnZkh3NW1SdlRzNzFzUEgtamtxV3NFMlJ3bVRtcG9OWWZRMHpSNzFkMFpvV2MxZlItdjkyZA",
-        "title": "Congenital Adrenal Hyperplasia Hantavirus Los Angeles (gZe2KGMJCl) - mshale.com",
+        "title": "Congenital Adrenal Hyperplasia Hantavirus Los Angeles (gZe2KGMJCl) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BZ1B1ZmdDT2N4MmdFTURoN25DRDc5X3BrUy1YN0hLOEwtZXdnZkh3NW1SdlRzNzFzUEgtamtxV3NFMlJ3bVRtcG9OWWZRMHpSNzFkMFpvV2MxZlItdjkyZA?oc=5",
         "location_name": "California",
         "coordinates": [
@@ -1063,12 +1063,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 17:44:10 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.059021"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.435138"
     },
     {
         "id": "CBMiW0FVX3lxTFBBaHRvck16djJROGJFWUpHSnc4VHdKMTlEeS1USG9HbXBzcVJxRGNFZDRCdXItMGt0ekJmWEVHREZuaWdqaHBZVHRpVGtGYkJXZTRYZ0M2bFhIUFk",
-        "title": "Episode 10: Carsten Lützen , Curiosity As An Engine To Success Hantavirus Mascherine (ab0TjDDpdb) - mshale.com",
+        "title": "Episode 10: Carsten Lützen , Curiosity As An Engine To Success Hantavirus Mascherine (ab0TjDDpdb) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBaHRvck16djJROGJFWUpHSnc4VHdKMTlEeS1USG9HbXBzcVJxRGNFZDRCdXItMGt0ekJmWEVHREZuaWdqaHBZVHRpVGtGYkJXZTRYZ0M2bFhIUFk?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1089,12 +1089,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 17:11:48 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.059702"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.435843"
     },
     {
         "id": "CBMiW0FVX3lxTE9HYjBNblVodlI2Vkl0WEhtNzhDamxfOF9yV2NzWGZucS1UMUZ2SEdkM2ctb3o2OXF2eVRVamN5VFRZQ0U3cGg1ajdaSWltN3pfdjZ6SmpzbjVnWTg",
-        "title": "Spend The Morning With Keely Hodgkinson | Vitality UK Virus Hantavirus Contagio (ZKwAoUY5k5) - mshale.com",
+        "title": "Spend The Morning With Keely Hodgkinson | Vitality UK Virus Hantavirus Contagio (ZKwAoUY5k5) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYjBNblVodlI2Vkl0WEhtNzhDamxfOF9yV2NzWGZucS1UMUZ2SEdkM2ctb3o2OXF2eVRVamN5VFRZQ0U3cGg1ajdaSWltN3pfdjZ6SmpzbjVnWTg?oc=5",
         "location_name": "United Kingdom",
         "coordinates": [
@@ -1115,12 +1115,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 16:32:03 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.060278"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.436465"
     },
     {
         "id": "CBMiW0FVX3lxTE53QnhwbUlSRV9xUzcyNk56c1Q0TWpGVDl5aDZubzI0T1JDLW9UNU0xZmZwMUFXZmJMbFpUdWY0YWFqeEJhZFJablpYeGNZZVZFWUpUQXQxT0t3dGM",
-        "title": "Yasser Al-Qahtani لقاء مترجم Contagio Hantavirus (UcLxl8CRIJ) - mshale.com",
+        "title": "Yasser Al-Qahtani لقاء مترجم Contagio Hantavirus (UcLxl8CRIJ) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53QnhwbUlSRV9xUzcyNk56c1Q0TWpGVDl5aDZubzI0T1JDLW9UNU0xZmZwMUFXZmJMbFpUdWY0YWFqeEJhZFJablpYeGNZZVZFWUpUQXQxT0t3dGM?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1141,12 +1141,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 14:48:27 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.060913"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.437071"
     },
     {
         "id": "CBMiW0FVX3lxTE4yQWVmampQanpLX25HMVBmR2JLMy0yX3ZBTVotV0tvQ3FZdk9vb2V6c0dxejhHMlF0T2hqaVVPY3JkWnUyM2hyS1VBQ0VNZkJlZnlUMUliUHdTcFk",
-        "title": "Road To GFL2 Bowl - Interview Mit Unserem Sponsor SIGNUM Immobilien Hantavirus Map (MXtrCBr4Yl) - mshale.com",
+        "title": "Road To GFL2 Bowl - Interview Mit Unserem Sponsor SIGNUM Immobilien Hantavirus Map (MXtrCBr4Yl) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yQWVmampQanpLX25HMVBmR2JLMy0yX3ZBTVotV0tvQ3FZdk9vb2V6c0dxejhHMlF0T2hqaVVPY3JkWnUyM2hyS1VBQ0VNZkJlZnlUMUliUHdTcFk?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1167,12 +1167,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 12:56:54 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.061499"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.437658"
     },
     {
         "id": "CBMiW0FVX3lxTE5DSGVBN05wTWFDcHI0Vl9YMUhrZ292SlJETTlqZFpHaDVObF9fcnVyc2VMdlFwOUg0Yl9ZbjBPbFNhZEtMZE1ZSGdwQ09razBxX3VERWIxeldjS2c",
-        "title": "Lutherstadt Eisleben - Im Goldenen Oktober 2017 Hantavirus Map (uGfoPRYQp0) - mshale.com",
+        "title": "Lutherstadt Eisleben - Im Goldenen Oktober 2017 Hantavirus Map (uGfoPRYQp0) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DSGVBN05wTWFDcHI0Vl9YMUhrZ292SlJETTlqZFpHaDVObF9fcnVyc2VMdlFwOUg0Yl9ZbjBPbFNhZEtMZE1ZSGdwQ09razBxX3VERWIxeldjS2c?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1193,12 +1193,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 05:55:06 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.062007"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.438214"
     },
     {
         "id": "CBMiW0FVX3lxTE5EQWUwUWtzWUJUQVkzNV9mNndUWTl4STRFeFdRZk50eXctQUx0NGh3cEQ1V1YyWGZMNkJjazYyWm9kS1FkWTVhNWRKUEQwd25HdU5KOWRNbGRiSjA",
-        "title": "Weiberfastnacht In Bergneustadt Und Wildberg - Video: Michael Kleinjung Hantavirus Map (szvbFVqjh2) - mshale.com",
+        "title": "Weiberfastnacht In Bergneustadt Und Wildberg - Video: Michael Kleinjung Hantavirus Map (szvbFVqjh2) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EQWUwUWtzWUJUQVkzNV9mNndUWTl4STRFeFdRZk50eXctQUx0NGh3cEQ1V1YyWGZMNkJjazYyWm9kS1FkWTVhNWRKUEQwd25HdU5KOWRNbGRiSjA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1219,12 +1219,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 04:47:53 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.062588"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.438821"
     },
     {
         "id": "CBMiW0FVX3lxTE5RR3dHZWEybkF6azVMbTdvVU5pbTZLbDR3VW0xSHJuTkh3Q3pKZVplRVFMem15UDJxZXBjbWtEWU5PYkZoelBMRV9mYURIc0dJaHRiLWFKcmxMUmM",
-        "title": "Carl Hester On The European Dressage Championships 2011 | HorseandRider UK Virus Hantavirus (TFjhRrB9Zq) - mshale.com",
+        "title": "Carl Hester On The European Dressage Championships 2011 | HorseandRider UK Virus Hantavirus (TFjhRrB9Zq) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RR3dHZWEybkF6azVMbTdvVU5pbTZLbDR3VW0xSHJuTkh3Q3pKZVplRVFMem15UDJxZXBjbWtEWU5PYkZoelBMRV9mYURIc0dJaHRiLWFKcmxMUmM?oc=5",
         "location_name": "United Kingdom",
         "coordinates": [
@@ -1245,12 +1245,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 04:36:44 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.063188"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.439479"
     },
     {
         "id": "CBMiYEFVX3lxTE1jU3NfZnlfWWtOeEc3eEJJRzdBVTdjeTExZUN0LXozQ01VejBKbW5PekV5cU0xb3Y4MUtFWnB0YWUyVE1JTDV3YTZwZmlkYV9UVGk4RTNaanZ6bEMtc3N5eA",
-        "title": "Be Surprised By Crysencio Summerville In 2026! Hantavirus Map (Q13vsJ4oFp) - mshale.com",
+        "title": "Be Surprised By Crysencio Summerville In 2026! Hantavirus Map (Q13vsJ4oFp) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jU3NfZnlfWWtOeEc3eEJJRzdBVTdjeTExZUN0LXozQ01VejBKbW5PekV5cU0xb3Y4MUtFWnB0YWUyVE1JTDV3YTZwZmlkYV9UVGk4RTNaanZ6bEMtc3N5eA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1271,12 +1271,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 02:56:13 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.063733"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.440140"
     },
     {
         "id": "CBMiW0FVX3lxTE14UzNTQjBrSUtNb19LUUhXWHlPX1RuRTVLVThVYW9oaldDd0tJN0VSaHl3LVdYbTFVbTBnMFE0eWNTZE5BN2N4MlZhS1pMRWZtQTN6dkdPU1RRUzg",
-        "title": "EWC Rocket League TS VS GenG - On Ground Reaction Hantavirus Illinois (wmSmIVy64f) - mshale.com",
+        "title": "EWC Rocket League TS VS GenG - On Ground Reaction Hantavirus Illinois (wmSmIVy64f) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14UzNTQjBrSUtNb19LUUhXWHlPX1RuRTVLVThVYW9oaldDd0tJN0VSaHl3LVdYbTFVbTBnMFE0eWNTZE5BN2N4MlZhS1pMRWZtQTN6dkdPU1RRUzg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1297,12 +1297,12 @@
             }
         ],
         "published": "Sun, 16 Aug 2026 00:20:46 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.064256"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.440773"
     },
     {
         "id": "CBMiW0FVX3lxTFAxV0lvQ3BqTENveGg2b00xcGtXeGNsbzVKS0xYX2RpU3pQOGVTbEp0c0E1M3JxNUo3bVFibTFGTmtaeTNTREtMS1FzSDRoNV9xV0I1UHJ5OFF6NzQ",
-        "title": "Shadow Of A Doubt | Star Guardian 2022 - League Of Legends Hantavirus Map (0YkRHBnAR1) - mshale.com",
+        "title": "Shadow Of A Doubt | Star Guardian 2022 - League Of Legends Hantavirus Map (0YkRHBnAR1) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxV0lvQ3BqTENveGg2b00xcGtXeGNsbzVKS0xYX2RpU3pQOGVTbEp0c0E1M3JxNUo3bVFibTFGTmtaeTNTREtMS1FzSDRoNV9xV0I1UHJ5OFF6NzQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1323,12 +1323,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 23:07:17 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.064807"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.441454"
     },
     {
         "id": "CBMiW0FVX3lxTE90TUVQZUl5aG9qSGNISnBua29iVG44ZFduTW9EREhsV1ZhVEI1QjlpUlAwRUdwSlo0NTk5V2NHcVlOdHhaUGlVWXF3M0hNaUdxU0pXWHpZTkxIVjA",
-        "title": "GodLike’s Biggest Test Begins Now… EWC 2026 Hantavirus Mascherine (I4kawEMqP2) - mshale.com",
+        "title": "GodLike’s Biggest Test Begins Now… EWC 2026 Hantavirus Mascherine (I4kawEMqP2) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90TUVQZUl5aG9qSGNISnBua29iVG44ZFduTW9EREhsV1ZhVEI1QjlpUlAwRUdwSlo0NTk5V2NHcVlOdHhaUGlVWXF3M0hNaUdxU0pXWHpZTkxIVjA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1349,12 +1349,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 21:25:20 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.065434"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.442142"
     },
     {
         "id": "CBMiW0FVX3lxTE1kTDFObHptMm1TVVg3MmFWRTNwY0NVVFhPcmNFVjBKYlp0XzZlbGZ5RXdCMW9zNE13akhzZm00UnpxRU9ZTDhybEhqRjVsbFJzeHVpdG1QRFhDblk",
-        "title": "Rosengarten Park Hantavirus Map (jlBTscbetl) - mshale.com",
+        "title": "Rosengarten Park Hantavirus Map (jlBTscbetl) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kTDFObHptMm1TVVg3MmFWRTNwY0NVVFhPcmNFVjBKYlp0XzZlbGZ5RXdCMW9zNE13akhzZm00UnpxRU9ZTDhybEhqRjVsbFJzeHVpdG1QRFhDblk?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1375,12 +1375,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 21:17:15 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.065917"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.442638"
     },
     {
         "id": "CBMiW0FVX3lxTE44Z1ZsLWljTTlNQl9SSk9HVUp5MDQ3T1lSbk1HSHgzblp4VFY2RFRjQlpBZWNFaG1pck9RLVZYMFU3OE5uSFpjNE5tMUxTVWtuUFBNaGkteHk5aG8",
-        "title": "Divorce & Custody Planning For Children With Special Needs Hantavirus Map (5D39bHCpad) - mshale.com",
+        "title": "Divorce & Custody Planning For Children With Special Needs Hantavirus Map (5D39bHCpad) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44Z1ZsLWljTTlNQl9SSk9HVUp5MDQ3T1lSbk1HSHgzblp4VFY2RFRjQlpBZWNFaG1pck9RLVZYMFU3OE5uSFpjNE5tMUxTVWtuUFBNaGkteHk5aG8?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1401,12 +1401,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 21:00:39 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.066544"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.443301"
     },
     {
         "id": "CBMiW0FVX3lxTFByVmdDblpKd0FHVjFWQWV0WXNzMFU3Zmt0a3lYY3NXOGVDWFpXMWxmR1Y0VGVDZldpTnVuVnhzVTg2ZTltN1pLaDFZMG1BdTJGcUFwRWJCRTZZNVk",
-        "title": "Inside UAE Team Emirates-XRG | Milano-Sanremo 2026 On-bike Highlights Hantavirus Los Angeles (A9jPXrdpem) - mshale.com",
+        "title": "Inside UAE Team Emirates-XRG | Milano-Sanremo 2026 On-bike Highlights Hantavirus Los Angeles (A9jPXrdpem) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByVmdDblpKd0FHVjFWQWV0WXNzMFU3Zmt0a3lYY3NXOGVDWFpXMWxmR1Y0VGVDZldpTnVuVnhzVTg2ZTltN1pLaDFZMG1BdTJGcUFwRWJCRTZZNVk?oc=5",
         "location_name": "California",
         "coordinates": [
@@ -1427,12 +1427,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 18:27:28 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.067114"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.443925"
     },
     {
         "id": "CBMiW0FVX3lxTE1TbE05bXdQTnQ3YS0xazFZbzFGQ0FJWkJ1cnRqNFdkTnlmdkRxaGtKWTFaZVNDcXpxd0lQaWhWaThZV08zN1hRNW1sNDZ4cENlcHJqM2VUMEdQSTg",
-        "title": "Summer Weather Continues With Hot, Humid Temperatures In NYC Hantavirus Pandemia (ue3iCnaAKJ) - mshale.com",
+        "title": "Summer Weather Continues With Hot, Humid Temperatures In NYC Hantavirus Pandemia (ue3iCnaAKJ) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TbE05bXdQTnQ3YS0xazFZbzFGQ0FJWkJ1cnRqNFdkTnlmdkRxaGtKWTFaZVNDcXpxd0lQaWhWaThZV08zN1hRNW1sNDZ4cENlcHJqM2VUMEdQSTg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1453,12 +1453,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 09:02:13 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.067772"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.444573"
     },
     {
         "id": "CBMiW0FVX3lxTFBBN1NXLWtRbExLRlNZTDVORkpCeFd5RklsTEFReTV0RXFmYzdMaXJVdUpRb1lmRTdXR3RydC10VDBQcjR6Z2JlNVFhbVBnYmdmV2pkZEJqeDcxSHc",
-        "title": "Substation Fire Shuts Down Heathrow Airport Hantavirus Map (hnPKfGib48) - mshale.com",
+        "title": "Substation Fire Shuts Down Heathrow Airport Hantavirus Map (hnPKfGib48) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBN1NXLWtRbExLRlNZTDVORkpCeFd5RklsTEFReTV0RXFmYzdMaXJVdUpRb1lmRTdXR3RydC10VDBQcjR6Z2JlNVFhbVBnYmdmV2pkZEJqeDcxSHc?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1479,12 +1479,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 08:48:37 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.068983"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.445578"
     },
     {
         "id": "CBMiW0FVX3lxTE5DU21hbnZzOWExTHA0ZHpUWkpjNjdoT21BZ3Rsb2RuX3F6SVhuMkRpZ3RuQWxiZ3JBS2ZOVEluME9ocDBEMEJDdFRNYU42OFJ4RC1nQkFWQ2ljR2M",
-        "title": "Ross Tierney Scores In Stoppage Time Against Hibernian Hantavirus Mascherine (YoEXM1fi3d) - mshale.com",
+        "title": "Ross Tierney Scores In Stoppage Time Against Hibernian Hantavirus Mascherine (YoEXM1fi3d) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DU21hbnZzOWExTHA0ZHpUWkpjNjdoT21BZ3Rsb2RuX3F6SVhuMkRpZ3RuQWxiZ3JBS2ZOVEluME9ocDBEMEJDdFRNYU42OFJ4RC1nQkFWQ2ljR2M?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1505,12 +1505,12 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 03:32:47 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.069627"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.446256"
     },
     {
         "id": "CBMiW0FVX3lxTFAzMXpXbWJqbzJsV3AxM0pEREIzQ0EzZzd3RjJaSnJ5d29TVmhDWDJfbzhnVVA4TFpHekFWMnRWYWtCYWN0YUtYR21XX00tdmZ2RlVqUnYxN1c3YzA",
-        "title": "Lindsey Buckingham ~ Go Your Own Way ~ Live 1992 Hantavirus Mascherine (fsiNeU8PmW) - mshale.com",
+        "title": "Lindsey Buckingham ~ Go Your Own Way ~ Live 1992 Hantavirus Mascherine (fsiNeU8PmW) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzMXpXbWJqbzJsV3AxM0pEREIzQ0EzZzd3RjJaSnJ5d29TVmhDWDJfbzhnVVA4TFpHekFWMnRWYWtCYWN0YUtYR21XX00tdmZ2RlVqUnYxN1c3YzA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1531,8 +1531,8 @@
             }
         ],
         "published": "Sat, 15 Aug 2026 00:55:17 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.070207"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.446844"
     },
     {
         "id": "CBMingJBVV95cUxOWXFRcklWckVrV0t3b21GQVFqSUQtR29tQ1FCdU1IOS1BUU90dHlCWjJpWUpoQnVySFRiNklRaF9uS1BKUmJSSnZ5aVFlLVZ4NldCWmtpbE0zV0dHS01RajNQVFV1V243a0l4VDhzY1UtWGlZTVA5N0dZN2I1MzQ0WWtORnZGcFpMaV82VFJBMFhQZ2JzbkdYWFFpOXU5XzVPeU95Qm9hMm53Y2JVZV9mY1l3YUNxNU5abjY1QmZOMTFQUU1HQnU1OE1xVk0xaDdIS29ZLWxvNzVPUzJFMV84RUZFMVZrWWNLaldOQ2hCUk8weEhMU0lSOFVlbmZqY0FOWHVpR0JtMzA0dnA3RHVzd25fRGRISEtkTFdjSWxR",
@@ -1558,11 +1558,11 @@
         ],
         "published": "Sat, 15 Aug 2026 00:02:11 GMT",
         "source": "Central Oregon Daily",
-        "fetch_timestamp": "2026-08-19T22:49:42.071009"
+        "fetch_timestamp": "2026-08-19T23:18:28.447679"
     },
     {
         "id": "CBMi6wFBVV95cUxNWHB5cUxPVU8tbW5IRTlQRF9qTGJmQlNPdDRmU21XekNHbWxVdG5NZ1AtaHZUY2VfNmdzZkh6UTZXU2R4NlBYeEdsbjd3Y05wdWlTbFUxN0FYLWxNVjM1NU5FWEUwYVpyYkJGRXVxZ2FrM3FQa2dJb2NZT3N2OHNpN0FzV0VvN0lXQ2V3RHA1d2dFLWpZa2JtR2pYcGFfd1d6amQ4UzROZHl2dy1BdnRrWUhMa1JvSlJkSm0wV0lhSGQyM0kxTjRUWV9PblJlNVczajNEMjZFWmRIRGo5dEY5OVROVkFWR3EzTjF3",
-        "title": "Cumming Global Centre for Pandemic Therapeutics announces projects to accelerate therapeutics for Ebola and hantavirus - doherty.edu.au",
+        "title": "Cumming Global Centre for Pandemic Therapeutics announces projects to accelerate therapeutics for Ebola and hantavirus - Doherty Institute",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHB5cUxPVU8tbW5IRTlQRF9qTGJmQlNPdDRmU21XekNHbWxVdG5NZ1AtaHZUY2VfNmdzZkh6UTZXU2R4NlBYeEdsbjd3Y05wdWlTbFUxN0FYLWxNVjM1NU5FWEUwYVpyYkJGRXVxZ2FrM3FQa2dJb2NZT3N2OHNpN0FzV0VvN0lXQ2V3RHA1d2dFLWpZa2JtR2pYcGFfd1d6amQ4UzROZHl2dy1BdnRrWUhMa1JvSlJkSm0wV0lhSGQyM0kxTjRUWV9PblJlNVczajNEMjZFWmRIRGo5dEY5OVROVkFWR3EzTjF3?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1583,12 +1583,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 21:46:48 GMT",
-        "source": "doherty.edu.au",
-        "fetch_timestamp": "2026-08-19T22:49:42.071800"
+        "source": "Doherty Institute",
+        "fetch_timestamp": "2026-08-19T23:18:28.448517"
     },
     {
         "id": "CBMiYEFVX3lxTE13bWNVcHFNZnpMYnFjTE9xYVdDZXVuR1g0bDQtR2F0Wm92WXBtT28wVnBIMzQ5bXVxUHBjWTI1SDFXdVdFcVRHM19idE1zblFTUTdrMV83OE5aUEUyRm9oRw",
-        "title": "2026 WorldCup Germany C1 200 Final Hantavirus Map (la6dneGYMO) - mshale.com",
+        "title": "2026 WorldCup Germany C1 200 Final Hantavirus Map (la6dneGYMO) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13bWNVcHFNZnpMYnFjTE9xYVdDZXVuR1g0bDQtR2F0Wm92WXBtT28wVnBIMzQ5bXVxUHBjWTI1SDFXdVdFcVRHM19idE1zblFTUTdrMV83OE5aUEUyRm9oRw?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1609,12 +1609,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 19:38:19 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.072289"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.449054"
     },
     {
         "id": "CBMiW0FVX3lxTE1MRnRlV0YyNTZ2LXFCczBUcDRzQzMtTC1CZXpyaGlWOGt0VUFMUjBZWF9vcFJLYnJlNlVZSDZJWTRtTjlmVmQyTGdJbnNVMGlKbWpiYVV5d2dXdGc",
-        "title": "Perth Lynx Vs. Townsville Fire - Condensed Game Hantavirus Los Angeles (o9UlAWNsaA) - mshale.com",
+        "title": "Perth Lynx Vs. Townsville Fire - Condensed Game Hantavirus Los Angeles (o9UlAWNsaA) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MRnRlV0YyNTZ2LXFCczBUcDRzQzMtTC1CZXpyaGlWOGt0VUFMUjBZWF9vcFJLYnJlNlVZSDZJWTRtTjlmVmQyTGdJbnNVMGlKbWpiYVV5d2dXdGc?oc=5",
         "location_name": "California",
         "coordinates": [
@@ -1635,12 +1635,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 18:44:02 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.072752"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.449559"
     },
     {
         "id": "CBMiW0FVX3lxTFBJaUdPYjVGMTAwNXRPSHVWQzdYZjRpUk8yYkpvRDQ3cVNyM284QXhGNVd6Y1Q1OFVQaThlQUVsbmw2d1dhcXNmQ1psVUFadGxoTWZuRlh2ZGNrRk0",
-        "title": "قطار الحرمين / جدة - المدينة المنورة Hantavirus Map (jqKddMKkPc) - mshale.com",
+        "title": "قطار الحرمين / جدة - المدينة المنورة Hantavirus Map (jqKddMKkPc) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaUdPYjVGMTAwNXRPSHVWQzdYZjRpUk8yYkpvRDQ3cVNyM284QXhGNVd6Y1Q1OFVQaThlQUVsbmw2d1dhcXNmQ1psVUFadGxoTWZuRlh2ZGNrRk0?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1661,12 +1661,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 16:17:02 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.073263"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.450143"
     },
     {
         "id": "CBMiW0FVX3lxTFB4TGZmcFV1dWNEXzRoQ0xpT05kaVJjbllCd1AyZVROejVkVWhEQ2xLZHVVSjRqODNkeFZHbUJEQi1KemJ2eVVMa0xJWXI5dC03YUZ6SU9ydmpNWlU",
-        "title": "Raiders Hiring John Spytek As General Manager | NFL Insider Reacts Contagio Hantavirus (t2oL2mObU6) - mshale.com",
+        "title": "Raiders Hiring John Spytek As General Manager | NFL Insider Reacts Contagio Hantavirus (t2oL2mObU6) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4TGZmcFV1dWNEXzRoQ0xpT05kaVJjbllCd1AyZVROejVkVWhEQ2xLZHVVSjRqODNkeFZHbUJEQi1KemJ2eVVMa0xJWXI5dC03YUZ6SU9ydmpNWlU?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1687,12 +1687,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 14:13:40 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.073914"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.450856"
     },
     {
         "id": "CBMiW0FVX3lxTE5RVG5vX2VyQ0VTOGhXMVlSWHN4TV9kWFpITXdhRUtFSEpqR3RyQ3ZIemIyOGZSbHBtRFl6dEdVMmtmUnJYSEZyN28yc25VQ1ZyRDd4TEJub2xSZ0U",
-        "title": "Mets Vs Braves (6/13/26) | Mets Highlights Hantavirus Map (DChE4wYrgG) - mshale.com",
+        "title": "Mets Vs Braves (6/13/26) | Mets Highlights Hantavirus Map (DChE4wYrgG) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVG5vX2VyQ0VTOGhXMVlSWHN4TV9kWFpITXdhRUtFSEpqR3RyQ3ZIemIyOGZSbHBtRFl6dEdVMmtmUnJYSEZyN28yc25VQ1ZyRDd4TEJub2xSZ0U?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1713,8 +1713,8 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 13:49:52 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:42.074429"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:28.451449"
     },
     {
         "id": "CBMitgFBVV95cUxNTUdPS3ptSjNSblZobndSYVJJWWVuaS10QWlvdEw5U05ySE1SOU1zUmxSVG0tbnpieG5xOXJCZ0xGM1VCRzBnbmpsVTU2UFhlWTB3SDI4UnRwZDZ1OENIc0RIWUNYb2swWlNobEJWamVhejItZTZNVTQ2eXE2WXIyUXQ4RzBaV3FMMVRLdVB0dTA5TUtrVWY4MWNHTzYxRFFYVlZJVUkwUWVhczhQMU55LWVDNEU5d9IBuwFBVV95cUxQVmxZZG96eGhUM1hpY0d1TnJ0TXBZYW9vTWxyOUI0TktmU19aYTRxbkU4SlZXNmZpNGF3YW9sNldfYkM3OENORFJFT2VNTnhkZjBfbDBpQWVBWEZWSUxkems3STl0VmJ3RGNBaUlBdFljT2lvdUtjOHZORHkzU2V0cWRGd3VMQjduQ2pVclY2VkVpcHlaY1djbll4WmVPZUhwOElWZ3E4TDNXUkIyY2k5ME01OHlORkVfclhz",
@@ -1740,11 +1740,11 @@
         ],
         "published": "Fri, 14 Aug 2026 10:48:15 GMT",
         "source": "Diari ARA",
-        "fetch_timestamp": "2026-08-19T22:49:43.178547"
+        "fetch_timestamp": "2026-08-19T23:18:29.561492"
     },
     {
         "id": "CBMiW0FVX3lxTFBNTS1XQWVfZDR5NmtvQklqOVotc3pPTm5PR1UxUFFSSTI5VWdzdm9wdjZXdEVmZDlHV3hMNnFqbHVzeDhqcVdIOEhUQXUzSHpZdXV3WVlEQkFiMVU",
-        "title": "Hantavirus Cruise Ship Passenger Speaks Out From Quarantine Desiree Golling (XgckrbCiKr) - mshale.com",
+        "title": "Hantavirus Cruise Ship Passenger Speaks Out From Quarantine Desiree Golling (XgckrbCiKr) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNTS1XQWVfZDR5NmtvQklqOVotc3pPTm5PR1UxUFFSSTI5VWdzdm9wdjZXdEVmZDlHV3hMNnFqbHVzeDhqcVdIOEhUQXUzSHpZdXV3WVlEQkFiMVU?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1765,12 +1765,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 10:33:18 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.179354"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.562357"
     },
     {
         "id": "CBMiW0FVX3lxTE9zYTF2UVc1QmFsZzBpYnRqVFhPWTVWYy1WVGs4bVJJUUNJMVoycWM0SHc1Y0xjaEMwTEgyWk9mbUVoUGdvd29NMDdwc3RvUE4yODhEWGlGOXRrZzQ",
-        "title": "LIVE: Passengers Disembark Hantavirus-stricken Cruise Ship In Spain’s Canary Islands Europa (cbIhAiffKD) - mshale.com",
+        "title": "LIVE: Passengers Disembark Hantavirus-stricken Cruise Ship In Spain’s Canary Islands Europa (cbIhAiffKD) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zYTF2UVc1QmFsZzBpYnRqVFhPWTVWYy1WVGs4bVJJUUNJMVoycWM0SHc1Y0xjaEMwTEgyWk9mbUVoUGdvd29NMDdwc3RvUE4yODhEWGlGOXRrZzQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1791,12 +1791,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 09:44:45 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.179894"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.562936"
     },
     {
         "id": "CBMiWkFVX3lxTE11T1dEemd1aTU0MERXVXVmNlNZQ0M3VGJCMFVKYzRyZVBsOXYxd2E4c05fcU1MVWx5SjlLS1JnUE45WXNUa2JaZWhIV1NLbnNGcDZhbVNuWC1kdw",
-        "title": "Rebel Ridge | Official Trailer | Netflix Hantavirus Map (EqeqJKCHK0) - mshale.com",
+        "title": "Rebel Ridge | Official Trailer | Netflix Hantavirus Map (EqeqJKCHK0) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11T1dEemd1aTU0MERXVXVmNlNZQ0M3VGJCMFVKYzRyZVBsOXYxd2E4c05fcU1MVWx5SjlLS1JnUE45WXNUa2JaZWhIV1NLbnNGcDZhbVNuWC1kdw?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1817,12 +1817,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 09:32:03 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.180411"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.563497"
     },
     {
         "id": "CBMiW0FVX3lxTFAyRmpFRE9KODh2dm9NUERJd3NkbDlfN2ZtczNmdnhMTU0zNVRwOG4yQk1QbzNnUmVCWkc1Zjdzenh4N3ZTQXNobVdYV0xCMldraGFhRUMxUnBlMHM",
-        "title": "More Market Volatility Ahead? Hantavirus Map (jpr14Wn7Wn) - mshale.com",
+        "title": "More Market Volatility Ahead? Hantavirus Map (jpr14Wn7Wn) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRmpFRE9KODh2dm9NUERJd3NkbDlfN2ZtczNmdnhMTU0zNVRwOG4yQk1QbzNnUmVCWkc1Zjdzenh4N3ZTQXNobVdYV0xCMldraGFhRUMxUnBlMHM?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1843,8 +1843,8 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 08:18:56 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.180910"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.564040"
     },
     {
         "id": "CBMikwJBVV95cUxOcmFLdmZ1OXRUNjA0ZkREWWdUaGg3VW9SNk44ZjVUYWR5aTd5d3pLWmhjQ2k4ck9oUEFHald4YUJoalQ5UDRjQi0zSjNsV0lfeUpFTi1oWE1jSGN6ZDJ0SUVLdVJ6aDNETWdfUVRrQkF0VGY0cVQ5OGQtWWRQcEpBQjI0dlpsTzlFaERMdnByZmVZbW93UWU2NW1zZmhXVWJ1bXhMZmoxaUpLUkM3R1l2THBUMFlGaUhYZ1V3eTNoQm9UbTlzR0ptMWg2cFItVHd1dVpvUTBseHJ2NmhQTmtibnZGV3NEU2JxMWEtSHVLeUQtdUY1WmE3eWdNdWk2bGJmSXl6Qld4c2ZZTDZDdVp2Umc2cw",
@@ -1870,11 +1870,11 @@
         ],
         "published": "Fri, 14 Aug 2026 06:30:45 GMT",
         "source": "unionleader.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.181473"
+        "fetch_timestamp": "2026-08-19T23:18:29.564640"
     },
     {
         "id": "CBMiW0FVX3lxTFBCRXhqYmhhdFJ5dVJFQmZFOVRwcEx5bUZaRHdEYnZBc1ZsT2pNYU9ZQlN3U25TdzRHbXRlRmNEenNfSng0VDBXNnQ3MHVUQzNPY0w0R0k1WlU3Yms",
-        "title": "Next Monsoon Rain Spell In Pakistan | Weather Forecast Update || Crop Reformer Hantavirus Map (myslRq9uUn) - mshale.com",
+        "title": "Next Monsoon Rain Spell In Pakistan | Weather Forecast Update || Crop Reformer Hantavirus Map (myslRq9uUn) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCRXhqYmhhdFJ5dVJFQmZFOVRwcEx5bUZaRHdEYnZBc1ZsT2pNYU9ZQlN3U25TdzRHbXRlRmNEenNfSng0VDBXNnQ3MHVUQzNPY0w0R0k1WlU3Yms?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1895,12 +1895,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 06:27:42 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.182112"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.565330"
     },
     {
         "id": "CBMiYEFVX3lxTE9jWjVRcnJTeGFQREdZQzVCSmtlNjYzeUQzVDVBbzBvb3M4dVJWZWtXUWhxbDhab0daei1vYjlnS1JaUVNfWms5OUVfbzNONE1Lb09IMFdrU0E3N2x3UHRMSQ",
-        "title": "The Day Brazil Was BROKEN: Football's Worst Defeat? Virus Hantavirus (8uyBl2rucy) - mshale.com",
+        "title": "The Day Brazil Was BROKEN: Football's Worst Defeat? Virus Hantavirus (8uyBl2rucy) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jWjVRcnJTeGFQREdZQzVCSmtlNjYzeUQzVDVBbzBvb3M4dVJWZWtXUWhxbDhab0daei1vYjlnS1JaUVNfWms5OUVfbzNONE1Lb09IMFdrU0E3N2x3UHRMSQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1921,12 +1921,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 04:00:19 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.182670"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.565938"
     },
     {
         "id": "CBMiYEFVX3lxTE9ZWDV5cnU3LVJjUDlOY3dyazh2UGt0WVdIbHVZQzZmZ0o2NVZkRzJJVXc5TkxZTXZqWlc0X1owSVFkN3VjdlZXTWtzRWoxendCblU5YkpGWTNjZFNhRVZXNg",
-        "title": "LAKERS AUSTIN REAVES LAYED ANOTHER DUD VS THUNDER Virus Hantavirus (ptJ7s1t1BE) - mshale.com",
+        "title": "LAKERS AUSTIN REAVES LAYED ANOTHER DUD VS THUNDER Virus Hantavirus (ptJ7s1t1BE) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZWDV5cnU3LVJjUDlOY3dyazh2UGt0WVdIbHVZQzZmZ0o2NVZkRzJJVXc5TkxZTXZqWlc0X1owSVFkN3VjdlZXTWtzRWoxendCblU5YkpGWTNjZFNhRVZXNg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1947,12 +1947,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 03:47:56 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.183235"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.566549"
     },
     {
         "id": "CBMiYEFVX3lxTE9PNi1RNER0TmlGbjdpUzF6UXREZFBrdHFpV2NpN2kwc3hCTEk2OUJpRjBXWlZsT1Rnd2ZDajdjaGQ5R2pVRjV0WEluUEpRUHRWb0txYm10WUxDcHV0eGZaSw",
-        "title": "Brandel Chamblee Discusses Tiger Woods' Swing Hantavirus Pandemia (oSHyRj5I9S) - mshale.com",
+        "title": "Brandel Chamblee Discusses Tiger Woods' Swing Hantavirus Pandemia (oSHyRj5I9S) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PNi1RNER0TmlGbjdpUzF6UXREZFBrdHFpV2NpN2kwc3hCTEk2OUJpRjBXWlZsT1Rnd2ZDajdjaGQ5R2pVRjV0WEluUEpRUHRWb0txYm10WUxDcHV0eGZaSw?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1973,12 +1973,12 @@
             }
         ],
         "published": "Fri, 14 Aug 2026 03:39:57 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.183788"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.567157"
     },
     {
         "id": "CBMiW0FVX3lxTE9vaU9oRG4zUlI1M2ZkcjZQOVlKV2FheDMtQURob2EzQ1gyempLQjZzODJIenA2clhtM1ZnM2JyRXhOaFJ4Sk1JWUZ0MG53OXZEU25pamQtaVJBaEk",
-        "title": "Passengers Disembark Hantavirus-hit Cruise Ship: What's Next? Club école Privée (KZWoU2VPEe) - mshale.com",
+        "title": "Passengers Disembark Hantavirus-hit Cruise Ship: What's Next? Club école Privée (KZWoU2VPEe) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vaU9oRG4zUlI1M2ZkcjZQOVlKV2FheDMtQURob2EzQ1gyempLQjZzODJIenA2clhtM1ZnM2JyRXhOaFJ4Sk1JWUZ0MG53OXZEU25pamQtaVJBaEk?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -1999,12 +1999,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 23:14:39 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.184387"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.567815"
     },
     {
         "id": "CBMiYEFVX3lxTE45WU01M1BPNmg1SmhOcmJ6bUhuTzc0ZmxPMG9ObzlsTUNzdTZXdU4xRkpETnBiWTBKMUx1SndkWFhaTmpUUkZacEktT21rTFd6XzdHMC1OVmhxNWpoN0gydA",
-        "title": "Canada Vs Morocco | FIFA World Cup 2026 | Round Of 16 [4K] Hantavirus Map (FaayBeKwYE) - mshale.com",
+        "title": "Canada Vs Morocco | FIFA World Cup 2026 | Round Of 16 [4K] Hantavirus Map (FaayBeKwYE) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WU01M1BPNmg1SmhOcmJ6bUhuTzc0ZmxPMG9ObzlsTUNzdTZXdU4xRkpETnBiWTBKMUx1SndkWFhaTmpUUkZacEktT21rTFd6XzdHMC1OVmhxNWpoN0gydA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2025,12 +2025,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 23:12:40 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.184983"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.568463"
     },
     {
         "id": "CBMiYEFVX3lxTE1xMmxmLXVoVGpPb1hPZXprZngxWVBfWW9ZcVBuMmptNGo0TTF2ZUMxWmxWNHN5ZW9qeEtxUXlJOHY1SUI4MmlldGNqV29wVTdwdkVib1pkQ3ZUN3V5X0otRg",
-        "title": "NiziU「VILLAIN」Performance Video Hantavirus Los Angeles (6vZYEyUJjV) - mshale.com",
+        "title": "NiziU「VILLAIN」Performance Video Hantavirus Los Angeles (6vZYEyUJjV) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMmxmLXVoVGpPb1hPZXprZngxWVBfWW9ZcVBuMmptNGo0TTF2ZUMxWmxWNHN5ZW9qeEtxUXlJOHY1SUI4MmlldGNqV29wVTdwdkVib1pkQ3ZUN3V5X0otRg?oc=5",
         "location_name": "California",
         "coordinates": [
@@ -2051,12 +2051,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 19:25:50 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.185463"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.568996"
     },
     {
         "id": "CBMiYEFVX3lxTE9CN3dRWXU4akZjZGp0dG94WXNKeUdzeXdmenpEMWluaUtMbTFuRmNFVTNMZi1yZXdEME9ObGVPdE5IYkNGMHNfbVVrVzV3NnhsOEJhd0h2b2RQZlRLVGVnNA",
-        "title": "Lost Hantavirus Illinois (I3kFBMUjbg) - mshale.com",
+        "title": "Lost Hantavirus Illinois (I3kFBMUjbg) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CN3dRWXU4akZjZGp0dG94WXNKeUdzeXdmenpEMWluaUtMbTFuRmNFVTNMZi1yZXdEME9ObGVPdE5IYkNGMHNfbVVrVzV3NnhsOEJhd0h2b2RQZlRLVGVnNA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2077,12 +2077,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 18:54:15 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.185891"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.569469"
     },
     {
         "id": "CBMiYEFVX3lxTE1HX3ltd3M0NzJ2b3R0dXBFYkVkTTBfRF9uU1lnRUZMOUxMNlZkTkhlWk5KNnM4UWF2Y05CNlBfWi1ZMHNkaHRqMkhiZ3JTSTI4dmFMQk43Um9naERlejJjMg",
-        "title": "This Keeps Getting CRAZIER... | Daily Thunder News & Rumors Virus Hantavirus (veEQBcah7D) - mshale.com",
+        "title": "This Keeps Getting CRAZIER... | Daily Thunder News & Rumors Virus Hantavirus (veEQBcah7D) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HX3ltd3M0NzJ2b3R0dXBFYkVkTTBfRF9uU1lnRUZMOUxMNlZkTkhlWk5KNnM4UWF2Y05CNlBfWi1ZMHNkaHRqMkhiZ3JTSTI4dmFMQk43Um9naERlejJjMg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2103,12 +2103,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 17:01:13 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.186496"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.570101"
     },
     {
         "id": "CBMiYEFVX3lxTE43UW5wb1JZSG9yTGhGVEVacWV1dV93LXNLSHR6cUR1SXJMTGFRcEpmWWt3Umt3bFZvV2MxQjg0RmlDcko5RndGLWJTZTB3ZUxuc1RURjM3R0h0T2owbllDUQ",
-        "title": "'Average Person Has No Reason To Worry About Hantavirus,' WHO Expert Says Subnautica 2 (G5se3RKt5G) - mshale.com",
+        "title": "'Average Person Has No Reason To Worry About Hantavirus,' WHO Expert Says Subnautica 2 (G5se3RKt5G) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UW5wb1JZSG9yTGhGVEVacWV1dV93LXNLSHR6cUR1SXJMTGFRcEpmWWt3Umt3bFZvV2MxQjg0RmlDcko5RndGLWJTZTB3ZUxuc1RURjM3R0h0T2owbllDUQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2129,12 +2129,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 14:48:27 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.187134"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.570770"
     },
     {
         "id": "CBMiW0FVX3lxTFBlOS1TN3R4dEtpMURwV3lwUGRnZTFaUFJfZzFtZVptTklnbU5lbm9MdkxmQjFpbU9JVHlOX2N3Q0hKZWZCQk91ZENtdHg2cWRwa3ZXLUpwc1dPSTA",
-        "title": "Tremenda Atrapada De Fernando Tatis Jr.@MLB @Padres Hantavirus Mascherine (xiqGDeaFeB) - mshale.com",
+        "title": "Tremenda Atrapada De Fernando Tatis Jr.@MLB @Padres Hantavirus Mascherine (xiqGDeaFeB) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlOS1TN3R4dEtpMURwV3lwUGRnZTFaUFJfZzFtZVptTklnbU5lbm9MdkxmQjFpbU9JVHlOX2N3Q0hKZWZCQk91ZENtdHg2cWRwa3ZXLUpwc1dPSTA?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2155,12 +2155,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 11:24:53 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.187701"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.571386"
     },
     {
         "id": "CBMiYEFVX3lxTE1WRGticmtXNDJPQlZXa29MbHNSM3dPNXdSOTNkRlZKNE9iYnk3X2I2VDdKMlU4UTZKeTVZcVNGalBlV1VicXhBMTd1OUpkTGdQdmNicnJCSDNKbnNDcjNSNg",
-        "title": "Pekora Accidentally Called Matsuri | RESIDENT EVIL REQUIEM [Hololive/Sub] Hantavirus Map (mdTZlGl4SK) - mshale.com",
+        "title": "Pekora Accidentally Called Matsuri | RESIDENT EVIL REQUIEM [Hololive/Sub] Hantavirus Map (mdTZlGl4SK) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WRGticmtXNDJPQlZXa29MbHNSM3dPNXdSOTNkRlZKNE9iYnk3X2I2VDdKMlU4UTZKeTVZcVNGalBlV1VicXhBMTd1OUpkTGdQdmNicnJCSDNKbnNDcjNSNg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2181,12 +2181,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 11:08:26 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.188279"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.572027"
     },
     {
         "id": "CBMiYEFVX3lxTE5zbDhXZE5CMUR4ZDJzLUZWa0gzRXhxaVJzVDNjSnZSbW9jcnNJWjgydHRLQVVMNDZiLUtZOTdmMEhnWUEtMHhobXpCd29uWmgtN3FvbkxwT0tXOTB1cFBONQ",
-        "title": "INTERVIEW: Colts Legend Jeff Saturday Tells Adam Vinatieri Stories Hantavirus Map (H88hRYkUmK) - mshale.com",
+        "title": "INTERVIEW: Colts Legend Jeff Saturday Tells Adam Vinatieri Stories Hantavirus Map (H88hRYkUmK) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zbDhXZE5CMUR4ZDJzLUZWa0gzRXhxaVJzVDNjSnZSbW9jcnNJWjgydHRLQVVMNDZiLUtZOTdmMEhnWUEtMHhobXpCd29uWmgtN3FvbkxwT0tXOTB1cFBONQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2207,12 +2207,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 10:24:32 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.188898"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.572676"
     },
     {
         "id": "CBMiYEFVX3lxTE1DWEUzdzMxNGhkTmNYTUxxUF9la1hWSUZfdFE3blhOUWM3ZWJwX1FVb2FHXzlmdV9WcWJrcmF2ZFVEVFRLTjdnUnRVWTkzTG50VkpZR3pycUt1SnNlal9kNQ",
-        "title": "Aquamation Vs. Flame Cremation Hantavirus Pandemia (lTPI5TJqHO) - mshale.com",
+        "title": "Aquamation Vs. Flame Cremation Hantavirus Pandemia (lTPI5TJqHO) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWEUzdzMxNGhkTmNYTUxxUF9la1hWSUZfdFE3blhOUWM3ZWJwX1FVb2FHXzlmdV9WcWJrcmF2ZFVEVFRLTjdnUnRVWTkzTG50VkpZR3pycUt1SnNlal9kNQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2233,12 +2233,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 09:01:11 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.189400"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.573232"
     },
     {
         "id": "CBMiWkFVX3lxTE1qUGVlaURGdllmOFU1TTk2ZTlPdG1fUEp0czRPTXlwVU0zYXEzMlozN1h2OGkxOThLWGpBVC03dnpiS1M5Mndwdi1ldW5ManB6Ykt2OTJ5MHNsQQ",
-        "title": "Cairngorms National Park Hantavirus Illinois (Fa1Z4Q6TUy) - mshale.com",
+        "title": "Cairngorms National Park Hantavirus Illinois (Fa1Z4Q6TUy) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qUGVlaURGdllmOFU1TTk2ZTlPdG1fUEp0czRPTXlwVU0zYXEzMlozN1h2OGkxOThLWGpBVC03dnpiS1M5Mndwdi1ldW5ManB6Ykt2OTJ5MHNsQQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2259,12 +2259,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 08:26:03 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.189884"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.573749"
     },
     {
         "id": "CBMiYEFVX3lxTE1icHMwRldKSDB6c1VoZ0EwV21PRXpkMUE1UEtUR2IwU3JJX1o2VWFxd2RDeWIzTGh1SC0xVlV6RTJwTENOWmphWk5YQng2SzNDS0NCSWJmb3RRMW5NTXR3UQ",
-        "title": "2027 Audi Q9 Full Tour : The Most Luxurious Audi EVER Made! Hantavirus Milano (mCFAbuW86V) - mshale.com",
+        "title": "2027 Audi Q9 Full Tour : The Most Luxurious Audi EVER Made! Hantavirus Milano (mCFAbuW86V) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1icHMwRldKSDB6c1VoZ0EwV21PRXpkMUE1UEtUR2IwU3JJX1o2VWFxd2RDeWIzTGh1SC0xVlV6RTJwTENOWmphWk5YQng2SzNDS0NCSWJmb3RRMW5NTXR3UQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2285,12 +2285,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 08:17:12 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.190464"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.574392"
     },
     {
         "id": "CBMiYEFVX3lxTE5SNmtueXZ2Q3NtUGM2a0RDQ01ZdzVjMUFtLVhpOU9IbWNfYWhyX09PUXBxVnRSWlBPR1ZiR05OaEdrY0VWdnFwNllGdTV2dnJOSmRfT21adG5mSnd3dm1IUw",
-        "title": "ALL AMERICAN | 3x09 (SAD SCENE) Hantavirus Map (lTAiTX0SO1) - mshale.com",
+        "title": "ALL AMERICAN | 3x09 (SAD SCENE) Hantavirus Map (lTAiTX0SO1) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SNmtueXZ2Q3NtUGM2a0RDQ01ZdzVjMUFtLVhpOU9IbWNfYWhyX09PUXBxVnRSWlBPR1ZiR05OaEdrY0VWdnFwNllGdTV2dnJOSmRfT21adG5mSnd3dm1IUw?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2311,12 +2311,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 07:24:22 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.190939"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.574935"
     },
     {
         "id": "CBMiW0FVX3lxTE1qb3ZUZ2Y4NU1JdXIyUWZwOENuTjNNRTJsNEZ0cHZaeWV1SnQ1eUJSMGhvQjZrRUV1SnlRd0R4YzJ4VGN4aWVzVGVLQTN6eHV2bzNtNGpPeG80RHc",
-        "title": "Haaland Takes Over America! | World Cup Vlog Hantavirus Illinois (GQMYtNI45m) - mshale.com",
+        "title": "Haaland Takes Over America! | World Cup Vlog Hantavirus Illinois (GQMYtNI45m) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qb3ZUZ2Y4NU1JdXIyUWZwOENuTjNNRTJsNEZ0cHZaeWV1SnQ1eUJSMGhvQjZrRUV1SnlRd0R4YzJ4VGN4aWVzVGVLQTN6eHV2bzNtNGpPeG80RHc?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2337,12 +2337,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 05:26:36 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.191482"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.575540"
     },
     {
         "id": "CBMiYEFVX3lxTE1WQmJ6cmtNdnk1Z0hraVMtOS1tV05IdnpKYVRIdjNremt1VUpFR2hNYTJXX0habG9GWk4xNkhBdDJKUzdYTkkyZzRxOTlmdVR1cmRFaTRmU0FxLXpQV0diYg",
-        "title": "No Me Llamen Hantavirus Map (DNsY2o9nrs) - mshale.com",
+        "title": "No Me Llamen Hantavirus Map (DNsY2o9nrs) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WQmJ6cmtNdnk1Z0hraVMtOS1tV05IdnpKYVRIdjNremt1VUpFR2hNYTJXX0habG9GWk4xNkhBdDJKUzdYTkkyZzRxOTlmdVR1cmRFaTRmU0FxLXpQV0diYg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2363,12 +2363,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 03:54:18 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.191915"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.576044"
     },
     {
         "id": "CBMiW0FVX3lxTE9OdlltcXJ0cG95TC1QNzVVdWttSjJNcjd1eE1RVW9kVGVkY1pwaGw3bmxSekR3aTZvMGxWajlhX3lzdmc2YTFSWGVoajgtYWt3YzJwVl83TEtoM0E",
-        "title": "Minnesota Twins Vs. Milwaukee Brewers. Contagio Hantavirus (sl2hg8dW3D) - mshale.com",
+        "title": "Minnesota Twins Vs. Milwaukee Brewers. Contagio Hantavirus (sl2hg8dW3D) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OdlltcXJ0cG95TC1QNzVVdWttSjJNcjd1eE1RVW9kVGVkY1pwaGw3bmxSekR3aTZvMGxWajlhX3lzdmc2YTFSWGVoajgtYWt3YzJwVl83TEtoM0E?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2389,12 +2389,12 @@
             }
         ],
         "published": "Thu, 13 Aug 2026 03:22:40 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.192430"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.576622"
     },
     {
         "id": "CBMiYEFVX3lxTFB1aEtRbmtGc0ZDNC1JWjBhWjVGa1poM1FfeXd4QlpNZHFLWm5zc1Nmbi01dXlzSHB4RnRtT200OFJtcDJSYnp0VkVmRm1xeGlWWmFIQV9qNmZyclVCUTZuRg",
-        "title": "HKA USA And HeadKick Audio Present: Adrian Yanez!!! Hantavirus Map (xh10zpiQZp) - mshale.com",
+        "title": "HKA USA And HeadKick Audio Present: Adrian Yanez!!! Hantavirus Map (xh10zpiQZp) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1aEtRbmtGc0ZDNC1JWjBhWjVGa1poM1FfeXd4QlpNZHFLWm5zc1Nmbi01dXlzSHB4RnRtT200OFJtcDJSYnp0VkVmRm1xeGlWWmFIQV9qNmZyclVCUTZuRg?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -2415,8 +2415,8 @@
             }
         ],
         "published": "Wed, 12 Aug 2026 23:57:55 GMT",
-        "source": "mshale.com",
-        "fetch_timestamp": "2026-08-19T22:49:43.192978"
+        "source": "Mshale",
+        "fetch_timestamp": "2026-08-19T23:18:29.577234"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-6-12-june-2026-week-24",
@@ -2442,6 +2442,6 @@
         ],
         "published": "Fri, 12 Jun 2026 15:19:02 +0200",
         "source": "ECDC Threat Report",
-        "fetch_timestamp": "2026-08-19T22:49:43.377011"
+        "fetch_timestamp": "2026-08-19T23:18:30.286410"
     }
 ]
