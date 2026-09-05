@@ -23,7 +23,7 @@
         ],
         "published": "Sat, 05 Sep 2026 11:54:58 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.323345"
+        "fetch_timestamp": "2026-09-05T19:15:37.187527"
     },
     {
         "id": "CBMifEFVX3lxTE1ma01Sa1MwZnRSQi1rbldPZlBvTDNSbG5HWWkzYTBtRU9Tb1pqUnczbm1KdE0xOTlQT2ZIV19tNlRyeXNSX3hzNmhrMGZ2MmxsWm9SMFFZRWlQVUhLZTd3UWZCWUtsem5zeldZenlrNUVNNl9QNmdaVzJxZzU",
@@ -49,7 +49,7 @@
         ],
         "published": "Sat, 05 Sep 2026 11:05:16 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-09-05T17:26:34.324597"
+        "fetch_timestamp": "2026-09-05T19:15:37.188682"
     },
     {
         "id": "CBMiW0FVX3lxTE5xMVVJa1dtcUNxdHM5ekRUcWl0dHV4ZnFoSmQxMU5pd0ctR3AzTXpNRndPQXVlM3FuVHY2VDNVS2NMVFZJUlY4Zi1faW9iVXg2eDNCTGl3SFRkNUk",
@@ -75,7 +75,7 @@
         ],
         "published": "Sat, 05 Sep 2026 09:41:01 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.325192"
+        "fetch_timestamp": "2026-09-05T19:15:37.189230"
     },
     {
         "id": "CBMiuwFBVV95cUxQd0ZHbWJ4R1lFVGhGQlByZ1FQNHFfUkNUV1pVX0dQSzNsWG9Zc2N0S2NweXZiYm0tdTBxQm9UeXNDcThCdmtjQjJwTE1CUDMxdXRqT1EwMmtHTHRMM2R6NjZtWG0zX0llUmo2cW1qVVZ6QXJfMVhMLWhUaVV5SWVaQWp5Q0ZrNlM5Z3ZabWxtUUswSWFxQnBSNG9CclB2ZmVSNDVJNUoxeVN0bmRUdVB4WjQ4TTNhVWNncEtj",
@@ -101,7 +101,33 @@
         ],
         "published": "Sat, 05 Sep 2026 07:51:23 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-09-05T17:26:34.325969"
+        "fetch_timestamp": "2026-09-05T19:15:37.189956"
+    },
+    {
+        "id": "CBMiW0FVX3lxTE8yU0RnX2loOEZ5V19SVjdJRHBtM1JaLVo0M3doYUxqaVRyUVFfNkh5LVdPSlc4cWhPMGxOVnF6QktxdEhyTThSU2dIMnItMlBHaEo5R0dtOUdyN1E",
+        "title": "LeBron James Mix - Can't Hold Us (2013) Hantavirus Los Angeles (X1mo83f1XK) - Mshale",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yU0RnX2loOEZ5V19SVjdJRHBtM1JaLVo0M3doYUxqaVRyUVFfNkh5LVdPSlc4cWhPMGxOVnF6QktxdEhyTThSU2dIMnItMlBHaEo5R0dtOUdyN1E?oc=5",
+        "location_name": "California",
+        "coordinates": [
+            36.7014631,
+            -118.755997
+        ],
+        "location_method": "inferred",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "California",
+                "coordinates": [
+                    36.7014631,
+                    -118.755997
+                ],
+                "method": "inferred",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Sat, 05 Sep 2026 06:32:36 GMT",
+        "source": "Mshale",
+        "fetch_timestamp": "2026-09-05T19:15:37.190417"
     },
     {
         "id": "CBMi3wFBVV95cUxOSUpyQU9Xbjdpa3J4dEdxcXlRZjQxdU9jQlV3WU5vcEpCeGJyeVRjWldkS3Vxa3V6akJ3M1ZieTlaZG1rSkh6U0ptaVBIbElEREtHNTZ1OEdxYXNDQzkxUkZwTXlNNHZ3LVkySzJ2V2ZaaEFfQXo2UDhnNVJsdHhhcERpQjZUTnVBc0N0ZGxlWjctbTlPdVQyTWpYWkt3ZGcwV3BYbWdmdmMtSWIxZUVmTkJ1OFNNVGdDWXgtZzlPYmliX0c3NHJnZnhvZVBBajR0TkJmTW1penhhZXpEalJj",
@@ -127,7 +153,7 @@
         ],
         "published": "Sat, 05 Sep 2026 05:17:56 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-09-05T17:26:34.326675"
+        "fetch_timestamp": "2026-09-05T19:15:37.191045"
     },
     {
         "id": "CBMiYEFVX3lxTE0tSmd6T05nS2R4ZUFYVHlockRuXzl6aXprdk43NXpONWk0OENvY20xSjR6Szk2ajFhMzRseFhVR1pCVnd3ajFsNVgycEd1T2Q2bEZvam5pd29Qci1KcjhFeQ",
@@ -153,7 +179,7 @@
         ],
         "published": "Sat, 05 Sep 2026 01:28:55 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.327376"
+        "fetch_timestamp": "2026-09-05T19:15:37.191686"
     },
     {
         "id": "CBMimAFBVV95cUxQWHVLaGlpR0xMeHU4bWNrdFlsanlvX2JZM0YyN3ZwdG4xRUYwVXNVZVNrbnVBTnJMdDFoWGJkaDA2UllVcWtSMS05bWNyeGlvYTJXeE84MFpwNmRNalhhM2hKMG03MTNaT0Q1eEIxOHctUzZfX2NoWnhUZ011VTc0WVgzY3dRX2EzTkJPQjFrVHFvT0c3cVN0SdIBngFBVV95cUxPQzhFeTU5MnlzZzRMcGRhU255Nk1ROXNwS1V3Z1VDbDY5N3dkTW52c3dDUXpxZmdmdWhiWEhZTWRwVV9HX21GTTRaR3E1ZkdPSk5IVnZoeld5SEVvRXBSUXdyOWo5eDlXOE1RNl95V0d0X2YzenprSzd6TlktY183XzlNOXZZTjFUMzNiOXNkS3gyM2daWUpyNy1kUTBFUQ",
@@ -179,7 +205,7 @@
         ],
         "published": "Fri, 04 Sep 2026 23:30:11 GMT",
         "source": "tovima.com",
-        "fetch_timestamp": "2026-09-05T17:26:34.327940"
+        "fetch_timestamp": "2026-09-05T19:15:37.192193"
     },
     {
         "id": "CBMiW0FVX3lxTFBjckdpeG51Z1hWYklfblVtMVZmTG1jUzVSa1ZDWVhlQzdJSGpfSS11SG5SclRBLUNsd1Y5d2pJSFZrYTNCcDZoUExHOUZ6eEV1QzhXNDVZNl9GbGs",
@@ -205,7 +231,7 @@
         ],
         "published": "Fri, 04 Sep 2026 21:31:56 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.328572"
+        "fetch_timestamp": "2026-09-05T19:15:37.192735"
     },
     {
         "id": "CBMiYEFVX3lxTE1NWDJpY29CWHkxVHhnbXJUbWlrVG9OWVN6cmRPMGFYMmw1RlhHZ0dxMktralJJOTdBUEJpbWFJVG5sNHNpYng5WWI5cUdsRVV3ckRXdkVaSlViSkpUeVVLOA",
@@ -231,7 +257,7 @@
         ],
         "published": "Fri, 04 Sep 2026 19:00:58 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.329249"
+        "fetch_timestamp": "2026-09-05T19:15:37.193348"
     },
     {
         "id": "CBMieEFVX3lxTE5PWEFrN0dHWkJQZ09LNzZWNGVPb0FjTy1xTTk0TzV1MXJYX3lpQVFnQjlyNHcyVS1qZEVQRHUzempmVGZuZ3BXRm5EMEw4SDh1R2RIalU3SjZSeUY2dXRTSGJKRThRNHZRaXlHa1hEVTdFOHhwMU03VQ",
@@ -257,7 +283,7 @@
         ],
         "published": "Fri, 04 Sep 2026 17:14:21 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-05T17:26:34.329787"
+        "fetch_timestamp": "2026-09-05T19:15:37.193821"
     },
     {
         "id": "CBMiW0FVX3lxTE5SWGszbjJ5aHFKQS0wRTR0NE9abUVDZFBoTWNIWFl1c2hya0tzcmlGMjFIcU5lT1F0R1RPTElyeDlqUVZIVzVLM2ZabERaRHRWcy1yR2FDUXVvUEk",
@@ -283,7 +309,7 @@
         ],
         "published": "Fri, 04 Sep 2026 16:35:36 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.330427"
+        "fetch_timestamp": "2026-09-05T19:15:37.194393"
     },
     {
         "id": "CBMiswFBVV95cUxNUlp1LVBTYjU3cWZFNWVTaDZmNklsZ0NrV2N0Z0REUGhBQTlQOF9vX1k1cHF1SGdiQ2NXd19wMG0xQllyQUZCY1oteXFydmNSM3BwVk5hbERpNkVoaG9ETTlKNlg0QnNfcGlSVUZHNGotazVKcXBGNl9DQVVxY0RhMXRWa3cta0hiNjFtMnR0dlJabldMc1gxVVFXeDBQcVJKOGVCZVZHbkdoQkFFOVRFMjZLTQ",
@@ -309,7 +335,7 @@
         ],
         "published": "Fri, 04 Sep 2026 12:17:26 GMT",
         "source": "TVP World",
-        "fetch_timestamp": "2026-09-05T17:26:34.330916"
+        "fetch_timestamp": "2026-09-05T19:15:37.194809"
     },
     {
         "id": "CBMiW0FVX3lxTFB4cnFVMHcxdXNNbnhlSWk4VzZnVjI5d3dEdVJtZU1XNDNhZkNQQl9ncDloMXlSX29ObWE4czhyOFhrUEpSU3M0bEs1RlVyS2hjTG90M0VEY3ZTRmc",
@@ -335,7 +361,7 @@
         ],
         "published": "Fri, 04 Sep 2026 11:54:59 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.331420"
+        "fetch_timestamp": "2026-09-05T19:15:37.195225"
     },
     {
         "id": "CBMiyAFBVV95cUxNYUVOeTQtNEl1UDBtbGxhb29aWEJxWFdMZ0U5SzltLUltb2RrbjZlRHhCU2daN1N1T081NnozMWNoSTFjdmg4LXV4ejRZTDJJOS12UExEQTJjdUsxbGdocVNiY2dJUWlhVkdEdnRoMnRWb2M2VDZJZFdqT1ExYTBwYndnRjE3YWxjaGtmZjRiVU0xLW1iOTdFV3NqekV2dTVQUnpMRjhUMUtCVzNxX0lua2xGZlJRQUJkMGVHUjVVeWNCY1FTeVZRVg",
@@ -361,7 +387,7 @@
         ],
         "published": "Fri, 04 Sep 2026 11:27:59 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-09-05T17:26:34.332029"
+        "fetch_timestamp": "2026-09-05T19:15:37.195783"
     },
     {
         "id": "CBMiYEFVX3lxTE9zYjZVZ3poUGthaGNBUkJQNS1jWVdsR1RKRUh2RVBKLVZjbzdZZ2RFeGRyQmZiRHdNZTVxdWllVXp4dzNLbFlfZ002ZXYtMmQ5ZkZtZUVibmE1RjBteUtyZw",
@@ -387,7 +413,7 @@
         ],
         "published": "Fri, 04 Sep 2026 09:48:51 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:34.332788"
+        "fetch_timestamp": "2026-09-05T19:15:37.196480"
     },
     {
         "id": "CBMia0FVX3lxTFBYX0xuRDB0OGVKRFJ5NHZPUEpVenkwVXMtdTJodlFER1JGa1B1S0xlTGh1OUNJUmlwNXBOR2Z1ZFIxbVh3M05uazh2VTRfTkdpUmo5U29BazlfcWwwSld0eExYUVNtTEJ5OTBN",
@@ -413,7 +439,7 @@
         ],
         "published": "Fri, 04 Sep 2026 09:32:38 GMT",
         "source": "ynetnews.com",
-        "fetch_timestamp": "2026-09-05T17:26:34.333430"
+        "fetch_timestamp": "2026-09-05T19:15:37.197042"
     },
     {
         "id": "CBMimAFBVV95cUxPc3pQVVh1UHlhLW95TnM4Z3ZhZUpzU3NNM1FhUDQ4WGZzaDJNSWFzZTgzM0l3aDRkOUVSMGJvblY4UlJGeW1yZFNtZEdSb1Z6UjhNWXJCSkRpVTZFSk9JVktBZU9QLXZfbWxJVXRCdmp1RFpGU3lSRTVrNVlFOHdsdzU3RGFHQVlsWjJuQl9zeVh4eVE2UkhBTw",
@@ -439,7 +465,7 @@
         ],
         "published": "Fri, 04 Sep 2026 08:41:20 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-09-05T17:26:35.922103"
+        "fetch_timestamp": "2026-09-05T19:15:38.666105"
     },
     {
         "id": "CBMiW0FVX3lxTE1qQm01aTRSNU4tT0t5WG1oUHB2dlFLOFJEZkd3Y2R5XzFaQk1SNVZMVDVLUWxrMXpwVEZoU2hBQ01ZREg5RnRiQTBiVDRfUGxYeFROcllsV0ZCNnM",
@@ -465,7 +491,7 @@
         ],
         "published": "Fri, 04 Sep 2026 07:13:41 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:35.922925"
+        "fetch_timestamp": "2026-09-05T19:15:38.666944"
     },
     {
         "id": "CBMiW0FVX3lxTFA4T0tYQWNaZFR5TVFJS0RmRjkzRExXSHJiX2VYbzlIaWJ6NFpISGdkTjBFWmxsSjVEanVOR05PWFVvcS0wbElwU2NZM2xOTlVWVU9RNVlnSEoyVmM",
@@ -491,7 +517,7 @@
         ],
         "published": "Fri, 04 Sep 2026 05:58:26 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:35.923588"
+        "fetch_timestamp": "2026-09-05T19:15:38.667558"
     },
     {
         "id": "CBMi0wFBVV95cUxNVFFjNFNfd1hmRzgtU0FzUTJTOG0xczRxUy1sZFpQaEV4ajNkZUtvRGF5SHVMdjcxNXlPMEhteHZCQUF1RmdjQnlHY3ZodFdSZmpPZkl3VU9sbXhMdTl4bVludzJRQVBTOFJsd2NJTXU5QzVBVlY0bmQ5Rk1tMUNST2J6S29KMTdUbzFWSTVPSHZpNFBtZFU1R0tWR0lkNngzSjM2cEliZ3hfVnV2Y0lJVGx6SWpLNU5TRS02YkN0YVd3a2RxTHpiTkRMUm1Bb3VocDR3",
@@ -517,7 +543,7 @@
         ],
         "published": "Fri, 04 Sep 2026 05:51:32 GMT",
         "source": "Cruise & Ferry Review",
-        "fetch_timestamp": "2026-09-05T17:26:35.924373"
+        "fetch_timestamp": "2026-09-05T19:15:38.668301"
     },
     {
         "id": "CBMiW0FVX3lxTFBoWW9XdjhmRTlQUk92d0ZBYmc2NmZkR2lFNmNFOFpxZnZ2TkJPeGVJeXBVbEZSZUlhU2F5TFpwc2xRYWE3czlEck44Q080eHVTVnpWQUNFNjN2dHc",
@@ -543,7 +569,7 @@
         ],
         "published": "Fri, 04 Sep 2026 04:14:44 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:35.924970"
+        "fetch_timestamp": "2026-09-05T19:15:38.668844"
     },
     {
         "id": "CBMipAFBVV95cUxOendfZzR6NERHVDFFUnl5UEhDUW9vamdLNFl0S3ZsVlRTb21UR1dDM29pN3hGc3I5LVZvSFlBcTlpemVzbkd6amNidnJzeW1yQV9mNDdsQlZrYy1BZDRzWFZIWGdSRnhNMTB2RGhyakt6VmRFUnpqbEdVM0lJdXdJVkxRczNGQWFpa1dydDVvSHNjUmZGM3l4TDVIeE9QT2R6clRNaw",
@@ -569,7 +595,7 @@
         ],
         "published": "Fri, 04 Sep 2026 03:17:58 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-09-05T17:26:35.925573"
+        "fetch_timestamp": "2026-09-05T19:15:38.669355"
     },
     {
         "id": "CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE",
@@ -595,7 +621,7 @@
         ],
         "published": "Fri, 04 Sep 2026 00:50:00 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-05T17:26:35.926302"
+        "fetch_timestamp": "2026-09-05T19:15:38.669994"
     },
     {
         "id": "CBMiW0FVX3lxTE9KQlFSUXNEQzlUNjQxNk5QZlBxY3lZWFBmTGpsMGRmWjFObll4bFVvRXFJQWJmRjdKUkZfWGc5anpobkRCT2tUWlN1UUJ2b1h4NlRWTV9abm9JcjQ",
@@ -621,7 +647,7 @@
         ],
         "published": "Thu, 03 Sep 2026 20:50:53 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:35.926964"
+        "fetch_timestamp": "2026-09-05T19:15:38.670612"
     },
     {
         "id": "CBMijgFBVV95cUxNb1hNM1A0M2pxSkdlUW9YSnRnZ2JpalNtdXZtd3Uyc3E0a1E1M0ZROTAyMVRGbzV3SmlsUTlNYnlrVEdQX2UzbThCeUJSdWVQeVNQOUhwNzJNNGgyQWRWa0FWRm9FaEUwb3B0YTRRdGRfUmswWVVNQlgtN0k0enN3VEctSFk2anFMUDB0SEFR",
@@ -647,7 +673,7 @@
         ],
         "published": "Thu, 03 Sep 2026 20:40:48 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-09-05T17:26:35.927503"
+        "fetch_timestamp": "2026-09-05T19:15:38.673312"
     },
     {
         "id": "CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ",
@@ -682,7 +708,7 @@
         ],
         "published": "Thu, 03 Sep 2026 20:38:03 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-05T17:26:39.992223"
+        "fetch_timestamp": "2026-09-05T19:15:43.063554"
     },
     {
         "id": "CBMiqAFBVV95cUxQVzNRVk4tM3BoYkoxMFlINTB1WVQwcmZsbTRfODIxLUlWQkpJb1h2SlFGNHA2eXkxTWwyTUtNX25UcGZvVVJtdWJfNzR1eHZlOWIzZ3k1UWxYZ0dNcjhKV1ZVZEk2X1dlaHpjRVBhbldyVWFNb0VtQ1RWbDBCLUdhSXExektrMWM3Ul94eFRiSDVYb2tQZVdtMHhOcHMwNHVJXzdHbnJleHQ",
@@ -708,7 +734,7 @@
         ],
         "published": "Thu, 03 Sep 2026 19:32:25 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-05T17:26:41.457904"
+        "fetch_timestamp": "2026-09-05T19:15:44.654556"
     },
     {
         "id": "CBMinAFBVV95cUxOQWowSXMtQW9NTlotcmFRdlB1ZURnalFYODBXWGhkbkZKcU5qN0FrUENuQXJ2TlBaZ3RoOXNwN25fVUZiVnFlVDF4QWI0cFMwT0NRTHR3c2dQWXBRbEhzM2ZJYUtVdHcxNjNIQ0thZ1FDX2ZzSXRsV0xZSm9GMTQ2b1hWV2owQTBhRzdBMTVGQk1iWGctVXNINVQ1bGI",
@@ -734,7 +760,7 @@
         ],
         "published": "Thu, 03 Sep 2026 16:18:23 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-09-05T17:26:41.458767"
+        "fetch_timestamp": "2026-09-05T19:15:44.655422"
     },
     {
         "id": "CBMickFVX3lxTE1zWGptMWZIclZCYjg1MFF1R3ZlSWN5bVhRQWRWczlEM2QxSjBBY2dCOHFYZHlWNnh0QnBSZ1RWc2s3VHpMRFJNQnhULWVJSkg3QUpxWlZzYldQVjhPMnY3eU41MjFUNUJ1MlZZVU1rWXV1Zw",
@@ -760,7 +786,7 @@
         ],
         "published": "Thu, 03 Sep 2026 13:00:32 GMT",
         "source": "PIX11",
-        "fetch_timestamp": "2026-09-05T17:26:41.459264"
+        "fetch_timestamp": "2026-09-05T19:15:44.655848"
     },
     {
         "id": "CBMi2gFBVV95cUxObkR5djloS3FweEZ0aHZYT2pCaV9yemhLS1AxU1hFb0tfclY1bk55bmlIaVZ2U2NWZjdZVlVrejNXaDlIeEZxbmI0VGNLMVB6ZzV5UUpOWkJhNEdqTENVeXR3RFhzODl3Vk1lb3pQVGRLdGxES00xT1JvSnl2TUVUSXVBZU5tQ3BsU3J2MWVzbXV3a3Zvcmh5c0c1Y3lnR2lHMFR4NVI4WFJPOERYbEtxU2R6SmE3X1NFOTFJZHZNbVh3ZzBObU0weG4zSm5tOUNPNDlCRTc5aDNWZw",
@@ -786,7 +812,7 @@
         ],
         "published": "Thu, 03 Sep 2026 07:40:00 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-09-05T17:26:41.459934"
+        "fetch_timestamp": "2026-09-05T19:15:44.656488"
     },
     {
         "id": "CBMimwFBVV95cUxOR3pIanZBbENOZWp5WXZkUGEzcDNla1Fhcnp0dkthV0hCOG1IaVNUaEswejJCRzRpaUs1cVpIY3BWV0tZSDNYdVlPQ0k5YzMzS2dpVUpaZldCZ3ZRR0JFNzBhNEN6UzRMNDZOYjN1SDZzMkZBenQwNnRRRVpvQ19rbTQ1MnREbWNQTzdRa2Qxa2VJN2tVTFBxOUxHYw",
@@ -812,7 +838,7 @@
         ],
         "published": "Thu, 03 Sep 2026 07:36:58 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-09-05T17:26:41.460376"
+        "fetch_timestamp": "2026-09-05T19:15:44.656854"
     },
     {
         "id": "CBMioAFBVV95cUxOY29zbmxVbk9UY081N0pGeTNFZlA0SkpEVFdvYlhWQnBnWk9LTXZ4QVRpTTkxRHZvWTN0WEZDeHVtbFY4eDRzS2NBeThmTkN6RWpjSGo3c3hrdHpWak12Zml6RGhoVlR2WmhmRjdVYXlJbjhob05QamhveXd3Y21nb2Utb0JXV0pxRkZlVGg0Tm80RzNLTFRJZmJFN1pXZnVh",
@@ -838,7 +864,7 @@
         ],
         "published": "Thu, 03 Sep 2026 07:34:56 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-09-05T17:26:41.460860"
+        "fetch_timestamp": "2026-09-05T19:15:44.657290"
     },
     {
         "id": "CBMiYEFVX3lxTE9SaWoxaWxiODVpWEJ3cFRnNFJvVld5ZFVJd0hoRHg5bzUyZkNjRGFOeWxFNWFfMEpNcFZiME40QXlfTFBLdjQtOXFWSzJ0SFhpU2JKdDhtRlprSHlNWlVfeQ",
@@ -864,7 +890,7 @@
         ],
         "published": "Thu, 03 Sep 2026 07:33:12 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:41.461531"
+        "fetch_timestamp": "2026-09-05T19:15:44.657886"
     },
     {
         "id": "CBMinAFBVV95cUxNUGp0Z2pzM1F0anBwMkp1ZVB1eF9iRHlKZ2ozMEJZeTNFYm1vVUZMc0tVSWRZeEhkVjhoYmVTZi15eTU2WEtNWmFtUk9nOUw2eE9mc2xOekl5Wm9qS0pxSDBramZuZEkwbkJYUHR0QlhHNGs5LUZzRXNxaFBLdUxtV05CZG1FV1BmNnJGS2RMeHVyeEJZam9BdFAwUkM",
@@ -890,7 +916,7 @@
         ],
         "published": "Thu, 03 Sep 2026 07:31:06 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-09-05T17:26:41.462007"
+        "fetch_timestamp": "2026-09-05T19:15:44.658331"
     },
     {
         "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
@@ -916,7 +942,7 @@
         ],
         "published": "Thu, 03 Sep 2026 00:53:21 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-09-05T17:26:42.909912"
+        "fetch_timestamp": "2026-09-05T19:15:45.965754"
     },
     {
         "id": "CBMiW0FVX3lxTE40R0lJRWxNN3ZWSlU1d1RFdmNKNkdRTXFteEdIWFV0dzJZcExqcmcyWkdYTF82c0pFbUloREJCMUt1UzlUTWU2NTRhRU9tYnVGejBrbm1hYllydXc",
@@ -942,33 +968,7 @@
         ],
         "published": "Wed, 02 Sep 2026 21:24:46 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:42.911091"
-    },
-    {
-        "id": "CBMiW0FVX3lxTFBKanEwdjM0cTI1S3poY3hKWDNmOENJak92ODVWT3BPbnZhQTB0NGRBNTVqSUpUZFlMMkxxUUg3SkpaRmJTT2YtX1FOMExJaHdvV1dScnRKbWU5ZUk",
-        "title": "Kansas City Current Vs. OL Reign | July 17, 2022 Hantavirus Milano (u1a5QJvmPL) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKanEwdjM0cTI1S3poY3hKWDNmOENJak92ODVWT3BPbnZhQTB0NGRBNTVqSUpUZFlMMkxxUUg3SkpaRmJTT2YtX1FOMExJaHdvV1dScnRKbWU5ZUk?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Wed, 02 Sep 2026 18:48:52 GMT",
-        "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:42.912179"
+        "fetch_timestamp": "2026-09-05T19:15:45.966563"
     },
     {
         "id": "CBMiqgFBVV95cUxOV3RoeThpTVcyWFhqZmRYT3ZzbFo2MHA0X2FURzlLMjFLTjZxR3F0dkVjSWRDclk4QVY3dldNdk1OeGZuQTZQajdNaEo3VXNFTHpzZVRjSWUtaF9nOF9jQ0xsamdtWXB6N1dBdlNTTnRDQUp1a3RQNjgxZ25HRGZQb3c3blpUYlhMdVQzRXRjeVo1akt3b21RTnh0Nkd1dm9JSWJmRDlVX3J5dw",
@@ -994,7 +994,7 @@
         ],
         "published": "Wed, 02 Sep 2026 14:00:05 GMT",
         "source": "NewVision.co.ug",
-        "fetch_timestamp": "2026-09-05T17:26:42.913080"
+        "fetch_timestamp": "2026-09-05T19:15:45.967075"
     },
     {
         "id": "CBMiqgFBVV95cUxQQzhPSE4wbVphNHVZem5aa3JWcWJ0c3MwNWVRWHduLTF1SHpjTUpmcVR4S2RkR0VqYWxSR3pURm1tMjBYWEZDNGxwSVBRNWt1WTIxYjRJMzl6UTlKb21QZFJBU2tiNVMzcGkxWkJ3QkxxUG1PU3BybHktejNneE11NGVyRTVBWktmNlIxNnlRMVROUzBtYzJHTFBqTTY0anQ2S2g4d0Iyd2xBdw",
@@ -1002,8 +1002,8 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzhPSE4wbVphNHVZem5aa3JWcWJ0c3MwNWVRWHduLTF1SHpjTUpmcVR4S2RkR0VqYWxSR3pURm1tMjBYWEZDNGxwSVBRNWt1WTIxYjRJMzl6UTlKb21QZFJBU2tiNVMzcGkxWkJ3QkxxUG1PU3BybHktejNneE11NGVyRTVBWktmNlIxNnlRMVROUzBtYzJHTFBqTTY0anQ2S2g4d0Iyd2xBdw?oc=5",
         "location_name": "German",
         "coordinates": [
-            56.0026997,
-            2.8144673
+            56.00276,
+            3.000129
         ],
         "location_method": "extracted",
         "location_confidence": "medium",
@@ -1011,8 +1011,8 @@
             {
                 "name": "German",
                 "coordinates": [
-                    56.0026997,
-                    2.8144673
+                    56.00276,
+                    3.000129
                 ],
                 "method": "extracted",
                 "confidence": "medium"
@@ -1020,7 +1020,7 @@
         ],
         "published": "Wed, 02 Sep 2026 14:00:05 GMT",
         "source": "NewVision.co.ug",
-        "fetch_timestamp": "2026-09-05T17:26:44.414683"
+        "fetch_timestamp": "2026-09-05T19:15:47.552002"
     },
     {
         "id": "CBMivwJBVV95cUxOM1R3WS1PcHVhWXVYNmxSX3RwMml5bk12TmZBdXBrTU5ma245Z2FjX1dCUkFYOXpEa2ZYbEJyUHVjMm5UVk5lMlZpU3VZWllsLUV6eDFvTUVkaWVzNWNfcnZsTnVkTHRYYTlTVHZoeHZTcVdmd2k3Z0F1TURvWFYxTXR4RkRwNHFBTk5EeXZ6LTd1U0FQUzRGZmpmQW5nWHNFZ2M2NzhSZWJfR1FCdWduejljckwtTEw1ajBqaklNR3dNalRBM1d1LTNLemlTQVZZXzMyX05rU0ZEYzRwZHd2eUFKWTdQRnhIdHJtaXV6bWFUUDQ1aXlPUDlmV1FJM0pZa09TaHdwLVlJdHB4QWlFUE9sdFY4QWI3ZVl4d3hWb0d6SXJHWjNSeDZfOUhGeU1rMy1ERmR1VUJlMjNYRnEw",
@@ -1046,7 +1046,7 @@
         ],
         "published": "Wed, 02 Sep 2026 11:56:53 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-09-05T17:26:44.415694"
+        "fetch_timestamp": "2026-09-05T19:15:47.553001"
     },
     {
         "id": "CBMi1wFBVV95cUxNeEtrOHZrVTRvdVlIc2FTLUlxOEYwZW5KWlp4NGRGLU5HQ0YwNEdienpMd1BzVFVwNnViMUc0Q01ybFBBV29OMmVwNmM4U25HazRuMGVaQm1mM3U5VWZ6UGZPQXJyS04wV3hVYjFZYWQtSmJzbHFralhZcG9aa19FdTUwSHoyWlg4NkMwSklTS1pmQlh0U01HeEhSbWJRempBNkszUlFncmt0Z05uRXl4NkZJNm9vX2hiVmxNZ1hiOEhudXRfalNFZlpiM3AwMjdUQWtwdUl2dw",
@@ -1072,7 +1072,7 @@
         ],
         "published": "Wed, 02 Sep 2026 07:00:00 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-09-05T17:26:44.416432"
+        "fetch_timestamp": "2026-09-05T19:15:47.553716"
     },
     {
         "id": "CBMiW0FVX3lxTFBVSGlGSUNNOEl6aHBXZHRUaGhKVFBhZzhLSEl4WHlRT3pSMy1lWjNSbV9DeTdRZ0FDcnlwaVI1VnNSUXVEbVUwT1pKR1htdUpVS3hPU2xBY1IyZm8",
@@ -1098,7 +1098,7 @@
         ],
         "published": "Wed, 02 Sep 2026 01:46:01 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:44.417053"
+        "fetch_timestamp": "2026-09-05T19:15:47.554316"
     },
     {
         "id": "CBMiW0FVX3lxTE5ENmIwamxiSjN4elNsSTVNZDQwcmFaTEwwUzBoZlV6RXpWbzNoSXdUd1dBQW9aRlNFdXlzM2VVUkpMTEU3WXhuWS11TEJmLThwclVDbUZjVTBzVUE",
@@ -1124,7 +1124,7 @@
         ],
         "published": "Tue, 01 Sep 2026 20:46:31 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:44.417640"
+        "fetch_timestamp": "2026-09-05T19:15:47.554834"
     },
     {
         "id": "CBMiYEFVX3lxTE51YzY3VzhhSGVEWVpYSm1vRkJpQll6OXFtNjZNQ0gwVkNiYkEya2N0M3ZYMTlYVGlxX0dZdG0zLXkyTEZSOXlkanhqMFFJVkt1R2w4YWVuOUN6bWp3WHZRag",
@@ -1150,11 +1150,11 @@
         ],
         "published": "Tue, 01 Sep 2026 14:51:14 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:44.418240"
+        "fetch_timestamp": "2026-09-05T19:15:47.555379"
     },
     {
         "id": "CBMitAFBVV95cUxOYnF0ZzA0RnIzLUNDUU56bVN3R2dtNGVkY2lMbGo4Vks0X0piVzBZcUx5WHNGSmN2bV9DV2lMU29sSXY2cWdwZ0ZrLW9lT29LWEpSZk1uUUt5LWRKY0NqSDE4Wlppdjl1VzlPZEdEb0duTFdQVUYzUGtmLTlZNHd4RkJwYzU4MXg1MDdyZV9NYVBYNm9OY3FSM0w0NTR3OHEzSE8yYjNzaF90NHdpT3pWX2ZCZVk",
-        "title": "Hantavirus case in Canada investigated after MV Hondius cruise ship outbreak - Goodreturns",
+        "title": "Hantavirus case in Canada investigated after MV Hondius cruise ship outbreak - goodreturns.in",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnF0ZzA0RnIzLUNDUU56bVN3R2dtNGVkY2lMbGo4Vks0X0piVzBZcUx5WHNGSmN2bV9DV2lMU29sSXY2cWdwZ0ZrLW9lT29LWEpSZk1uUUt5LWRKY0NqSDE4Wlppdjl1VzlPZEdEb0duTFdQVUYzUGtmLTlZNHd4RkJwYzU4MXg1MDdyZV9NYVBYNm9OY3FSM0w0NTR3OHEzSE8yYjNzaF90NHdpT3pWX2ZCZVk?oc=5",
         "location_name": "Canada",
         "coordinates": [
@@ -1175,8 +1175,8 @@
             }
         ],
         "published": "Tue, 01 Sep 2026 12:34:50 GMT",
-        "source": "Goodreturns",
-        "fetch_timestamp": "2026-09-05T17:26:45.523540"
+        "source": "goodreturns.in",
+        "fetch_timestamp": "2026-09-05T19:15:48.921096"
     },
     {
         "id": "CBMiiwFBVV95cUxNS2E4VDl4cmV6bGdfNUdqZlF3ZzE1N3ZDbFhVMjRhRVR6NV91V0ZNNXN0eWlHQVBaU2FRT1M3YmVzYWhrdks0dFFKWXI2aC1DU1kyX3hhSG5NdzY1RHhTN2RYckNhRVNVTXRpSGFhVFFkMHh1T3I0bEFhV2Z4ZWprUkI5a0pWNFpGeFdR",
@@ -1211,7 +1211,7 @@
         ],
         "published": "Tue, 01 Sep 2026 08:15:55 GMT",
         "source": "Yahoo News Singapore",
-        "fetch_timestamp": "2026-09-05T17:26:48.295832"
+        "fetch_timestamp": "2026-09-05T19:15:51.955182"
     },
     {
         "id": "CBMiW0FVX3lxTFBMaXdGZmVCUnllalhWVmxCaFVfSE15SWNXdzJVSGxRSU1Sc0lBQXZIcTRWTGRrMmFxdHVFZDhzR1doeGR3SFp0Z1d3dC1ZcXdMOS1FQkZlUUgtM2M",
@@ -1237,7 +1237,7 @@
         ],
         "published": "Tue, 01 Sep 2026 05:56:30 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.296634"
+        "fetch_timestamp": "2026-09-05T19:15:51.955922"
     },
     {
         "id": "CBMiW0FVX3lxTE5ENWxNNFhId3ZEdEpYNHg2Q0RUdFRsai1NbkxuZnpUSV9vLThJRFlxbGs2VDk1Z2VFcDBVVlFFRElZeEs1c2ZuSmdsbVJvSU00SzUwYWl0d2lqbWs",
@@ -1263,7 +1263,7 @@
         ],
         "published": "Tue, 01 Sep 2026 02:14:30 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.297389"
+        "fetch_timestamp": "2026-09-05T19:15:51.956644"
     },
     {
         "id": "CBMiW0FVX3lxTFB1UnQwaXQ1X0V1dXVDZXo0R0s2ZGpsb0hhRHE5YUo4c1VUal9vXy1iclU3V25RaWVFNFd1NGhPQkRGSHVHQkpKNGw4QUlQbkdhYWprc0pDcENudFU",
@@ -1289,7 +1289,7 @@
         ],
         "published": "Tue, 01 Sep 2026 01:39:05 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.298181"
+        "fetch_timestamp": "2026-09-05T19:15:51.957388"
     },
     {
         "id": "CBMiW0FVX3lxTFB3VzFacVpTTzh1U3pjOHJwbEhJVEVYTVVVaWpGUzlJTzRteE9WdGhBc3dxaTBOSWtYbXMtSDZCeFhFektRTmlPd2R1dDJ5OHk2UW9fenFScElydzg",
@@ -1315,7 +1315,7 @@
         ],
         "published": "Mon, 31 Aug 2026 17:43:34 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.298786"
+        "fetch_timestamp": "2026-09-05T19:15:51.957949"
     },
     {
         "id": "CBMiW0FVX3lxTE1NOFV3VDdIMVN3ZzZzMWxQZld4dlFwVl9mbS1QRFBXVnVxaVU5V3RBMzF0M0VnSkotYnhjYkVWYWNNNWFaV1FXNnZMQ3NjSUNITGJ0TnE1MVpPa1U",
@@ -1341,7 +1341,7 @@
         ],
         "published": "Mon, 31 Aug 2026 14:16:13 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.299409"
+        "fetch_timestamp": "2026-09-05T19:15:51.958515"
     },
     {
         "id": "CBMiYEFVX3lxTE5ZTkVEMU5lelhtNUFCX0d6VTBDQUtQU1JJTHlIOHhhelhma2ZrOGNUWWdWMmhaWGVwbGU5WmlUY0U2UHVWTFV6akVucENsM3MtTGJpVFN5NUI1MEdxX1Jtaw",
@@ -1367,7 +1367,7 @@
         ],
         "published": "Mon, 31 Aug 2026 10:14:04 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.299947"
+        "fetch_timestamp": "2026-09-05T19:15:51.958988"
     },
     {
         "id": "CBMiW0FVX3lxTE5sa0RsZW1NazE3czJqRU8yOTQ2VENWZFhfNzFxa2xDUVN3cUY0WjRQSGJES1RLYmtDdXY0cWZhTnNiN0l3T3ZFOER5RGRITk9PM1FUbkNEc1dTbms",
@@ -1393,7 +1393,7 @@
         ],
         "published": "Mon, 31 Aug 2026 08:17:11 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.300516"
+        "fetch_timestamp": "2026-09-05T19:15:51.959513"
     },
     {
         "id": "CBMiW0FVX3lxTE1OaUZRemZMdkV3emRUcGQ4cGRMNmxMSWM0M09nRDJYcHRxck16UHM5N0hEdFRtOXlfM0FKUTEtdlZsVl9YcVVzYklNaS1HdXpaYXRNSjJWX1BhWDg",
@@ -1419,7 +1419,7 @@
         ],
         "published": "Mon, 31 Aug 2026 07:21:40 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.301197"
+        "fetch_timestamp": "2026-09-05T19:15:51.960142"
     },
     {
         "id": "CBMi6gFBVV95cUxQTWJkWl9RbTZvbjNfR281X1Q3TFB5ek9vTmNHcjUtVDRySDJoT3pSXzU2N3hXQ1NzeDRFUmxKY21WT2p4T0RRWmQwNXNObHZ5bHd6WS1IMkRmWFBRWXlxRG5EcmxERlp5Z04wd0hONFl1MVhKTXFQdVViZURkVWM1RzczbE1FaXlGR2J1b2N5empNWUgwOEVQMC13RG5HMUtTOS1EdHotblh1ZkNvWFhyclUzT3BSZWg0YmhjeERYT3BQR3ZKb2tURDM4UWh6czFOVjc0ejlXSGxQamtkR2RMTHRJYVZJSURWc2c",
@@ -1445,7 +1445,7 @@
         ],
         "published": "Mon, 31 Aug 2026 06:23:42 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-09-05T17:26:48.301741"
+        "fetch_timestamp": "2026-09-05T19:15:51.960628"
     },
     {
         "id": "CBMiW0FVX3lxTFBhb0NEMFhtQTBORms0UDJHbllReS1ZZkIwTDRRLUFOOHUyZ0xUUkNmRjhkVjhZRzdfMkk1dF9LMnR6dnMyYUVFRjVkSFFZbDRYMmZIV1lsXzljZUE",
@@ -1471,7 +1471,7 @@
         ],
         "published": "Mon, 31 Aug 2026 05:08:35 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.302436"
+        "fetch_timestamp": "2026-09-05T19:15:51.961261"
     },
     {
         "id": "CBMiW0FVX3lxTE9QZ1hMMjg3TUpZZzlxUm4wSjgxcjZqbWRvUV9VSXRwM0FUN1RBeG5Hcm51eHhPVl91Z21KUUVRZWdxMHN4TWVsZXk1ckctYXVpYmdwNnNBdFpqQ2s",
@@ -1497,7 +1497,7 @@
         ],
         "published": "Mon, 31 Aug 2026 04:52:34 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.303091"
+        "fetch_timestamp": "2026-09-05T19:15:51.961867"
     },
     {
         "id": "CBMinAFBVV95cUxOQzIwRTI1VFBLZGZaWkNpLVpLcUVQM1RCNHFCNUdkZEwxam9YWGhtLTFZSjFDUkVUcUZfV1F3dk1YTzBDVzNHeUl3TVlxd0JGOWk5SVYtbXViSXhObnYwZDVUVTZSOEhvbDFVOWEtYUJaMmlXYW1lVFAyLVNtNzFTZjh0WGJvQVRQY3ZCbWlZSkdoTnEwM0Z3Tl9BS1Y",
@@ -1523,7 +1523,7 @@
         ],
         "published": "Mon, 31 Aug 2026 01:55:57 GMT",
         "source": "The Jakarta Post",
-        "fetch_timestamp": "2026-09-05T17:26:48.303663"
+        "fetch_timestamp": "2026-09-05T19:15:51.962386"
     },
     {
         "id": "CBMiW0FVX3lxTE5reUwtSU05VTB6SkZnbkJqYmV4U3gweWJqaU1wTFRxM3Zwa1BLdmJILW0yMy16SjR1eFl0NkFyYnFoOWxmVWo5enBnLUcyRDNVVnl2c2JYZHVkNGM",
@@ -1549,7 +1549,7 @@
         ],
         "published": "Sun, 30 Aug 2026 21:33:49 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.304374"
+        "fetch_timestamp": "2026-09-05T19:15:51.963049"
     },
     {
         "id": "CBMiW0FVX3lxTE9RYmFGVGZpLVUyMk12dFFvYWV5YTZkRThUOEtYcHVLOHVqamotdXVocmk5aURHMzdZUDNxNmlKMTh3VVBWU0J1TThpVzJ0LXQ4ZEVBQ2xIdlNyNnM",
@@ -1575,7 +1575,7 @@
         ],
         "published": "Sun, 30 Aug 2026 20:57:56 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.304896"
+        "fetch_timestamp": "2026-09-05T19:15:51.963528"
     },
     {
         "id": "CBMiW0FVX3lxTE1sTXYzZy1KdGtILWpsbG90VVloRUR4REFobTdiTGQ2c3FJZVQ3aGR3RjN5ZWlXcENRZXFwQlJVeGEzVnNXdHE4QjRBUWxiYVZ6S0dYVllraXpVNjA",
@@ -1601,7 +1601,7 @@
         ],
         "published": "Sun, 30 Aug 2026 17:28:33 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.305569"
+        "fetch_timestamp": "2026-09-05T19:15:51.964153"
     },
     {
         "id": "CBMiW0FVX3lxTE40S2xBZlREYi1rZnpiNXUzTmdsSFFSVlI2aW1xcmMxU3VUNGVMVFNDTmJabUttTVhNTXFPOHl6V1gwb05mbjV3VU1fNVp2dHZqWUFYa25XMDlwN28",
@@ -1627,7 +1627,7 @@
         ],
         "published": "Sun, 30 Aug 2026 09:47:47 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.306086"
+        "fetch_timestamp": "2026-09-05T19:15:51.964616"
     },
     {
         "id": "CBMiW0FVX3lxTE02dldaUVRob3ZVWkJ6TF9LdVVTc0MwZXFTWHFZQy1wdERxaDkzOUh4YzhWTE42dGtYVXpGSmFEMzhtdHd3Sm83WndlS3Nyc2x1bzNadEVyOEhpV2c",
@@ -1653,7 +1653,7 @@
         ],
         "published": "Sun, 30 Aug 2026 08:59:39 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.306662"
+        "fetch_timestamp": "2026-09-05T19:15:51.965086"
     },
     {
         "id": "CBMiW0FVX3lxTE5LSEJFNVM5c0RMQlJHTkl0WTdwSjR2b3ZMejdJSlFwTk5MV21wemJic1Y2NV9UcDdDRG5PTllBRVAzdmtvZ08yRXZIQWgycUJ0c1VMZVY2bGRYaUE",
@@ -1679,7 +1679,7 @@
         ],
         "published": "Sun, 30 Aug 2026 04:58:50 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.307264"
+        "fetch_timestamp": "2026-09-05T19:15:51.965622"
     },
     {
         "id": "CBMiYEFVX3lxTE5xMXBfMWUyN25WX2huanl1aC03ZUFHYVdqOGZEbW43R1JnMDFPR2l2SV85Q29uampNQ2JQTFprS2N6aVoxcXJOTlRya3ZURkRsdW1QN3ZFb0RiRUZGcnBsRA",
@@ -1705,7 +1705,7 @@
         ],
         "published": "Sun, 30 Aug 2026 02:04:06 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.308030"
+        "fetch_timestamp": "2026-09-05T19:15:51.966341"
     },
     {
         "id": "CBMiW0FVX3lxTFBjbXI3ZlFhMGs5cFJFZmpUS3NtY3k2ZEZ4dUFObmszaWNIZEYwWFdrNHFMZTVPdTNBVUI5VXRYcTdvQnFNdVpPMVluQXBLOTdLQlJhMXFZeUwtVEU",
@@ -1731,7 +1731,7 @@
         ],
         "published": "Sat, 29 Aug 2026 23:52:56 GMT",
         "source": "Mshale",
-        "fetch_timestamp": "2026-09-05T17:26:48.308618"
+        "fetch_timestamp": "2026-09-05T19:15:51.966853"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea",
@@ -1775,6 +1775,6 @@
         ],
         "published": "Thu, 20 Aug 2026 13:39:42 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-09-05T17:26:50.360142"
+        "fetch_timestamp": "2026-09-05T19:15:54.055929"
     }
 ]
