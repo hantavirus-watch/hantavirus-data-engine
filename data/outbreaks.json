@@ -41,7 +41,33 @@
         ],
         "published": "Thu, 17 Sep 2026 08:23:39 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-09-17T14:03:36.246817"
+        "fetch_timestamp": "2026-09-17T18:24:43.305462"
+    },
+    {
+        "id": "CBMikgFBVV95cUxQVEFwNV8yZWFvaV9aYnU4UVVqalhFMjN3aUlqclJ2eVFwRUFITmF5MDJ3Nkp6QWVKa1NpbWt3Y3o5cHFrNVVqUXQ5am9KS3hONWhtV2h1YnRmSE9Xd0NPb2hhbjhueU85QkxWcWY4UVduYnB2UE1tOFFibmRZbHI4REdCQlhQbi1wUDBkMW1LeWNPQQ",
+        "title": "Passengers begin evacuating from cruise ship hit by hantavirus - DD News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEFwNV8yZWFvaV9aYnU4UVVqalhFMjN3aUlqclJ2eVFwRUFITmF5MDJ3Nkp6QWVKa1NpbWt3Y3o5cHFrNVVqUXQ5am9KS3hONWhtV2h1YnRmSE9Xd0NPb2hhbjhueU85QkxWcWY4UVduYnB2UE1tOFFibmRZbHI4REdCQlhQbi1wUDBkMW1LeWNPQQ?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 17 Sep 2026 01:41:10 GMT",
+        "source": "DD News",
+        "fetch_timestamp": "2026-09-17T18:24:43.306353"
     },
     {
         "id": "CBMivwJBVV95cUxOM1R3WS1PcHVhWXVYNmxSX3RwMml5bk12TmZBdXBrTU5ma245Z2FjX1dCUkFYOXpEa2ZYbEJyUHVjMm5UVk5lMlZpU3VZWllsLUV6eDFvTUVkaWVzNWNfcnZsTnVkTHRYYTlTVHZoeHZTcVdmd2k3Z0F1TURvWFYxTXR4RkRwNHFBTk5EeXZ6LTd1U0FQUzRGZmpmQW5nWHNFZ2M2NzhSZWJfR1FCdWduejljckwtTEw1ajBqaklNR3dNalRBM1d1LTNLemlTQVZZXzMyX05rU0ZEYzRwZHd2eUFKWTdQRnhIdHJtaXV6bWFUUDQ1aXlPUDlmV1FJM0pZa09TaHdwLVlJdHB4QWlFUE9sdFY4QWI3ZVl4d3hWb0d6SXJHWjNSeDZfOUhGeU1rMy1ERmR1VUJlMjNYRnEw",
@@ -65,9 +91,9 @@
                 "confidence": "medium"
             }
         ],
-        "published": "Wed, 16 Sep 2026 23:55:50 GMT",
+        "published": "Wed, 16 Sep 2026 13:06:28 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-09-17T14:03:36.247825"
+        "fetch_timestamp": "2026-09-17T18:24:43.307247"
     },
     {
         "id": "CBMisAFBVV95cUxOd0MxVjBYUzZWMi1vUGtwcVVaMjJ4WGlpUmJrYVVoY1hXSWNwemVwbl94R2RGNUlPMjY0NzE5TFRjbDlYUHU1aFd6dVdWSU1BeHozWUlwaHBLYmdWanY1UDZ6Ty1taGhxU2lYVVg3dlNXRTRuOTlOVUdRYVNNZEt4ZFdaYTdPYXhwVGlIdnNYeGJQaWZ6RGRfZFpHcnNxWFJuYmI1dlpsOGdodmJ2OGhNNw",
@@ -93,7 +119,7 @@
         ],
         "published": "Wed, 16 Sep 2026 06:02:24 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-09-17T14:03:36.248513"
+        "fetch_timestamp": "2026-09-17T18:24:43.307901"
     },
     {
         "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
@@ -119,7 +145,7 @@
         ],
         "published": "Wed, 16 Sep 2026 06:01:47 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-09-17T14:03:37.458163"
+        "fetch_timestamp": "2026-09-17T18:24:44.526034"
     },
     {
         "id": "CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw",
@@ -145,7 +171,7 @@
         ],
         "published": "Wed, 16 Sep 2026 03:38:04 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-09-17T14:03:37.459194"
+        "fetch_timestamp": "2026-09-17T18:24:44.527172"
     },
     {
         "id": "CBMisgFBVV95cUxNYUZuRl9BRXFTTEN0SnVmRGZlYWtsZDNaQUdmTUF0NkNMZF9qanloc0pFSGpiT2NuLXBzeGtrTThUYmZZNFVqcEROSTZ0cGY4Ymw4am1oUmRUREk3YmxxbVdlM2wtak40YVBmUzJLU2JSMjk4XzdVS0xtNjNrUlEzY1RPNE95RlE3dFYzX2NBRGxST1ZhRkJtVmlLekRwZXdLblNQUVhQUlptZDN2UlZuNXVn",
@@ -171,7 +197,7 @@
         ],
         "published": "Tue, 15 Sep 2026 20:47:50 GMT",
         "source": "Newcastle Herald",
-        "fetch_timestamp": "2026-09-17T14:03:37.459887"
+        "fetch_timestamp": "2026-09-17T18:24:44.527889"
     },
     {
         "id": "CBMilAFBVV95cUxNU0MzcHdtSm9Xb2x2LUtvM3B1U0p0d0JvOGNmWXBKc2dBUzlaZlN1cmlETTc4VlNaaFdkYUJaTlJ5ZURpWk12QjByeFNlTTZ1SWFWWkVZOThzNzgtVWpnRXNqSGRpZHAtUEhOa25hdFJaRGJyVmtyNXJSVFdzWmVnSmhLdVczM3p0QlJ5bXI4clFVV0N1",
@@ -197,7 +223,7 @@
         ],
         "published": "Sun, 13 Sep 2026 08:24:43 GMT",
         "source": "Inbox.lv",
-        "fetch_timestamp": "2026-09-17T14:03:37.460501"
+        "fetch_timestamp": "2026-09-17T18:24:44.528508"
     },
     {
         "id": "CBMigwJBVV95cUxOajRacnExWHN4UWlrS3VRRjRuVVFRdnlLWXNNbGhiTUZWTm5FY0JzSzdrdjFSQUp6SUNJS25UZC1wSWtUdDQxd01jUEVhS0dBWW4xUjBmSlRPQXFlZ3dIMy1FWU4zQkY5MDYwbjhmSldZYlVjSFZzOVBsTmpId2M4TWJfZzhhOW8tMVNwYUVaTk13ajZ6OVdBSFJuNVJyZGhLRzdjcXRUcnRWTHdoblFVYXMwTXpPMjhha1dGbllLanJhcUl5bVFSVGNuQ3Q0SzU1VGJUU2RaeFVjeElFTzQxS3NISTBnM1MxZmk3MmxzekdoR2dYbGxnaTV2VFpUZXMyMS1B",
@@ -223,20 +249,29 @@
         ],
         "published": "Sun, 13 Sep 2026 07:00:00 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-09-17T14:03:37.461074"
+        "fetch_timestamp": "2026-09-17T18:24:44.529073"
     },
     {
         "id": "CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ",
         "title": "Hantavirus outbreak forces cruise passengers to leave ship at St Helena - News On AIR",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ?oc=5",
-        "location_name": "St Helena",
+        "location_name": "St Helena News On",
         "coordinates": [
-            -15.9690718,
-            -5.71295
+            52.9739912,
+            -2.1730308
         ],
         "location_method": "extracted",
         "location_confidence": "medium",
         "locations": [
+            {
+                "name": "St Helena News On",
+                "coordinates": [
+                    52.9739912,
+                    -2.1730308
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            },
             {
                 "name": "St Helena",
                 "coordinates": [
@@ -249,7 +284,7 @@
         ],
         "published": "Sat, 12 Sep 2026 10:22:23 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-17T14:03:42.895648"
+        "fetch_timestamp": "2026-09-17T18:24:48.285637"
     },
     {
         "id": "CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE",
@@ -275,11 +310,11 @@
         ],
         "published": "Fri, 11 Sep 2026 21:48:28 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-17T14:03:42.896694"
+        "fetch_timestamp": "2026-09-17T18:24:48.286721"
     },
     {
         "id": "CBMitAFBVV95cUxOYnF0ZzA0RnIzLUNDUU56bVN3R2dtNGVkY2lMbGo4Vks0X0piVzBZcUx5WHNGSmN2bV9DV2lMU29sSXY2cWdwZ0ZrLW9lT29LWEpSZk1uUUt5LWRKY0NqSDE4Wlppdjl1VzlPZEdEb0duTFdQVUYzUGtmLTlZNHd4RkJwYzU4MXg1MDdyZV9NYVBYNm9OY3FSM0w0NTR3OHEzSE8yYjNzaF90NHdpT3pWX2ZCZVk",
-        "title": "Hantavirus case in Canada investigated after MV Hondius cruise ship outbreak - Goodreturns",
+        "title": "Hantavirus case in Canada investigated after MV Hondius cruise ship outbreak - goodreturns.in",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnF0ZzA0RnIzLUNDUU56bVN3R2dtNGVkY2lMbGo4Vks0X0piVzBZcUx5WHNGSmN2bV9DV2lMU29sSXY2cWdwZ0ZrLW9lT29LWEpSZk1uUUt5LWRKY0NqSDE4Wlppdjl1VzlPZEdEb0duTFdQVUYzUGtmLTlZNHd4RkJwYzU4MXg1MDdyZV9NYVBYNm9OY3FSM0w0NTR3OHEzSE8yYjNzaF90NHdpT3pWX2ZCZVk?oc=5",
         "location_name": "Canada",
         "coordinates": [
@@ -300,8 +335,8 @@
             }
         ],
         "published": "Fri, 11 Sep 2026 08:51:38 GMT",
-        "source": "Goodreturns",
-        "fetch_timestamp": "2026-09-17T14:03:44.075905"
+        "source": "goodreturns.in",
+        "fetch_timestamp": "2026-09-17T18:24:49.539257"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea",
@@ -345,6 +380,6 @@
         ],
         "published": "Thu, 20 Aug 2026 13:39:42 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-09-17T14:03:45.658368"
+        "fetch_timestamp": "2026-09-17T18:24:50.856156"
     }
 ]
