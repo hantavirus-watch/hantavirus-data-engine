@@ -1,5 +1,83 @@
 [
     {
+        "id": "CBMisAFBVV95cUxQTWR6RTBDWTgzX1lZRFVXNDIyZE9OODk5WkxBUURod29IZWFqZU01QWY5Y0xGbVdSdjhuclN3bVpqM1VWcmFrS2RPN1g0c1BWdWNwRGdpX2k5Unpjd0V5dml0Y01tRVBQVWFIR21TYU1TNmpYcEVERFRSTk9HVW1lSUJ1UmZTMjU0dnVKTy1iRzFRZlM4M2ZNMWRxQ1pBcVVXSWhCbXl4S1RXQlBSMTFMbA",
+        "title": "IHS Says No Hantavirus Cases Confirmed in Pine Ridge Health Investigation - kotaradio.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWR6RTBDWTgzX1lZRFVXNDIyZE9OODk5WkxBUURod29IZWFqZU01QWY5Y0xGbVdSdjhuclN3bVpqM1VWcmFrS2RPN1g0c1BWdWNwRGdpX2k5Unpjd0V5dml0Y01tRVBQVWFIR21TYU1TNmpYcEVERFRSTk9HVW1lSUJ1UmZTMjU0dnVKTy1iRzFRZlM4M2ZNMWRxQ1pBcVVXSWhCbXl4S1RXQlBSMTFMbA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Wed, 23 Sep 2026 19:55:43 GMT",
+        "source": "kotaradio.com",
+        "fetch_timestamp": "2026-09-23T21:00:02.724194"
+    },
+    {
+        "id": "CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n",
+        "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n?oc=5",
+        "location_name": "Pine Ridge",
+        "coordinates": [
+            34.4395327,
+            -85.7844134
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Pine Ridge",
+                "coordinates": [
+                    34.4395327,
+                    -85.7844134
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Wed, 23 Sep 2026 17:37:00 GMT",
+        "source": "KOTA Territory News",
+        "fetch_timestamp": "2026-09-23T21:00:04.772614"
+    },
+    {
+        "id": "CBMipgFBVV95cUxOYVBwOHN4SktLVDhDMWtxcnpSR0R6MEUxT2kyTDd6eUtnX1FRc2tleWVVUFVSUFlCb0lyaDZab2k4amNpMFVqRXNZdUdSelVWd3pLRndQdW1XalFZeWNQdFBkZmFjUWZ1YmhSZDkxYjRwYjExaWVMa2FaRm92aUY3N3M2cjZWTC1XaF9sSzlkMnRRQjBaV05JenZPcWV2NlZZeEZfektB",
+        "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVBwOHN4SktLVDhDMWtxcnpSR0R6MEUxT2kyTDd6eUtnX1FRc2tleWVVUFVSUFlCb0lyaDZab2k4amNpMFVqRXNZdUdSelVWd3pLRndQdW1XalFZeWNQdFBkZmFjUWZ1YmhSZDkxYjRwYjExaWVMa2FaRm92aUY3N3M2cjZWTC1XaF9sSzlkMnRRQjBaV05JenZPcWV2NlZZeEZfektB?oc=5",
+        "location_name": "Pine Ridge",
+        "coordinates": [
+            34.4395327,
+            -85.7844134
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Pine Ridge",
+                "coordinates": [
+                    34.4395327,
+                    -85.7844134
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Wed, 23 Sep 2026 00:34:02 GMT",
+        "source": "KOTA Territory News",
+        "fetch_timestamp": "2026-09-23T21:00:04.773119"
+    },
+    {
         "id": "CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk",
         "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk?oc=5",
@@ -23,7 +101,7 @@
         ],
         "published": "Tue, 22 Sep 2026 19:38:00 GMT",
         "source": "CIDRAP",
-        "fetch_timestamp": "2026-09-23T17:40:03.812612"
+        "fetch_timestamp": "2026-09-23T21:00:04.773698"
     },
     {
         "id": "CBMi3wFBVV95cUxOSUpyQU9Xbjdpa3J4dEdxcXlRZjQxdU9jQlV3WU5vcEpCeGJyeVRjWldkS3Vxa3V6akJ3M1ZieTlaZG1rSkh6U0ptaVBIbElEREtHNTZ1OEdxYXNDQzkxUkZwTXlNNHZ3LVkySzJ2V2ZaaEFfQXo2UDhnNVJsdHhhcERpQjZUTnVBc0N0ZGxlWjctbTlPdVQyTWpYWkt3ZGcwV3BYbWdmdmMtSWIxZUVmTkJ1OFNNVGdDWXgtZzlPYmliX0c3NHJnZnhvZVBBajR0TkJmTW1penhhZXpEalJj",
@@ -49,7 +127,7 @@
         ],
         "published": "Tue, 22 Sep 2026 08:24:50 GMT",
         "source": "Stocktwits",
-        "fetch_timestamp": "2026-09-23T17:40:03.813186"
+        "fetch_timestamp": "2026-09-23T21:00:04.774217"
     },
     {
         "id": "CBMiqgFBVV95cUxOeUVxdUs4THNFUjlDS2ltVldJODN5QU4xV1BKNzkwalZ1OEVfUmh1RGxmNDJfak9fajB5VnRXVHlnZW8xWmxheFVaeWUxTUkycVF4MVNQWkdNYTRUWndGeEY2bWowLU9Ba2xwN3RaVGpjQXhJcVRMVnVlUDB0NURTeXBadjhkVlVJRXdZRFgwZXMwV2R2T2d3X1Y5ajJwZzcwLWRILUU1T1JaQQ",
@@ -75,7 +153,7 @@
         ],
         "published": "Tue, 22 Sep 2026 07:40:07 GMT",
         "source": "Medscape",
-        "fetch_timestamp": "2026-09-23T17:40:03.813580"
+        "fetch_timestamp": "2026-09-23T21:00:04.774625"
     },
     {
         "id": "CBMiiAFBVV95cUxQRTZWMjZTSjJ4bmVjVHJEQXJoRkF4aGpyU291LWV6UlhTU0Q0eHQwZWtxcHJVb1ZoMFltbUNfLTg2VmFlZXB4U2Fjc3d3MkdSazRnbENJZ1JWclRCTk1kWklKeTYzemNhN1RDX1A5c0tocWRDb1dpN2ZyaFZ3UUczdFFMVGRIUUZD",
@@ -101,33 +179,7 @@
         ],
         "published": "Mon, 21 Sep 2026 19:10:07 GMT",
         "source": "Jang",
-        "fetch_timestamp": "2026-09-23T17:40:03.813992"
-    },
-    {
-        "id": "CBMiswFBVV95cUxNQWc3WVBNVzVfc1h2ZlZJSV9USUlPZ2t3MnlOMGRZMGlpR3FETlUtaVVFX3V0bElQSkZ5Tk9oWGx4VTRRSXR0LXN4M1lRbWlZd2tLTW1acnlqMFMzV1FycjJid1RDcEs3VGpQQnZ3VWFVZ2h0anZRdmZ0X296VG11ZEN3TzhxeHR0TktNZVhMX3gyV2d4N2ZtRUZPRUc2aHlrZ0JjT29ieFAwTjJ2dEV2eWhUd9IBuAFBVV95cUxOaGRCd1VoR0pqSkptVUVsNjlUdDRaUkVvN3R3emFHOTNKSURILXg2QVhqMWtFbG5NZ0Rmc3ZRTjVPb3JJXzZ2UEgzV3pnTTFlRWE3Wlh1X3NVQVh1Wk56VDkwTWJlYzZuM3JLak9ibkZ6RHF4eE1xeXpCRE1tQm9zTEt6RFdVRGw5V1I0ZnJzcWtqd19BVERsamlKV1A1RUpIM1BRMmxIalRmNHJpVGUxZkJHeXQzMTJp",
-        "title": "What to know about Nebraska's National Quarantine Unit as it prepares to bring in hantavirus cruise ship passengers - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWc3WVBNVzVfc1h2ZlZJSV9USUlPZ2t3MnlOMGRZMGlpR3FETlUtaVVFX3V0bElQSkZ5Tk9oWGx4VTRRSXR0LXN4M1lRbWlZd2tLTW1acnlqMFMzV1FycjJid1RDcEs3VGpQQnZ3VWFVZ2h0anZRdmZ0X296VG11ZEN3TzhxeHR0TktNZVhMX3gyV2d4N2ZtRUZPRUc2aHlrZ0JjT29ieFAwTjJ2dEV2eWhUd9IBuAFBVV95cUxOaGRCd1VoR0pqSkptVUVsNjlUdDRaUkVvN3R3emFHOTNKSURILXg2QVhqMWtFbG5NZ0Rmc3ZRTjVPb3JJXzZ2UEgzV3pnTTFlRWE3Wlh1X3NVQVh1Wk56VDkwTWJlYzZuM3JLak9ibkZ6RHF4eE1xeXpCRE1tQm9zTEt6RFdVRGw5V1I0ZnJzcWtqd19BVERsamlKV1A1RUpIM1BRMmxIalRmNHJpVGUxZkJHeXQzMTJp?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Mon, 21 Sep 2026 07:30:54 GMT",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-09-23T17:40:03.814692"
+        "fetch_timestamp": "2026-09-23T21:00:04.775024"
     },
     {
         "id": "CBMivgFBVV95cUxOQThCYlBxaEhyaW8xd0E0Z0pFYWVpWFZWenFybC1BZXEwRjV0WXc4QzdMYUhjc0lURFNfTGF4bnJFVWlVUnY1UEZscXdkb0dVNGhRUlNOYWFVdlc1UG5CQWZFRWZEa3M5cHpPWHNnRjNCRFpCSEdXR0lfZnllOVVaQ0FSQ2Z0LWtVUUs0Um9JT3luYVpxYnJSMGl2MTQ5bjJ1ZVlaWGM3WGNkX1YtOS1XTXdMSkhyQzZneTJUbFF3",
@@ -153,7 +205,7 @@
         ],
         "published": "Mon, 21 Sep 2026 03:30:23 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-09-23T17:40:03.815081"
+        "fetch_timestamp": "2026-09-23T21:00:04.775423"
     },
     {
         "id": "CBMivgFBVV95cUxQS3dlMmNFcUV4SFlLZXNZSnNRSDhpQnlObXFfN3c3Nm0talJNUVR1U05YalBiWUtRWElfb25EMkdCM19tbWJMVGZRSm5uY25mazd3Z1BlTDVCTHd4RkUxQ1IySGFCbW5oYXphcHNaLXNobkFIb1BmRjR4X2dlVlRFcnIyakdYenZLQmZkNGlKbEl6bmdxdmRVRFlLZGhYWWxaeDJSUFFmd2ptZFY1RENHNzBWb2g3bUFMUXdQS1Nn",
@@ -179,7 +231,7 @@
         ],
         "published": "Mon, 21 Sep 2026 02:45:17 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-09-23T17:40:03.815556"
+        "fetch_timestamp": "2026-09-23T21:00:04.778503"
     },
     {
         "id": "CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ",
@@ -205,7 +257,7 @@
         ],
         "published": "Sun, 20 Sep 2026 16:06:28 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-23T17:40:12.517692"
+        "fetch_timestamp": "2026-09-23T21:00:13.159513"
     },
     {
         "id": "CBMiqwFBVV95cUxNWWR1RndTY3ktS3VkZHB5dElCekFzVUFubjRpY3NNeF80QTNwQ3VGbzdNNGhVZTlLQ08xOGttdWZ5QWNiN1l0aW1sMGcySlRvbzhVZjZ2ejdGS3QtdC01dVlfNWJEMWk1Q1dGa1c0SGhkSTFVR3NDWEplbTZRcENkNHEyRTFmMzJNaUxvejNLbG1ZUV9yV0x5TXE1cGt4eTR6QUt2aWo5RkxTTU3SAbABQVVfeXFMUDhJSmtfZG83anlCWFFfZGdndDJmMkx0bWVPM21SSjdBS1NSbkNtckpNdUd0ZjB5V1pkOTVLNmNMZHg1VjU3OXE2Mm1nbjM2UlVtcXcxdWtlTDA4ck8zU2FwaVhma0ZBVW9WdDBHbGs1UklnMzd1WXhBeGFiYzhIMV8xQ3FvLWlWY0ZGSHIzZUZoTS1VWF8wOW9tLUZfVndWQjNKTkZrVEc4SnJ4ZXBJN08",
@@ -231,11 +283,11 @@
         ],
         "published": "Sun, 20 Sep 2026 08:55:03 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-09-23T17:40:12.518516"
+        "fetch_timestamp": "2026-09-23T21:00:13.160298"
     },
     {
         "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
-        "title": "Physicians say hantavirus headlines outpace actual risk; three sentenced in Moscow-based $2B telemedicine fraud; 1 in 10 surgeons leave the profession within 8 years – Morning Medical Update - Medical Economics",
+        "title": "Physicians say hantavirus headlines outpace actual risk; three sentenced in Moscow-based $2B telemedicine fraud; 1 in 10 surgeons leave the profession within 8 years – Morning Medical Update - medicaleconomics.com",
         "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw?oc=5",
         "location_name": "Moscow-based",
         "coordinates": [
@@ -256,8 +308,8 @@
             }
         ],
         "published": "Sun, 20 Sep 2026 06:47:28 GMT",
-        "source": "Medical Economics",
-        "fetch_timestamp": "2026-09-23T17:40:14.240622"
+        "source": "medicaleconomics.com",
+        "fetch_timestamp": "2026-09-23T21:00:14.748416"
     },
     {
         "id": "CBMiqAFBVV95cUxQVzNRVk4tM3BoYkoxMFlINTB1WVQwcmZsbTRfODIxLUlWQkpJb1h2SlFGNHA2eXkxTWwyTUtNX25UcGZvVVJtdWJfNzR1eHZlOWIzZ3k1UWxYZ0dNcjhKV1ZVZEk2X1dlaHpjRVBhbldyVWFNb0VtQ1RWbDBCLUdhSXExektrMWM3Ul94eFRiSDVYb2tQZVdtMHhOcHMwNHVJXzdHbnJleHQ",
@@ -283,7 +335,7 @@
         ],
         "published": "Sun, 20 Sep 2026 02:18:49 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-23T17:40:16.169715"
+        "fetch_timestamp": "2026-09-23T21:00:16.103672"
     },
     {
         "id": "CBMiqwFBVV95cUxOanBya3VnenlXNEprVzFhcGNBN1MwQ0VCSE9rU1dSRHp6THlLTElCZThJb0VvMW9xbVk3cnhYNUFBVTBPWHpkWDM1clBkaTRiNVIyQm0xLUhsYzh2X0x3dXBMN0xPVUtpa3FDQWgyZHFUc1ZNVUtMM0JiVW52OW1tS2ZaeEROeUVxYS1OX2NYcW1JVzBFbVU2X0lsMTNzdUp5azJLNUp1Y3FJNWvSAbABQVVfeXFMUFFXRG5FYW9leWxiQmVtVWlSY1FLd1kxWnFnS0NCMm1Ra0lsUnlxRmVoVmFJazVfSnNzQVctcEYwM0JhQVNBRnNMLUZrRkIwcFh2ZTlNeGxoYU9ic1BLemd0Q3hrMVpzQk42UUlkbENhaTFfZDJhYTRMVHYtbzhlVFdiUWhNNFoxekpOOUJDcGJkYW1oeGo0RW85bl9WZzBaeGpvejV6VGNnbVFKSS1OZlI",
@@ -309,7 +361,7 @@
         ],
         "published": "Sat, 19 Sep 2026 20:02:47 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-09-23T17:40:16.170424"
+        "fetch_timestamp": "2026-09-23T21:00:16.104370"
     },
     {
         "id": "CBMirwFBVV95cUxPTWpHc3RCNlZONngySm00dXFPbVdybzRzYkdhTVMyZGtkbG1nRVVIbEdrczFQS0NHNjBYVmJTa3RaLTI3cFBOWFcxVFpOM1FoeWNXTDJDZkxkblVyN1JjakdhTndzamJveXVuQUVsbGZJNVVIeHh5NFFRVm9VQXM2aHFibWczeU5oZGZ4eGhaTVZhSEQtVmwxdTNaQnNyTkI1Z3FtVDB3YlJHMElLYW9v",
@@ -335,7 +387,7 @@
         ],
         "published": "Thu, 17 Sep 2026 18:29:50 GMT",
         "source": "Goodreturns",
-        "fetch_timestamp": "2026-09-23T17:40:16.170985"
+        "fetch_timestamp": "2026-09-23T21:00:16.104930"
     },
     {
         "id": "CBMi0wFBVV95cUxQRlpWU19uU3pMUTNmaVltcXFVU1R1bmlSUUk5SnRYcC1pSUhRX1VlWVdRMVp0STk5U3lvMThsWGxqYTJnekI5azBpUEFROHhxTFBxbVloZWxUUFhJOERnVGFIS3N3RXBVdExvR0tSU2EySmtMQmk0d0xxalJWb1gzcFljNkdRendMTnFhZzk5NjI4ZldpMWh6MVpCbmhTY0dXRExsR244Y1FwVDhzdWpZLUdsZmdNM3Vyem4xX1hWenNkMEFBckY5SXZkQ3F1eHJablFR",
@@ -361,7 +413,7 @@
         ],
         "published": "Thu, 17 Sep 2026 15:07:13 GMT",
         "source": "Noticias Ambientales",
-        "fetch_timestamp": "2026-09-23T17:40:17.905246"
+        "fetch_timestamp": "2026-09-23T21:00:17.484195"
     },
     {
         "id": "CBMieEFVX3lxTE5PWEFrN0dHWkJQZ09LNzZWNGVPb0FjTy1xTTk0TzV1MXJYX3lpQVFnQjlyNHcyVS1qZEVQRHUzempmVGZuZ3BXRm5EMEw4SDh1R2RIalU3SjZSeUY2dXRTSGJKRThRNHZRaXlHa1hEVTdFOHhwMU03VQ",
@@ -387,7 +439,7 @@
         ],
         "published": "Thu, 17 Sep 2026 11:23:45 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-23T17:40:17.905843"
+        "fetch_timestamp": "2026-09-23T21:00:17.484791"
     },
     {
         "id": "CBMiqgFBVV95cUxQVG51a2d2Rmo0RUNLVF9oVWxRRFpxdmJ1UGlwNmJ5OVcwNV8wOTRFbl9QNHc0UkNKaDI4N0J4QjNkVEMtcVVNbWxqUzJ2QUlYVlVQMjBCbkJlWWVzNElERTR4N0FHNFhBUEdxbzJHbW9uY1Y1c1BEbnp3U0g0LTN4NzNpcURlNC13TkJGQXFlQXQyVUpkMmtvOGRjSXdLYTFpaGZzaDFsX2ZDd9IBrwFBVV95cUxOZWtUd2dHSktfZUtxY21DQ1ZXT0liSlRYRE42VUlZUnRRelhaY1l1NGJCUDladWppZ19hT3lCNUN2d1BXSUxURm5VaFdYamtIRnhFZGx0UnNBN19uOGFySnRiR1hKRUhrZXdDdTdEc1VaX1paZXlPZVd2cDJrUFA5Y3I1blhiWGh2X1pWQk9kcV8wcUdDN0tlaVMwSGhlSEcwQ2ZrdzBlZGt3VzhtV1FZ",
@@ -413,7 +465,7 @@
         ],
         "published": "Thu, 17 Sep 2026 07:07:42 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-09-23T17:40:17.906598"
+        "fetch_timestamp": "2026-09-23T21:00:17.485526"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea",
@@ -457,6 +509,6 @@
         ],
         "published": "Thu, 20 Aug 2026 13:39:42 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-09-23T17:40:20.792703"
+        "fetch_timestamp": "2026-09-23T21:00:19.574140"
     }
 ]
