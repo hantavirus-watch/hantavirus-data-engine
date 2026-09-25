@@ -23,12 +23,38 @@
         ],
         "published": "Fri, 25 Sep 2026 07:28:07 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-09-25T15:23:27.780283"
+        "fetch_timestamp": "2026-09-25T19:23:38.160064"
     },
     {
-        "id": "CBMisAFBVV95cUxOd0MxVjBYUzZWMi1vUGtwcVVaMjJ4WGlpUmJrYVVoY1hXSWNwemVwbl94R2RGNUlPMjY0NzE5TFRjbDlYUHU1aFd6dVdWSU1BeHozWUlwaHBLYmdWanY1UDZ6Ty1taGhxU2lYVVg3dlNXRTRuOTlOVUdRYVNNZEt4ZFdaYTdPYXhwVGlIdnNYeGJQaWZ6RGRfZFpHcnNxWFJuYmI1dlpsOGdodmJ2OGhNNw",
-        "title": "Evacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde - DD News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0MxVjBYUzZWMi1vUGtwcVVaMjJ4WGlpUmJrYVVoY1hXSWNwemVwbl94R2RGNUlPMjY0NzE5TFRjbDlYUHU1aFd6dVdWSU1BeHozWUlwaHBLYmdWanY1UDZ6Ty1taGhxU2lYVVg3dlNXRTRuOTlOVUdRYVNNZEt4ZFdaYTdPYXhwVGlIdnNYeGJQaWZ6RGRfZFpHcnNxWFJuYmI1dlpsOGdodmJ2OGhNNw?oc=5",
+        "id": "CBMimwFBVV95cUxOR3pIanZBbENOZWp5WXZkUGEzcDNla1Fhcnp0dkthV0hCOG1IaVNUaEswejJCRzRpaUs1cVpIY3BWV0tZSDNYdVlPQ0k5YzMzS2dpVUpaZldCZ3ZRR0JFNzBhNEN6UzRMNDZOYjN1SDZzMkZBenQwNnRRRVpvQ19rbTQ1MnREbWNQTzdRa2Qxa2VJN2tVTFBxOUxHYw",
+        "title": "Two suspected hantavirus cases found in Spain, remote Tristan da Cunha - DD News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3pIanZBbENOZWp5WXZkUGEzcDNla1Fhcnp0dkthV0hCOG1IaVNUaEswejJCRzRpaUs1cVpIY3BWV0tZSDNYdVlPQ0k5YzMzS2dpVUpaZldCZ3ZRR0JFNzBhNEN6UzRMNDZOYjN1SDZzMkZBenQwNnRRRVpvQ19rbTQ1MnREbWNQTzdRa2Qxa2VJN2tVTFBxOUxHYw?oc=5",
+        "location_name": "Spain",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Spain",
+                "coordinates": [
+                    39.3260685,
+                    -4.8379791
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Fri, 25 Sep 2026 06:12:19 GMT",
+        "source": "DD News",
+        "fetch_timestamp": "2026-09-25T19:23:38.160657"
+    },
+    {
+        "id": "CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw",
+        "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -47,9 +73,9 @@
                 "confidence": "low"
             }
         ],
-        "published": "Thu, 24 Sep 2026 19:06:18 GMT",
-        "source": "DD News",
-        "fetch_timestamp": "2026-09-25T15:23:27.781151"
+        "published": "Fri, 25 Sep 2026 04:57:11 GMT",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "fetch_timestamp": "2026-09-25T19:23:38.161597"
     },
     {
         "id": "CBMisgFBVV95cUxNYUZuRl9BRXFTTEN0SnVmRGZlYWtsZDNaQUdmTUF0NkNMZF9qanloc0pFSGpiT2NuLXBzeGtrTThUYmZZNFVqcEROSTZ0cGY4Ymw4am1oUmRUREk3YmxxbVdlM2wtak40YVBmUzJLU2JSMjk4XzdVS0xtNjNrUlEzY1RPNE95RlE3dFYzX2NBRGxST1ZhRkJtVmlLekRwZXdLblNQUVhQUlptZDN2UlZuNXVn",
@@ -75,7 +101,7 @@
         ],
         "published": "Wed, 23 Sep 2026 20:00:15 GMT",
         "source": "Newcastle Herald",
-        "fetch_timestamp": "2026-09-25T15:23:27.781919"
+        "fetch_timestamp": "2026-09-25T19:23:38.162304"
     },
     {
         "id": "CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n",
@@ -101,7 +127,7 @@
         ],
         "published": "Wed, 23 Sep 2026 17:37:00 GMT",
         "source": "KOTA Territory News",
-        "fetch_timestamp": "2026-09-25T15:23:29.401006"
+        "fetch_timestamp": "2026-09-25T19:23:39.900322"
     },
     {
         "id": "CBMipgFBVV95cUxOYVBwOHN4SktLVDhDMWtxcnpSR0R6MEUxT2kyTDd6eUtnX1FRc2tleWVVUFVSUFlCb0lyaDZab2k4amNpMFVqRXNZdUdSelVWd3pLRndQdW1XalFZeWNQdFBkZmFjUWZ1YmhSZDkxYjRwYjExaWVMa2FaRm92aUY3N3M2cjZWTC1XaF9sSzlkMnRRQjBaV05JenZPcWV2NlZZeEZfektB",
@@ -127,38 +153,12 @@
         ],
         "published": "Wed, 23 Sep 2026 17:18:00 GMT",
         "source": "KOTA Territory News",
-        "fetch_timestamp": "2026-09-25T15:23:29.401610"
+        "fetch_timestamp": "2026-09-25T19:23:39.900998"
     },
     {
         "id": "CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk",
-        "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
+        "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - cidrap.umn.edu",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk?oc=5",
-        "location_name": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ],
-        "location_method": "inferred",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "United States",
-                "coordinates": [
-                    39.7837304,
-                    -100.445882
-                ],
-                "method": "inferred",
-                "confidence": "low"
-            }
-        ],
-        "published": "Tue, 22 Sep 2026 19:38:00 GMT",
-        "source": "CIDRAP",
-        "fetch_timestamp": "2026-09-25T15:23:29.402292"
-    },
-    {
-        "id": "CBMi3wFBVV95cUxOSUpyQU9Xbjdpa3J4dEdxcXlRZjQxdU9jQlV3WU5vcEpCeGJyeVRjWldkS3Vxa3V6akJ3M1ZieTlaZG1rSkh6U0ptaVBIbElEREtHNTZ1OEdxYXNDQzkxUkZwTXlNNHZ3LVkySzJ2V2ZaaEFfQXo2UDhnNVJsdHhhcERpQjZUTnVBc0N0ZGxlWjctbTlPdVQyTWpYWkt3ZGcwV3BYbWdmdmMtSWIxZUVmTkJ1OFNNVGdDWXgtZzlPYmliX0c3NHJnZnhvZVBBajR0TkJmTW1penhhZXpEalJj",
-        "title": "RCL, NCLH, CCL: Cruise Stocks Get Hit As Rare Hantavirus Outbreak Sparks Travel Fears - Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSUpyQU9Xbjdpa3J4dEdxcXlRZjQxdU9jQlV3WU5vcEpCeGJyeVRjWldkS3Vxa3V6akJ3M1ZieTlaZG1rSkh6U0ptaVBIbElEREtHNTZ1OEdxYXNDQzkxUkZwTXlNNHZ3LVkySzJ2V2ZaaEFfQXo2UDhnNVJsdHhhcERpQjZUTnVBc0N0ZGxlWjctbTlPdVQyTWpYWkt3ZGcwV3BYbWdmdmMtSWIxZUVmTkJ1OFNNVGdDWXgtZzlPYmliX0c3NHJnZnhvZVBBajR0TkJmTW1penhhZXpEalJj?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
             28.2935785,
@@ -177,9 +177,9 @@
                 "confidence": "low"
             }
         ],
-        "published": "Tue, 22 Sep 2026 08:24:50 GMT",
-        "source": "Stocktwits",
-        "fetch_timestamp": "2026-09-25T15:23:29.402917"
+        "published": "Tue, 22 Sep 2026 19:38:00 GMT",
+        "source": "cidrap.umn.edu",
+        "fetch_timestamp": "2026-09-25T19:23:39.901790"
     },
     {
         "id": "CBMiqgFBVV95cUxOeUVxdUs4THNFUjlDS2ltVldJODN5QU4xV1BKNzkwalZ1OEVfUmh1RGxmNDJfak9fajB5VnRXVHlnZW8xWmxheFVaeWUxTUkycVF4MVNQWkdNYTRUWndGeEY2bWowLU9Ba2xwN3RaVGpjQXhJcVRMVnVlUDB0NURTeXBadjhkVlVJRXdZRFgwZXMwV2R2T2d3X1Y5ajJwZzcwLWRILUU1T1JaQQ",
@@ -205,7 +205,7 @@
         ],
         "published": "Tue, 22 Sep 2026 07:40:07 GMT",
         "source": "Medscape",
-        "fetch_timestamp": "2026-09-25T15:23:29.403396"
+        "fetch_timestamp": "2026-09-25T19:23:39.902367"
     },
     {
         "id": "CBMiiAFBVV95cUxQRTZWMjZTSjJ4bmVjVHJEQXJoRkF4aGpyU291LWV6UlhTU0Q0eHQwZWtxcHJVb1ZoMFltbUNfLTg2VmFlZXB4U2Fjc3d3MkdSazRnbENJZ1JWclRCTk1kWklKeTYzemNhN1RDX1A5c0tocWRDb1dpN2ZyaFZ3UUczdFFMVGRIUUZD",
@@ -231,7 +231,7 @@
         ],
         "published": "Mon, 21 Sep 2026 19:10:07 GMT",
         "source": "Jang",
-        "fetch_timestamp": "2026-09-25T15:23:29.403887"
+        "fetch_timestamp": "2026-09-25T19:23:39.902977"
     },
     {
         "id": "CBMivgFBVV95cUxOQThCYlBxaEhyaW8xd0E0Z0pFYWVpWFZWenFybC1BZXEwRjV0WXc4QzdMYUhjc0lURFNfTGF4bnJFVWlVUnY1UEZscXdkb0dVNGhRUlNOYWFVdlc1UG5CQWZFRWZEa3M5cHpPWHNnRjNCRFpCSEdXR0lfZnllOVVaQ0FSQ2Z0LWtVUUs0Um9JT3luYVpxYnJSMGl2MTQ5bjJ1ZVlaWGM3WGNkX1YtOS1XTXdMSkhyQzZneTJUbFF3",
@@ -257,7 +257,7 @@
         ],
         "published": "Mon, 21 Sep 2026 03:30:23 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-09-25T15:23:29.404368"
+        "fetch_timestamp": "2026-09-25T19:23:39.903533"
     },
     {
         "id": "CBMivgFBVV95cUxQS3dlMmNFcUV4SFlLZXNZSnNRSDhpQnlObXFfN3c3Nm0talJNUVR1U05YalBiWUtRWElfb25EMkdCM19tbWJMVGZRSm5uY25mazd3Z1BlTDVCTHd4RkUxQ1IySGFCbW5oYXphcHNaLXNobkFIb1BmRjR4X2dlVlRFcnIyakdYenZLQmZkNGlKbEl6bmdxdmRVRFlLZGhYWWxaeDJSUFFmd2ptZFY1RENHNzBWb2g3bUFMUXdQS1Nn",
@@ -283,7 +283,7 @@
         ],
         "published": "Mon, 21 Sep 2026 02:45:17 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-09-25T15:23:29.407515"
+        "fetch_timestamp": "2026-09-25T19:23:39.904241"
     },
     {
         "id": "CBMingFBVV95cUxNYVpaVE9uNHBBWF9xOWxXOXBqM2N6TVZOdVN6QmVxdUxINWZtLUNSWmpsRHhwT1hzbkxMU3pUWURVY1d2Zm9HVk9reFRmbFJ2RWgtZ2hVaVk2ZFI1em13OE9wTjhkcWc4dG1wNWR6Zjd2SmUtTU5Ba1AyQmp3cnhydnhycVhOUG9RRmpHTUJkLTgtbEk1UVM2WTVxb1g2UQ",
@@ -318,33 +318,7 @@
         ],
         "published": "Sun, 20 Sep 2026 16:06:28 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-25T15:23:35.455699"
-    },
-    {
-        "id": "CBMiqwFBVV95cUxNWWR1RndTY3ktS3VkZHB5dElCekFzVUFubjRpY3NNeF80QTNwQ3VGbzdNNGhVZTlLQ08xOGttdWZ5QWNiN1l0aW1sMGcySlRvbzhVZjZ2ejdGS3QtdC01dVlfNWJEMWk1Q1dGa1c0SGhkSTFVR3NDWEplbTZRcENkNHEyRTFmMzJNaUxvejNLbG1ZUV9yV0x5TXE1cGt4eTR6QUt2aWo5RkxTTU3SAbABQVVfeXFMUDhJSmtfZG83anlCWFFfZGdndDJmMkx0bWVPM21SSjdBS1NSbkNtckpNdUd0ZjB5V1pkOTVLNmNMZHg1VjU3OXE2Mm1nbjM2UlVtcXcxdWtlTDA4ck8zU2FwaVhma0ZBVW9WdDBHbGs1UklnMzd1WXhBeGFiYzhIMV8xQ3FvLWlWY0ZGSHIzZUZoTS1VWF8wOW9tLUZfVndWQjNKTkZrVEc4SnJ4ZXBJN08",
-        "title": "American speaks out from cruise ship amid deadly hantavirus outbreak - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWR1RndTY3ktS3VkZHB5dElCekFzVUFubjRpY3NNeF80QTNwQ3VGbzdNNGhVZTlLQ08xOGttdWZ5QWNiN1l0aW1sMGcySlRvbzhVZjZ2ejdGS3QtdC01dVlfNWJEMWk1Q1dGa1c0SGhkSTFVR3NDWEplbTZRcENkNHEyRTFmMzJNaUxvejNLbG1ZUV9yV0x5TXE1cGt4eTR6QUt2aWo5RkxTTU3SAbABQVVfeXFMUDhJSmtfZG83anlCWFFfZGdndDJmMkx0bWVPM21SSjdBS1NSbkNtckpNdUd0ZjB5V1pkOTVLNmNMZHg1VjU3OXE2Mm1nbjM2UlVtcXcxdWtlTDA4ck8zU2FwaVhma0ZBVW9WdDBHbGs1UklnMzd1WXhBeGFiYzhIMV8xQ3FvLWlWY0ZGSHIzZUZoTS1VWF8wOW9tLUZfVndWQjNKTkZrVEc4SnJ4ZXBJN08?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Sun, 20 Sep 2026 08:55:03 GMT",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-09-25T15:23:35.456729"
+        "fetch_timestamp": "2026-09-25T19:23:43.991899"
     },
     {
         "id": "CBMiqAFBVV95cUxQVzNRVk4tM3BoYkoxMFlINTB1WVQwcmZsbTRfODIxLUlWQkpJb1h2SlFGNHA2eXkxTWwyTUtNX25UcGZvVVJtdWJfNzR1eHZlOWIzZ3k1UWxYZ0dNcjhKV1ZVZEk2X1dlaHpjRVBhbldyVWFNb0VtQ1RWbDBCLUdhSXExektrMWM3Ul94eFRiSDVYb2tQZVdtMHhOcHMwNHVJXzdHbnJleHQ",
@@ -370,7 +344,7 @@
         ],
         "published": "Sun, 20 Sep 2026 02:18:49 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-09-25T15:23:36.990257"
+        "fetch_timestamp": "2026-09-25T19:23:45.395451"
     },
     {
         "id": "CBMisgFBVV95cUxPTnYtaFlYZHBCMEZ0U0tQU0k5eFBRYUxfb05lREFRZWxzcENwWnY0ZFRydDdxZ2xVYWxkZGRlWDlITkI0ZXlHTzlKRHNyS1NzbVBWUFFKRXVRQWZYZU9VcEVieDVPN0JtdjVaQTJVZUZXc1RPQzV4QlVWRURyRmJUVGRhNG9VNnkwSnpUb0ZCOXhYZHlUd3FBdTgwWTNWRnJtRFhpYXVDSm5MeFFHQlptbG9R0gG3AUFVX3lxTE9BQnZQOWpNSjR4QzJrUk5FSVE4RmhIYnJGNHlXNmZ4ejlUOWNNaTJyU3BGTlpSMDFBWmpxbjRxbmpZREVoazFpcG5yRkhnaHdVeWJ4VEJrNVFEeHZVSzRMNGFsS3REN2NwS21zTE95V0tXMWFZZ2poYzlzQ2NYSFVUWXhhbjJGbjNfQ3JxS0llY0ktVkMyaUdGRUhtMUNMQThzTlVSN3pMSW05Ym5rS3hmWVBhenJwWQ",
@@ -396,7 +370,7 @@
         ],
         "published": "Sat, 19 Sep 2026 03:15:40 GMT",
         "source": "WFXRtv",
-        "fetch_timestamp": "2026-09-25T15:23:43.490393"
+        "fetch_timestamp": "2026-09-25T19:23:49.145509"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea",
@@ -440,6 +414,6 @@
         ],
         "published": "Thu, 20 Aug 2026 13:39:42 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-09-25T15:23:45.535989"
+        "fetch_timestamp": "2026-09-25T19:23:51.043491"
     }
 ]
