@@ -1,31 +1,5 @@
 [
     {
-        "id": "CBMikgFBVV95cUxQVE1YcTZreGhvcFZMUjNZbVd2d3FESXNlNTZLMUlkenJ2ZVB1U1l5ajFpcGVPRGs2YnU4TkJ4ZFFJb1NTNlV2R3dfdzlPdTVNUEU2dlBIaDFQalRIeU9xOGJjZEF4TkJPS0tQa2NPR3RMTDJGd2tZOHBoa0RpWWFRdC1kTzNvTENMUmdPQ2JiREtZQdIBlwFBVV95cUxPNWt6MjVPUGdwZTM1MXFfeTZpRGFOaE9CNE9SYnhPck9TdEJlZmFHcHRJSlUtUlpPYVgzSnJQb0loejdNN2h5ODVaMzFhN2pERXdmWFJ5bjF2eHZfQWZDYXFQd2JycEJ2RFBISHpjU0Fka3d0NzdHd051QU0zU3dQWHQ5YjBwWDlpOHk4RmZlS20yQVphQlpJ",
-        "title": "Hantavirus Cruise Ship Arrives in Rotterdam for Quarantine - tovima.com",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVE1YcTZreGhvcFZMUjNZbVd2d3FESXNlNTZLMUlkenJ2ZVB1U1l5ajFpcGVPRGs2YnU4TkJ4ZFFJb1NTNlV2R3dfdzlPdTVNUEU2dlBIaDFQalRIeU9xOGJjZEF4TkJPS0tQa2NPR3RMTDJGd2tZOHBoa0RpWWFRdC1kTzNvTENMUmdPQ2JiREtZQdIBlwFBVV95cUxPNWt6MjVPUGdwZTM1MXFfeTZpRGFOaE9CNE9SYnhPck9TdEJlZmFHcHRJSlUtUlpPYVgzSnJQb0loejdNN2h5ODVaMzFhN2pERXdmWFJ5bjF2eHZfQWZDYXFQd2JycEJ2RFBISHpjU0Fka3d0NzdHd051QU0zU3dQWHQ5YjBwWDlpOHk4RmZlS20yQVphQlpJ?oc=5",
-        "location_name": "Rotterdam",
-        "coordinates": [
-            51.9244424,
-            4.47775
-        ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "Rotterdam",
-                "coordinates": [
-                    51.9244424,
-                    4.47775
-                ],
-                "method": "extracted",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Thu, 01 Oct 2026 11:51:05 GMT",
-        "source": "tovima.com",
-        "fetch_timestamp": "2026-10-01T19:13:32.073712"
-    },
-    {
         "id": "CBMilAFBVV95cUxPc2Fsd2p6ODY2M09KZHZmc2c1cVBELUpKUk5MV3c5V29rMUdHTl80akhRSmpOaDhYem01RUE3MW1USXI2bVp5cU1qRU1mWVZJekxEYmlTeHhiaVI3NjB2TEJkb1l1MzNmdUQxaGdWRHY3YlVNOTc5MUFXMVpad0U3TEMtTDhZR3B1ZXJXWnNTTVh4YXVu0gGaAUFVX3lxTE9tR0w4M1VaMkhpa1A3OU15WExITzk0dGlYN0JGZnVUczNVbklzRUFGR0xWN0dPOVpoTzBaay1mcE00RzZ2bE90WktvRWFuYVpYT254Yk90X19DNWcyNkdrd1J0WXFHNG5QU0cyY1pld1dTQXVsQ2R4S1hpZk05N2dIM0tzQTdwTjY5VFppZEhUMld1SGdRSTZta0E",
         "title": "Germany, Netherlands Respond After Hantavirus Cruise Outbreak - tovima.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2Fsd2p6ODY2M09KZHZmc2c1cVBELUpKUk5MV3c5V29rMUdHTl80akhRSmpOaDhYem01RUE3MW1USXI2bVp5cU1qRU1mWVZJekxEYmlTeHhiaVI3NjB2TEJkb1l1MzNmdUQxaGdWRHY3YlVNOTc5MUFXMVpad0U3TEMtTDhZR3B1ZXJXWnNTTVh4YXVu0gGaAUFVX3lxTE9tR0w4M1VaMkhpa1A3OU15WExITzk0dGlYN0JGZnVUczNVbklzRUFGR0xWN0dPOVpoTzBaay1mcE00RzZ2bE90WktvRWFuYVpYT254Yk90X19DNWcyNkdrd1J0WXFHNG5QU0cyY1pld1dTQXVsQ2R4S1hpZk05N2dIM0tzQTdwTjY5VFppZEhUMld1SGdRSTZta0E?oc=5",
@@ -49,11 +23,11 @@
         ],
         "published": "Thu, 01 Oct 2026 10:31:06 GMT",
         "source": "tovima.com",
-        "fetch_timestamp": "2026-10-01T19:13:32.074426"
+        "fetch_timestamp": "2026-10-01T23:18:47.160044"
     },
     {
         "id": "CBMiggFBVV95cUxNc2JvZXpjZ0pwUXBnTmgzSjVBbUp1WmZjSzh1b3dka2pfeVVTUUVLdWZ1Q2NlS3dzRHlWQlJfcUo1ZllzeElHMHVSZ3BOaVZNRTJITWlUdUZRUGFvREJjMHRsRlllMllmSnBWTXN3akhucTloZ1Nua3lrZU52T01fdUlR",
-        "title": "Oppo A93 Price, Overview & Full Specifications Hantavirus Map (qxZ8u3naFF) - media.unisba.ac.id",
+        "title": "Oppo A93 Price, Overview & Full Specifications Hantavirus Map (qxZ8u3naFF) - Unisba Media",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2JvZXpjZ0pwUXBnTmgzSjVBbUp1WmZjSzh1b3dka2pfeVVTUUVLdWZ1Q2NlS3dzRHlWQlJfcUo1ZllzeElHMHVSZ3BOaVZNRTJITWlUdUZRUGFvREJjMHRsRlllMllmSnBWTXN3akhucTloZ1Nua3lrZU52T01fdUlR?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -74,8 +48,8 @@
             }
         ],
         "published": "Wed, 30 Sep 2026 23:09:08 GMT",
-        "source": "media.unisba.ac.id",
-        "fetch_timestamp": "2026-10-01T19:13:32.075099"
+        "source": "Unisba Media",
+        "fetch_timestamp": "2026-10-01T23:18:47.160540"
     },
     {
         "id": "CBMieEFVX3lxTE5PWEFrN0dHWkJQZ09LNzZWNGVPb0FjTy1xTTk0TzV1MXJYX3lpQVFnQjlyNHcyVS1qZEVQRHUzempmVGZuZ3BXRm5EMEw4SDh1R2RIalU3SjZSeUY2dXRTSGJKRThRNHZRaXlHa1hEVTdFOHhwMU03VQ",
@@ -101,7 +75,7 @@
         ],
         "published": "Wed, 30 Sep 2026 00:21:16 GMT",
         "source": "News On AIR",
-        "fetch_timestamp": "2026-10-01T19:13:32.075701"
+        "fetch_timestamp": "2026-10-01T23:18:47.161419"
     },
     {
         "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
@@ -127,11 +101,11 @@
         ],
         "published": "Tue, 29 Sep 2026 22:34:01 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-10-01T19:13:33.681379"
+        "fetch_timestamp": "2026-10-01T23:18:48.601209"
     },
     {
         "id": "CBMisgFBVV95cUxQcWlWVlZsTWhOQ3RGblQ2eGlUMlU3a3lkUHRfRWdYSHZLTU9ET3FrQU1xcUk0cjNfaTZJNVZERjNqTmFMdkZfbmU0UjlQVVNsX2FYeklkOHM1dG51SmtaNnc3VWJiNzhrWEFoQWt1SVpFY0ZUaC1FcFZpYnM2MEZ1M3pjdFhaWFgzNDR4MVFTUGpqSHB3XzJKRlFycHZNYmNRT3RCamdyWU8tVU1iQnd4QTdR0gG3AUFVX3lxTFA0WE5SSTVKai1BRlhJczRBU2QteXVWMFlxMGZEWEIzMzF1MDc2bGhCZkk4UW83Z0l2eFVyLTVoRWFudTN3N1lwcDhVemtuejYzdlY0SVRqb1BYV25JZUsyZmJKSVlVcVBYZFNHMU83NGJMckp6MG9VUzZpSEZZMXUzYWIwcW1zamZ3Ym5QNGRpMHJ5SHMtOVpFSThNN0V6c3BBbG5CRVRjYlBnY09EeEhPRkFObTRxTQ",
-        "title": "Call: Andes Virus and Hantavirus Research - fundsforngos.org",
+        "title": "Call: Andes Virus and Hantavirus Research - fundsforNGOs",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlWVlZsTWhOQ3RGblQ2eGlUMlU3a3lkUHRfRWdYSHZLTU9ET3FrQU1xcUk0cjNfaTZJNVZERjNqTmFMdkZfbmU0UjlQVVNsX2FYeklkOHM1dG51SmtaNnc3VWJiNzhrWEFoQWt1SVpFY0ZUaC1FcFZpYnM2MEZ1M3pjdFhaWFgzNDR4MVFTUGpqSHB3XzJKRlFycHZNYmNRT3RCamdyWU8tVU1iQnd4QTdR0gG3AUFVX3lxTFA0WE5SSTVKai1BRlhJczRBU2QteXVWMFlxMGZEWEIzMzF1MDc2bGhCZkk4UW83Z0l2eFVyLTVoRWFudTN3N1lwcDhVemtuejYzdlY0SVRqb1BYV25JZUsyZmJKSVlVcVBYZFNHMU83NGJMckp6MG9VUzZpSEZZMXUzYWIwcW1zamZ3Ym5QNGRpMHJ5SHMtOVpFSThNN0V6c3BBbG5CRVRjYlBnY09EeEhPRkFObTRxTQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -152,8 +126,8 @@
             }
         ],
         "published": "Tue, 29 Sep 2026 10:07:07 GMT",
-        "source": "fundsforngos.org",
-        "fetch_timestamp": "2026-10-01T19:13:33.682090"
+        "source": "fundsforNGOs",
+        "fetch_timestamp": "2026-10-01T23:18:48.601763"
     },
     {
         "id": "CBMivwJBVV95cUxOM1R3WS1PcHVhWXVYNmxSX3RwMml5bk12TmZBdXBrTU5ma245Z2FjX1dCUkFYOXpEa2ZYbEJyUHVjMm5UVk5lMlZpU3VZWllsLUV6eDFvTUVkaWVzNWNfcnZsTnVkTHRYYTlTVHZoeHZTcVdmd2k3Z0F1TURvWFYxTXR4RkRwNHFBTk5EeXZ6LTd1U0FQUzRGZmpmQW5nWHNFZ2M2NzhSZWJfR1FCdWduejljckwtTEw1ajBqaklNR3dNalRBM1d1LTNLemlTQVZZXzMyX05rU0ZEYzRwZHd2eUFKWTdQRnhIdHJtaXV6bWFUUDQ1aXlPUDlmV1FJM0pZa09TaHdwLVlJdHB4QWlFUE9sdFY4QWI3ZVl4d3hWb0d6SXJHWjNSeDZfOUhGeU1rMy1ERmR1VUJlMjNYRnEw",
@@ -179,11 +153,11 @@
         ],
         "published": "Tue, 29 Sep 2026 07:01:27 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-10-01T19:13:33.682990"
+        "fetch_timestamp": "2026-10-01T23:18:48.602406"
     },
     {
         "id": "CBMihgFBVV95cUxQWS1kd25qSGZZeGFqNk9hME54QlNxZDJRYzZ6c2NtVUc3THZEWFpkUmJFcHRxd2pWR1J5WXVOaFp3U1VZTVFIeHpUY3ppSkxZZ2RyckZlZThyazViN2NXa1JKUHJQekFIS0ppb000bm9xWG1jT1o4bEZ3MlBhZ3RCM3F5V0lwUQ",
-        "title": "Hantavirus Cruise Ship Expected To Arrive In Canary Islands, Sparks Local Protests Golden Knights Vs Ducks (Kym714J2GU) - media.unisba.ac.id",
+        "title": "Hantavirus Cruise Ship Expected To Arrive In Canary Islands, Sparks Local Protests Golden Knights Vs Ducks (Kym714J2GU) - Unisba Media",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWS1kd25qSGZZeGFqNk9hME54QlNxZDJRYzZ6c2NtVUc3THZEWFpkUmJFcHRxd2pWR1J5WXVOaFp3U1VZTVFIeHpUY3ppSkxZZ2RyckZlZThyazViN2NXa1JKUHJQekFIS0ppb000bm9xWG1jT1o4bEZ3MlBhZ3RCM3F5V0lwUQ?oc=5",
         "location_name": "Canary Islands",
         "coordinates": [
@@ -204,8 +178,8 @@
             }
         ],
         "published": "Mon, 28 Sep 2026 20:09:24 GMT",
-        "source": "media.unisba.ac.id",
-        "fetch_timestamp": "2026-10-01T19:13:33.683602"
+        "source": "Unisba Media",
+        "fetch_timestamp": "2026-10-01T23:18:48.602838"
     },
     {
         "id": "CBMiqAFBVV95cUxOOWhWWGJJTGpsWUtZVzhBWTJadEhQZXFZNTFjMkhKa2V0Q19XaHNvd181TWNEeVMwWmFhdVpMMEdpWllwOThHVThyX201bDE2cVZCSHY4TFFRMWRqOHRmNGRCOHRWeVlCSFBOaXpuVENqcFMzSmJHUTNCbThuTGs1MGxyTEFMb3Jua0RUNlMyVm90cGgtdnRHMkJKTFEwQXRVS1BhTmx3aUs",
@@ -231,7 +205,7 @@
         ],
         "published": "Sat, 26 Sep 2026 12:57:07 GMT",
         "source": "Goodreturns",
-        "fetch_timestamp": "2026-10-01T19:13:35.327674"
+        "fetch_timestamp": "2026-10-01T23:18:49.899283"
     },
     {
         "id": "CBMihwFBVV95cUxNdi1CMVNrQmVTbU1jYVJpU04zaGx0OFkzdlZSclp3cGdTOFV3V1FLa3JHdDVaRHY5em9JNGtXUVNoWmFXMTVEdnhDaHI1bGpiN0FxOERoY200bFF5Q2UwZTNNcHB1WVNhbTcyV2ZJdmR3Z0tvaFlkRm5TQjJiLV9nOFRJMnpmeUk",
@@ -257,7 +231,7 @@
         ],
         "published": "Fri, 25 Sep 2026 09:58:05 GMT",
         "source": "Newsbook",
-        "fetch_timestamp": "2026-10-01T19:13:35.328425"
+        "fetch_timestamp": "2026-10-01T23:18:49.899842"
     },
     {
         "id": "CBMipAJBVV95cUxOM2p1cEJEWWI0bklZUFRMVURNQktDXzJnQUttTy1OeFo5YTVHQjUyeFJCMGFrU2xJeHg3TWgtcVlLRHF1SlAyWkw5eEdCRm1KbjZRaVBqNFBLYW4zU0hfbWRFY015bUZyTVl3TDVUWXMtMGI4TkV4eHJVZzJyRURkQm8zSVFJZWk0UjZLQ0VTUk5EeXdxTjRVUnNTUWFJX19CSjRFSGZBcmpkbnB0UzNWelAxZGtYVjBSWXl2bFhrejZJbmZvc3BNQlNGV2NrNzBaTTg0V2dObFpHRkdBSUUxMnVSZlRGNEc2cjNJRFdidWFieUZjeVl2QUotY0Y4MVhFTXBDZ0dsNXhuLWNvOFp6cmxTNlNYVW5EdVNod3E3Ty1UcDBD",
@@ -283,7 +257,7 @@
         ],
         "published": "Fri, 25 Sep 2026 05:41:59 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-10-01T19:13:35.329039"
+        "fetch_timestamp": "2026-10-01T23:18:49.900277"
     },
     {
         "id": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea",
@@ -327,6 +301,6 @@
         ],
         "published": "Thu, 20 Aug 2026 13:39:42 +0200",
         "source": "ECDC News",
-        "fetch_timestamp": "2026-10-01T19:13:36.901276"
+        "fetch_timestamp": "2026-10-01T23:18:51.071239"
     }
 ]
