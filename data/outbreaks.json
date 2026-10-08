@@ -1,5 +1,31 @@
 [
     {
+        "id": "CBMipwFBVV95cUxONW5JcjNaYXMzZDJSbTVOSmZ4MmhvRmJsUi1XNGdOeTY1QWtuV2ZWRGJTaHRRamxrUUg0V0hFa2hwbDFKb1o4RjNwQWp3SDJ6Vkd1bk1XS1p2bUpUSVZjU3VLSHVIcGwyaEh3dlZkN0ZnbFl3eUxZZ0lrUnBwNUFoaGVHRkx6c0dqT3ZVOVhOcXBjS1lJR3locmlMeVN1cnNKVXNLQVJFNA",
+        "title": "Hantavirus outbreak on MV Hondius cruise prompts deaths, evacuations, and contact tracing - Goodreturns",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONW5JcjNaYXMzZDJSbTVOSmZ4MmhvRmJsUi1XNGdOeTY1QWtuV2ZWRGJTaHRRamxrUUg0V0hFa2hwbDFKb1o4RjNwQWp3SDJ6Vkd1bk1XS1p2bUpUSVZjU3VLSHVIcGwyaEh3dlZkN0ZnbFl3eUxZZ0lrUnBwNUFoaGVHRkx6c0dqT3ZVOVhOcXBjS1lJR3locmlMeVN1cnNKVXNLQVJFNA?oc=5",
+        "location_name": "Canary Islands",
+        "coordinates": [
+            28.2935785,
+            -16.6214471
+        ],
+        "location_method": "fallback",
+        "location_confidence": "low",
+        "locations": [
+            {
+                "name": "Canary Islands",
+                "coordinates": [
+                    28.2935785,
+                    -16.6214471
+                ],
+                "method": "fallback",
+                "confidence": "low"
+            }
+        ],
+        "published": "Thu, 08 Oct 2026 09:01:34 GMT",
+        "source": "Goodreturns",
+        "fetch_timestamp": "2026-10-08T21:46:11.982667"
+    },
+    {
         "id": "CBMihwJBVV95cUxPWXlLcUFzaGdEVVJhZ2h3OVJueFJtaEpGdHVyN0x2OFdqLU5nSi16M3Q3dlliNE5vRzZCblBBbHliMGp6UzI1NjNSa1VEVXhna2NaeGUxVktKQzRsaElIY2VGVFpXOXdPNUpRX0hkdkppeU9uWFJGZkdDY2dmVk9zOHdsdVJReWo1SWZ4bjExU2dSelZNd3BaQmhvNXlubXRjZFJtdlY0bmZJNkYteTRNdFViVVNieTJjTHlNOFVWZEwyd0xBN002VzhIX2VURVJmTUtZZU0zQVpEXzVPN2dibS1wR1BHZkVXbHJGMGtPcXY3X05xYkh1bWxxN2UzZnEycmlhcVktNA",
         "title": "Demystifying Hantavirus: Free Talk In Planetarium At Los Alamos Nature Center Oct. 15 - Los Alamos Daily Post",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWXlLcUFzaGdEVVJhZ2h3OVJueFJtaEpGdHVyN0x2OFdqLU5nSi16M3Q3dlliNE5vRzZCblBBbHliMGp6UzI1NjNSa1VEVXhna2NaeGUxVktKQzRsaElIY2VGVFpXOXdPNUpRX0hkdkppeU9uWFJGZkdDY2dmVk9zOHdsdVJReWo1SWZ4bjExU2dSelZNd3BaQmhvNXlubXRjZFJtdlY0bmZJNkYteTRNdFViVVNieTJjTHlNOFVWZEwyd0xBN002VzhIX2VURVJmTUtZZU0zQVpEXzVPN2dibS1wR1BHZkVXbHJGMGtPcXY3X05xYkh1bWxxN2UzZnEycmlhcVktNA?oc=5",
@@ -23,7 +49,7 @@
         ],
         "published": "Wed, 07 Oct 2026 20:23:00 GMT",
         "source": "Los Alamos Daily Post",
-        "fetch_timestamp": "2026-10-08T16:44:08.414638"
+        "fetch_timestamp": "2026-10-08T21:46:11.983389"
     },
     {
         "id": "CBMihAJBVV95cUxNSTJVNktFalFrSGdBMDV2d1N5cTcxVUxpUWhWa2VVX05pdG1JV0hyRTQ5cmJnaS1PaDJnRnBRUWoyX1h2MFdfaklrVDBjbVpCZ3UyWTJNZ09LV3R5am40LVB2cVlHWlhZOUlqa25oUmhfb0hhb0xhMHQzVGdpdmFSZHFWUlY3TGN5X2RBRUEwMGhhRXBTWkphd2tzRHcyM0dzdlVsbXVkbXVkaHk4SlJIQzIxX1ZqbzdENFA2bEN4TUpacnNCeENBRGlxNHZsNzZJWTNlUlMyd2ZDY1BDdW9FaFFEZmVEVkxaeVpxd1V2U3paYWRIenBGb1RtLW1abnJPb3NsRw",
@@ -58,7 +84,7 @@
         ],
         "published": "Wed, 07 Oct 2026 16:18:20 GMT",
         "source": "WBIR",
-        "fetch_timestamp": "2026-10-08T16:44:09.754678"
+        "fetch_timestamp": "2026-10-08T21:46:13.634455"
     },
     {
         "id": "CBMiqwFBVV95cUxNWWR1RndTY3ktS3VkZHB5dElCekFzVUFubjRpY3NNeF80QTNwQ3VGbzdNNGhVZTlLQ08xOGttdWZ5QWNiN1l0aW1sMGcySlRvbzhVZjZ2ejdGS3QtdC01dVlfNWJEMWk1Q1dGa1c0SGhkSTFVR3NDWEplbTZRcENkNHEyRTFmMzJNaUxvejNLbG1ZUV9yV0x5TXE1cGt4eTR6QUt2aWo5RkxTTU3SAbABQVVfeXFMUDhJSmtfZG83anlCWFFfZGdndDJmMkx0bWVPM21SSjdBS1NSbkNtckpNdUd0ZjB5V1pkOTVLNmNMZHg1VjU3OXE2Mm1nbjM2UlVtcXcxdWtlTDA4ck8zU2FwaVhma0ZBVW9WdDBHbGs1UklnMzd1WXhBeGFiYzhIMV8xQ3FvLWlWY0ZGSHIzZUZoTS1VWF8wOW9tLUZfVndWQjNKTkZrVEc4SnJ4ZXBJN08",
@@ -84,7 +110,7 @@
         ],
         "published": "Tue, 06 Oct 2026 21:51:09 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-10-08T16:44:09.755580"
+        "fetch_timestamp": "2026-10-08T21:46:13.635380"
     },
     {
         "id": "CBMiqgFBVV95cUxQVG51a2d2Rmo0RUNLVF9oVWxRRFpxdmJ1UGlwNmJ5OVcwNV8wOTRFbl9QNHc0UkNKaDI4N0J4QjNkVEMtcVVNbWxqUzJ2QUlYVlVQMjBCbkJlWWVzNElERTR4N0FHNFhBUEdxbzJHbW9uY1Y1c1BEbnp3U0g0LTN4NzNpcURlNC13TkJGQXFlQXQyVUpkMmtvOGRjSXdLYTFpaGZzaDFsX2ZDd9IBrwFBVV95cUxOZWtUd2dHSktfZUtxY21DQ1ZXT0liSlRYRE42VUlZUnRRelhaY1l1NGJCUDladWppZ19hT3lCNUN2d1BXSUxURm5VaFdYamtIRnhFZGx0UnNBN19uOGFySnRiR1hKRUhrZXdDdTdEc1VaX1paZXlPZVd2cDJrUFA5Y3I1blhiWGh2X1pWQk9kcV8wcUdDN0tlaVMwSGhlSEcwQ2ZrdzBlZGt3VzhtV1FZ",
@@ -110,7 +136,7 @@
         ],
         "published": "Tue, 06 Oct 2026 19:18:14 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-10-08T16:44:09.756577"
+        "fetch_timestamp": "2026-10-08T21:46:13.636330"
     },
     {
         "id": "CBMinAFBVV95cUxNUGp0Z2pzM1F0anBwMkp1ZVB1eF9iRHlKZ2ozMEJZeTNFYm1vVUZMc0tVSWRZeEhkVjhoYmVTZi15eTU2WEtNWmFtUk9nOUw2eE9mc2xOekl5Wm9qS0pxSDBramZuZEkwbkJYUHR0QlhHNGs5LUZzRXNxaFBLdUxtV05CZG1FV1BmNnJGS2RMeHVyeEJZam9BdFAwUkM",
@@ -136,7 +162,7 @@
         ],
         "published": "Tue, 06 Oct 2026 18:36:44 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-10-08T16:44:09.757136"
+        "fetch_timestamp": "2026-10-08T21:46:13.636798"
     },
     {
         "id": "CBMisgFBVV95cUxQcWlWVlZsTWhOQ3RGblQ2eGlUMlU3a3lkUHRfRWdYSHZLTU9ET3FrQU1xcUk0cjNfaTZJNVZERjNqTmFMdkZfbmU0UjlQVVNsX2FYeklkOHM1dG51SmtaNnc3VWJiNzhrWEFoQWt1SVpFY0ZUaC1FcFZpYnM2MEZ1M3pjdFhaWFgzNDR4MVFTUGpqSHB3XzJKRlFycHZNYmNRT3RCamdyWU8tVU1iQnd4QTdR0gG3AUFVX3lxTFA0WE5SSTVKai1BRlhJczRBU2QteXVWMFlxMGZEWEIzMzF1MDc2bGhCZkk4UW83Z0l2eFVyLTVoRWFudTN3N1lwcDhVemtuejYzdlY0SVRqb1BYV25JZUsyZmJKSVlVcVBYZFNHMU83NGJMckp6MG9VUzZpSEZZMXUzYWIwcW1zamZ3Ym5QNGRpMHJ5SHMtOVpFSThNN0V6c3BBbG5CRVRjYlBnY09EeEhPRkFObTRxTQ",
@@ -162,7 +188,7 @@
         ],
         "published": "Tue, 06 Oct 2026 02:28:17 GMT",
         "source": "fundsforNGOs - Grants and Resources for Sustainability",
-        "fetch_timestamp": "2026-10-08T16:44:09.757775"
+        "fetch_timestamp": "2026-10-08T21:46:13.637348"
     },
     {
         "id": "CBMijgFBVV95cUxOdzJBOWlSZlh5cmRVTDJydmVCMU5kWmptUHNGbW1zTW92c3BOSHpyaU80MUc4UnY5aE1qcTNRbHUzd3dxZlhiaTZheXR0Vk9jRHJmaE9Ddmg5a245MldlYlJ1QTlwRUNjZTVWVm9mNV9ycFBjc3loZDBKSEdWaXduQ2duYnpKaEw0RkFwZkxR",
@@ -188,33 +214,7 @@
         ],
         "published": "Mon, 05 Oct 2026 22:27:16 GMT",
         "source": "Roya News",
-        "fetch_timestamp": "2026-10-08T16:44:09.761104"
-    },
-    {
-        "id": "CBMitwFBVV95cUxOMWMwWXhvSnNobjVOWDBrVmZtU3E4TEZwbUdBaFV5Mk1lMktEN2sxbGIxVmYzbjFKTFJwcENPcnhISVI4MlktNTNfODdqdTl3YlhQWkd3S2ZTU0xGUFZ0Unl1OF85Nlk3SHhZU3pVRlp0UlJIanBlamVZYmlQd0NsVjNuelVwa1RpMTByeVF3UUJkbHhfLWVJLUpkZlZ3UWdDUDNRUENiaU5WZXFYQWhfWjFlM0ZPZVU",
-        "title": "Irish citizens on hantavirus-hit ship being flown home by Air Corps - BreakingNews.ie",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWMwWXhvSnNobjVOWDBrVmZtU3E4TEZwbUdBaFV5Mk1lMktEN2sxbGIxVmYzbjFKTFJwcENPcnhISVI4MlktNTNfODdqdTl3YlhQWkd3S2ZTU0xGUFZ0Unl1OF85Nlk3SHhZU3pVRlp0UlJIanBlamVZYmlQd0NsVjNuelVwa1RpMTByeVF3UUJkbHhfLWVJLUpkZlZ3UWdDUDNRUENiaU5WZXFYQWhfWjFlM0ZPZVU?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Mon, 05 Oct 2026 18:49:00 GMT",
-        "source": "BreakingNews.ie",
-        "fetch_timestamp": "2026-10-08T16:44:09.761746"
+        "fetch_timestamp": "2026-10-08T21:46:13.640786"
     },
     {
         "id": "CBMiwgFBVV95cUxNeDkwRlRTc1NHU19qaDI0X3lvQ3NxR0xaSF9CVG1rYmlzUUZtWk01NGJOSDZ4Mjk1ZTFrdVZlclFyUWtiLWdNNC1pSHlJekx6d293RWlDNnBKZE5tbndlWlUtS3lPcEgtRnJMeDdNVmpUVkh2TkZ2MXpCS3psT3NfQ0ozUVlUMGhQR0x0QjVCRG82eUZqOVBmbThmZ1k4al9Jc05BbDdpQzgzbWJFWFVXMk91dzczMEt5NFNkbEZodXljUdIBswFBVV95cUxPbEJsWndNMlljMTZ0bTZJa0IyU21Bbk1Wd3RZc0VudXBDV0NSUXl0NXdGb2xLUmFLc1pLM3hVSlJmbEJvTXpDekNQM3JOR0VLb3ZZdGdTaWd3ZUVoRTV6cXZkSGk4MU1iN29HQklpZVFSbFdGNHh6allMZ2RDcTlmZWVHOHlKSjdrOHkxZzZueklXQVJZZkl1WE9MVGRhR1o1X09JRGhDNGNQeXM1SjFIemxwZw",
@@ -240,7 +240,7 @@
         ],
         "published": "Mon, 05 Oct 2026 14:20:14 GMT",
         "source": "vijesti.me",
-        "fetch_timestamp": "2026-10-08T16:44:09.762435"
+        "fetch_timestamp": "2026-10-08T21:46:13.641444"
     },
     {
         "id": "CBMiogFBVV95cUxOS2xvV18xWmF5QmJLLXZMTklYQ3Y1UFFsZlMySU45d18yd3lRaUROSi1wdlJOalVMSzdMVV9oRk9Ga09HQmpTTndLMjZjSGlkd1kya0dpcnVuYVdta2pISGVhWU8zS0tRTTRtME93ZnRBWE5CeHl6di1QUUNkcklEbi0xenBRdHFQNlJoVEljVVVERndIeU9NYmhUWXVEMUZ4d2c",
@@ -266,7 +266,7 @@
         ],
         "published": "Mon, 05 Oct 2026 12:02:15 GMT",
         "source": "GB News",
-        "fetch_timestamp": "2026-10-08T16:44:09.763140"
+        "fetch_timestamp": "2026-10-08T21:46:13.642085"
     },
     {
         "id": "CBMiowFBVV95cUxOam16NkdFTjlaNVhrSjVILWEzTk5SU1F0T2h6aVlpRzJ4TWhXd2dPTm4xUFlpWUJEQ044Y1ZhNHZnaE83ajVjREtocTNBa1U2QVBVX2hCdEEwX0VOaTBuYlFIOE1sd21OSjlfM0dYYkFMZzk0cC1wSHJSWFZOWUV2ZWlxV1NoLVJlWWxITGxlQ1dHWVlMTzNFVzRwVTRyTGRLRW5V",
@@ -292,7 +292,7 @@
         ],
         "published": "Mon, 05 Oct 2026 07:00:00 GMT",
         "source": "RTL Today",
-        "fetch_timestamp": "2026-10-08T16:44:09.763780"
+        "fetch_timestamp": "2026-10-08T21:46:13.642616"
     },
     {
         "id": "CBMi5wFBVV95cUxQN05TMFdBTko2cVItT3ZhRm0zWHBMeEhVeFY4S3NDRkpMMU9HUmE2N2hFZmRYRHVfM3RQMlVRSDU4VWFPNUluLTFNSHR2aTkzRmE4bWVndHNRX0VKZVRPU3E0N2ZfOV9NdUtPQ1hxYmV0NHdCZ1FMM3JjSlpWRHpEWHczcGFvdEQtZlgteVlGTjRBUGp1M3dUQ0gzNHNVaVlNWXhtRVVzanpZa0R6enpCTUFhXzBtM21qNGNOckZOalYxU1dXZjdjYjRjLTBScVdLaXZQWDZBRlY3RTFWSDZ1aXk0NzNwY2s",
@@ -318,7 +318,7 @@
         ],
         "published": "Mon, 05 Oct 2026 07:00:00 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-10-08T16:44:09.764573"
+        "fetch_timestamp": "2026-10-08T21:46:13.643361"
     },
     {
         "id": "CBMi2AFBVV95cUxPUzNJZU9nSDFub0hNVTlDaGN1WjQyaENWMFhkSUZfaTFteEd3RktTNVlLMF9kOFRNcW1KOUJFeXJ5RHZMdnZVR1FnWHJBdmJuakJpTmUtOHl0Y0Ntb1FBa2lqTU9KaExuZDJsRS1PeGJrRHptRGQwdXFTR1dNc0RWTnM5X3BwTV9WTU5IZlFtZkJpQXdQZWRhMmNSWFYyamxfVlVjNjZweXBUbkx6a1ZJZFJGZGNVNmN3TGdLcHpNRDF5TEI0LVpkSVc5VWh1dHU5bnM3d1hsN3rSAd4BQVVfeXFMTXNKRHJQUHZvMmZpb0NmNlh3TU5pUV9vbVNBWldlRm1qTXF2VUFjQm1aUkprOXZEdEpreHptNmpiMlRMU1VmRXhMZzdsZzFuUXd0V1BGVUlqQUJxRnJYLVlRTXZHUC1rTV9GaVAweVktZURuZldyVXhmUUFESnJweTZpVGM2c3BKRXdsZGQ1bnVRNG80blRnTDdQQV9DcjRDRjRxVG8xenhtSmwzbVpqSE9nSV9VTHlPYW5HNkRpWFlKXzFhZzJwWXBydWIxX3VNQndFU0dvWld1MThCYzN3",
@@ -344,7 +344,7 @@
         ],
         "published": "Mon, 05 Oct 2026 00:45:52 GMT",
         "source": "Medical Dialogues",
-        "fetch_timestamp": "2026-10-08T16:44:09.765240"
+        "fetch_timestamp": "2026-10-08T21:46:13.643946"
     },
     {
         "id": "CBMirwFBVV95cUxNaWhtRWhlSFRkVW04MEFyVzI0VWxKYzZJOHNVeVIwdWJ5N2kycGJhblNweXpmbVo5WTI3QlpaYjFHOHRwZFVqWGVBckRYRkF6cUxFWFFidlZ4V2lldUg5cXpOSWxiOUtvS3dNNUJPOGd0MXVZczVONmpSX1Job19qRGZfYVkyYmhZVHYtM0tjbXRBYkt3Q1FsXy10VG5NVmpPN0lxMnpBd0ZYQkVwRndz",
@@ -370,7 +370,7 @@
         ],
         "published": "Sun, 04 Oct 2026 22:17:08 GMT",
         "source": "Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
-        "fetch_timestamp": "2026-10-08T16:44:09.765938"
+        "fetch_timestamp": "2026-10-08T21:46:13.644572"
     },
     {
         "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
@@ -396,7 +396,7 @@
         ],
         "published": "Sun, 04 Oct 2026 20:37:00 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-10-08T16:44:10.984053"
+        "fetch_timestamp": "2026-10-08T21:46:15.193493"
     },
     {
         "id": "CBMisgFBVV95cUxPYkp6aXJZRzEwWl84MkU2OG96NDVwM1VzOGMyWnd6NFkzSWw2LUJPSHRYR1pvX3RValNFNVBnZl9pbHQ4aFVCUTFxVWliT1pzcnBSZ1g3QkxFdE1nSnBDRVNUUFI5cUJscjYxTjJKeDdPbTNiSjFDbVVDWDNiSzE5X2dzOHhYTXZ5TUNSQjlma01XN28xcmMwcS1GVVcyZ0RDcGdzWjhBODZCUlJlZTVXUjJn",
@@ -422,7 +422,7 @@
         ],
         "published": "Sun, 04 Oct 2026 14:49:20 GMT",
         "source": "Philenews",
-        "fetch_timestamp": "2026-10-08T16:44:10.984758"
+        "fetch_timestamp": "2026-10-08T21:46:15.194207"
     },
     {
         "id": "CBMi9hJBVV95cUxOc2I2SVRWSEFqMkFqQ2tmMlFUQ1k2dVBSZWRrWlU0ZW1naks1dk1kNW1zLW82UGZFNmR6SHZuLXZNNlJMeWFEbC00MXhWT0JjMFlteklCcDlINmJRT1NMMHRkaUQ4RURSVDBpNUxmdDFHVU5majJoLUlxeUtURjV5SkwxdW5ybC00al9Dckk0ZnN2Z2hLWXNmdlQwbGJ4U3d1OFk5T1Rzcl9ROXlnNnhhdS1rNXhFYWZZZmQ4NG9NN3FaZl9IOU1PeTVzYk5KQ0lfR3lPOXltSnVZSGFnZFlqc3ptYmlmbXp1UGd3RERjZVZnaEkwRlQ4X3BYUXhDS2ptajBqam1JSzFCTjRlZXZKUFlCbnFQWlMzTUpZb2s3UzR6V211cnJpX0s0NlVwN3AycTE1MDM3bEZFWVJRclI3ZUNoRWJGMzdwOWR1YzVxX0Z0X2daVHpJTDhWY1BvbnJsN3p0bmhuR2phbHlNcU1Za2dkd09QNVZXQlBWNEt4eGhJa0JUeUdPV0NEc2NMcEhOenZhZTB3OGVid2tLTTV2OWF3azdJcHU0WEROLXFySVFlSHRlVVBpNUJVcnhMX3pvZlBLOGp2Z3d1bjZfNEh3dXRVaDRyUF9sQ3NZa0VyVTNCU0t3S1lfMVhVQ2c3TG9pYVFETjFGMVlRaXRXTXJacExMYlFKWTN2WElXWDVnNWNsdGNES0NNWjh0QkotTW92OFlDbkdfUy1PeE9rU3g2YlVjVTlEZTQ3VzRiZURrWmR3ZERlcGo5a0U2SzliTU1wdG93UTEwbkhSR1ZWeERYbXpWN2w5SXNLRlp0UC1mXzNSUHk0Wl9kb2JoV1Q5YUJMdzB3Zm4zQ2p0aUs4M2NsUmF2ZjhVZS1FREpiRl96eUxGWnBMSEdMSnZ1RVJFb1J4UWRtVHZUc0VhZm1yeVdBMXpZekNpYk1JOTFCNlB2M0k0eERUMTZQTWpmcWg4Z3dvSm1vOEtiLWhLZVdVbHcwX21TVmxQbjJHdkRXWEs0ODFtMlIwNzBVNHJ4ZnpwVkp1RjRSMktDVlBfRjZNWWR3QV9aMjFuY2Z0UnJ5dm9weURMc2YxMXVaRE9uaTJkQWlYRldWQllBUFphWkF6cTdtLWZ3TXROM1EwTzVJdlRyT3VPS1FMSDdsWGZ1Rm8yU1VEclNlNmZjU0F5SC1xN2xQYnNQd1NGSHpQck8waU5lWmZwQ092aHhOa1RnOTA4b1dFNzFPU3k1V3pEVmhRV0xWLUVNeHNGb0lyREFpeG1yM3V2Xy0ycFAxQjVqR3k0RlZkZVdKZDc3a0FNSEpIQXk3TmtydGZLSjdZMVBCODVzeUhRdVB1V09lQmxHSVFwWnBodGVqdUtDck5RWHNERjEyRlBWR256aFNWUnNSNTYwb3ZXTFlLSjZLVWFMMEI3NUxUR1RlRFRqbjhWVFFwSGpiQU9LejRwc0VWMGFrbUgzVElraEhQTHA3bXd1XzZLMXBFMDlqaEJGZ0hWLVZ2UEx3bFVMQWRTV0Y3VFRYVm44TndSQzg3dG1TX2RYRjdhRTRpbU80eFZhdjlncm5RTWptajh6NnVqWWE2SU40aEpCRHN4clA1MUg0RnlHRERIb25OTVdsdW1sRHJyLWRFSTFvLUE3MDN6Y0xScXdSVlpjcUl3U2NFVHRLOFdXMDloeTNscXFLU0I1VDk1V1NicHpISWVDcEFVUjhkWWtUbUVTdWhPS0o0MTgtZ05WU1VPZlNLVk1XWXhNbTZBOWQyZjJFMXJUdkpKN1g2WTQzVW1qZ3A4TFduT29WSl8xUFhNd1NLWUhtQXZWMUQxV2xmc3ZjNy1ZdFhXQWM2b0xKM3BJT2lhbzctd1RmNnVrWGFlM1lfTDUtaHdySTA1dkNrbGtOTW5DUndyZWtSYnVveFpaaWxUUWFZdVBFQU5YTTV5RGZIdUFsanRNeWZpQVdEWFJZS254MlF2cElQY1lSN2lwT3QxcGwxZFdmdEpnUDV3LU1RdWtyZzBzOHdhcHhVUHJ1RkhjTUNnNmEyOHM4TVdDMnZYc3otWktoLXEtbFVOTTlPQjZhS1JwVl9faG1jdlctVV9IMGM1MDYzaVp3azBuVEFyOGQwM1o1RWtWYTZXY0ZqaDRiQm1XWmgwUzdOZWtMMGtlb0VaZzhUd0VsTldaeFJEYUZlWE9XYmpWd1g3Vy1ReGkyNUViLUx1UEpoTG15bWlMV2dZckR4UkljdEltaXEybmcxMFhUM3dJZGtMelpKbmFJMnV4b2dCYUFndXBUdFAzbjlYNFhDdXRuaVBBRkh0NjRHY3cxS2podjBubVdrdkY1S2U4MkVzZktPV1J6eUphNzdnY2RYZERWMW5LcVZLZGVNal9EZGhBV3VrOTF1RzBlbXVPWHpCdjRFMXcyZ3ZKcHNfT0RtTk15UC01VjBLM1J0YVlmdUpqZXQyajVfZWRVNVhtSFFuQzZHTnZyeC1qdDFUaVZGbS1YeEVjQWtGQnZ1ekd0Z0JORTN1TTBpdVNKVHYwUGpxOGwxU1pEalZUM1B1WlUwYWtTdVZxU0hUSy1sQXpMSmwySTBWZHpJR2xGSDVJZ2R5eWVNNHZXeDlfbUhzc2RIcGo4d0pJcl9pajFnLTBLb1Jqa2otVmdHakpWZlpselJIZC1SYml4dUNEdjFRcXcwSktuQUM0azJYOTVpcjZ6NE1HMGRrbUlRRzllZlhiYjBMOHFDM0pKc1VWS0J5eEdMUFpVRHVaTjI1bW1IcE5XMTA0emMzcm9MUF9yZ1ExeFV2NDNSN2xRMmNaN1pabFRLNFR5b2lfUzUtZ3c2SEJJWkZyQ3BXQWtZWjhsUFA0Q0NiZFAtZFc2V015dFFuVUpsbFJZcGFveE1wTmxYM1lKMFVtZVpaOWpWdEs1Q1dKN2lVck4zTllCVHJRSUVvWHdZaHVoQWpGYlJqRHVablFOcjlDcHdVeTdwODIxcl9QOUIzTW5kN3RKNE5vNGRhYVMwWEMwTXpUeHc4V0dVQzdYdm4xZzA2TFV0djJkcnBiMFlFS0c4R1JCSzBrdm43UjNhSHFBU2VCZUFzUnNDT05JdF9SS3N3SUUxYlFseDNqUi1MZEwyUFNmREZCdFhwYjlUNjlVbzNPdEFWSkRId1dBa19RMVo1cWpRZ2tUR1ZnQjN0MjluZEM3WE42NFFubklWQk83dmZ3aDVHRUgzOGt2Y2pVSlNKS3FzZE9GOFR30gGqAUFVX3lxTE1ycEo0OEZTN0tTUm9mUmVJYUphZjR4d2lmdU9RNU9jMDg4UTJVOEdKZklWRjVKdkxYT0hyOUxUWEcwVTE3eDlsZTBELVFkV2h3VzFyVHZWSUJBQ0pSekxWOUlRc2VzRUZvblNDZHk1NV9Dd0hCRTBlVVA1TzFGQ0kwUTdMNkN5aFBoTUJOSjRmQk9qVVAxMnN1Sk90Z0k3MjdrZnQzX21xRzl3",
@@ -448,33 +448,7 @@
         ],
         "published": "Sun, 04 Oct 2026 03:52:36 GMT",
         "source": "ABC7 Los Angeles",
-        "fetch_timestamp": "2026-10-08T16:44:10.985476"
-    },
-    {
-        "id": "CBMiuAFBVV95cUxPWU91NjNsYzdTS2ZQR2ppQ2dBWlcwRWlURnNxNTRmd3hvVWRuQzlwZTk0MFItVWR0UGlCMk42bENpS3ZWeGRFTlkzYW1xMldvSGYwLUk1QTdhUGRobmlUQ1MyUG13SlR2QVNIMW0yeV9udXhUMU5Ha0F4TlV4dGFzbjVmdXpBbkVKVktDTUFwYkNXZXJudHU5TXVLaE5hcTlYNXQ5QWlsZ3N6dE1iTmJsT1NZRDBHZUZz",
-        "title": "Two more hantavirus-risk cruise passengers leave Omaha quarantine - The Grand Island Independent",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWU91NjNsYzdTS2ZQR2ppQ2dBWlcwRWlURnNxNTRmd3hvVWRuQzlwZTk0MFItVWR0UGlCMk42bENpS3ZWeGRFTlkzYW1xMldvSGYwLUk1QTdhUGRobmlUQ1MyUG13SlR2QVNIMW0yeV9udXhUMU5Ha0F4TlV4dGFzbjVmdXpBbkVKVktDTUFwYkNXZXJudHU5TXVLaE5hcTlYNXQ5QWlsZ3N6dE1iTmJsT1NZRDBHZUZz?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Sat, 03 Oct 2026 06:54:00 GMT",
-        "source": "The Grand Island Independent",
-        "fetch_timestamp": "2026-10-08T16:44:10.986087"
+        "fetch_timestamp": "2026-10-08T21:46:15.194892"
     },
     {
         "id": "CBMimgpBVV95cUxQVHJvUk1hTXF2cFdMZDRJSk45cWJxTG1nR25OWi0xMGNUZ19BRzhBSy1OMk9NR3I0M0ZiQ0gtajc0UkE0X0g3RkVsMVFfVVFIUUtmZktSbktUMUVFSW5SZUJRS3hXbVNuOGRoODZiQW5sbDZBSk1VT0dPWExlZUdSMnFqSDFySHFNRHo5LTJNcWU0TGZwbFdBN2JGdk1pYUZCTi1rLTYzREhkVFpRdE92RXNBdXRtbEc4N0h0cS12VXQyaEJDMGRoaW1XaWRXMmwtMHdVRlpNdnNoYmRhRTB3TDVNbEdhVFlCcG5zSG9EbDZZNmRaZmZWLTVuU1dwNncwQlkyd3hfZG9OeEtld0szNnBUcUF6ci1nQTJSUFZqZXVfV3VpR1E5aVFhMy0tSzlfbTVVMWVmemJIUmpQSVhOak9Ic29fOExwTXpyUms0ek1qWXhtX1N1bDB5R2NNcll5RWhUYVBKVDhHd1ExaWFYSUVoUnBRV3E3YVdsWnhKS0xZQnhYTXVmT0M0TWplaHhEck9jM0stY2hBZ2RCczBvb2NfZS1LeDZEazI1X2JONnJHVExIRzktYkdKMGxMcUJSbnVGb0d2WFNWV1g3MHY3MkVmQXZ1VmprbURzV2FBOTZwZEFoVkRIN0tNV24wQkhCZTBEaUs4azRlSi0wX053TXIxS2NxcmJtWXNrVmRua3lWSnBJeXdDWndhYmNwd3E5cTlxd2MwcTFjWVhIUjdPczhPejg0YTZrT0FRWWdLNE45NmxpckVFUU5Rby14UFp6akdNQjB1ZkU2bUtMRFFlTXJGZmwzbG0tbUJ6ZVNEMWRpYWdzU1FGMzQxRVpLUTBFX3Rvd3g3NVJRZkJPUHF6MEdNNHhnM053Q1JDNW55WmdpRm9xcnZIVGpsNW84OEM1elNQNUJKN1Nmamo4aHIxNHQxd3ZWYmxweE1hTnF3bGhZNWR6N2xSeHppWHRuV1RHMVg5SVFPWkZYWXFCUENaQ0FuMUM1cXJnSVBndXpneGJvNTQ3TkhUZmgzNnNGOGc3Y0Y2QXRab3N2YTJ1U2J4SWRFUUVTTWE5YkRxMmdUOWR1ZUUwWTBHTXRwV0x3Nm5oeWlLOVZRbFZfMDJQVnZYOC1iM2ktd0dBN0ZaVTZXVlZrOWNuRUVFRHhwZlpYMmZhaVNWRWRyVGpDQktnOVhrOGlBdUNjZzJ6NVBHaTdiS3lFQjVVTkpqdjNJaVV1OTZvZlJtRnlJWmx3eWJ5N1pkSldGT0FSTHZzbEFYU0UzOXNCQnNkVE5rZng2aE5nRlpqNXpvTzZKTUVGY3BVQXdWSWV4dmRubTJDdE04SE5pbllRMW1YbklTbG01OVlGSjE2a0w0dFlWaERibkw1RVQ4aUo2M0VWdG5GclVBMlQwYkgwTm55N2hYRVU5dVFIS2pNZ1FxZVE3bjBwaHhhMklZc3V6ak91dm8tajhxNkVmUk5EUjVtS0JwakFXWlVEd2JCTFVDSTRFQy1iZGh3UnZtQVZraWJURFpPV0lma1RVZjMwaXQzUi0xN2hfbW81SzQzSUJXSWwwTjYtZHE1MVlTRm90RkxIR3pxNjBHb0o2SnM3Zlk1Nmo1R3VvNS10b29tOVNXMnBidG00VFp5SWpXWGlnTDQySTR4R0ZjWWdiUGZ4UE9IWGhTTGZnNnRYSTlkU0hONWpOUVJMNHVZZDY3N1RrS3EyTXgwSURrMnFxaFZWcDJZaWZFeHVR",
@@ -500,7 +474,7 @@
         ],
         "published": "Sat, 03 Oct 2026 03:33:54 GMT",
         "source": "6abc Philadelphia",
-        "fetch_timestamp": "2026-10-08T16:44:10.986787"
+        "fetch_timestamp": "2026-10-08T21:46:15.195529"
     },
     {
         "id": "CBMivwJBVV95cUxOM1R3WS1PcHVhWXVYNmxSX3RwMml5bk12TmZBdXBrTU5ma245Z2FjX1dCUkFYOXpEa2ZYbEJyUHVjMm5UVk5lMlZpU3VZWllsLUV6eDFvTUVkaWVzNWNfcnZsTnVkTHRYYTlTVHZoeHZTcVdmd2k3Z0F1TURvWFYxTXR4RkRwNHFBTk5EeXZ6LTd1U0FQUzRGZmpmQW5nWHNFZ2M2NzhSZWJfR1FCdWduejljckwtTEw1ajBqaklNR3dNalRBM1d1LTNLemlTQVZZXzMyX05rU0ZEYzRwZHd2eUFKWTdQRnhIdHJtaXV6bWFUUDQ1aXlPUDlmV1FJM0pZa09TaHdwLVlJdHB4QWlFUE9sdFY4QWI3ZVl4d3hWb0d6SXJHWjNSeDZfOUhGeU1rMy1ERmR1VUJlMjNYRnEw",
@@ -526,7 +500,7 @@
         ],
         "published": "Fri, 02 Oct 2026 20:04:06 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-10-08T16:44:10.987582"
+        "fetch_timestamp": "2026-10-08T21:46:15.196334"
     },
     {
         "id": "CBMiggFBVV95cUxQbnVxbjZ0NmUxN2E5dDdRRGlTbDhKUmhwMG9jQVZ2YW94ZVBPenlfc3VSZzQ0dnpXSFphaDhyWWRyR1A3TUVDdVNQdGh6bFRXT051X19WeGRtTWxYQW1QZnhacG00NnhyTFo0QnNlcDlja05sYTdmZF9adjZmX1E4Rk1R",
@@ -552,7 +526,7 @@
         ],
         "published": "Fri, 02 Oct 2026 16:34:20 GMT",
         "source": "Unisba Media",
-        "fetch_timestamp": "2026-10-08T16:44:10.988257"
+        "fetch_timestamp": "2026-10-08T21:46:15.196943"
     },
     {
         "id": "CBMia0FVX3lxTE9EZjhpNnlBMEVkYldxbHhfQm5VTFdnWDIxVHBBQjNZcUwyck96Sl9UY1V3NzA0NDl1ZDZlbkhrOVprYUZjWXhIYjN6Q0tZSGJYdUFpcFJOQ182WW5GQmFPOWZlNjZYWGd0eFNF",
@@ -578,58 +552,6 @@
         ],
         "published": "Fri, 02 Oct 2026 10:36:00 GMT",
         "source": "weekendargus.co.za",
-        "fetch_timestamp": "2026-10-08T16:44:12.939008"
-    },
-    {
-        "id": "CBMi6AlBVV95cUxNSTdVRTQ4TUI1UHBCT1RaM0N6YzRjUy1pcVpsYmp5VEZDTndPd0REVGg5YU5fWWp1VGVNb013NjlUcWVvbDJ0Vi1YN0lCa0cxbkJkT05Sd2hxeU1VRnVwWWZibTZBNDEyQ1JOMkV6X1djcHJiUFhYTlVrbDMwOE5jZHRkMkN4YUF4TWd1cUUxd2ZfNjc0Q0d6SjVKYzlnVklMbUlzVXBtSnAxRTlhbHcyVkMxUDBRWTNoTmxjYl9JYmx0T1RISWlVc0hRYVZxZ2tuelNXOUYxNERROUpRQ2ZmVHlZQ0lVbkxhUDJZNlVJOFhfbDdMREpRNXhRWnIwRXRzdi1DQjV3aDFiczVqdlMwYTIxcEJyS3V0Mm1xYWgySkZBT1dYejhRMllGU3hiMGRRNW1pbnhtTzFJOEEwM2xTVmQ1TFgyLVdoYWNxLWVfZlJEeHFhTFdpT1pRWXlhVFBsYkt5RVE2Q1NSTU5icUNQY2FJS3BVNVNEMkc5YXRPTFlPMjFaeUltZV9jdjF0clI0VFgxazhaWFE2eW1pZVRISWtEMXNjU2JFSURVVjVQNFlLM1YzM0VBYzNxbHYtMEtYLUhaODllUU4wS1p6UFY5WVF4RXRsSG5hM1g0cHlQUmx1R2hMT3hlYU55R19pSzNPTHB2UUhTM0tHMEZZbGh3OEh0WThoZTM0cmw4WFNkQWxiNXA1Z216UFF4VmxkZmVzZFFYMW9KT1o0Tl9LdnZSM0lBZl9MQkd3N0o1aDJMVDdEZGZncUFQX091cGlpTHhRaUJjOUJmT0NxOWNHa09Pb2xTRXhTTHlmdHZHdFE5Uno3TnRwLUlhd3J4bHZMak9LUkR4MlVHaWRWajVONjE2MWRSLWhocFM3bmlialBkQkJBUWZUdnp1TjZmUUg0VVpybVY2cmNZd004VGNLLXQxMHI5ZW5NREdZR2ItemlhWFpvX1VyVmFvb2o3NkVqekhQcHpKWExFSmNxTEt5SktmMGFYeFpKaEYxRWpQMDZLbGNVTnNKNWF1RVNYdEtXTUN2el9QSEFrVm54YkZzTUJxclJtdjBTdGxWSUNXX2RjYWszY1FLaHM0X1pWbEZ3dXpuQWVwSVpydUhUd3hIUVVJbXRmVHVlOEthV1lkSFpaYUZodDFKSzAtR04tSTFlWXFnWF9GcE1xVTFLUnJINzU1NDRXek05WGxESUpCTDhnNzRGRmJjZmdIc2JUYnVqVmQyMmNZNWptRm9RMEhuMUNWMDItaWotbmEya1U4SE5SMElPWjEzVDB6b0RIVk1uMVp4V3ZpZDlrLTZGV1R0NXJfQ3NHeGw5Y2tWS0ZKaDZTWEhRMHFBQXZxQ3JybGhQWDU1ZUlWRTBNc3pHU2ZhX0RWV2hEZTRCLTdMcjJ6b0ZYdjBZVXFPWjhhVXpRNFpXdU9uUWpacU8wcTAxb2xaSGphbmNWUDVnLVlRaXpYQWpqM0FzcGRhSTNfVG5OTlpkQ3ZGcDc2NzZPS2d2UlB3YXFaX0lvWTFoWHFHVkNIQ080bUlVYm5TeWpSOW1ZQ3ZGQU1wSWsxRTRJOWp4aVQ3RzkxT2JpUHNlY2x1TEVyVmhRNHV4aHJPZDhZR1V5NHM5Unp3QnFCWm1JTW13a0dpSFN1RzAzYnAwZHN2enR2ak5pMDI0NVNPWDM2NQ",
-        "title": "Confirmed hantavirus cases linked to suspected cluster rises to 5, WHO says - ABC30 Fresno",
-        "link": "https://news.google.com/rss/articles/CBMi6AlBVV95cUxNSTdVRTQ4TUI1UHBCT1RaM0N6YzRjUy1pcVpsYmp5VEZDTndPd0REVGg5YU5fWWp1VGVNb013NjlUcWVvbDJ0Vi1YN0lCa0cxbkJkT05Sd2hxeU1VRnVwWWZibTZBNDEyQ1JOMkV6X1djcHJiUFhYTlVrbDMwOE5jZHRkMkN4YUF4TWd1cUUxd2ZfNjc0Q0d6SjVKYzlnVklMbUlzVXBtSnAxRTlhbHcyVkMxUDBRWTNoTmxjYl9JYmx0T1RISWlVc0hRYVZxZ2tuelNXOUYxNERROUpRQ2ZmVHlZQ0lVbkxhUDJZNlVJOFhfbDdMREpRNXhRWnIwRXRzdi1DQjV3aDFiczVqdlMwYTIxcEJyS3V0Mm1xYWgySkZBT1dYejhRMllGU3hiMGRRNW1pbnhtTzFJOEEwM2xTVmQ1TFgyLVdoYWNxLWVfZlJEeHFhTFdpT1pRWXlhVFBsYkt5RVE2Q1NSTU5icUNQY2FJS3BVNVNEMkc5YXRPTFlPMjFaeUltZV9jdjF0clI0VFgxazhaWFE2eW1pZVRISWtEMXNjU2JFSURVVjVQNFlLM1YzM0VBYzNxbHYtMEtYLUhaODllUU4wS1p6UFY5WVF4RXRsSG5hM1g0cHlQUmx1R2hMT3hlYU55R19pSzNPTHB2UUhTM0tHMEZZbGh3OEh0WThoZTM0cmw4WFNkQWxiNXA1Z216UFF4VmxkZmVzZFFYMW9KT1o0Tl9LdnZSM0lBZl9MQkd3N0o1aDJMVDdEZGZncUFQX091cGlpTHhRaUJjOUJmT0NxOWNHa09Pb2xTRXhTTHlmdHZHdFE5Uno3TnRwLUlhd3J4bHZMak9LUkR4MlVHaWRWajVONjE2MWRSLWhocFM3bmlialBkQkJBUWZUdnp1TjZmUUg0VVpybVY2cmNZd004VGNLLXQxMHI5ZW5NREdZR2ItemlhWFpvX1VyVmFvb2o3NkVqekhQcHpKWExFSmNxTEt5SktmMGFYeFpKaEYxRWpQMDZLbGNVTnNKNWF1RVNYdEtXTUN2el9QSEFrVm54YkZzTUJxclJtdjBTdGxWSUNXX2RjYWszY1FLaHM0X1pWbEZ3dXpuQWVwSVpydUhUd3hIUVVJbXRmVHVlOEthV1lkSFpaYUZodDFKSzAtR04tSTFlWXFnWF9GcE1xVTFLUnJINzU1NDRXek05WGxESUpCTDhnNzRGRmJjZmdIc2JUYnVqVmQyMmNZNWptRm9RMEhuMUNWMDItaWotbmEya1U4SE5SMElPWjEzVDB6b0RIVk1uMVp4V3ZpZDlrLTZGV1R0NXJfQ3NHeGw5Y2tWS0ZKaDZTWEhRMHFBQXZxQ3JybGhQWDU1ZUlWRTBNc3pHU2ZhX0RWV2hEZTRCLTdMcjJ6b0ZYdjBZVXFPWjhhVXpRNFpXdU9uUWpacU8wcTAxb2xaSGphbmNWUDVnLVlRaXpYQWpqM0FzcGRhSTNfVG5OTlpkQ3ZGcDc2NzZPS2d2UlB3YXFaX0lvWTFoWHFHVkNIQ080bUlVYm5TeWpSOW1ZQ3ZGQU1wSWsxRTRJOWp4aVQ3RzkxT2JpUHNlY2x1TEVyVmhRNHV4aHJPZDhZR1V5NHM5Unp3QnFCWm1JTW13a0dpSFN1RzAzYnAwZHN2enR2ak5pMDI0NVNPWDM2NQ?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Thu, 01 Oct 2026 18:13:02 GMT",
-        "source": "ABC30 Fresno",
-        "fetch_timestamp": "2026-10-08T16:44:12.939992"
-    },
-    {
-        "id": "CBMirwFBVV95cUxPTWpHc3RCNlZONngySm00dXFPbVdybzRzYkdhTVMyZGtkbG1nRVVIbEdrczFQS0NHNjBYVmJTa3RaLTI3cFBOWFcxVFpOM1FoeWNXTDJDZkxkblVyN1JjakdhTndzamJveXVuQUVsbGZJNVVIeHh5NFFRVm9VQXM2aHFibWczeU5oZGZ4eGhaTVZhSEQtVmwxdTNaQnNyTkI1Z3FtVDB3YlJHMElLYW9v",
-        "title": "Hantavirus outbreak suspected on Atlantic cruise ship as WHO confirms at least one case - Goodreturns",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWpHc3RCNlZONngySm00dXFPbVdybzRzYkdhTVMyZGtkbG1nRVVIbEdrczFQS0NHNjBYVmJTa3RaLTI3cFBOWFcxVFpOM1FoeWNXTDJDZkxkblVyN1JjakdhTndzamJveXVuQUVsbGZJNVVIeHh5NFFRVm9VQXM2aHFibWczeU5oZGZ4eGhaTVZhSEQtVmwxdTNaQnNyTkI1Z3FtVDB3YlJHMElLYW9v?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Thu, 01 Oct 2026 18:02:35 GMT",
-        "source": "Goodreturns",
-        "fetch_timestamp": "2026-10-08T16:44:12.940839"
+        "fetch_timestamp": "2026-10-08T21:46:17.153930"
     }
 ]
