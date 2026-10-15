@@ -1,5 +1,31 @@
 [
     {
+        "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
+        "title": "Physicians say hantavirus headlines outpace actual risk; three sentenced in Moscow-based $2B telemedicine fraud; 1 in 10 surgeons leave the profession within 8 years – Morning Medical Update - Medical Economics",
+        "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw?oc=5",
+        "location_name": "Moscow-based",
+        "coordinates": [
+            56.7545376,
+            37.2158755
+        ],
+        "location_method": "extracted",
+        "location_confidence": "medium",
+        "locations": [
+            {
+                "name": "Moscow-based",
+                "coordinates": [
+                    56.7545376,
+                    37.2158755
+                ],
+                "method": "extracted",
+                "confidence": "medium"
+            }
+        ],
+        "published": "Thu, 15 Oct 2026 03:07:55 GMT",
+        "source": "Medical Economics",
+        "fetch_timestamp": "2026-10-15T05:30:35.714709"
+    },
+    {
         "id": "CBMivwJBVV95cUxOM1R3WS1PcHVhWXVYNmxSX3RwMml5bk12TmZBdXBrTU5ma245Z2FjX1dCUkFYOXpEa2ZYbEJyUHVjMm5UVk5lMlZpU3VZWllsLUV6eDFvTUVkaWVzNWNfcnZsTnVkTHRYYTlTVHZoeHZTcVdmd2k3Z0F1TURvWFYxTXR4RkRwNHFBTk5EeXZ6LTd1U0FQUzRGZmpmQW5nWHNFZ2M2NzhSZWJfR1FCdWduejljckwtTEw1ajBqaklNR3dNalRBM1d1LTNLemlTQVZZXzMyX05rU0ZEYzRwZHd2eUFKWTdQRnhIdHJtaXV6bWFUUDQ1aXlPUDlmV1FJM0pZa09TaHdwLVlJdHB4QWlFUE9sdFY4QWI3ZVl4d3hWb0d6SXJHWjNSeDZfOUhGeU1rMy1ERmR1VUJlMjNYRnEw",
         "title": "Texas physician convicted for illegally distributing more than a million pills; semaglutide cuts heavy drinking; hantavirus kills three on Atlantic cruise ship – Morning Medical Update - Medical Economics",
         "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOM1R3WS1PcHVhWXVYNmxSX3RwMml5bk12TmZBdXBrTU5ma245Z2FjX1dCUkFYOXpEa2ZYbEJyUHVjMm5UVk5lMlZpU3VZWllsLUV6eDFvTUVkaWVzNWNfcnZsTnVkTHRYYTlTVHZoeHZTcVdmd2k3Z0F1TURvWFYxTXR4RkRwNHFBTk5EeXZ6LTd1U0FQUzRGZmpmQW5nWHNFZ2M2NzhSZWJfR1FCdWduejljckwtTEw1ajBqaklNR3dNalRBM1d1LTNLemlTQVZZXzMyX05rU0ZEYzRwZHd2eUFKWTdQRnhIdHJtaXV6bWFUUDQ1aXlPUDlmV1FJM0pZa09TaHdwLVlJdHB4QWlFUE9sdFY4QWI3ZVl4d3hWb0d6SXJHWjNSeDZfOUhGeU1rMy1ERmR1VUJlMjNYRnEw?oc=5",
@@ -23,7 +49,7 @@
         ],
         "published": "Tue, 13 Oct 2026 22:44:48 GMT",
         "source": "Medical Economics",
-        "fetch_timestamp": "2026-10-15T00:42:09.231992"
+        "fetch_timestamp": "2026-10-15T05:30:35.715702"
     },
     {
         "id": "CBMi1wFBVV95cUxPb1VNeVZPTHRjSy1YNW9LRERZaFhybVJtYkVVVDJMTWQ4Szd2OUx0UC1qYjVFSDM3STZpNEU0b2ExR2NDVTQydG5xOUp2RkhxeExpSEIyaU5RbDRJQVp6cnk4emdMa3l1QTI2elV0MkJ0bGtCTkVoNVQyWUwtamUtd1NmcnlJLTJWcU5UVkVfRzdLanBVT3RiTDRaMnE5NFVVM3pERmF1WU9iN3ZkRjJEYXIxb1l1U05WQXZRZWpJTVhRUW1JSF9CajJidm1OdTA2WGRKajNZMA",
@@ -49,33 +75,7 @@
         ],
         "published": "Tue, 13 Oct 2026 08:36:58 GMT",
         "source": "Turkmenportal.com",
-        "fetch_timestamp": "2026-10-15T00:42:09.233227"
-    },
-    {
-        "id": "CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw",
-        "title": "Physicians say hantavirus headlines outpace actual risk; three sentenced in Moscow-based $2B telemedicine fraud; 1 in 10 surgeons leave the profession within 8 years – Morning Medical Update - Medical Economics",
-        "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPX1Zsc09LTktaQzhoU1V5aXROSnhLRnRtM1A3OVM4WjIxajFkR193UlNHc21oNHdmb2sxYW93amF4TVdLejZ4VFkzRGpRNlNqRElqSTdaT3pBczdSelRiaTZtdi03SjB3T0x0dXpxQjZXbUZWQTNWcnhodXhrVGQxNHhzRHVleDNzclNKcHdjN0hiYndKT01rU0Q5SjQzMDBURFFhRDBUYl8ydEVTSVU0YnNfalc2RVc0YmU1MGloeGlHaUtfTDA3WmVDUklYcy1rTFk5SmVrMjMzdXlZWGk3UF96UDRpcVdxRk8zMjNpeDFpQmVTTlluckFSWGdlcDBHNHpqSjJnRzFvb0RnZVI4N0JnOE5qcldmVU5xb25tV3RTbDRZaUN0ckc4amFmZ012ZHlVNFJMUFowMjRYUmFhOEl3Sk9Idw?oc=5",
-        "location_name": "Moscow-based",
-        "coordinates": [
-            56.7545376,
-            37.2158755
-        ],
-        "location_method": "extracted",
-        "location_confidence": "medium",
-        "locations": [
-            {
-                "name": "Moscow-based",
-                "coordinates": [
-                    56.7545376,
-                    37.2158755
-                ],
-                "method": "extracted",
-                "confidence": "medium"
-            }
-        ],
-        "published": "Tue, 13 Oct 2026 06:20:58 GMT",
-        "source": "Medical Economics",
-        "fetch_timestamp": "2026-10-15T00:42:10.639800"
+        "fetch_timestamp": "2026-10-15T05:30:35.716325"
     },
     {
         "id": "CBMisgFBVV95cUxNYUZuRl9BRXFTTEN0SnVmRGZlYWtsZDNaQUdmTUF0NkNMZF9qanloc0pFSGpiT2NuLXBzeGtrTThUYmZZNFVqcEROSTZ0cGY4Ymw4am1oUmRUREk3YmxxbVdlM2wtak40YVBmUzJLU2JSMjk4XzdVS0xtNjNrUlEzY1RPNE95RlE3dFYzX2NBRGxST1ZhRkJtVmlLekRwZXdLblNQUVhQUlptZDN2UlZuNXVn",
@@ -101,7 +101,7 @@
         ],
         "published": "Mon, 12 Oct 2026 19:30:05 GMT",
         "source": "Newcastle Herald",
-        "fetch_timestamp": "2026-10-15T00:42:10.640648"
+        "fetch_timestamp": "2026-10-15T05:30:35.717033"
     },
     {
         "id": "CBMirwFBVV95cUxPTWpHc3RCNlZONngySm00dXFPbVdybzRzYkdhTVMyZGtkbG1nRVVIbEdrczFQS0NHNjBYVmJTa3RaLTI3cFBOWFcxVFpOM1FoeWNXTDJDZkxkblVyN1JjakdhTndzamJveXVuQUVsbGZJNVVIeHh5NFFRVm9VQXM2aHFibWczeU5oZGZ4eGhaTVZhSEQtVmwxdTNaQnNyTkI1Z3FtVDB3YlJHMElLYW9v",
@@ -127,7 +127,7 @@
         ],
         "published": "Mon, 12 Oct 2026 18:15:29 GMT",
         "source": "Goodreturns",
-        "fetch_timestamp": "2026-10-15T00:42:10.644114"
+        "fetch_timestamp": "2026-10-15T05:30:35.717768"
     },
     {
         "id": "CBMiowFBVV95cUxQem5tV1hDTkFTZ0xRek0wd0oyOW02M2xaOEVlVU9GVFlvaXYtdDNic1dycXY3OVRVbDZldVBEM1RUUDFjY1hiRUlqNlV6UEZCbDlMSk9HU0Z6aURfN3BWWllFcWwyUl9yRjYyNW95VUdDWjF4MnNqM0FMT09ES01tcFlpUHppUktKeDRKOVQwc1k2YnY4QnQwQ2JlUTdFam1zbUpj",
@@ -153,7 +153,7 @@
         ],
         "published": "Mon, 12 Oct 2026 10:53:34 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-10-15T00:42:10.644753"
+        "fetch_timestamp": "2026-10-15T05:30:35.718378"
     },
     {
         "id": "CBMiqwJBVV95cUxQTzdBY0hrV2g3UFBWcjlIdWZ5djI0RDRvY1FPem52WTkwbXFOSHZ3bllYRlFWaDNGOGVrMGI0c0ExcDB5QnYwdlpuLUxxcENvc0Fpckg2endzYmVranJJRkZJOUd2YUF5aWJaQXZ2d1k0aHNDdF9kLUNBTDd3MHppOTQ1ZmFXdi10b0NmS1dSeTJZRHlhcmp5WHhENXFHMjNueEVLUEdjUnpjbnhfR3Q0azItSjFNMzNDWUFkeHhFRVI2LVA0Z3pwRkt4RlFYSkxjSUtwY3RFQWp4SzBVblcteko1c1F0ajRseUtqeXY1emlhRnNPekFDOXBMZXhMQndhX2tvZkZpR2JFNWpabEhOQWUtUWEwQnZ3YlNrNjEtalotNXRXaEY2QmMtOA",
@@ -188,33 +188,7 @@
         ],
         "published": "Mon, 12 Oct 2026 07:51:09 GMT",
         "source": "KCBY",
-        "fetch_timestamp": "2026-10-15T00:42:13.527984"
-    },
-    {
-        "id": "CBMiqwFBVV95cUxOanBya3VnenlXNEprVzFhcGNBN1MwQ0VCSE9rU1dSRHp6THlLTElCZThJb0VvMW9xbVk3cnhYNUFBVTBPWHpkWDM1clBkaTRiNVIyQm0xLUhsYzh2X0x3dXBMN0xPVUtpa3FDQWgyZHFUc1ZNVUtMM0JiVW52OW1tS2ZaeEROeUVxYS1OX2NYcW1JVzBFbVU2X0lsMTNzdUp5azJLNUp1Y3FJNWvSAbABQVVfeXFMUFFXRG5FYW9leWxiQmVtVWlSY1FLd1kxWnFnS0NCMm1Ra0lsUnlxRmVoVmFJazVfSnNzQVctcEYwM0JhQVNBRnNMLUZrRkIwcFh2ZTlNeGxoYU9ic1BLemd0Q3hrMVpzQk42UUlkbENhaTFfZDJhYTRMVHYtbzhlVFdiUWhNNFoxekpOOUJDcGJkYW1oeGo0RW85bl9WZzBaeGpvejV6VGNnbVFKSS1OZlI",
-        "title": "WHO says suspected hantavirus cluster 'is not the start of a COVID pandemic' - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanBya3VnenlXNEprVzFhcGNBN1MwQ0VCSE9rU1dSRHp6THlLTElCZThJb0VvMW9xbVk3cnhYNUFBVTBPWHpkWDM1clBkaTRiNVIyQm0xLUhsYzh2X0x3dXBMN0xPVUtpa3FDQWgyZHFUc1ZNVUtMM0JiVW52OW1tS2ZaeEROeUVxYS1OX2NYcW1JVzBFbVU2X0lsMTNzdUp5azJLNUp1Y3FJNWvSAbABQVVfeXFMUFFXRG5FYW9leWxiQmVtVWlSY1FLd1kxWnFnS0NCMm1Ra0lsUnlxRmVoVmFJazVfSnNzQVctcEYwM0JhQVNBRnNMLUZrRkIwcFh2ZTlNeGxoYU9ic1BLemd0Q3hrMVpzQk42UUlkbENhaTFfZDJhYTRMVHYtbzhlVFdiUWhNNFoxekpOOUJDcGJkYW1oeGo0RW85bl9WZzBaeGpvejV6VGNnbVFKSS1OZlI?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Sun, 11 Oct 2026 03:49:26 GMT",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "fetch_timestamp": "2026-10-15T00:42:13.528872"
+        "fetch_timestamp": "2026-10-15T05:30:38.547698"
     },
     {
         "id": "CBMi1AFBVV95cUxOQ1B5X3hMTG9SSmZrdU9pMWVkSGF4R2JGQnJ0bjVNU1lUNEZieHhOeV9mcU9LVmNDVkp3RDhvNERyVG5vMXNIcjR4d05fc2lta1RXYlM5TEMtRjQyY2t5Y2VPU1Y4VUMxa2tTV1BFb3U3d2N4N3lncWlTLWM3eEMxNFpPREJnNnZReWFQTzItUEh6a3JYMWVnTnpaMHBsZXA4b3lEVGxsRkpyRVdmdng2WHUwU2FmaVRtc2d2VFNzNWx1MkNra0dwVG9XX1V2ZnFxeGN3dw",
@@ -240,7 +214,7 @@
         ],
         "published": "Sat, 10 Oct 2026 23:03:25 GMT",
         "source": "Tenerife Weekly",
-        "fetch_timestamp": "2026-10-15T00:42:18.874120"
+        "fetch_timestamp": "2026-10-15T05:30:43.863225"
     },
     {
         "id": "CBMimwFBVV95cUxOR3pIanZBbENOZWp5WXZkUGEzcDNla1Fhcnp0dkthV0hCOG1IaVNUaEswejJCRzRpaUs1cVpIY3BWV0tZSDNYdVlPQ0k5YzMzS2dpVUpaZldCZ3ZRR0JFNzBhNEN6UzRMNDZOYjN1SDZzMkZBenQwNnRRRVpvQ19rbTQ1MnREbWNQTzdRa2Qxa2VJN2tVTFBxOUxHYw",
@@ -266,7 +240,7 @@
         ],
         "published": "Sat, 10 Oct 2026 08:14:00 GMT",
         "source": "DD News",
-        "fetch_timestamp": "2026-10-15T00:42:18.874646"
+        "fetch_timestamp": "2026-10-15T05:30:43.863683"
     },
     {
         "id": "CBMibEFVX3lxTE8xRkI2c3FkMWluUUwzay1ldHRJenY0aTNlVlplTmk2U0Q5RW52TDBvNU5fampmR296TFY4MjFyVDRHUmlKUzItaFZWUEhvdG82QVRSOWUyQ01ERmRWbTJyWnA2Ti13aXBKZ0JIbA",
@@ -292,7 +266,7 @@
         ],
         "published": "Thu, 08 Oct 2026 14:35:22 GMT",
         "source": "Unisba Media",
-        "fetch_timestamp": "2026-10-15T00:42:18.875517"
+        "fetch_timestamp": "2026-10-15T05:30:43.864531"
     },
     {
         "id": "CBMiggFBVV95cUxNSms5U2Nxc2d1bXZ4VWdXakpKRUpJM1dvYnNCVEpvRksxazN0dUdYUTNJSEFva0tpMURKNlRVdVJXeWxrd0pXSWdkeG1yLVdCSC1ualJrbWhSZ0hlTUg1MWYtb1NkZHd5TU90TG1iZk13dV94dWhLSXhOMEZzV19raEJn",
@@ -318,7 +292,7 @@
         ],
         "published": "Thu, 08 Oct 2026 12:25:39 GMT",
         "source": "Unisba Media",
-        "fetch_timestamp": "2026-10-15T00:42:18.876414"
+        "fetch_timestamp": "2026-10-15T05:30:43.865402"
     },
     {
         "id": "CBMipwFBVV95cUxONW5JcjNaYXMzZDJSbTVOSmZ4MmhvRmJsUi1XNGdOeTY1QWtuV2ZWRGJTaHRRamxrUUg0V0hFa2hwbDFKb1o4RjNwQWp3SDJ6Vkd1bk1XS1p2bUpUSVZjU3VLSHVIcGwyaEh3dlZkN0ZnbFl3eUxZZ0lrUnBwNUFoaGVHRkx6c0dqT3ZVOVhOcXBjS1lJR3locmlMeVN1cnNKVXNLQVJFNA",
@@ -344,32 +318,6 @@
         ],
         "published": "Thu, 08 Oct 2026 09:01:34 GMT",
         "source": "Goodreturns",
-        "fetch_timestamp": "2026-10-15T00:42:18.877064"
-    },
-    {
-        "id": "CBMirgFBVV95cUxPVHZuSkJZYWxjczlYNlc2Ml9jZXd2RC02cml6LXJFX2dtNER3UWUwQTg3WUVwcDEtSFJPZ3BXR0NwMHh6cURtTXp6YXQwUjVSaXFmLVNNUlpfNkppY01kZzU0dTNvRVlyTmxoeGdmNUE5OHl5cTd3QmxCWEZxaWRkeE9yWkN2cWRxNGhFbjA0TWVKQ3haQXRCUzZNbGEtMURfS1pwOFpOcW1uRFNua3c",
-        "title": "PEEC Offers Free Live-Streamed Talk On Hantaviruses Thursday, Oct. 15 - Los Alamos Reporter",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHZuSkJZYWxjczlYNlc2Ml9jZXd2RC02cml6LXJFX2dtNER3UWUwQTg3WUVwcDEtSFJPZ3BXR0NwMHh6cURtTXp6YXQwUjVSaXFmLVNNUlpfNkppY01kZzU0dTNvRVlyTmxoeGdmNUE5OHl5cTd3QmxCWEZxaWRkeE9yWkN2cWRxNGhFbjA0TWVKQ3haQXRCUzZNbGEtMURfS1pwOFpOcW1uRFNua3c?oc=5",
-        "location_name": "Canary Islands",
-        "coordinates": [
-            28.2935785,
-            -16.6214471
-        ],
-        "location_method": "fallback",
-        "location_confidence": "low",
-        "locations": [
-            {
-                "name": "Canary Islands",
-                "coordinates": [
-                    28.2935785,
-                    -16.6214471
-                ],
-                "method": "fallback",
-                "confidence": "low"
-            }
-        ],
-        "published": "Thu, 08 Oct 2026 03:06:35 GMT",
-        "source": "Los Alamos Reporter",
-        "fetch_timestamp": "2026-10-15T00:42:18.877731"
+        "fetch_timestamp": "2026-10-15T05:30:43.866041"
     }
 ]
